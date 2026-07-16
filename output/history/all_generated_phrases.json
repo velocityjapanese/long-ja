@@ -1,0 +1,725 @@
+{
+  "phrases": [
+    {
+      "english": "Hang in there, buddy!",
+      "JAPANESE": "頑張れ、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718828"
+    },
+    {
+      "english": "You can do it, champ!",
+      "JAPANESE": "君ならできる、チャンピオン！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718839"
+    },
+    {
+      "english": "Keep pushing forward!",
+      "JAPANESE": "前に進み続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718841"
+    },
+    {
+      "english": "Don't give up, okay?",
+      "JAPANESE": "諦めないでね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718842"
+    },
+    {
+      "english": "Brighter days are coming!",
+      "JAPANESE": "もっと明るい日が来るよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718843"
+    },
+    {
+      "english": "Keep that chin up!",
+      "JAPANESE": "その顎を上げて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718845"
+    },
+    {
+      "english": "You got this, seriously!",
+      "JAPANESE": "君ならできる、マジで！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718846"
+    },
+    {
+      "english": "Little by little, win!",
+      "JAPANESE": "少しずつ、勝つ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718849"
+    },
+    {
+      "english": "Keep shining, star!",
+      "JAPANESE": "輝き続けて、スター！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718851"
+    },
+    {
+      "english": "Tomorrow is a new chance!",
+      "JAPANESE": "明日は新しいチャンス！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718852"
+    },
+    {
+      "english": "Believe in yourself, always!",
+      "JAPANESE": "自分を信じて、いつも！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718853"
+    },
+    {
+      "english": "One step at a time!",
+      "JAPANESE": "一歩ずつ進もう！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718855"
+    },
+    {
+      "english": "You're doing great, really!",
+      "JAPANESE": "君、すごく頑張ってるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718856"
+    },
+    {
+      "english": "Keep that smile going!",
+      "JAPANESE": "その笑顔を続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718857"
+    },
+    {
+      "english": "Every effort counts!",
+      "JAPANESE": "全ての努力が大切！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718862"
+    },
+    {
+      "english": "Future's looking bright!",
+      "JAPANESE": "未来は明るいよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718863"
+    },
+    {
+      "english": "You're stronger than you think!",
+      "JAPANESE": "君は思ってるより強い！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718864"
+    },
+    {
+      "english": "Just keep going, okay?",
+      "JAPANESE": "そのまま進んでね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718865"
+    },
+    {
+      "english": "Never lose hope, friend!",
+      "JAPANESE": "希望を失わないで、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718867"
+    },
+    {
+      "english": "Tomorrow will be better!",
+      "JAPANESE": "明日はもっと良くなる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718868"
+    },
+    {
+      "english": "Keep that fire burning!",
+      "JAPANESE": "その火を燃やし続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718869"
+    },
+    {
+      "english": "You're on the right track!",
+      "JAPANESE": "君は正しい道にいるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718870"
+    },
+    {
+      "english": "Hang on tight, we're almost there!",
+      "JAPANESE": "しっかり掴まって、もうすぐだよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718871"
+    },
+    {
+      "english": "Just breathe, you've got this!",
+      "JAPANESE": "深呼吸して、君ならできる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718872"
+    },
+    {
+      "english": "Keep the faith, it'll work out!",
+      "JAPANESE": "信じて、うまくいくよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718874"
+    },
+    {
+      "english": "You're a real trooper!",
+      "JAPANESE": "君は本当の頑張り屋さん！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718875"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "JAPANESE": "一日ずつ、ね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718875"
+    },
+    {
+      "english": "Don't forget to smile!",
+      "JAPANESE": "笑顔を忘れないで！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718876"
+    },
+    {
+      "english": "This too shall pass!",
+      "JAPANESE": "これも乗り越えられる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718877"
+    },
+    {
+      "english": "Keep shining bright!",
+      "JAPANESE": "キラキラ輝き続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718878"
+    },
+    {
+      "english": "You're making progress!",
+      "JAPANESE": "君は進歩してるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718879"
+    },
+    {
+      "english": "Hang in there, champ!",
+      "JAPANESE": "頑張れ、チャンピオン！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718880"
+    },
+    {
+      "english": "Future's looking good!",
+      "JAPANESE": "未来は良い感じ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718881"
+    },
+    {
+      "english": "Keep up the good work!",
+      "JAPANESE": "その調子で頑張って！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718882"
+    },
+    {
+      "english": "You'll get there, trust me!",
+      "JAPANESE": "きっと着くよ、信じて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718884"
+    },
+    {
+      "english": "Stay strong, my friend!",
+      "JAPANESE": "強くいてね、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718885"
+    },
+    {
+      "english": "A little hope goes a long way!",
+      "JAPANESE": "少しの希望は大きい！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718886"
+    },
+    {
+      "english": "Keep your head up, always!",
+      "JAPANESE": "いつも顔を上げて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718887"
+    },
+    {
+      "english": "You're doing amazing!",
+      "JAPANESE": "君、すごいよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718887"
+    },
+    {
+      "english": "Tomorrow's a new beginning!",
+      "JAPANESE": "明日は新しい始まり！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718889"
+    },
+    {
+      "english": "Hang in there, buddy!",
+      "JAPANESE": "頑張れ、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718892"
+    },
+    {
+      "english": "You can do it, champ!",
+      "JAPANESE": "君ならできる、チャンピオン！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718894"
+    },
+    {
+      "english": "Keep pushing forward!",
+      "JAPANESE": "前に進み続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718895"
+    },
+    {
+      "english": "Don't give up, okay?",
+      "JAPANESE": "諦めないでね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718896"
+    },
+    {
+      "english": "Brighter days are coming!",
+      "JAPANESE": "もっと明るい日が来るよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718897"
+    },
+    {
+      "english": "Keep that chin up!",
+      "JAPANESE": "その顎を上げて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718898"
+    },
+    {
+      "english": "You got this, seriously!",
+      "JAPANESE": "君ならできる、マジで！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718899"
+    },
+    {
+      "english": "Little by little, win!",
+      "JAPANESE": "少しずつ、勝つ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718903"
+    },
+    {
+      "english": "Keep shining, star!",
+      "JAPANESE": "輝き続けて、スター！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718904"
+    },
+    {
+      "english": "Tomorrow is a new chance!",
+      "JAPANESE": "明日は新しいチャンス！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718905"
+    },
+    {
+      "english": "Believe in yourself, always!",
+      "JAPANESE": "自分を信じて、いつも！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718906"
+    },
+    {
+      "english": "One step at a time!",
+      "JAPANESE": "一歩ずつ進もう！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718907"
+    },
+    {
+      "english": "You're doing great, really!",
+      "JAPANESE": "君、すごく頑張ってるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718908"
+    },
+    {
+      "english": "Keep that smile going!",
+      "JAPANESE": "その笑顔を続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718909"
+    },
+    {
+      "english": "Every effort counts!",
+      "JAPANESE": "全ての努力が大切！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718910"
+    },
+    {
+      "english": "Future's looking bright!",
+      "JAPANESE": "未来は明るいよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718911"
+    },
+    {
+      "english": "You're stronger than you think!",
+      "JAPANESE": "君は思ってるより強い！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718912"
+    },
+    {
+      "english": "Just keep going, okay?",
+      "JAPANESE": "そのまま進んでね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718913"
+    },
+    {
+      "english": "Never lose hope, friend!",
+      "JAPANESE": "希望を失わないで、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718914"
+    },
+    {
+      "english": "Tomorrow will be better!",
+      "JAPANESE": "明日はもっと良くなる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718915"
+    },
+    {
+      "english": "Keep that fire burning!",
+      "JAPANESE": "その火を燃やし続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718916"
+    },
+    {
+      "english": "You're on the right track!",
+      "JAPANESE": "君は正しい道にいるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718917"
+    },
+    {
+      "english": "Hang on tight, we're almost there!",
+      "JAPANESE": "しっかり掴まって、もうすぐだよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718918"
+    },
+    {
+      "english": "Just breathe, you've got this!",
+      "JAPANESE": "深呼吸して、君ならできる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718919"
+    },
+    {
+      "english": "Keep the faith, it'll work out!",
+      "JAPANESE": "信じて、うまくいくよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718932"
+    },
+    {
+      "english": "You're a real trooper!",
+      "JAPANESE": "君は本当の頑張り屋さん！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718933"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "JAPANESE": "一日ずつ、ね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718934"
+    },
+    {
+      "english": "Don't forget to smile!",
+      "JAPANESE": "笑顔を忘れないで！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718936"
+    },
+    {
+      "english": "This too shall pass!",
+      "JAPANESE": "これも乗り越えられる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718937"
+    },
+    {
+      "english": "Keep shining bright!",
+      "JAPANESE": "キラキラ輝き続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718938"
+    },
+    {
+      "english": "You're making progress!",
+      "JAPANESE": "君は進歩してるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718938"
+    },
+    {
+      "english": "Hang in there, champ!",
+      "JAPANESE": "頑張れ、チャンピオン！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718939"
+    },
+    {
+      "english": "Future's looking good!",
+      "JAPANESE": "未来は良い感じ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718940"
+    },
+    {
+      "english": "Keep up the good work!",
+      "JAPANESE": "その調子で頑張って！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718941"
+    },
+    {
+      "english": "You'll get there, trust me!",
+      "JAPANESE": "きっと着くよ、信じて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718942"
+    },
+    {
+      "english": "Stay strong, my friend!",
+      "JAPANESE": "強くいてね、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718943"
+    },
+    {
+      "english": "A little hope goes a long way!",
+      "JAPANESE": "少しの希望は大きい！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718944"
+    },
+    {
+      "english": "Keep your head up, always!",
+      "JAPANESE": "いつも顔を上げて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718945"
+    },
+    {
+      "english": "You're doing amazing!",
+      "JAPANESE": "君、すごいよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718946"
+    },
+    {
+      "english": "Tomorrow's a new beginning!",
+      "JAPANESE": "明日は新しい始まり！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718950"
+    },
+    {
+      "english": "Hang in there, buddy!",
+      "JAPANESE": "頑張れ、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718951"
+    },
+    {
+      "english": "You can do it, champ!",
+      "JAPANESE": "君ならできる、チャンピオン！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718952"
+    },
+    {
+      "english": "Keep pushing forward!",
+      "JAPANESE": "前に進み続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718953"
+    },
+    {
+      "english": "Don't give up, okay?",
+      "JAPANESE": "諦めないでね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718953"
+    },
+    {
+      "english": "Brighter days are coming!",
+      "JAPANESE": "もっと明るい日が来るよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718954"
+    },
+    {
+      "english": "Keep that chin up!",
+      "JAPANESE": "その顎を上げて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718955"
+    },
+    {
+      "english": "You got this, seriously!",
+      "JAPANESE": "君ならできる、マジで！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718956"
+    },
+    {
+      "english": "Little by little, win!",
+      "JAPANESE": "少しずつ、勝つ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718957"
+    },
+    {
+      "english": "Keep shining, star!",
+      "JAPANESE": "輝き続けて、スター！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718958"
+    },
+    {
+      "english": "Tomorrow is a new chance!",
+      "JAPANESE": "明日は新しいチャンス！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718959"
+    },
+    {
+      "english": "Believe in yourself, always!",
+      "JAPANESE": "自分を信じて、いつも！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718959"
+    },
+    {
+      "english": "One step at a time!",
+      "JAPANESE": "一歩ずつ進もう！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718960"
+    },
+    {
+      "english": "You're doing great, really!",
+      "JAPANESE": "君、すごく頑張ってるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718962"
+    },
+    {
+      "english": "Keep that smile going!",
+      "JAPANESE": "その笑顔を続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718963"
+    },
+    {
+      "english": "Every effort counts!",
+      "JAPANESE": "全ての努力が大切！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718964"
+    },
+    {
+      "english": "Future's looking bright!",
+      "JAPANESE": "未来は明るいよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718965"
+    },
+    {
+      "english": "You're stronger than you think!",
+      "JAPANESE": "君は思ってるより強い！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718966"
+    },
+    {
+      "english": "Just keep going, okay?",
+      "JAPANESE": "そのまま進んでね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718967"
+    },
+    {
+      "english": "Never lose hope, friend!",
+      "JAPANESE": "希望を失わないで、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718968"
+    },
+    {
+      "english": "Tomorrow will be better!",
+      "JAPANESE": "明日はもっと良くなる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718969"
+    },
+    {
+      "english": "Keep that fire burning!",
+      "JAPANESE": "その火を燃やし続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718969"
+    },
+    {
+      "english": "You're on the right track!",
+      "JAPANESE": "君は正しい道にいるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718970"
+    },
+    {
+      "english": "Hang on tight, we're almost there!",
+      "JAPANESE": "しっかり掴まって、もうすぐだよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718971"
+    },
+    {
+      "english": "Just breathe, you've got this!",
+      "JAPANESE": "深呼吸して、君ならできる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718972"
+    },
+    {
+      "english": "Keep the faith, it'll work out!",
+      "JAPANESE": "信じて、うまくいくよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718973"
+    },
+    {
+      "english": "You're a real trooper!",
+      "JAPANESE": "君は本当の頑張り屋さん！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718974"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "JAPANESE": "一日ずつ、ね？",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718975"
+    },
+    {
+      "english": "Don't forget to smile!",
+      "JAPANESE": "笑顔を忘れないで！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718976"
+    },
+    {
+      "english": "This too shall pass!",
+      "JAPANESE": "これも乗り越えられる！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718976"
+    },
+    {
+      "english": "Keep shining bright!",
+      "JAPANESE": "キラキラ輝き続けて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718977"
+    },
+    {
+      "english": "You're making progress!",
+      "JAPANESE": "君は進歩してるよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718978"
+    },
+    {
+      "english": "Hang in there, champ!",
+      "JAPANESE": "頑張れ、チャンピオン！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718981"
+    },
+    {
+      "english": "Future's looking good!",
+      "JAPANESE": "未来は良い感じ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718982"
+    },
+    {
+      "english": "Keep up the good work!",
+      "JAPANESE": "その調子で頑張って！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718983"
+    },
+    {
+      "english": "You'll get there, trust me!",
+      "JAPANESE": "きっと着くよ、信じて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718984"
+    },
+    {
+      "english": "Stay strong, my friend!",
+      "JAPANESE": "強くいてね、友達！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718985"
+    },
+    {
+      "english": "A little hope goes a long way!",
+      "JAPANESE": "少しの希望は大きい！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718986"
+    },
+    {
+      "english": "Keep your head up, always!",
+      "JAPANESE": "いつも顔を上げて！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718987"
+    },
+    {
+      "english": "You're doing amazing!",
+      "JAPANESE": "君、すごいよ！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718988"
+    },
+    {
+      "english": "Tomorrow's a new beginning!",
+      "JAPANESE": "明日は新しい始まり！",
+      "category": "Hope",
+      "generated_at": "2026-07-16T04:14:12.718989"
+    }
+  ],
+  "last_updated": "2026-07-16T04:14:12.718990"
+}
