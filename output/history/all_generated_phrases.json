@@ -719,7 +719,727 @@
       "JAPANESE": "明日は新しい始まり！",
       "category": "Hope",
       "generated_at": "2026-07-16T04:14:12.718989"
+    },
+    {
+      "english": "Grow daily, learn always.",
+      "JAPANESE": "毎日成長、常に学ぶ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249707"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "JAPANESE": "今始める、待たない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249717"
+    },
+    {
+      "english": "Small steps, big dreams.",
+      "JAPANESE": "小さな一歩、大きな夢。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249718"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "JAPANESE": "もっと聞く、少なく話す。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249719"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "JAPANESE": "優しく、自分に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249720"
+    },
+    {
+      "english": "Find joy, in effort.",
+      "JAPANESE": "努力に、喜びを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249722"
+    },
+    {
+      "english": "Think smart, act fast.",
+      "JAPANESE": "賢く考え、速く行動。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249723"
+    },
+    {
+      "english": "Embrace change, welcome it.",
+      "JAPANESE": "変化を受け入れ、歓迎する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249725"
+    },
+    {
+      "english": "Stay curious, stay alive.",
+      "JAPANESE": "好奇心を持ち続ける、生き続ける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249727"
+    },
+    {
+      "english": "Create your own path.",
+      "JAPANESE": "自分の道を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249729"
+    },
+    {
+      "english": "Be present, right now.",
+      "JAPANESE": "今ここに、いる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249730"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "JAPANESE": "間違いから学び、成長する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249731"
+    },
+    {
+      "english": "Share your light, generously.",
+      "JAPANESE": "光を分かち合う、惜しみなく。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249733"
+    },
+    {
+      "english": "Be a problem solver.",
+      "JAPANESE": "問題解決者になろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249734"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "JAPANESE": "問題ではなく、解決策に集中。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249735"
+    },
+    {
+      "english": "Practice patience, every day.",
+      "JAPANESE": "毎日、忍耐を実践。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249736"
+    },
+    {
+      "english": "Seek understanding, deeply.",
+      "JAPANESE": "深く、理解を求める。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249737"
+    },
+    {
+      "english": "Inspire others, by living.",
+      "JAPANESE": "生き方で、他人を刺激する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249738"
+    },
+    {
+      "english": "Cultivate gratitude, always.",
+      "JAPANESE": "常に、感謝を育む。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249739"
+    },
+    {
+      "english": "Be adaptable, be flexible.",
+      "JAPANESE": "適応性があり、柔軟に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249740"
+    },
+    {
+      "english": "Embrace imperfection, it's human.",
+      "JAPANESE": "不完全さを受け入れ、人間らしい。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249741"
+    },
+    {
+      "english": "Find your passion, pursue it.",
+      "JAPANESE": "情熱を見つけ、追求する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249742"
+    },
+    {
+      "english": "Be mindful, of your thoughts.",
+      "JAPANESE": "自分の考えに、注意を払う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249743"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "JAPANESE": "小さな勝利を祝う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249744"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "JAPANESE": "橋を架ける、壁ではなく。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249745"
+    },
+    {
+      "english": "Practice empathy, truly.",
+      "JAPANESE": "本当に、共感を実践。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249746"
+    },
+    {
+      "english": "Own your decisions.",
+      "JAPANESE": "自分の決断に責任を持つ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249747"
+    },
+    {
+      "english": "Seek balance, in life.",
+      "JAPANESE": "人生で、バランスを求める。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249747"
+    },
+    {
+      "english": "Be honest, with yourself.",
+      "JAPANESE": "自分に、正直に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249748"
+    },
+    {
+      "english": "Simplify your life.",
+      "JAPANESE": "人生をシンプルにする。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249750"
+    },
+    {
+      "english": "Trust the process.",
+      "JAPANESE": "プロセスを信じる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249751"
+    },
+    {
+      "english": "Learn to let go.",
+      "JAPANESE": "手放すことを学ぶ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249752"
+    },
+    {
+      "english": "Find your rhythm.",
+      "JAPANESE": "自分のリズムを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249753"
+    },
+    {
+      "english": "Be a good listener.",
+      "JAPANESE": "良い聞き手になろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249754"
+    },
+    {
+      "english": "Question everything, thoughtfully.",
+      "JAPANESE": "すべてを、思慮深く問う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249755"
+    },
+    {
+      "english": "Embrace your journey.",
+      "JAPANESE": "自分の旅を受け入れる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249756"
+    },
+    {
+      "english": "Be proactive, not reactive.",
+      "JAPANESE": "受動的ではなく、能動的に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249757"
+    },
+    {
+      "english": "Find strength, in stillness.",
+      "JAPANESE": "静けさの中に、強さを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249757"
+    },
+    {
+      "english": "Reflect and renew.",
+      "JAPANESE": "反省し、更新する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249758"
+    },
+    {
+      "english": "Live with intention.",
+      "JAPANESE": "意図を持って生きる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249759"
+    },
+    {
+      "english": "Grow daily, learn always.",
+      "JAPANESE": "毎日成長、常に学ぶ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249761"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "JAPANESE": "今始める、待たない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249762"
+    },
+    {
+      "english": "Small steps, big dreams.",
+      "JAPANESE": "小さな一歩、大きな夢。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249763"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "JAPANESE": "もっと聞く、少なく話す。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249764"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "JAPANESE": "優しく、自分に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249765"
+    },
+    {
+      "english": "Find joy, in effort.",
+      "JAPANESE": "努力に、喜びを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249766"
+    },
+    {
+      "english": "Think smart, act fast.",
+      "JAPANESE": "賢く考え、速く行動。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249767"
+    },
+    {
+      "english": "Embrace change, welcome it.",
+      "JAPANESE": "変化を受け入れ、歓迎する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249768"
+    },
+    {
+      "english": "Stay curious, stay alive.",
+      "JAPANESE": "好奇心を持ち続ける、生き続ける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249769"
+    },
+    {
+      "english": "Create your own path.",
+      "JAPANESE": "自分の道を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249770"
+    },
+    {
+      "english": "Be present, right now.",
+      "JAPANESE": "今ここに、いる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249771"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "JAPANESE": "間違いから学び、成長する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249772"
+    },
+    {
+      "english": "Share your light, generously.",
+      "JAPANESE": "光を分かち合う、惜しみなく。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249773"
+    },
+    {
+      "english": "Be a problem solver.",
+      "JAPANESE": "問題解決者になろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249775"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "JAPANESE": "問題ではなく、解決策に集中。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249776"
+    },
+    {
+      "english": "Practice patience, every day.",
+      "JAPANESE": "毎日、忍耐を実践。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249777"
+    },
+    {
+      "english": "Seek understanding, deeply.",
+      "JAPANESE": "深く、理解を求める。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249778"
+    },
+    {
+      "english": "Inspire others, by living.",
+      "JAPANESE": "生き方で、他人を刺激する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249779"
+    },
+    {
+      "english": "Cultivate gratitude, always.",
+      "JAPANESE": "常に、感謝を育む。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249780"
+    },
+    {
+      "english": "Be adaptable, be flexible.",
+      "JAPANESE": "適応性があり、柔軟に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249781"
+    },
+    {
+      "english": "Embrace imperfection, it's human.",
+      "JAPANESE": "不完全さを受け入れ、人間らしい。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249782"
+    },
+    {
+      "english": "Find your passion, pursue it.",
+      "JAPANESE": "情熱を見つけ、追求する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249783"
+    },
+    {
+      "english": "Be mindful, of your thoughts.",
+      "JAPANESE": "自分の考えに、注意を払う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249784"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "JAPANESE": "小さな勝利を祝う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249785"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "JAPANESE": "橋を架ける、壁ではなく。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249786"
+    },
+    {
+      "english": "Practice empathy, truly.",
+      "JAPANESE": "本当に、共感を実践。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249787"
+    },
+    {
+      "english": "Own your decisions.",
+      "JAPANESE": "自分の決断に責任を持つ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249788"
+    },
+    {
+      "english": "Seek balance, in life.",
+      "JAPANESE": "人生で、バランスを求める。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249789"
+    },
+    {
+      "english": "Be honest, with yourself.",
+      "JAPANESE": "自分に、正直に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249790"
+    },
+    {
+      "english": "Simplify your life.",
+      "JAPANESE": "人生をシンプルにする。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249791"
+    },
+    {
+      "english": "Trust the process.",
+      "JAPANESE": "プロセスを信じる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249792"
+    },
+    {
+      "english": "Learn to let go.",
+      "JAPANESE": "手放すことを学ぶ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249797"
+    },
+    {
+      "english": "Find your rhythm.",
+      "JAPANESE": "自分のリズムを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249798"
+    },
+    {
+      "english": "Be a good listener.",
+      "JAPANESE": "良い聞き手になろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249799"
+    },
+    {
+      "english": "Question everything, thoughtfully.",
+      "JAPANESE": "すべてを、思慮深く問う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249800"
+    },
+    {
+      "english": "Embrace your journey.",
+      "JAPANESE": "自分の旅を受け入れる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249801"
+    },
+    {
+      "english": "Be proactive, not reactive.",
+      "JAPANESE": "受動的ではなく、能動的に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249802"
+    },
+    {
+      "english": "Find strength, in stillness.",
+      "JAPANESE": "静けさの中に、強さを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249803"
+    },
+    {
+      "english": "Reflect and renew.",
+      "JAPANESE": "反省し、更新する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249804"
+    },
+    {
+      "english": "Live with intention.",
+      "JAPANESE": "意図を持って生きる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249804"
+    },
+    {
+      "english": "Grow daily, learn always.",
+      "JAPANESE": "毎日成長、常に学ぶ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249806"
+    },
+    {
+      "english": "Start now, don't wait.",
+      "JAPANESE": "今始める、待たない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249807"
+    },
+    {
+      "english": "Small steps, big dreams.",
+      "JAPANESE": "小さな一歩、大きな夢。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249808"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "JAPANESE": "もっと聞く、少なく話す。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249809"
+    },
+    {
+      "english": "Be kind, to yourself.",
+      "JAPANESE": "優しく、自分に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249810"
+    },
+    {
+      "english": "Find joy, in effort.",
+      "JAPANESE": "努力に、喜びを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249811"
+    },
+    {
+      "english": "Think smart, act fast.",
+      "JAPANESE": "賢く考え、速く行動。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249812"
+    },
+    {
+      "english": "Embrace change, welcome it.",
+      "JAPANESE": "変化を受け入れ、歓迎する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249813"
+    },
+    {
+      "english": "Stay curious, stay alive.",
+      "JAPANESE": "好奇心を持ち続ける、生き続ける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249814"
+    },
+    {
+      "english": "Create your own path.",
+      "JAPANESE": "自分の道を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249823"
+    },
+    {
+      "english": "Be present, right now.",
+      "JAPANESE": "今ここに、いる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249825"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "JAPANESE": "間違いから学び、成長する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249826"
+    },
+    {
+      "english": "Share your light, generously.",
+      "JAPANESE": "光を分かち合う、惜しみなく。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249827"
+    },
+    {
+      "english": "Be a problem solver.",
+      "JAPANESE": "問題解決者になろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249828"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "JAPANESE": "問題ではなく、解決策に集中。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249829"
+    },
+    {
+      "english": "Practice patience, every day.",
+      "JAPANESE": "毎日、忍耐を実践。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249830"
+    },
+    {
+      "english": "Seek understanding, deeply.",
+      "JAPANESE": "深く、理解を求める。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249831"
+    },
+    {
+      "english": "Inspire others, by living.",
+      "JAPANESE": "生き方で、他人を刺激する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249832"
+    },
+    {
+      "english": "Cultivate gratitude, always.",
+      "JAPANESE": "常に、感謝を育む。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249833"
+    },
+    {
+      "english": "Be adaptable, be flexible.",
+      "JAPANESE": "適応性があり、柔軟に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249834"
+    },
+    {
+      "english": "Embrace imperfection, it's human.",
+      "JAPANESE": "不完全さを受け入れ、人間らしい。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249835"
+    },
+    {
+      "english": "Find your passion, pursue it.",
+      "JAPANESE": "情熱を見つけ、追求する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249836"
+    },
+    {
+      "english": "Be mindful, of your thoughts.",
+      "JAPANESE": "自分の考えに、注意を払う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249837"
+    },
+    {
+      "english": "Celebrate small wins.",
+      "JAPANESE": "小さな勝利を祝う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249838"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "JAPANESE": "橋を架ける、壁ではなく。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249841"
+    },
+    {
+      "english": "Practice empathy, truly.",
+      "JAPANESE": "本当に、共感を実践。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249842"
+    },
+    {
+      "english": "Own your decisions.",
+      "JAPANESE": "自分の決断に責任を持つ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249843"
+    },
+    {
+      "english": "Seek balance, in life.",
+      "JAPANESE": "人生で、バランスを求める。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249844"
+    },
+    {
+      "english": "Be honest, with yourself.",
+      "JAPANESE": "自分に、正直に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249845"
+    },
+    {
+      "english": "Simplify your life.",
+      "JAPANESE": "人生をシンプルにする。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249846"
+    },
+    {
+      "english": "Trust the process.",
+      "JAPANESE": "プロセスを信じる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249847"
+    },
+    {
+      "english": "Learn to let go.",
+      "JAPANESE": "手放すことを学ぶ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249848"
+    },
+    {
+      "english": "Find your rhythm.",
+      "JAPANESE": "自分のリズムを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249849"
+    },
+    {
+      "english": "Be a good listener.",
+      "JAPANESE": "良い聞き手になろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249850"
+    },
+    {
+      "english": "Question everything, thoughtfully.",
+      "JAPANESE": "すべてを、思慮深く問う。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249851"
+    },
+    {
+      "english": "Embrace your journey.",
+      "JAPANESE": "自分の旅を受け入れる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249852"
+    },
+    {
+      "english": "Be proactive, not reactive.",
+      "JAPANESE": "受動的ではなく、能動的に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249853"
+    },
+    {
+      "english": "Find strength, in stillness.",
+      "JAPANESE": "静けさの中に、強さを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249854"
+    },
+    {
+      "english": "Reflect and renew.",
+      "JAPANESE": "反省し、更新する。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249856"
+    },
+    {
+      "english": "Live with intention.",
+      "JAPANESE": "意図を持って生きる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-07-16T21:16:38.249857"
     }
   ],
-  "last_updated": "2026-07-16T04:14:12.718990"
+  "last_updated": "2026-07-16T21:16:38.249858"
 }
