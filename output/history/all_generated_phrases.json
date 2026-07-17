@@ -2639,7 +2639,727 @@
       "JAPANESE": "過去から学び、今を生きる。",
       "category": "Wisdom",
       "generated_at": "2026-07-17T20:12:19.105824"
+    },
+    {
+      "english": "Just breathe, and let go.",
+      "JAPANESE": "ただ息をして、手放して。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980116"
+    },
+    {
+      "english": "Focus on, now. Not then.",
+      "JAPANESE": "今に集中。あの時じゃない。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980130"
+    },
+    {
+      "english": "One step, at a time.",
+      "JAPANESE": "一歩ずつ、進む。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980132"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "JAPANESE": "足元の地面を、感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980133"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "JAPANESE": "心に、よく耳を澄ませて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980134"
+    },
+    {
+      "english": "Release the worry, hold the calm.",
+      "JAPANESE": "心配を解いて、穏やかさを保つ。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980136"
+    },
+    {
+      "english": "See the beauty, all around.",
+      "JAPANESE": "周りの美しさを、見て。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980137"
+    },
+    {
+      "english": "Your mind is, a garden.",
+      "JAPANESE": "あなたの心は、庭です。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980140"
+    },
+    {
+      "english": "Be present, truly here.",
+      "JAPANESE": "今ここを、本当に感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980142"
+    },
+    {
+      "english": "Let good thoughts, take root.",
+      "JAPANESE": "良い考えを、根付かせて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980143"
+    },
+    {
+      "english": "Observe without, judging.",
+      "JAPANESE": "判断せずに、観察する。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980145"
+    },
+    {
+      "english": "Find peace, in silence.",
+      "JAPANESE": "静けさの中に、平和を見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980146"
+    },
+    {
+      "english": "Your breath is, an anchor.",
+      "JAPANESE": "あなたの呼吸は、錨です。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980147"
+    },
+    {
+      "english": "Accept what is, now.",
+      "JAPANESE": "今の状況を、受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980148"
+    },
+    {
+      "english": "Slow down, and notice.",
+      "JAPANESE": "ゆっくりと、気づいて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980149"
+    },
+    {
+      "english": "Let go of, the past.",
+      "JAPANESE": "過去を、手放しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980151"
+    },
+    {
+      "english": "Your body knows, how to heal.",
+      "JAPANESE": "体は、癒える方法を知っています。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980152"
+    },
+    {
+      "english": "Find stillness, within.",
+      "JAPANESE": "内なる静けさを、見つけて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980154"
+    },
+    {
+      "english": "Just be, without trying.",
+      "JAPANESE": "ただ、無理せずに、いる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980156"
+    },
+    {
+      "english": "Kindness to self, matters.",
+      "JAPANESE": "自分への優しさ、大切。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980157"
+    },
+    {
+      "english": "Notice your, feelings.",
+      "JAPANESE": "あなたの感情に、気づいて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980159"
+    },
+    {
+      "english": "The present is, all there is.",
+      "JAPANESE": "現在が、全てです。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980159"
+    },
+    {
+      "english": "Let worries, float away.",
+      "JAPANESE": "心配事を、流しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980160"
+    },
+    {
+      "english": "Your thoughts, don't define you.",
+      "JAPANESE": "あなたの考えが、あなたを決めつけない。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980161"
+    },
+    {
+      "english": "Inhale calm, exhale tension.",
+      "JAPANESE": "穏やかさを吸って、緊張を吐く。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980163"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "JAPANESE": "瞬間を、完全に受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980163"
+    },
+    {
+      "english": "Find your center, again.",
+      "JAPANESE": "あなたの中心を、再び見つけて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980165"
+    },
+    {
+      "english": "This too, shall pass.",
+      "JAPANESE": "これも、過ぎ去るでしょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980165"
+    },
+    {
+      "english": "Let go, of control.",
+      "JAPANESE": "コントロールを、手放す。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980166"
+    },
+    {
+      "english": "Your presence, is enough.",
+      "JAPANESE": "あなたの存在は、十分。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980167"
+    },
+    {
+      "english": "Settle your mind, like dust.",
+      "JAPANESE": "心を、塵のように落ち着かせる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980168"
+    },
+    {
+      "english": "Feel the energy, around you.",
+      "JAPANESE": "周りのエネルギーを、感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980169"
+    },
+    {
+      "english": "Be here, now. Simply.",
+      "JAPANESE": "今ここに、ただ、いる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980170"
+    },
+    {
+      "english": "Let go, of judgment.",
+      "JAPANESE": "判断を、手放しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980171"
+    },
+    {
+      "english": "Your breath, guides you.",
+      "JAPANESE": "あなたの呼吸が、あなたを導く。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980172"
+    },
+    {
+      "english": "Accept the flow, of life.",
+      "JAPANESE": "人生の流れを、受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980173"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "JAPANESE": "小さなことに、喜びを見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980173"
+    },
+    {
+      "english": "Just notice, what is.",
+      "JAPANESE": "ただ、あるがままに、気づく。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980174"
+    },
+    {
+      "english": "Release attachment, find freedom.",
+      "JAPANESE": "執着を手放し、自由を見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980175"
+    },
+    {
+      "english": "Just breathe, and let go.",
+      "JAPANESE": "ただ息をして、手放して。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980176"
+    },
+    {
+      "english": "Focus on, now. Not then.",
+      "JAPANESE": "今に集中。あの時じゃない。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980178"
+    },
+    {
+      "english": "One step, at a time.",
+      "JAPANESE": "一歩ずつ、進む。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980179"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "JAPANESE": "足元の地面を、感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980180"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "JAPANESE": "心に、よく耳を澄ませて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980181"
+    },
+    {
+      "english": "Release the worry, hold the calm.",
+      "JAPANESE": "心配を解いて、穏やかさを保つ。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980182"
+    },
+    {
+      "english": "See the beauty, all around.",
+      "JAPANESE": "周りの美しさを、見て。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980183"
+    },
+    {
+      "english": "Your mind is, a garden.",
+      "JAPANESE": "あなたの心は、庭です。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980184"
+    },
+    {
+      "english": "Be present, truly here.",
+      "JAPANESE": "今ここを、本当に感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980185"
+    },
+    {
+      "english": "Let good thoughts, take root.",
+      "JAPANESE": "良い考えを、根付かせて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980185"
+    },
+    {
+      "english": "Observe without, judging.",
+      "JAPANESE": "判断せずに、観察する。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980186"
+    },
+    {
+      "english": "Find peace, in silence.",
+      "JAPANESE": "静けさの中に、平和を見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980188"
+    },
+    {
+      "english": "Your breath is, an anchor.",
+      "JAPANESE": "あなたの呼吸は、錨です。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980189"
+    },
+    {
+      "english": "Accept what is, now.",
+      "JAPANESE": "今の状況を、受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980190"
+    },
+    {
+      "english": "Slow down, and notice.",
+      "JAPANESE": "ゆっくりと、気づいて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980191"
+    },
+    {
+      "english": "Let go of, the past.",
+      "JAPANESE": "過去を、手放しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980192"
+    },
+    {
+      "english": "Your body knows, how to heal.",
+      "JAPANESE": "体は、癒える方法を知っています。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980193"
+    },
+    {
+      "english": "Find stillness, within.",
+      "JAPANESE": "内なる静けさを、見つけて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980194"
+    },
+    {
+      "english": "Just be, without trying.",
+      "JAPANESE": "ただ、無理せずに、いる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980194"
+    },
+    {
+      "english": "Kindness to self, matters.",
+      "JAPANESE": "自分への優しさ、大切。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980195"
+    },
+    {
+      "english": "Notice your, feelings.",
+      "JAPANESE": "あなたの感情に、気づいて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980197"
+    },
+    {
+      "english": "The present is, all there is.",
+      "JAPANESE": "現在が、全てです。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980198"
+    },
+    {
+      "english": "Let worries, float away.",
+      "JAPANESE": "心配事を、流しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980198"
+    },
+    {
+      "english": "Your thoughts, don't define you.",
+      "JAPANESE": "あなたの考えが、あなたを決めつけない。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980199"
+    },
+    {
+      "english": "Inhale calm, exhale tension.",
+      "JAPANESE": "穏やかさを吸って、緊張を吐く。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980200"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "JAPANESE": "瞬間を、完全に受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980205"
+    },
+    {
+      "english": "Find your center, again.",
+      "JAPANESE": "あなたの中心を、再び見つけて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980206"
+    },
+    {
+      "english": "This too, shall pass.",
+      "JAPANESE": "これも、過ぎ去るでしょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980207"
+    },
+    {
+      "english": "Let go, of control.",
+      "JAPANESE": "コントロールを、手放す。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980208"
+    },
+    {
+      "english": "Your presence, is enough.",
+      "JAPANESE": "あなたの存在は、十分。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980209"
+    },
+    {
+      "english": "Settle your mind, like dust.",
+      "JAPANESE": "心を、塵のように落ち着かせる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980210"
+    },
+    {
+      "english": "Feel the energy, around you.",
+      "JAPANESE": "周りのエネルギーを、感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980211"
+    },
+    {
+      "english": "Be here, now. Simply.",
+      "JAPANESE": "今ここに、ただ、いる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980212"
+    },
+    {
+      "english": "Let go, of judgment.",
+      "JAPANESE": "判断を、手放しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980213"
+    },
+    {
+      "english": "Your breath, guides you.",
+      "JAPANESE": "あなたの呼吸が、あなたを導く。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980214"
+    },
+    {
+      "english": "Accept the flow, of life.",
+      "JAPANESE": "人生の流れを、受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980215"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "JAPANESE": "小さなことに、喜びを見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980216"
+    },
+    {
+      "english": "Just notice, what is.",
+      "JAPANESE": "ただ、あるがままに、気づく。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980217"
+    },
+    {
+      "english": "Release attachment, find freedom.",
+      "JAPANESE": "執着を手放し、自由を見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980218"
+    },
+    {
+      "english": "Just breathe, and let go.",
+      "JAPANESE": "ただ息をして、手放して。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980219"
+    },
+    {
+      "english": "Focus on, now. Not then.",
+      "JAPANESE": "今に集中。あの時じゃない。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980220"
+    },
+    {
+      "english": "One step, at a time.",
+      "JAPANESE": "一歩ずつ、進む。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980221"
+    },
+    {
+      "english": "Feel the ground, beneath you.",
+      "JAPANESE": "足元の地面を、感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980223"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "JAPANESE": "心に、よく耳を澄ませて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980226"
+    },
+    {
+      "english": "Release the worry, hold the calm.",
+      "JAPANESE": "心配を解いて、穏やかさを保つ。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980227"
+    },
+    {
+      "english": "See the beauty, all around.",
+      "JAPANESE": "周りの美しさを、見て。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980228"
+    },
+    {
+      "english": "Your mind is, a garden.",
+      "JAPANESE": "あなたの心は、庭です。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980229"
+    },
+    {
+      "english": "Be present, truly here.",
+      "JAPANESE": "今ここを、本当に感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980230"
+    },
+    {
+      "english": "Let good thoughts, take root.",
+      "JAPANESE": "良い考えを、根付かせて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980231"
+    },
+    {
+      "english": "Observe without, judging.",
+      "JAPANESE": "判断せずに、観察する。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980232"
+    },
+    {
+      "english": "Find peace, in silence.",
+      "JAPANESE": "静けさの中に、平和を見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980233"
+    },
+    {
+      "english": "Your breath is, an anchor.",
+      "JAPANESE": "あなたの呼吸は、錨です。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980234"
+    },
+    {
+      "english": "Accept what is, now.",
+      "JAPANESE": "今の状況を、受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980238"
+    },
+    {
+      "english": "Slow down, and notice.",
+      "JAPANESE": "ゆっくりと、気づいて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980239"
+    },
+    {
+      "english": "Let go of, the past.",
+      "JAPANESE": "過去を、手放しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980240"
+    },
+    {
+      "english": "Your body knows, how to heal.",
+      "JAPANESE": "体は、癒える方法を知っています。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980241"
+    },
+    {
+      "english": "Find stillness, within.",
+      "JAPANESE": "内なる静けさを、見つけて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980242"
+    },
+    {
+      "english": "Just be, without trying.",
+      "JAPANESE": "ただ、無理せずに、いる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980243"
+    },
+    {
+      "english": "Kindness to self, matters.",
+      "JAPANESE": "自分への優しさ、大切。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980244"
+    },
+    {
+      "english": "Notice your, feelings.",
+      "JAPANESE": "あなたの感情に、気づいて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980245"
+    },
+    {
+      "english": "The present is, all there is.",
+      "JAPANESE": "現在が、全てです。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980246"
+    },
+    {
+      "english": "Let worries, float away.",
+      "JAPANESE": "心配事を、流しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980246"
+    },
+    {
+      "english": "Your thoughts, don't define you.",
+      "JAPANESE": "あなたの考えが、あなたを決めつけない。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980247"
+    },
+    {
+      "english": "Inhale calm, exhale tension.",
+      "JAPANESE": "穏やかさを吸って、緊張を吐く。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980248"
+    },
+    {
+      "english": "Embrace the moment, fully.",
+      "JAPANESE": "瞬間を、完全に受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980249"
+    },
+    {
+      "english": "Find your center, again.",
+      "JAPANESE": "あなたの中心を、再び見つけて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980250"
+    },
+    {
+      "english": "This too, shall pass.",
+      "JAPANESE": "これも、過ぎ去るでしょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980251"
+    },
+    {
+      "english": "Let go, of control.",
+      "JAPANESE": "コントロールを、手放す。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980252"
+    },
+    {
+      "english": "Your presence, is enough.",
+      "JAPANESE": "あなたの存在は、十分。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980252"
+    },
+    {
+      "english": "Settle your mind, like dust.",
+      "JAPANESE": "心を、塵のように落ち着かせる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980253"
+    },
+    {
+      "english": "Feel the energy, around you.",
+      "JAPANESE": "周りのエネルギーを、感じて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980254"
+    },
+    {
+      "english": "Be here, now. Simply.",
+      "JAPANESE": "今ここに、ただ、いる。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980255"
+    },
+    {
+      "english": "Let go, of judgment.",
+      "JAPANESE": "判断を、手放しましょう。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980256"
+    },
+    {
+      "english": "Your breath, guides you.",
+      "JAPANESE": "あなたの呼吸が、あなたを導く。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980257"
+    },
+    {
+      "english": "Accept the flow, of life.",
+      "JAPANESE": "人生の流れを、受け入れて。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980260"
+    },
+    {
+      "english": "Find joy, in small things.",
+      "JAPANESE": "小さなことに、喜びを見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980261"
+    },
+    {
+      "english": "Just notice, what is.",
+      "JAPANESE": "ただ、あるがままに、気づく。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980262"
+    },
+    {
+      "english": "Release attachment, find freedom.",
+      "JAPANESE": "執着を手放し、自由を見つける。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980263"
+    },
+    {
+      "english": "Just breathe, and let go.",
+      "JAPANESE": "ただ息をして、手放して。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980264"
+    },
+    {
+      "english": "Focus on, now. Not then.",
+      "JAPANESE": "今に集中。あの時じゃない。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980265"
+    },
+    {
+      "english": "One step, at a time.",
+      "JAPANESE": "一歩ずつ、進む。",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-17T21:15:35.980266"
     }
   ],
-  "last_updated": "2026-07-17T20:12:19.105826"
+  "last_updated": "2026-07-17T21:15:35.980267"
 }
