@@ -3359,7 +3359,727 @@
       "JAPANESE": "一歩ずつ、進む。",
       "category": "Mindfulness",
       "generated_at": "2026-07-17T21:15:35.980266"
+    },
+    {
+      "english": "Keep going, slowly.",
+      "JAPANESE": "ゆっくり, 進みましょう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028969"
+    },
+    {
+      "english": "Small wins, add up.",
+      "JAPANESE": "小さな成功, 積み重ねる。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028983"
+    },
+    {
+      "english": "Mistakes are, lessons.",
+      "JAPANESE": "間違いは, 教訓です。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028987"
+    },
+    {
+      "english": "Try again, stronger.",
+      "JAPANESE": "また挑戦, より強く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028989"
+    },
+    {
+      "english": "Each day, a new chance.",
+      "JAPANESE": "毎日は, 新しい機会。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028990"
+    },
+    {
+      "english": "Push through, the doubt.",
+      "JAPANESE": "疑いを, 乗り越えて。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028992"
+    },
+    {
+      "english": "You are, capable.",
+      "JAPANESE": "あなたには, 力がある。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028993"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "JAPANESE": "少しずつ, そこへ着く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028997"
+    },
+    {
+      "english": "Keep your, spirit high.",
+      "JAPANESE": "あなたの精神, 高く保つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.028998"
+    },
+    {
+      "english": "Focus on, progress.",
+      "JAPANESE": "進歩に, 集中する。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029000"
+    },
+    {
+      "english": "Never stop, learning.",
+      "JAPANESE": "学ぶのを, 止めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029001"
+    },
+    {
+      "english": "This effort, pays off.",
+      "JAPANESE": "この努力, 報われる。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029002"
+    },
+    {
+      "english": "Stay curious, always.",
+      "JAPANESE": "常に, 好奇心を持ち続ける。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029004"
+    },
+    {
+      "english": "Embrace the struggle.",
+      "JAPANESE": "苦労を, 受け入れよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029005"
+    },
+    {
+      "english": "Your path, unfolds.",
+      "JAPANESE": "あなたの道, 開いていく。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029006"
+    },
+    {
+      "english": "Keep planting, seeds.",
+      "JAPANESE": "種を, 蒔き続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029007"
+    },
+    {
+      "english": "Persistence, wins.",
+      "JAPANESE": "粘り強さ, 勝つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029008"
+    },
+    {
+      "english": "Believe in, your journey.",
+      "JAPANESE": "あなたの旅を, 信じて。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029009"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "JAPANESE": "前へ, 押し続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029010"
+    },
+    {
+      "english": "Don't quit, today.",
+      "JAPANESE": "今日, 辞めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029011"
+    },
+    {
+      "english": "Your will, is strong.",
+      "JAPANESE": "あなたの意志, 強い。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029012"
+    },
+    {
+      "english": "Adapt and, overcome.",
+      "JAPANESE": "適応して, 克服する。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029013"
+    },
+    {
+      "english": "See the, bigger picture.",
+      "JAPANESE": "大きな絵を, 見る。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029014"
+    },
+    {
+      "english": "Keep your, focus sharp.",
+      "JAPANESE": "集中力, 鋭く保つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029015"
+    },
+    {
+      "english": "You have, inner strength.",
+      "JAPANESE": "内なる強さ, 持っている。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029016"
+    },
+    {
+      "english": "Keep building, momentum.",
+      "JAPANESE": "勢いを, 作り続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029017"
+    },
+    {
+      "english": "The effort, is worth it.",
+      "JAPANESE": "その努力, 価値がある。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029018"
+    },
+    {
+      "english": "Keep your, hope alive.",
+      "JAPANESE": "希望を, 生かし続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029019"
+    },
+    {
+      "english": "Learn from, setbacks.",
+      "JAPANESE": "後退から, 学ぶ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029020"
+    },
+    {
+      "english": "Slowly but, surely.",
+      "JAPANESE": "ゆっくりでも, 確実に。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029020"
+    },
+    {
+      "english": "Your resilience, shines.",
+      "JAPANESE": "あなたの回復力, 輝く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029066"
+    },
+    {
+      "english": "Keep moving, towards.",
+      "JAPANESE": "向かって, 動き続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029067"
+    },
+    {
+      "english": "Don't be, afraid to fail.",
+      "JAPANESE": "失敗を, 恐れない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029070"
+    },
+    {
+      "english": "Each try, counts.",
+      "JAPANESE": "試みは, 全て数える。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029073"
+    },
+    {
+      "english": "Keep your, goal in sight.",
+      "JAPANESE": "目標を, 見失わない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029074"
+    },
+    {
+      "english": "You're stronger, than you think.",
+      "JAPANESE": "あなたが思うより, 強い。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029075"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "JAPANESE": "夢見るのを, 止めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029076"
+    },
+    {
+      "english": "Persist, and win.",
+      "JAPANESE": "粘り強く, 勝て。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029077"
+    },
+    {
+      "english": "Keep going, slowly.",
+      "JAPANESE": "ゆっくり, 進みましょう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029078"
+    },
+    {
+      "english": "Small wins, add up.",
+      "JAPANESE": "小さな成功, 積み重ねる。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029080"
+    },
+    {
+      "english": "Mistakes are, lessons.",
+      "JAPANESE": "間違いは, 教訓です。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029081"
+    },
+    {
+      "english": "Try again, stronger.",
+      "JAPANESE": "また挑戦, より強く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029082"
+    },
+    {
+      "english": "Each day, a new chance.",
+      "JAPANESE": "毎日は, 新しい機会。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029083"
+    },
+    {
+      "english": "Push through, the doubt.",
+      "JAPANESE": "疑いを, 乗り越えて。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029084"
+    },
+    {
+      "english": "You are, capable.",
+      "JAPANESE": "あなたには, 力がある。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029085"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "JAPANESE": "少しずつ, そこへ着く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029086"
+    },
+    {
+      "english": "Keep your, spirit high.",
+      "JAPANESE": "あなたの精神, 高く保つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029087"
+    },
+    {
+      "english": "Focus on, progress.",
+      "JAPANESE": "進歩に, 集中する。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029088"
+    },
+    {
+      "english": "Never stop, learning.",
+      "JAPANESE": "学ぶのを, 止めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029089"
+    },
+    {
+      "english": "This effort, pays off.",
+      "JAPANESE": "この努力, 報われる。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029090"
+    },
+    {
+      "english": "Stay curious, always.",
+      "JAPANESE": "常に, 好奇心を持ち続ける。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029091"
+    },
+    {
+      "english": "Embrace the struggle.",
+      "JAPANESE": "苦労を, 受け入れよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029092"
+    },
+    {
+      "english": "Your path, unfolds.",
+      "JAPANESE": "あなたの道, 開いていく。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029095"
+    },
+    {
+      "english": "Keep planting, seeds.",
+      "JAPANESE": "種を, 蒔き続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029096"
+    },
+    {
+      "english": "Persistence, wins.",
+      "JAPANESE": "粘り強さ, 勝つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029097"
+    },
+    {
+      "english": "Believe in, your journey.",
+      "JAPANESE": "あなたの旅を, 信じて。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029098"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "JAPANESE": "前へ, 押し続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029099"
+    },
+    {
+      "english": "Don't quit, today.",
+      "JAPANESE": "今日, 辞めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029100"
+    },
+    {
+      "english": "Your will, is strong.",
+      "JAPANESE": "あなたの意志, 強い。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029101"
+    },
+    {
+      "english": "Adapt and, overcome.",
+      "JAPANESE": "適応して, 克服する。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029102"
+    },
+    {
+      "english": "See the, bigger picture.",
+      "JAPANESE": "大きな絵を, 見る。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029103"
+    },
+    {
+      "english": "Keep your, focus sharp.",
+      "JAPANESE": "集中力, 鋭く保つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029103"
+    },
+    {
+      "english": "You have, inner strength.",
+      "JAPANESE": "内なる強さ, 持っている。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029104"
+    },
+    {
+      "english": "Keep building, momentum.",
+      "JAPANESE": "勢いを, 作り続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029105"
+    },
+    {
+      "english": "The effort, is worth it.",
+      "JAPANESE": "その努力, 価値がある。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029106"
+    },
+    {
+      "english": "Keep your, hope alive.",
+      "JAPANESE": "希望を, 生かし続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029107"
+    },
+    {
+      "english": "Learn from, setbacks.",
+      "JAPANESE": "後退から, 学ぶ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029108"
+    },
+    {
+      "english": "Slowly but, surely.",
+      "JAPANESE": "ゆっくりでも, 確実に。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029109"
+    },
+    {
+      "english": "Your resilience, shines.",
+      "JAPANESE": "あなたの回復力, 輝く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029110"
+    },
+    {
+      "english": "Keep moving, towards.",
+      "JAPANESE": "向かって, 動き続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029111"
+    },
+    {
+      "english": "Don't be, afraid to fail.",
+      "JAPANESE": "失敗を, 恐れない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029112"
+    },
+    {
+      "english": "Each try, counts.",
+      "JAPANESE": "試みは, 全て数える。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029112"
+    },
+    {
+      "english": "Keep your, goal in sight.",
+      "JAPANESE": "目標を, 見失わない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029113"
+    },
+    {
+      "english": "You're stronger, than you think.",
+      "JAPANESE": "あなたが思うより, 強い。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029114"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "JAPANESE": "夢見るのを, 止めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029115"
+    },
+    {
+      "english": "Persist, and win.",
+      "JAPANESE": "粘り強く, 勝て。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029116"
+    },
+    {
+      "english": "Keep going, slowly.",
+      "JAPANESE": "ゆっくり, 進みましょう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029117"
+    },
+    {
+      "english": "Small wins, add up.",
+      "JAPANESE": "小さな成功, 積み重ねる。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029118"
+    },
+    {
+      "english": "Mistakes are, lessons.",
+      "JAPANESE": "間違いは, 教訓です。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029119"
+    },
+    {
+      "english": "Try again, stronger.",
+      "JAPANESE": "また挑戦, より強く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029120"
+    },
+    {
+      "english": "Each day, a new chance.",
+      "JAPANESE": "毎日は, 新しい機会。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029121"
+    },
+    {
+      "english": "Push through, the doubt.",
+      "JAPANESE": "疑いを, 乗り越えて。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029122"
+    },
+    {
+      "english": "You are, capable.",
+      "JAPANESE": "あなたには, 力がある。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029123"
+    },
+    {
+      "english": "Little by little, we get there.",
+      "JAPANESE": "少しずつ, そこへ着く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029124"
+    },
+    {
+      "english": "Keep your, spirit high.",
+      "JAPANESE": "あなたの精神, 高く保つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029125"
+    },
+    {
+      "english": "Focus on, progress.",
+      "JAPANESE": "進歩に, 集中する。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029126"
+    },
+    {
+      "english": "Never stop, learning.",
+      "JAPANESE": "学ぶのを, 止めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029127"
+    },
+    {
+      "english": "This effort, pays off.",
+      "JAPANESE": "この努力, 報われる。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029128"
+    },
+    {
+      "english": "Stay curious, always.",
+      "JAPANESE": "常に, 好奇心を持ち続ける。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029129"
+    },
+    {
+      "english": "Embrace the struggle.",
+      "JAPANESE": "苦労を, 受け入れよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029130"
+    },
+    {
+      "english": "Your path, unfolds.",
+      "JAPANESE": "あなたの道, 開いていく。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029131"
+    },
+    {
+      "english": "Keep planting, seeds.",
+      "JAPANESE": "種を, 蒔き続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029132"
+    },
+    {
+      "english": "Persistence, wins.",
+      "JAPANESE": "粘り強さ, 勝つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029133"
+    },
+    {
+      "english": "Believe in, your journey.",
+      "JAPANESE": "あなたの旅を, 信じて。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029134"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "JAPANESE": "前へ, 押し続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029135"
+    },
+    {
+      "english": "Don't quit, today.",
+      "JAPANESE": "今日, 辞めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029138"
+    },
+    {
+      "english": "Your will, is strong.",
+      "JAPANESE": "あなたの意志, 強い。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029139"
+    },
+    {
+      "english": "Adapt and, overcome.",
+      "JAPANESE": "適応して, 克服する。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029140"
+    },
+    {
+      "english": "See the, bigger picture.",
+      "JAPANESE": "大きな絵を, 見る。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029142"
+    },
+    {
+      "english": "Keep your, focus sharp.",
+      "JAPANESE": "集中力, 鋭く保つ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029144"
+    },
+    {
+      "english": "You have, inner strength.",
+      "JAPANESE": "内なる強さ, 持っている。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029146"
+    },
+    {
+      "english": "Keep building, momentum.",
+      "JAPANESE": "勢いを, 作り続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029146"
+    },
+    {
+      "english": "The effort, is worth it.",
+      "JAPANESE": "その努力, 価値がある。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029147"
+    },
+    {
+      "english": "Keep your, hope alive.",
+      "JAPANESE": "希望を, 生かし続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029150"
+    },
+    {
+      "english": "Learn from, setbacks.",
+      "JAPANESE": "後退から, 学ぶ。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029151"
+    },
+    {
+      "english": "Slowly but, surely.",
+      "JAPANESE": "ゆっくりでも, 確実に。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029152"
+    },
+    {
+      "english": "Your resilience, shines.",
+      "JAPANESE": "あなたの回復力, 輝く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029153"
+    },
+    {
+      "english": "Keep moving, towards.",
+      "JAPANESE": "向かって, 動き続けよう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029154"
+    },
+    {
+      "english": "Don't be, afraid to fail.",
+      "JAPANESE": "失敗を, 恐れない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029155"
+    },
+    {
+      "english": "Each try, counts.",
+      "JAPANESE": "試みは, 全て数える。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029156"
+    },
+    {
+      "english": "Keep your, goal in sight.",
+      "JAPANESE": "目標を, 見失わない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029157"
+    },
+    {
+      "english": "You're stronger, than you think.",
+      "JAPANESE": "あなたが思うより, 強い。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029158"
+    },
+    {
+      "english": "Never stop, dreaming.",
+      "JAPANESE": "夢見るのを, 止めない。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029159"
+    },
+    {
+      "english": "Persist, and win.",
+      "JAPANESE": "粘り強く, 勝て。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029161"
+    },
+    {
+      "english": "Keep going, slowly.",
+      "JAPANESE": "ゆっくり, 進みましょう。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029162"
+    },
+    {
+      "english": "Small wins, add up.",
+      "JAPANESE": "小さな成功, 積み重ねる。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029163"
+    },
+    {
+      "english": "Mistakes are, lessons.",
+      "JAPANESE": "間違いは, 教訓です。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029164"
+    },
+    {
+      "english": "Try again, stronger.",
+      "JAPANESE": "また挑戦, より強く。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029164"
+    },
+    {
+      "english": "Each day, a new chance.",
+      "JAPANESE": "毎日は, 新しい機会。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029165"
+    },
+    {
+      "english": "Push through, the doubt.",
+      "JAPANESE": "疑いを, 乗り越えて。",
+      "category": "Perseverance",
+      "generated_at": "2026-07-18T03:50:57.029166"
     }
   ],
-  "last_updated": "2026-07-17T21:15:35.980267"
+  "last_updated": "2026-07-18T03:50:57.029169"
 }
