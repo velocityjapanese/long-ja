@@ -4079,7 +4079,727 @@
       "JAPANESE": "疑いを, 乗り越えて。",
       "category": "Perseverance",
       "generated_at": "2026-07-18T03:50:57.029166"
+    },
+    {
+      "english": "Tiny steps, make big waves.",
+      "JAPANESE": "小さな一歩が、大きな波を作る。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629948"
+    },
+    {
+      "english": "Your past, shapes your future.",
+      "JAPANESE": "過去は、未来を形作る。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629957"
+    },
+    {
+      "english": "Wisdom grows, with every age.",
+      "JAPANESE": "知恵は、年と共に育つ。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629958"
+    },
+    {
+      "english": "Kindness, is a silent power.",
+      "JAPANESE": "優しさは、静かな力。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629960"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "JAPANESE": "好奇心は、扉を開ける。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629961"
+    },
+    {
+      "english": "Your heart, is your compass.",
+      "JAPANESE": "心は、あなたの羅針盤。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629962"
+    },
+    {
+      "english": "Patience, is a quiet art.",
+      "JAPANESE": "忍耐は、静かな芸術。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629964"
+    },
+    {
+      "english": "A smile, can change a day.",
+      "JAPANESE": "笑顔は、一日を変える。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629966"
+    },
+    {
+      "english": "Gratitude, makes you richer.",
+      "JAPANESE": "感謝は、あなたを豊かにする。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629968"
+    },
+    {
+      "english": "Learn from, everyone you meet.",
+      "JAPANESE": "出会うすべての人から学べ。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629969"
+    },
+    {
+      "english": "Your mind, is a garden.",
+      "JAPANESE": "心は、あなたの庭。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629970"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "JAPANESE": "共感は、私たちを繋ぐ。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629971"
+    },
+    {
+      "english": "Courage, isn't loud.",
+      "JAPANESE": "勇気は、うるさくない。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629973"
+    },
+    {
+      "english": "Your actions, speak loudest.",
+      "JAPANESE": "あなたの行動が、一番語る。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629973"
+    },
+    {
+      "english": "True strength, is gentle.",
+      "JAPANESE": "真の強さは、優しい。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629975"
+    },
+    {
+      "english": "Inner peace, is a treasure.",
+      "JAPANESE": "心の平穏は、宝物。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629976"
+    },
+    {
+      "english": "Humility, opens doors.",
+      "JAPANESE": "謙虚さは、扉を開ける。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629977"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "JAPANESE": "許しは、あなたを解放する。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629981"
+    },
+    {
+      "english": "Be present, in the moment.",
+      "JAPANESE": "今を、大切に生きる。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629982"
+    },
+    {
+      "english": "Your spirit, is unbreakable.",
+      "JAPANESE": "あなたの精神は、壊せない。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.629983"
+    },
+    {
+      "english": "Good deeds, echo far.",
+      "JAPANESE": "善行は、遠くまで響く。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630015"
+    },
+    {
+      "english": "Silence, has its own wisdom.",
+      "JAPANESE": "沈黙には、独自の知恵がある。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630017"
+    },
+    {
+      "english": "A calm sea, reflects well.",
+      "JAPANESE": "穏やかな海は、よく映る。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630018"
+    },
+    {
+      "english": "Truth, is always simple.",
+      "JAPANESE": "真実は、いつも単純。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630019"
+    },
+    {
+      "english": "Your voice, matters.",
+      "JAPANESE": "あなたの声は、重要。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630020"
+    },
+    {
+      "english": "Seek understanding, always.",
+      "JAPANESE": "常に、理解を求める。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630021"
+    },
+    {
+      "english": "Joy, is in the small things.",
+      "JAPANESE": "喜びは、小さなことにある。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630022"
+    },
+    {
+      "english": "Patience, bears sweet fruit.",
+      "JAPANESE": "忍耐は、甘い実を結ぶ。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630023"
+    },
+    {
+      "english": "A soft heart, can be strong.",
+      "JAPANESE": "柔らかい心は、強い。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630024"
+    },
+    {
+      "english": "Integrity, is your bedrock.",
+      "JAPANESE": "誠実さは、あなたの土台。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630026"
+    },
+    {
+      "english": "Quiet effort, wins respect.",
+      "JAPANESE": "静かな努力は、尊敬を得る。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630027"
+    },
+    {
+      "english": "Your spirit, can soar.",
+      "JAPANESE": "あなたの精神は、舞い上がれる。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630028"
+    },
+    {
+      "english": "Growth, takes time.",
+      "JAPANESE": "成長には、時間がかかる。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630029"
+    },
+    {
+      "english": "Your focus, is a superpower.",
+      "JAPANESE": "集中力は、超能力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630030"
+    },
+    {
+      "english": "Small steps, build mountains.",
+      "JAPANESE": "小さな一歩は、山を築きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630031"
+    },
+    {
+      "english": "Learning, never stops.",
+      "JAPANESE": "学びは、止まりません。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630032"
+    },
+    {
+      "english": "Patience, unlocks doors.",
+      "JAPANESE": "忍耐は、扉を開きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630034"
+    },
+    {
+      "english": "Embrace the challenge, grow.",
+      "JAPANESE": "挑戦を受け入れ、成長しましょう。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630035"
+    },
+    {
+      "english": "Your effort, matters greatly.",
+      "JAPANESE": "あなたの努力は、とても重要です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630036"
+    },
+    {
+      "english": "Kindness, is a quiet force.",
+      "JAPANESE": "優しさは、静かな力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630037"
+    },
+    {
+      "english": "Curiosity, lights the way.",
+      "JAPANESE": "好奇心は、道を照らします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630038"
+    },
+    {
+      "english": "Your voice, has power.",
+      "JAPANESE": "あなたの声は、力を持っています。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630039"
+    },
+    {
+      "english": "Grit, carves your path.",
+      "JAPANESE": "根性は、道を切り開きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630040"
+    },
+    {
+      "english": "Adaptability, is key.",
+      "JAPANESE": "適応力は、鍵です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630041"
+    },
+    {
+      "english": "Your creativity, knows no bounds.",
+      "JAPANESE": "あなたの創造性は、限界を知りません。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630042"
+    },
+    {
+      "english": "Believe in, the process.",
+      "JAPANESE": "プロセスを、信じましょう。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630043"
+    },
+    {
+      "english": "Courage, fuels progress.",
+      "JAPANESE": "勇気は、進歩を促します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630044"
+    },
+    {
+      "english": "Your passion, is infectious.",
+      "JAPANESE": "あなたの情熱は、伝染します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630045"
+    },
+    {
+      "english": "Determination, achieves goals.",
+      "JAPANESE": "決意は、目標を達成します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630046"
+    },
+    {
+      "english": "Your resilience, is inspiring.",
+      "JAPANESE": "あなたの回復力は、感動的です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630047"
+    },
+    {
+      "english": "Practice, makes perfect.",
+      "JAPANESE": "練習は、完璧にします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630048"
+    },
+    {
+      "english": "Your insight, is valuable.",
+      "JAPANESE": "あなたの洞察は、価値があります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630049"
+    },
+    {
+      "english": "Integrity, guides actions.",
+      "JAPANESE": "誠実さは、行動を導きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630050"
+    },
+    {
+      "english": "The will to learn, is power.",
+      "JAPANESE": "学ぶ意欲は、力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630052"
+    },
+    {
+      "english": "Your intuition, is reliable.",
+      "JAPANESE": "あなたの直感は、信頼できます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630053"
+    },
+    {
+      "english": "Empathy, connects people.",
+      "JAPANESE": "共感は、人々をつなぎます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630054"
+    },
+    {
+      "english": "Your vision, shapes the future.",
+      "JAPANESE": "あなたのビジョンは、未来を形作ります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630055"
+    },
+    {
+      "english": "Humility, fosters respect.",
+      "JAPANESE": "謙虚さは、尊敬を育みます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630056"
+    },
+    {
+      "english": "Your dedication, is admirable.",
+      "JAPANESE": "あなたの献身は、称賛に値します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630057"
+    },
+    {
+      "english": "Wisdom, comes with time.",
+      "JAPANESE": "知恵は、時間と共に来ます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630058"
+    },
+    {
+      "english": "Your spirit, is unbreakable.",
+      "JAPANESE": "あなたの精神は、壊せません。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630059"
+    },
+    {
+      "english": "Forgiveness, brings peace.",
+      "JAPANESE": "許しは、平和をもたらします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630060"
+    },
+    {
+      "english": "Your effort, compounds.",
+      "JAPANESE": "あなたの努力は、複利です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630061"
+    },
+    {
+      "english": "Vulnerability, is brave.",
+      "JAPANESE": "弱さをさらけ出すことは、勇敢です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630062"
+    },
+    {
+      "english": "Your kindness, ripples outward.",
+      "JAPANESE": "あなたの優しさは、外に広がります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630063"
+    },
+    {
+      "english": "Leadership, inspires others.",
+      "JAPANESE": "リーダーシップは、他者を鼓舞します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630064"
+    },
+    {
+      "english": "Your grit, fuels dreams.",
+      "JAPANESE": "あなたの根性は、夢を燃やします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630065"
+    },
+    {
+      "english": "Gratitude, enriches life.",
+      "JAPANESE": "感謝は、人生を豊かにします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630066"
+    },
+    {
+      "english": "Your perseverance, pays off.",
+      "JAPANESE": "あなたの忍耐は、報われます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630067"
+    },
+    {
+      "english": "Focus, unlocks potential.",
+      "JAPANESE": "集中は、可能性を開きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630068"
+    },
+    {
+      "english": "Your belief, is powerful.",
+      "JAPANESE": "あなたの信念は、強力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630069"
+    },
+    {
+      "english": "Growth, happens gradually.",
+      "JAPANESE": "成長は、徐々に起こります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630070"
+    },
+    {
+      "english": "Your focus, is a superpower.",
+      "JAPANESE": "集中力は、超能力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630071"
+    },
+    {
+      "english": "Small steps, build mountains.",
+      "JAPANESE": "小さな一歩は、山を築きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630072"
+    },
+    {
+      "english": "Learning, never stops.",
+      "JAPANESE": "学びは、止まりません。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630073"
+    },
+    {
+      "english": "Patience, unlocks doors.",
+      "JAPANESE": "忍耐は、扉を開きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630074"
+    },
+    {
+      "english": "Embrace the challenge, grow.",
+      "JAPANESE": "挑戦を受け入れ、成長しましょう。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630075"
+    },
+    {
+      "english": "Your effort, matters greatly.",
+      "JAPANESE": "あなたの努力は、とても重要です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630076"
+    },
+    {
+      "english": "Kindness, is a quiet force.",
+      "JAPANESE": "優しさは、静かな力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630077"
+    },
+    {
+      "english": "Curiosity, lights the way.",
+      "JAPANESE": "好奇心は、道を照らします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630078"
+    },
+    {
+      "english": "Your voice, has power.",
+      "JAPANESE": "あなたの声は、力を持っています。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630081"
+    },
+    {
+      "english": "Grit, carves your path.",
+      "JAPANESE": "根性は、道を切り開きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630084"
+    },
+    {
+      "english": "Adaptability, is key.",
+      "JAPANESE": "適応力は、鍵です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630085"
+    },
+    {
+      "english": "Your creativity, knows no bounds.",
+      "JAPANESE": "あなたの創造性は、限界を知りません。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630086"
+    },
+    {
+      "english": "Believe in, the process.",
+      "JAPANESE": "プロセスを、信じましょう。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630087"
+    },
+    {
+      "english": "Courage, fuels progress.",
+      "JAPANESE": "勇気は、進歩を促します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630088"
+    },
+    {
+      "english": "Your passion, is infectious.",
+      "JAPANESE": "あなたの情熱は、伝染します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630089"
+    },
+    {
+      "english": "Determination, achieves goals.",
+      "JAPANESE": "決意は、目標を達成します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630090"
+    },
+    {
+      "english": "Your resilience, is inspiring.",
+      "JAPANESE": "あなたの回復力は、感動的です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630091"
+    },
+    {
+      "english": "Practice, makes perfect.",
+      "JAPANESE": "練習は、完璧にします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630092"
+    },
+    {
+      "english": "Your insight, is valuable.",
+      "JAPANESE": "あなたの洞察は、価値があります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630093"
+    },
+    {
+      "english": "Integrity, guides actions.",
+      "JAPANESE": "誠実さは、行動を導きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630094"
+    },
+    {
+      "english": "The will to learn, is power.",
+      "JAPANESE": "学ぶ意欲は、力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630095"
+    },
+    {
+      "english": "Your intuition, is reliable.",
+      "JAPANESE": "あなたの直感は、信頼できます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630096"
+    },
+    {
+      "english": "Empathy, connects people.",
+      "JAPANESE": "共感は、人々をつなぎます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630097"
+    },
+    {
+      "english": "Your vision, shapes the future.",
+      "JAPANESE": "あなたのビジョンは、未来を形作ります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630098"
+    },
+    {
+      "english": "Humility, fosters respect.",
+      "JAPANESE": "謙虚さは、尊敬を育みます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630099"
+    },
+    {
+      "english": "Your dedication, is admirable.",
+      "JAPANESE": "あなたの献身は、称賛に値します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630100"
+    },
+    {
+      "english": "Wisdom, comes with time.",
+      "JAPANESE": "知恵は、時間と共に来ます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630101"
+    },
+    {
+      "english": "Your spirit, is unbreakable.",
+      "JAPANESE": "あなたの精神は、壊せません。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630102"
+    },
+    {
+      "english": "Forgiveness, brings peace.",
+      "JAPANESE": "許しは、平和をもたらします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630103"
+    },
+    {
+      "english": "Your effort, compounds.",
+      "JAPANESE": "あなたの努力は、複利です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630104"
+    },
+    {
+      "english": "Vulnerability, is brave.",
+      "JAPANESE": "弱さをさらけ出すことは、勇敢です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630105"
+    },
+    {
+      "english": "Your kindness, ripples outward.",
+      "JAPANESE": "あなたの優しさは、外に広がります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630106"
+    },
+    {
+      "english": "Leadership, inspires others.",
+      "JAPANESE": "リーダーシップは、他者を鼓舞します。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630107"
+    },
+    {
+      "english": "Your grit, fuels dreams.",
+      "JAPANESE": "あなたの根性は、夢を燃やします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630108"
+    },
+    {
+      "english": "Gratitude, enriches life.",
+      "JAPANESE": "感謝は、人生を豊かにします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630109"
+    },
+    {
+      "english": "Your perseverance, pays off.",
+      "JAPANESE": "あなたの忍耐は、報われます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630110"
+    },
+    {
+      "english": "Focus, unlocks potential.",
+      "JAPANESE": "集中は、可能性を開きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630111"
+    },
+    {
+      "english": "Your belief, is powerful.",
+      "JAPANESE": "あなたの信念は、強力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630112"
+    },
+    {
+      "english": "Growth, happens gradually.",
+      "JAPANESE": "成長は、徐々に起こります。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630113"
+    },
+    {
+      "english": "Your focus, is a superpower.",
+      "JAPANESE": "集中力は、超能力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630114"
+    },
+    {
+      "english": "Small steps, build mountains.",
+      "JAPANESE": "小さな一歩は、山を築きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630115"
+    },
+    {
+      "english": "Learning, never stops.",
+      "JAPANESE": "学びは、止まりません。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630116"
+    },
+    {
+      "english": "Patience, unlocks doors.",
+      "JAPANESE": "忍耐は、扉を開きます。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630117"
+    },
+    {
+      "english": "Embrace the challenge, grow.",
+      "JAPANESE": "挑戦を受け入れ、成長しましょう。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630118"
+    },
+    {
+      "english": "Your effort, matters greatly.",
+      "JAPANESE": "あなたの努力は、とても重要です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630120"
+    },
+    {
+      "english": "Kindness, is a quiet force.",
+      "JAPANESE": "優しさは、静かな力です。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630121"
+    },
+    {
+      "english": "Curiosity, lights the way.",
+      "JAPANESE": "好奇心は、道を照らします。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630122"
+    },
+    {
+      "english": "Your voice, has power.",
+      "JAPANESE": "あなたの声は、力を持っています。",
+      "category": "Strength",
+      "generated_at": "2026-07-19T01:47:59.630123"
     }
   ],
-  "last_updated": "2026-07-18T03:50:57.029169"
+  "last_updated": "2026-07-19T01:47:59.630125"
 }
