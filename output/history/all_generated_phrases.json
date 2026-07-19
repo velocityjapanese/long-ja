@@ -5519,7 +5519,727 @@
       "JAPANESE": "言ってみよう、理解しよう。",
       "category": "Motivation",
       "generated_at": "2026-07-19T02:02:30.144130"
+    },
+    {
+      "english": "Taste the flavors, of new words.",
+      "JAPANESE": "新しい味, 楽しんで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021948"
+    },
+    {
+      "english": "Build bridges, with kind words.",
+      "JAPANESE": "優しい言葉で, 繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021963"
+    },
+    {
+      "english": "See the world, through new eyes.",
+      "JAPANESE": "新しい目で, 世界を見よう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021965"
+    },
+    {
+      "english": "Share your heart, in Japanese.",
+      "JAPANESE": "あなたの心を, 伝えよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021966"
+    },
+    {
+      "english": "Find your rhythm, in speaking.",
+      "JAPANESE": "話すリズム, 見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021967"
+    },
+    {
+      "english": "Grow your world, one phrase at a time.",
+      "JAPANESE": "一つずつ, 世界を広げよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021968"
+    },
+    {
+      "english": "Listen to the whispers, of Japan.",
+      "JAPANESE": "日本の囁き, 聞いてみよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021969"
+    },
+    {
+      "english": "Make connections, with simple sounds.",
+      "JAPANESE": "簡単な音で, 繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021974"
+    },
+    {
+      "english": "Discover joy, in every sentence.",
+      "JAPANESE": "毎文に, 喜びを見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021975"
+    },
+    {
+      "english": "Express yourself, beautifully.",
+      "JAPANESE": "自分らしく, 表現しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021977"
+    },
+    {
+      "english": "Paint your story, with Japanese.",
+      "JAPANESE": "日本語で, 物語を描こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021978"
+    },
+    {
+      "english": "Feel the culture, in your words.",
+      "JAPANESE": "言葉で, 文化を感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021979"
+    },
+    {
+      "english": "Unravel mysteries, with new phrases.",
+      "JAPANESE": "新しいフレーズで, 謎を解こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021980"
+    },
+    {
+      "english": "Let understanding, blossom gently.",
+      "JAPANESE": "優しく, 理解を咲かせよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021981"
+    },
+    {
+      "english": "Embrace the journey, with a smile.",
+      "JAPANESE": "笑顔で, 旅を楽しもう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021982"
+    },
+    {
+      "english": "Your ideas, find a voice here.",
+      "JAPANESE": "あなたの考え, ここで声になる。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021983"
+    },
+    {
+      "english": "Sow seeds, of conversation.",
+      "JAPANESE": "会話の種を, 蒔こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021984"
+    },
+    {
+      "english": "Hear the music, of the language.",
+      "JAPANESE": "言葉の音楽, 聞いてみよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021985"
+    },
+    {
+      "english": "Open doors, to new friendships.",
+      "JAPANESE": "新しい友情へ, ドアを開けよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021986"
+    },
+    {
+      "english": "Reflect your spirit, in speech.",
+      "JAPANESE": "あなたの魂, 言葉に映そう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021987"
+    },
+    {
+      "english": "Feel the flow, of Japanese.",
+      "JAPANESE": "日本語の, 流れを感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021988"
+    },
+    {
+      "english": "Discover your voice, in Japan.",
+      "JAPANESE": "日本で, あなたの声を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021989"
+    },
+    {
+      "english": "Let kindness, be your guide.",
+      "JAPANESE": "優しさを, 頼りにしよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021990"
+    },
+    {
+      "english": "Build confidence, word by word.",
+      "JAPANESE": "一語ずつ, 自信を築こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021991"
+    },
+    {
+      "english": "Share a smile, in any language.",
+      "JAPANESE": "どんな言葉でも, 笑顔を共有しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021992"
+    },
+    {
+      "english": "Connect deeply, with simple phrases.",
+      "JAPANESE": "簡単なフレーズで, 深く繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021993"
+    },
+    {
+      "english": "Illuminate your path, with knowledge.",
+      "JAPANESE": "知識で, あなたの道を照らそう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021994"
+    },
+    {
+      "english": "Let your enthusiasm, shine bright.",
+      "JAPANESE": "あなたの熱意を, 輝かせよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021995"
+    },
+    {
+      "english": "Find peace, in mindful speaking.",
+      "JAPANESE": "穏やかな話し方で, 平和を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021996"
+    },
+    {
+      "english": "Gather moments, of beautiful sound.",
+      "JAPANESE": "美しい音の, 瞬間を集めよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021997"
+    },
+    {
+      "english": "Spark joy, with every greeting.",
+      "JAPANESE": "挨拶で, 喜びを spark しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021997"
+    },
+    {
+      "english": "Understand the heart, behind words.",
+      "JAPANESE": "言葉の裏にある, 心を理解しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021998"
+    },
+    {
+      "english": "Navigate life, with new phrases.",
+      "JAPANESE": "新しいフレーズで, 人生を navigated しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.021999"
+    },
+    {
+      "english": "Express gratitude, in Japanese.",
+      "JAPANESE": "日本語で, 感謝を伝えよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022000"
+    },
+    {
+      "english": "Grow your confidence, naturally.",
+      "JAPANESE": "自然に, 自信を育てよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022001"
+    },
+    {
+      "english": "Weave connections, with simple words.",
+      "JAPANESE": "簡単な言葉で, 繋がりを woven しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022001"
+    },
+    {
+      "english": "Feel the pulse, of communication.",
+      "JAPANESE": "コミュニケーションの, pulse を感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022002"
+    },
+    {
+      "english": "Create harmony, with your voice.",
+      "JAPANESE": "あなたの声で, 調和を create しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022004"
+    },
+    {
+      "english": "Find your inner peace, through speech.",
+      "JAPANESE": "話し方を通して, 内なる平和を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022006"
+    },
+    {
+      "english": "Embrace the journey, with open heart.",
+      "JAPANESE": "開かれた心で, 旅を受け入れよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022007"
+    },
+    {
+      "english": "Taste the flavors, of new words.",
+      "JAPANESE": "新しい味, 楽しんで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022008"
+    },
+    {
+      "english": "Build bridges, with kind words.",
+      "JAPANESE": "優しい言葉で, 繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022009"
+    },
+    {
+      "english": "See the world, through new eyes.",
+      "JAPANESE": "新しい目で, 世界を見よう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022010"
+    },
+    {
+      "english": "Share your heart, in Japanese.",
+      "JAPANESE": "あなたの心を, 伝えよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022011"
+    },
+    {
+      "english": "Find your rhythm, in speaking.",
+      "JAPANESE": "話すリズム, 見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022012"
+    },
+    {
+      "english": "Grow your world, one phrase at a time.",
+      "JAPANESE": "一つずつ, 世界を広げよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022013"
+    },
+    {
+      "english": "Listen to the whispers, of Japan.",
+      "JAPANESE": "日本の囁き, 聞いてみよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022014"
+    },
+    {
+      "english": "Make connections, with simple sounds.",
+      "JAPANESE": "簡単な音で, 繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022015"
+    },
+    {
+      "english": "Discover joy, in every sentence.",
+      "JAPANESE": "毎文に, 喜びを見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022015"
+    },
+    {
+      "english": "Express yourself, beautifully.",
+      "JAPANESE": "自分らしく, 表現しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022016"
+    },
+    {
+      "english": "Paint your story, with Japanese.",
+      "JAPANESE": "日本語で, 物語を描こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022017"
+    },
+    {
+      "english": "Feel the culture, in your words.",
+      "JAPANESE": "言葉で, 文化を感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022018"
+    },
+    {
+      "english": "Unravel mysteries, with new phrases.",
+      "JAPANESE": "新しいフレーズで, 謎を解こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022019"
+    },
+    {
+      "english": "Let understanding, blossom gently.",
+      "JAPANESE": "優しく, 理解を咲かせよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022021"
+    },
+    {
+      "english": "Embrace the journey, with a smile.",
+      "JAPANESE": "笑顔で, 旅を楽しもう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022024"
+    },
+    {
+      "english": "Your ideas, find a voice here.",
+      "JAPANESE": "あなたの考え, ここで声になる。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022025"
+    },
+    {
+      "english": "Sow seeds, of conversation.",
+      "JAPANESE": "会話の種を, 蒔こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022026"
+    },
+    {
+      "english": "Hear the music, of the language.",
+      "JAPANESE": "言葉の音楽, 聞いてみよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022026"
+    },
+    {
+      "english": "Open doors, to new friendships.",
+      "JAPANESE": "新しい友情へ, ドアを開けよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022027"
+    },
+    {
+      "english": "Reflect your spirit, in speech.",
+      "JAPANESE": "あなたの魂, 言葉に映そう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022028"
+    },
+    {
+      "english": "Feel the flow, of Japanese.",
+      "JAPANESE": "日本語の, 流れを感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022029"
+    },
+    {
+      "english": "Discover your voice, in Japan.",
+      "JAPANESE": "日本で, あなたの声を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022030"
+    },
+    {
+      "english": "Let kindness, be your guide.",
+      "JAPANESE": "優しさを, 頼りにしよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022031"
+    },
+    {
+      "english": "Build confidence, word by word.",
+      "JAPANESE": "一語ずつ, 自信を築こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022031"
+    },
+    {
+      "english": "Share a smile, in any language.",
+      "JAPANESE": "どんな言葉でも, 笑顔を共有しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022032"
+    },
+    {
+      "english": "Connect deeply, with simple phrases.",
+      "JAPANESE": "簡単なフレーズで, 深く繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022033"
+    },
+    {
+      "english": "Illuminate your path, with knowledge.",
+      "JAPANESE": "知識で, あなたの道を照らそう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022034"
+    },
+    {
+      "english": "Let your enthusiasm, shine bright.",
+      "JAPANESE": "あなたの熱意を, 輝かせよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022035"
+    },
+    {
+      "english": "Find peace, in mindful speaking.",
+      "JAPANESE": "穏やかな話し方で, 平和を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022036"
+    },
+    {
+      "english": "Gather moments, of beautiful sound.",
+      "JAPANESE": "美しい音の, 瞬間を集めよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022037"
+    },
+    {
+      "english": "Spark joy, with every greeting.",
+      "JAPANESE": "挨拶で, 喜びを spark しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022038"
+    },
+    {
+      "english": "Understand the heart, behind words.",
+      "JAPANESE": "言葉の裏にある, 心を理解しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022039"
+    },
+    {
+      "english": "Navigate life, with new phrases.",
+      "JAPANESE": "新しいフレーズで, 人生を navigated しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022040"
+    },
+    {
+      "english": "Express gratitude, in Japanese.",
+      "JAPANESE": "日本語で, 感謝を伝えよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022041"
+    },
+    {
+      "english": "Grow your confidence, naturally.",
+      "JAPANESE": "自然に, 自信を育てよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022042"
+    },
+    {
+      "english": "Weave connections, with simple words.",
+      "JAPANESE": "簡単な言葉で, 繋がりを woven しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022043"
+    },
+    {
+      "english": "Feel the pulse, of communication.",
+      "JAPANESE": "コミュニケーションの, pulse を感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022043"
+    },
+    {
+      "english": "Create harmony, with your voice.",
+      "JAPANESE": "あなたの声で, 調和を create しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022044"
+    },
+    {
+      "english": "Find your inner peace, through speech.",
+      "JAPANESE": "話し方を通して, 内なる平和を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022045"
+    },
+    {
+      "english": "Embrace the journey, with open heart.",
+      "JAPANESE": "開かれた心で, 旅を受け入れよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022046"
+    },
+    {
+      "english": "Taste the flavors, of new words.",
+      "JAPANESE": "新しい味, 楽しんで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022047"
+    },
+    {
+      "english": "Build bridges, with kind words.",
+      "JAPANESE": "優しい言葉で, 繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022048"
+    },
+    {
+      "english": "See the world, through new eyes.",
+      "JAPANESE": "新しい目で, 世界を見よう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022049"
+    },
+    {
+      "english": "Share your heart, in Japanese.",
+      "JAPANESE": "あなたの心を, 伝えよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022050"
+    },
+    {
+      "english": "Find your rhythm, in speaking.",
+      "JAPANESE": "話すリズム, 見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022051"
+    },
+    {
+      "english": "Grow your world, one phrase at a time.",
+      "JAPANESE": "一つずつ, 世界を広げよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022051"
+    },
+    {
+      "english": "Listen to the whispers, of Japan.",
+      "JAPANESE": "日本の囁き, 聞いてみよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022052"
+    },
+    {
+      "english": "Make connections, with simple sounds.",
+      "JAPANESE": "簡単な音で, 繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022053"
+    },
+    {
+      "english": "Discover joy, in every sentence.",
+      "JAPANESE": "毎文に, 喜びを見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022054"
+    },
+    {
+      "english": "Express yourself, beautifully.",
+      "JAPANESE": "自分らしく, 表現しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022055"
+    },
+    {
+      "english": "Paint your story, with Japanese.",
+      "JAPANESE": "日本語で, 物語を描こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022055"
+    },
+    {
+      "english": "Feel the culture, in your words.",
+      "JAPANESE": "言葉で, 文化を感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022056"
+    },
+    {
+      "english": "Unravel mysteries, with new phrases.",
+      "JAPANESE": "新しいフレーズで, 謎を解こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022057"
+    },
+    {
+      "english": "Let understanding, blossom gently.",
+      "JAPANESE": "優しく, 理解を咲かせよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022058"
+    },
+    {
+      "english": "Embrace the journey, with a smile.",
+      "JAPANESE": "笑顔で, 旅を楽しもう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022059"
+    },
+    {
+      "english": "Your ideas, find a voice here.",
+      "JAPANESE": "あなたの考え, ここで声になる。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022059"
+    },
+    {
+      "english": "Sow seeds, of conversation.",
+      "JAPANESE": "会話の種を, 蒔こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022060"
+    },
+    {
+      "english": "Hear the music, of the language.",
+      "JAPANESE": "言葉の音楽, 聞いてみよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022061"
+    },
+    {
+      "english": "Open doors, to new friendships.",
+      "JAPANESE": "新しい友情へ, ドアを開けよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022062"
+    },
+    {
+      "english": "Reflect your spirit, in speech.",
+      "JAPANESE": "あなたの魂, 言葉に映そう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022062"
+    },
+    {
+      "english": "Feel the flow, of Japanese.",
+      "JAPANESE": "日本語の, 流れを感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022064"
+    },
+    {
+      "english": "Discover your voice, in Japan.",
+      "JAPANESE": "日本で, あなたの声を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022065"
+    },
+    {
+      "english": "Let kindness, be your guide.",
+      "JAPANESE": "優しさを, 頼りにしよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022066"
+    },
+    {
+      "english": "Build confidence, word by word.",
+      "JAPANESE": "一語ずつ, 自信を築こう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022067"
+    },
+    {
+      "english": "Share a smile, in any language.",
+      "JAPANESE": "どんな言葉でも, 笑顔を共有しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022067"
+    },
+    {
+      "english": "Connect deeply, with simple phrases.",
+      "JAPANESE": "簡単なフレーズで, 深く繋がろう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022068"
+    },
+    {
+      "english": "Illuminate your path, with knowledge.",
+      "JAPANESE": "知識で, あなたの道を照らそう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022069"
+    },
+    {
+      "english": "Let your enthusiasm, shine bright.",
+      "JAPANESE": "あなたの熱意を, 輝かせよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022070"
+    },
+    {
+      "english": "Find peace, in mindful speaking.",
+      "JAPANESE": "穏やかな話し方で, 平和を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022071"
+    },
+    {
+      "english": "Gather moments, of beautiful sound.",
+      "JAPANESE": "美しい音の, 瞬間を集めよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022071"
+    },
+    {
+      "english": "Spark joy, with every greeting.",
+      "JAPANESE": "挨拶で, 喜びを spark しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022072"
+    },
+    {
+      "english": "Understand the heart, behind words.",
+      "JAPANESE": "言葉の裏にある, 心を理解しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022073"
+    },
+    {
+      "english": "Navigate life, with new phrases.",
+      "JAPANESE": "新しいフレーズで, 人生を navigated しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022074"
+    },
+    {
+      "english": "Express gratitude, in Japanese.",
+      "JAPANESE": "日本語で, 感謝を伝えよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022074"
+    },
+    {
+      "english": "Grow your confidence, naturally.",
+      "JAPANESE": "自然に, 自信を育てよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022075"
+    },
+    {
+      "english": "Weave connections, with simple words.",
+      "JAPANESE": "簡単な言葉で, 繋がりを woven しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022076"
+    },
+    {
+      "english": "Feel the pulse, of communication.",
+      "JAPANESE": "コミュニケーションの, pulse を感じよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022077"
+    },
+    {
+      "english": "Create harmony, with your voice.",
+      "JAPANESE": "あなたの声で, 調和を create しよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022078"
+    },
+    {
+      "english": "Find your inner peace, through speech.",
+      "JAPANESE": "話し方を通して, 内なる平和を見つけよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022078"
+    },
+    {
+      "english": "Embrace the journey, with open heart.",
+      "JAPANESE": "開かれた心で, 旅を受け入れよう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-19T04:19:08.022079"
     }
   ],
-  "last_updated": "2026-07-19T02:02:30.144131"
+  "last_updated": "2026-07-19T04:19:08.022081"
 }
