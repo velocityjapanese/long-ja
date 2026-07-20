@@ -6239,7 +6239,727 @@
       "JAPANESE": "開かれた心で, 旅を受け入れよう。",
       "category": "Purpose",
       "generated_at": "2026-07-19T04:19:08.022079"
+    },
+    {
+      "english": "Joy is in small things, find it.",
+      "JAPANESE": "喜びは小さく、見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217335"
+    },
+    {
+      "english": "Learn with laughter, it helps.",
+      "JAPANESE": "笑って学ぶ、助けになる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217345"
+    },
+    {
+      "english": "Simple words, big smiles.",
+      "JAPANESE": "簡単な言葉、大きな笑顔。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217346"
+    },
+    {
+      "english": "Today's progress, tomorrow's joy.",
+      "JAPANESE": "今日の進歩、明日の喜び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217347"
+    },
+    {
+      "english": "Your effort, brings happiness.",
+      "JAPANESE": "あなたの努力、幸せを呼ぶ。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217348"
+    },
+    {
+      "english": "Kindness is, a universal language.",
+      "JAPANESE": "優しさは、世界語。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217349"
+    },
+    {
+      "english": "Listen more, speak less, feel more.",
+      "JAPANESE": "よく聞いて、少し話して、感じる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217351"
+    },
+    {
+      "english": "Practice makes, happy learning.",
+      "JAPANESE": "練習は、楽しい学び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217353"
+    },
+    {
+      "english": "One new word, brightens your day.",
+      "JAPANESE": "新しい単語一つ、一日を明るく。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217355"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "JAPANESE": "好奇心、最高の先生。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217356"
+    },
+    {
+      "english": "Mistakes are, stepping stones.",
+      "JAPANESE": "間違いは、踏み石。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217358"
+    },
+    {
+      "english": "Celebrate small wins, always.",
+      "JAPANESE": "小さな成功を、いつも祝う。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217359"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "JAPANESE": "あなたの声は大切、話そう。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217360"
+    },
+    {
+      "english": "Find beauty, in the effort.",
+      "JAPANESE": "努力の中に、美しさを見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217361"
+    },
+    {
+      "english": "A kind word, goes far.",
+      "JAPANESE": "優しい一言、遠くまで届く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217362"
+    },
+    {
+      "english": "Learning is, a joyful adventure.",
+      "JAPANESE": "学びは、楽しい冒険。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217363"
+    },
+    {
+      "english": "Feel the rhythm, of speaking.",
+      "JAPANESE": "話すリズムを、感じる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217364"
+    },
+    {
+      "english": "Connect with others, through words.",
+      "JAPANESE": "言葉で、人と繋がる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217365"
+    },
+    {
+      "english": "Your progress, inspires others.",
+      "JAPANESE": "あなたの進歩が、人を励ます。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217366"
+    },
+    {
+      "english": "Breathe deeply, speak clearly.",
+      "JAPANESE": "深く息をして、はっきり話す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217367"
+    },
+    {
+      "english": "Embrace new sounds, with joy.",
+      "JAPANESE": "新しい音を、喜んで受け入れる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217368"
+    },
+    {
+      "english": "Curiosity leads, to discovery.",
+      "JAPANESE": "好奇心が、発見に導く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217369"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "JAPANESE": "あなたの旅は、ユニーク。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217370"
+    },
+    {
+      "english": "Speak from the heart, always.",
+      "JAPANESE": "心から話す、いつも。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217370"
+    },
+    {
+      "english": "Small steps, lead to big results.",
+      "JAPANESE": "小さな一歩、大きな成果。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217371"
+    },
+    {
+      "english": "Be brave, try new phrases.",
+      "JAPANESE": "勇敢に、新しいフレーズを試す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217372"
+    },
+    {
+      "english": "Understanding grows, with practice.",
+      "JAPANESE": "理解は、練習で育つ。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217373"
+    },
+    {
+      "english": "Joyful learning, makes it stick.",
+      "JAPANESE": "楽しい学びは、定着する。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217373"
+    },
+    {
+      "english": "Listen with, an open mind.",
+      "JAPANESE": "心を開いて、聞く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217374"
+    },
+    {
+      "english": "Every word, is a step forward.",
+      "JAPANESE": "一つ一つの単語が、前進。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217375"
+    },
+    {
+      "english": "Be curious, be creative.",
+      "JAPANESE": "好奇心を持って、創造的に。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217376"
+    },
+    {
+      "english": "Happiness is, in the trying.",
+      "JAPANESE": "幸せは、挑戦することに。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217378"
+    },
+    {
+      "english": "Speak with, intention and grace.",
+      "JAPANESE": "意図と優雅さで、話す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217379"
+    },
+    {
+      "english": "Small efforts, big rewards.",
+      "JAPANESE": "小さな努力、大きな報酬。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217379"
+    },
+    {
+      "english": "Your growth, is beautiful.",
+      "JAPANESE": "あなたの成長は、美しい。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217380"
+    },
+    {
+      "english": "Joy is in small things, find it.",
+      "JAPANESE": "喜びは小さく、見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217381"
+    },
+    {
+      "english": "Learn with laughter, it helps.",
+      "JAPANESE": "笑って学ぶ、助けになる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217382"
+    },
+    {
+      "english": "Simple words, big smiles.",
+      "JAPANESE": "簡単な言葉、大きな笑顔。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217383"
+    },
+    {
+      "english": "Today's progress, tomorrow's joy.",
+      "JAPANESE": "今日の進歩、明日の喜び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217384"
+    },
+    {
+      "english": "Your effort, brings happiness.",
+      "JAPANESE": "あなたの努力、幸せを呼ぶ。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217385"
+    },
+    {
+      "english": "Kindness is, a universal language.",
+      "JAPANESE": "優しさは、世界語。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217386"
+    },
+    {
+      "english": "Listen more, speak less, feel more.",
+      "JAPANESE": "よく聞いて、少し話して、感じる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217386"
+    },
+    {
+      "english": "Practice makes, happy learning.",
+      "JAPANESE": "練習は、楽しい学び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217387"
+    },
+    {
+      "english": "One new word, brightens your day.",
+      "JAPANESE": "新しい単語一つ、一日を明るく。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217388"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "JAPANESE": "好奇心、最高の先生。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217389"
+    },
+    {
+      "english": "Mistakes are, stepping stones.",
+      "JAPANESE": "間違いは、踏み石。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217390"
+    },
+    {
+      "english": "Celebrate small wins, always.",
+      "JAPANESE": "小さな成功を、いつも祝う。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217391"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "JAPANESE": "あなたの声は大切、話そう。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217392"
+    },
+    {
+      "english": "Find beauty, in the effort.",
+      "JAPANESE": "努力の中に、美しさを見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217392"
+    },
+    {
+      "english": "A kind word, goes far.",
+      "JAPANESE": "優しい一言、遠くまで届く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217393"
+    },
+    {
+      "english": "Learning is, a joyful adventure.",
+      "JAPANESE": "学びは、楽しい冒険。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217394"
+    },
+    {
+      "english": "Feel the rhythm, of speaking.",
+      "JAPANESE": "話すリズムを、感じる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217395"
+    },
+    {
+      "english": "Connect with others, through words.",
+      "JAPANESE": "言葉で、人と繋がる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217395"
+    },
+    {
+      "english": "Your progress, inspires others.",
+      "JAPANESE": "あなたの進歩が、人を励ます。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217396"
+    },
+    {
+      "english": "Breathe deeply, speak clearly.",
+      "JAPANESE": "深く息をして、はっきり話す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217397"
+    },
+    {
+      "english": "Embrace new sounds, with joy.",
+      "JAPANESE": "新しい音を、喜んで受け入れる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217398"
+    },
+    {
+      "english": "Curiosity leads, to discovery.",
+      "JAPANESE": "好奇心が、発見に導く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217399"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "JAPANESE": "あなたの旅は、ユニーク。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217399"
+    },
+    {
+      "english": "Speak from the heart, always.",
+      "JAPANESE": "心から話す、いつも。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217400"
+    },
+    {
+      "english": "Small steps, lead to big results.",
+      "JAPANESE": "小さな一歩、大きな成果。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217401"
+    },
+    {
+      "english": "Be brave, try new phrases.",
+      "JAPANESE": "勇敢に、新しいフレーズを試す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217402"
+    },
+    {
+      "english": "Understanding grows, with practice.",
+      "JAPANESE": "理解は、練習で育つ。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217404"
+    },
+    {
+      "english": "Joyful learning, makes it stick.",
+      "JAPANESE": "楽しい学びは、定着する。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217405"
+    },
+    {
+      "english": "Listen with, an open mind.",
+      "JAPANESE": "心を開いて、聞く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217406"
+    },
+    {
+      "english": "Every word, is a step forward.",
+      "JAPANESE": "一つ一つの単語が、前進。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217407"
+    },
+    {
+      "english": "Be curious, be creative.",
+      "JAPANESE": "好奇心を持って、創造的に。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217408"
+    },
+    {
+      "english": "Happiness is, in the trying.",
+      "JAPANESE": "幸せは、挑戦することに。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217409"
+    },
+    {
+      "english": "Speak with, intention and grace.",
+      "JAPANESE": "意図と優雅さで、話す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217410"
+    },
+    {
+      "english": "Small efforts, big rewards.",
+      "JAPANESE": "小さな努力、大きな報酬。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217411"
+    },
+    {
+      "english": "Your growth, is beautiful.",
+      "JAPANESE": "あなたの成長は、美しい。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217411"
+    },
+    {
+      "english": "Joy is in small things, find it.",
+      "JAPANESE": "喜びは小さく、見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217412"
+    },
+    {
+      "english": "Learn with laughter, it helps.",
+      "JAPANESE": "笑って学ぶ、助けになる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217413"
+    },
+    {
+      "english": "Simple words, big smiles.",
+      "JAPANESE": "簡単な言葉、大きな笑顔。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217414"
+    },
+    {
+      "english": "Today's progress, tomorrow's joy.",
+      "JAPANESE": "今日の進歩、明日の喜び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217415"
+    },
+    {
+      "english": "Your effort, brings happiness.",
+      "JAPANESE": "あなたの努力、幸せを呼ぶ。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217416"
+    },
+    {
+      "english": "Kindness is, a universal language.",
+      "JAPANESE": "優しさは、世界語。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217416"
+    },
+    {
+      "english": "Listen more, speak less, feel more.",
+      "JAPANESE": "よく聞いて、少し話して、感じる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217417"
+    },
+    {
+      "english": "Practice makes, happy learning.",
+      "JAPANESE": "練習は、楽しい学び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217418"
+    },
+    {
+      "english": "One new word, brightens your day.",
+      "JAPANESE": "新しい単語一つ、一日を明るく。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217419"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "JAPANESE": "好奇心、最高の先生。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217420"
+    },
+    {
+      "english": "Mistakes are, stepping stones.",
+      "JAPANESE": "間違いは、踏み石。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217420"
+    },
+    {
+      "english": "Celebrate small wins, always.",
+      "JAPANESE": "小さな成功を、いつも祝う。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217422"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "JAPANESE": "あなたの声は大切、話そう。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217423"
+    },
+    {
+      "english": "Find beauty, in the effort.",
+      "JAPANESE": "努力の中に、美しさを見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217424"
+    },
+    {
+      "english": "A kind word, goes far.",
+      "JAPANESE": "優しい一言、遠くまで届く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217425"
+    },
+    {
+      "english": "Learning is, a joyful adventure.",
+      "JAPANESE": "学びは、楽しい冒険。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217425"
+    },
+    {
+      "english": "Feel the rhythm, of speaking.",
+      "JAPANESE": "話すリズムを、感じる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217426"
+    },
+    {
+      "english": "Connect with others, through words.",
+      "JAPANESE": "言葉で、人と繋がる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217427"
+    },
+    {
+      "english": "Your progress, inspires others.",
+      "JAPANESE": "あなたの進歩が、人を励ます。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217428"
+    },
+    {
+      "english": "Breathe deeply, speak clearly.",
+      "JAPANESE": "深く息をして、はっきり話す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217428"
+    },
+    {
+      "english": "Embrace new sounds, with joy.",
+      "JAPANESE": "新しい音を、喜んで受け入れる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217429"
+    },
+    {
+      "english": "Curiosity leads, to discovery.",
+      "JAPANESE": "好奇心が、発見に導く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217430"
+    },
+    {
+      "english": "Your journey, is unique.",
+      "JAPANESE": "あなたの旅は、ユニーク。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217431"
+    },
+    {
+      "english": "Speak from the heart, always.",
+      "JAPANESE": "心から話す、いつも。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217432"
+    },
+    {
+      "english": "Small steps, lead to big results.",
+      "JAPANESE": "小さな一歩、大きな成果。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217432"
+    },
+    {
+      "english": "Be brave, try new phrases.",
+      "JAPANESE": "勇敢に、新しいフレーズを試す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217433"
+    },
+    {
+      "english": "Understanding grows, with practice.",
+      "JAPANESE": "理解は、練習で育つ。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217434"
+    },
+    {
+      "english": "Joyful learning, makes it stick.",
+      "JAPANESE": "楽しい学びは、定着する。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217435"
+    },
+    {
+      "english": "Listen with, an open mind.",
+      "JAPANESE": "心を開いて、聞く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217435"
+    },
+    {
+      "english": "Every word, is a step forward.",
+      "JAPANESE": "一つ一つの単語が、前進。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217436"
+    },
+    {
+      "english": "Be curious, be creative.",
+      "JAPANESE": "好奇心を持って、創造的に。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217437"
+    },
+    {
+      "english": "Happiness is, in the trying.",
+      "JAPANESE": "幸せは、挑戦することに。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217438"
+    },
+    {
+      "english": "Speak with, intention and grace.",
+      "JAPANESE": "意図と優雅さで、話す。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217438"
+    },
+    {
+      "english": "Small efforts, big rewards.",
+      "JAPANESE": "小さな努力、大きな報酬。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217439"
+    },
+    {
+      "english": "Your growth, is beautiful.",
+      "JAPANESE": "あなたの成長は、美しい。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217440"
+    },
+    {
+      "english": "Joy is in small things, find it.",
+      "JAPANESE": "喜びは小さく、見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217441"
+    },
+    {
+      "english": "Learn with laughter, it helps.",
+      "JAPANESE": "笑って学ぶ、助けになる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217442"
+    },
+    {
+      "english": "Simple words, big smiles.",
+      "JAPANESE": "簡単な言葉、大きな笑顔。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217442"
+    },
+    {
+      "english": "Today's progress, tomorrow's joy.",
+      "JAPANESE": "今日の進歩、明日の喜び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217443"
+    },
+    {
+      "english": "Your effort, brings happiness.",
+      "JAPANESE": "あなたの努力、幸せを呼ぶ。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217444"
+    },
+    {
+      "english": "Kindness is, a universal language.",
+      "JAPANESE": "優しさは、世界語。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217445"
+    },
+    {
+      "english": "Listen more, speak less, feel more.",
+      "JAPANESE": "よく聞いて、少し話して、感じる。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217446"
+    },
+    {
+      "english": "Practice makes, happy learning.",
+      "JAPANESE": "練習は、楽しい学び。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217446"
+    },
+    {
+      "english": "One new word, brightens your day.",
+      "JAPANESE": "新しい単語一つ、一日を明るく。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217447"
+    },
+    {
+      "english": "Curiosity, your best teacher.",
+      "JAPANESE": "好奇心、最高の先生。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217448"
+    },
+    {
+      "english": "Mistakes are, stepping stones.",
+      "JAPANESE": "間違いは、踏み石。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217449"
+    },
+    {
+      "english": "Celebrate small wins, always.",
+      "JAPANESE": "小さな成功を、いつも祝う。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217449"
+    },
+    {
+      "english": "Your voice matters, speak it.",
+      "JAPANESE": "あなたの声は大切、話そう。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217450"
+    },
+    {
+      "english": "Find beauty, in the effort.",
+      "JAPANESE": "努力の中に、美しさを見つける。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217451"
+    },
+    {
+      "english": "A kind word, goes far.",
+      "JAPANESE": "優しい一言、遠くまで届く。",
+      "category": "Happiness",
+      "generated_at": "2026-07-20T04:33:22.217452"
     }
   ],
-  "last_updated": "2026-07-19T04:19:08.022081"
+  "last_updated": "2026-07-20T04:33:22.217453"
 }
