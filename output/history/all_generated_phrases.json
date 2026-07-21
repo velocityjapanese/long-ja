@@ -6959,7 +6959,727 @@
       "JAPANESE": "優しい一言、遠くまで届く。",
       "category": "Happiness",
       "generated_at": "2026-07-20T04:33:22.217452"
+    },
+    {
+      "english": "A smile, unlocks many doors.",
+      "JAPANESE": "笑顔は、多くの扉を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634658"
+    },
+    {
+      "english": "Sharing joy, doubles it.",
+      "JAPANESE": "喜びを分かち合うと、倍になる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634669"
+    },
+    {
+      "english": "Kindness, is always cool.",
+      "JAPANESE": "優しさは、いつもクールだ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634671"
+    },
+    {
+      "english": "A quiet moment, resets you.",
+      "JAPANESE": "静かな瞬間が、あなたをリセットする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634672"
+    },
+    {
+      "english": "Learning one thing, changes everything.",
+      "JAPANESE": "一つ学ぶと、全てが変わる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634673"
+    },
+    {
+      "english": "Gratitude, makes life brighter.",
+      "JAPANESE": "感謝は、人生を明るくする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634674"
+    },
+    {
+      "english": "Nature's beauty, inspires peace.",
+      "JAPANESE": "自然の美しさが、平和を刺激する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634676"
+    },
+    {
+      "english": "Helping others, helps you grow.",
+      "JAPANESE": "他人を助けると、自分も成長する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634679"
+    },
+    {
+      "english": "Music, heals the soul.",
+      "JAPANESE": "音楽は、魂を癒す。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634680"
+    },
+    {
+      "english": "A good book, is a good friend.",
+      "JAPANESE": "良い本は、良い友達。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634682"
+    },
+    {
+      "english": "Creativity, sparks new ideas.",
+      "JAPANESE": "創造性は、新しいアイデアを生む。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634683"
+    },
+    {
+      "english": "A fresh start, is always possible.",
+      "JAPANESE": "新しい始まりは、いつでも可能だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634684"
+    },
+    {
+      "english": "Simple foods, can be delicious.",
+      "JAPANESE": "シンプルな食べ物も、美味しい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634685"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "JAPANESE": "笑いは、最高の薬。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634687"
+    },
+    {
+      "english": "Connecting, makes us strong.",
+      "JAPANESE": "繋がることは、私たちを強くする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634688"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "JAPANESE": "自分を信じなさい、できる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634689"
+    },
+    {
+      "english": "Patience, brings sweet rewards.",
+      "JAPANESE": "忍耐は、甘い報酬をもたらす。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634690"
+    },
+    {
+      "english": "A helping hand, means a lot.",
+      "JAPANESE": "助けの手は、とても意味がある。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634691"
+    },
+    {
+      "english": "Every day, holds a surprise.",
+      "JAPANESE": "毎日、驚きが隠れている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634696"
+    },
+    {
+      "english": "Honesty, builds trust.",
+      "JAPANESE": "正直さは、信頼を築く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634697"
+    },
+    {
+      "english": "Forgiveness, frees your spirit.",
+      "JAPANESE": "許しは、あなたの精神を解放する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634698"
+    },
+    {
+      "english": "Being present, is a gift.",
+      "JAPANESE": "今この瞬間を生きることは、贈り物。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634699"
+    },
+    {
+      "english": "Little things, create big happiness.",
+      "JAPANESE": "小さなことが、大きな幸せを生む。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634700"
+    },
+    {
+      "english": "A kind word, can change a day.",
+      "JAPANESE": "優しい言葉は、一日を変える。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634701"
+    },
+    {
+      "english": "Imagination, knows no limits.",
+      "JAPANESE": "想像力は、限界を知らない。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634702"
+    },
+    {
+      "english": "Taking breaks, is productive.",
+      "JAPANESE": "休憩を取ることは、生産的だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634703"
+    },
+    {
+      "english": "Hope, is a powerful force.",
+      "JAPANESE": "希望は、強力な力。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634704"
+    },
+    {
+      "english": "Your effort, is always seen.",
+      "JAPANESE": "あなたの努力は、いつも見られている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634705"
+    },
+    {
+      "english": "Making friends, enriches life.",
+      "JAPANESE": "友達を作ることは、人生を豊かにする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634706"
+    },
+    {
+      "english": "Quiet strength, is inspiring.",
+      "JAPANESE": "静かな強さは、感動的だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634707"
+    },
+    {
+      "english": "Learning languages, opens worlds.",
+      "JAPANESE": "言語を学ぶことは、世界を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634708"
+    },
+    {
+      "english": "A new perspective, changes views.",
+      "JAPANESE": "新しい視点は、見方を変える。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634711"
+    },
+    {
+      "english": "Inner peace, is the best wealth.",
+      "JAPANESE": "心の平和は、最高の富。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634712"
+    },
+    {
+      "english": "Doing your best, is enough.",
+      "JAPANESE": "最善を尽くす、それで十分。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634713"
+    },
+    {
+      "english": "Appreciate the simple things.",
+      "JAPANESE": "シンプルなものを、大切にしなさい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634714"
+    },
+    {
+      "english": "Your story, is worth telling.",
+      "JAPANESE": "あなたの物語は、語る価値がある。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634715"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "JAPANESE": "自分にも、優しくなりなさい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634716"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "JAPANESE": "成長は、快適ゾーンの外で起こる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634717"
+    },
+    {
+      "english": "A smile, unlocks many doors.",
+      "JAPANESE": "笑顔は、多くの扉を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634718"
+    },
+    {
+      "english": "Sharing joy, doubles it.",
+      "JAPANESE": "喜びを分かち合うと、倍になる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634720"
+    },
+    {
+      "english": "Kindness, is always cool.",
+      "JAPANESE": "優しさは、いつもクールだ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634721"
+    },
+    {
+      "english": "A quiet moment, resets you.",
+      "JAPANESE": "静かな瞬間が、あなたをリセットする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634722"
+    },
+    {
+      "english": "Learning one thing, changes everything.",
+      "JAPANESE": "一つ学ぶと、全てが変わる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634723"
+    },
+    {
+      "english": "Gratitude, makes life brighter.",
+      "JAPANESE": "感謝は、人生を明るくする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634725"
+    },
+    {
+      "english": "Nature's beauty, inspires peace.",
+      "JAPANESE": "自然の美しさが、平和を刺激する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634726"
+    },
+    {
+      "english": "Helping others, helps you grow.",
+      "JAPANESE": "他人を助けると、自分も成長する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634727"
+    },
+    {
+      "english": "Music, heals the soul.",
+      "JAPANESE": "音楽は、魂を癒す。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634728"
+    },
+    {
+      "english": "A good book, is a good friend.",
+      "JAPANESE": "良い本は、良い友達。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634729"
+    },
+    {
+      "english": "Creativity, sparks new ideas.",
+      "JAPANESE": "創造性は、新しいアイデアを生む。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634730"
+    },
+    {
+      "english": "A fresh start, is always possible.",
+      "JAPANESE": "新しい始まりは、いつでも可能だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634733"
+    },
+    {
+      "english": "Simple foods, can be delicious.",
+      "JAPANESE": "シンプルな食べ物も、美味しい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634734"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "JAPANESE": "笑いは、最高の薬。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634735"
+    },
+    {
+      "english": "Connecting, makes us strong.",
+      "JAPANESE": "繋がることは、私たちを強くする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634736"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "JAPANESE": "自分を信じなさい、できる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634737"
+    },
+    {
+      "english": "Patience, brings sweet rewards.",
+      "JAPANESE": "忍耐は、甘い報酬をもたらす。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634738"
+    },
+    {
+      "english": "A helping hand, means a lot.",
+      "JAPANESE": "助けの手は、とても意味がある。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634739"
+    },
+    {
+      "english": "Every day, holds a surprise.",
+      "JAPANESE": "毎日、驚きが隠れている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634740"
+    },
+    {
+      "english": "Honesty, builds trust.",
+      "JAPANESE": "正直さは、信頼を築く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634741"
+    },
+    {
+      "english": "Forgiveness, frees your spirit.",
+      "JAPANESE": "許しは、あなたの精神を解放する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634742"
+    },
+    {
+      "english": "Being present, is a gift.",
+      "JAPANESE": "今この瞬間を生きることは、贈り物。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634743"
+    },
+    {
+      "english": "Little things, create big happiness.",
+      "JAPANESE": "小さなことが、大きな幸せを生む。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634744"
+    },
+    {
+      "english": "A kind word, can change a day.",
+      "JAPANESE": "優しい言葉は、一日を変える。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634746"
+    },
+    {
+      "english": "Imagination, knows no limits.",
+      "JAPANESE": "想像力は、限界を知らない。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634747"
+    },
+    {
+      "english": "Taking breaks, is productive.",
+      "JAPANESE": "休憩を取ることは、生産的だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634748"
+    },
+    {
+      "english": "Hope, is a powerful force.",
+      "JAPANESE": "希望は、強力な力。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634749"
+    },
+    {
+      "english": "Your effort, is always seen.",
+      "JAPANESE": "あなたの努力は、いつも見られている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634750"
+    },
+    {
+      "english": "Making friends, enriches life.",
+      "JAPANESE": "友達を作ることは、人生を豊かにする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634751"
+    },
+    {
+      "english": "Quiet strength, is inspiring.",
+      "JAPANESE": "静かな強さは、感動的だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634752"
+    },
+    {
+      "english": "Learning languages, opens worlds.",
+      "JAPANESE": "言語を学ぶことは、世界を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634753"
+    },
+    {
+      "english": "A new perspective, changes views.",
+      "JAPANESE": "新しい視点は、見方を変える。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634754"
+    },
+    {
+      "english": "Inner peace, is the best wealth.",
+      "JAPANESE": "心の平和は、最高の富。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634755"
+    },
+    {
+      "english": "Doing your best, is enough.",
+      "JAPANESE": "最善を尽くす、それで十分。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634756"
+    },
+    {
+      "english": "Appreciate the simple things.",
+      "JAPANESE": "シンプルなものを、大切にしなさい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634757"
+    },
+    {
+      "english": "Your story, is worth telling.",
+      "JAPANESE": "あなたの物語は、語る価値がある。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634758"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "JAPANESE": "自分にも、優しくなりなさい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634759"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "JAPANESE": "成長は、快適ゾーンの外で起こる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634760"
+    },
+    {
+      "english": "A smile, unlocks many doors.",
+      "JAPANESE": "笑顔は、多くの扉を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634761"
+    },
+    {
+      "english": "Sharing joy, doubles it.",
+      "JAPANESE": "喜びを分かち合うと、倍になる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634763"
+    },
+    {
+      "english": "Kindness, is always cool.",
+      "JAPANESE": "優しさは、いつもクールだ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634764"
+    },
+    {
+      "english": "A quiet moment, resets you.",
+      "JAPANESE": "静かな瞬間が、あなたをリセットする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634765"
+    },
+    {
+      "english": "Learning one thing, changes everything.",
+      "JAPANESE": "一つ学ぶと、全てが変わる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634766"
+    },
+    {
+      "english": "Gratitude, makes life brighter.",
+      "JAPANESE": "感謝は、人生を明るくする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634777"
+    },
+    {
+      "english": "Nature's beauty, inspires peace.",
+      "JAPANESE": "自然の美しさが、平和を刺激する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634778"
+    },
+    {
+      "english": "Helping others, helps you grow.",
+      "JAPANESE": "他人を助けると、自分も成長する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634779"
+    },
+    {
+      "english": "Music, heals the soul.",
+      "JAPANESE": "音楽は、魂を癒す。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634780"
+    },
+    {
+      "english": "A good book, is a good friend.",
+      "JAPANESE": "良い本は、良い友達。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634782"
+    },
+    {
+      "english": "Creativity, sparks new ideas.",
+      "JAPANESE": "創造性は、新しいアイデアを生む。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634784"
+    },
+    {
+      "english": "A fresh start, is always possible.",
+      "JAPANESE": "新しい始まりは、いつでも可能だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634785"
+    },
+    {
+      "english": "Simple foods, can be delicious.",
+      "JAPANESE": "シンプルな食べ物も、美味しい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634786"
+    },
+    {
+      "english": "Laughter, is the best medicine.",
+      "JAPANESE": "笑いは、最高の薬。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634787"
+    },
+    {
+      "english": "Connecting, makes us strong.",
+      "JAPANESE": "繋がることは、私たちを強くする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634788"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "JAPANESE": "自分を信じなさい、できる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634789"
+    },
+    {
+      "english": "Patience, brings sweet rewards.",
+      "JAPANESE": "忍耐は、甘い報酬をもたらす。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634790"
+    },
+    {
+      "english": "A helping hand, means a lot.",
+      "JAPANESE": "助けの手は、とても意味がある。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634791"
+    },
+    {
+      "english": "Every day, holds a surprise.",
+      "JAPANESE": "毎日、驚きが隠れている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634792"
+    },
+    {
+      "english": "Honesty, builds trust.",
+      "JAPANESE": "正直さは、信頼を築く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634793"
+    },
+    {
+      "english": "Forgiveness, frees your spirit.",
+      "JAPANESE": "許しは、あなたの精神を解放する。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634794"
+    },
+    {
+      "english": "Being present, is a gift.",
+      "JAPANESE": "今この瞬間を生きることは、贈り物。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634795"
+    },
+    {
+      "english": "Little things, create big happiness.",
+      "JAPANESE": "小さなことが、大きな幸せを生む。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634796"
+    },
+    {
+      "english": "A kind word, can change a day.",
+      "JAPANESE": "優しい言葉は、一日を変える。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634797"
+    },
+    {
+      "english": "Imagination, knows no limits.",
+      "JAPANESE": "想像力は、限界を知らない。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634798"
+    },
+    {
+      "english": "Taking breaks, is productive.",
+      "JAPANESE": "休憩を取ることは、生産的だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634799"
+    },
+    {
+      "english": "Hope, is a powerful force.",
+      "JAPANESE": "希望は、強力な力。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634800"
+    },
+    {
+      "english": "Your effort, is always seen.",
+      "JAPANESE": "あなたの努力は、いつも見られている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634801"
+    },
+    {
+      "english": "Making friends, enriches life.",
+      "JAPANESE": "友達を作ることは、人生を豊かにする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634802"
+    },
+    {
+      "english": "Quiet strength, is inspiring.",
+      "JAPANESE": "静かな強さは、感動的だ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634803"
+    },
+    {
+      "english": "Learning languages, opens worlds.",
+      "JAPANESE": "言語を学ぶことは、世界を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634804"
+    },
+    {
+      "english": "A new perspective, changes views.",
+      "JAPANESE": "新しい視点は、見方を変える。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634805"
+    },
+    {
+      "english": "Inner peace, is the best wealth.",
+      "JAPANESE": "心の平和は、最高の富。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634806"
+    },
+    {
+      "english": "Doing your best, is enough.",
+      "JAPANESE": "最善を尽くす、それで十分。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634807"
+    },
+    {
+      "english": "Appreciate the simple things.",
+      "JAPANESE": "シンプルなものを、大切にしなさい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634808"
+    },
+    {
+      "english": "Your story, is worth telling.",
+      "JAPANESE": "あなたの物語は、語る価値がある。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634809"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "JAPANESE": "自分にも、優しくなりなさい。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634810"
+    },
+    {
+      "english": "Growth, happens outside comfort.",
+      "JAPANESE": "成長は、快適ゾーンの外で起こる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634813"
+    },
+    {
+      "english": "A smile, unlocks many doors.",
+      "JAPANESE": "笑顔は、多くの扉を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634814"
+    },
+    {
+      "english": "Sharing joy, doubles it.",
+      "JAPANESE": "喜びを分かち合うと、倍になる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634815"
+    },
+    {
+      "english": "Kindness, is always cool.",
+      "JAPANESE": "優しさは、いつもクールだ。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634816"
+    },
+    {
+      "english": "A quiet moment, resets you.",
+      "JAPANESE": "静かな瞬間が、あなたをリセットする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634817"
+    },
+    {
+      "english": "Learning one thing, changes everything.",
+      "JAPANESE": "一つ学ぶと、全てが変わる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634819"
+    },
+    {
+      "english": "Gratitude, makes life brighter.",
+      "JAPANESE": "感謝は、人生を明るくする。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-21T04:12:16.634820"
     }
   ],
-  "last_updated": "2026-07-20T04:33:22.217453"
+  "last_updated": "2026-07-21T04:12:16.634822"
 }
