@@ -9119,7 +9119,727 @@
       "JAPANESE": "いつも、内なる力を引き出そう。",
       "category": "Strength",
       "generated_at": "2026-07-23T04:11:31.648700"
+    },
+    {
+      "english": "Keep trying, win eventually.",
+      "JAPANESE": "諦めないで, いつか勝つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319613"
+    },
+    {
+      "english": "Even a little, helps a lot.",
+      "JAPANESE": "少しでも, 助けになる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319624"
+    },
+    {
+      "english": "Never give up, always forward.",
+      "JAPANESE": "諦めない, 常に前へ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319626"
+    },
+    {
+      "english": "You can do it, I believe.",
+      "JAPANESE": "できるよ, 信じてる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319627"
+    },
+    {
+      "english": "One day, you'll reach it.",
+      "JAPANESE": "いつか、そこにたどり着く。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319628"
+    },
+    {
+      "english": "Every effort, counts for something.",
+      "JAPANESE": "努力は, 何かに役立つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319629"
+    },
+    {
+      "english": "A bright future, awaits you.",
+      "JAPANESE": "明るい未来が, 君を待つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319631"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "JAPANESE": "続けて, 今は止まらない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319634"
+    },
+    {
+      "english": "Small actions, make big impact.",
+      "JAPANESE": "小さな行動, 大きな影響。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319636"
+    },
+    {
+      "english": "Hope is a powerful light.",
+      "JAPANESE": "希望は強力な光。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319637"
+    },
+    {
+      "english": "Believe in your own path.",
+      "JAPANESE": "自分の道, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319638"
+    },
+    {
+      "english": "The dawn will surely come.",
+      "JAPANESE": "夜明けは必ず来る。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319640"
+    },
+    {
+      "english": "Don't get discouraged, keep learning.",
+      "JAPANESE": "落胆しないで, 学び続けよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319641"
+    },
+    {
+      "english": "Your effort, is not in vain.",
+      "JAPANESE": "君の努力は, 無駄じゃない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319642"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "JAPANESE": "いつも, 顔を上げて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319643"
+    },
+    {
+      "english": "A new day, brings new hope.",
+      "JAPANESE": "新しい日は, 新しい希望。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319644"
+    },
+    {
+      "english": "You have the power, within you.",
+      "JAPANESE": "力は, 君の中にある。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319645"
+    },
+    {
+      "english": "Push forward, little by little.",
+      "JAPANESE": "少しずつ, 前に進もう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319646"
+    },
+    {
+      "english": "Don't be afraid, to dream.",
+      "JAPANESE": "夢を見ることを, 恐れないで。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319647"
+    },
+    {
+      "english": "Success often comes, after failure.",
+      "JAPANESE": "成功は, 失敗の後に来ることが多い。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319648"
+    },
+    {
+      "english": "Believe in the good, ahead.",
+      "JAPANESE": "良いことを, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319649"
+    },
+    {
+      "english": "Let courage, guide your way.",
+      "JAPANESE": "勇気を, 道しるべに。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319650"
+    },
+    {
+      "english": "You can overcome, this challenge.",
+      "JAPANESE": "この挑戦は, 乗り越えられる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319651"
+    },
+    {
+      "english": "Keep faith, alive and well.",
+      "JAPANESE": "信仰を, 生き生きと。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319652"
+    },
+    {
+      "english": "Your destination, is getting closer.",
+      "JAPANESE": "目的地は, 近づいている。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319653"
+    },
+    {
+      "english": "Keep a positive outlook, always.",
+      "JAPANESE": "常に, 前向きでいよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319654"
+    },
+    {
+      "english": "Even darkness, has an end.",
+      "JAPANESE": "暗闇にも, 終わりはある。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319655"
+    },
+    {
+      "english": "Your future self, will thank you.",
+      "JAPANESE": "未来の君が, 感謝する。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319656"
+    },
+    {
+      "english": "Small seeds, grow into trees.",
+      "JAPANESE": "小さな種, 木になる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319657"
+    },
+    {
+      "english": "Let kindness, lead you forward.",
+      "JAPANESE": "親切を, 先に進もう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319658"
+    },
+    {
+      "english": "Never too late, to start.",
+      "JAPANESE": "始めるのに, 遅すぎることはない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319658"
+    },
+    {
+      "english": "Find joy, in the journey.",
+      "JAPANESE": "道中で, 喜びを見つけよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319659"
+    },
+    {
+      "english": "You have so much potential.",
+      "JAPANESE": "君には, 多くの可能性が。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319660"
+    },
+    {
+      "english": "Keep the flame, burning bright.",
+      "JAPANESE": "炎を, 燃やし続けよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319661"
+    },
+    {
+      "english": "One more try, might be it.",
+      "JAPANESE": "もう一度, それが鍵かも。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319662"
+    },
+    {
+      "english": "Believe in a brighter tomorrow.",
+      "JAPANESE": "より明るい明日を, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319663"
+    },
+    {
+      "english": "Keep trying, win eventually.",
+      "JAPANESE": "諦めないで, いつか勝つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319664"
+    },
+    {
+      "english": "Even a little, helps a lot.",
+      "JAPANESE": "少しでも, 助けになる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319665"
+    },
+    {
+      "english": "Never give up, always forward.",
+      "JAPANESE": "諦めない, 常に前へ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319666"
+    },
+    {
+      "english": "You can do it, I believe.",
+      "JAPANESE": "できるよ, 信じてる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319667"
+    },
+    {
+      "english": "One day, you'll reach it.",
+      "JAPANESE": "いつか、そこにたどり着く。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319668"
+    },
+    {
+      "english": "Every effort, counts for something.",
+      "JAPANESE": "努力は, 何かに役立つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319669"
+    },
+    {
+      "english": "A bright future, awaits you.",
+      "JAPANESE": "明るい未来が, 君を待つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319670"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "JAPANESE": "続けて, 今は止まらない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319671"
+    },
+    {
+      "english": "Small actions, make big impact.",
+      "JAPANESE": "小さな行動, 大きな影響。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319672"
+    },
+    {
+      "english": "Hope is a powerful light.",
+      "JAPANESE": "希望は強力な光。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319673"
+    },
+    {
+      "english": "Believe in your own path.",
+      "JAPANESE": "自分の道, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319674"
+    },
+    {
+      "english": "The dawn will surely come.",
+      "JAPANESE": "夜明けは必ず来る。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319675"
+    },
+    {
+      "english": "Don't get discouraged, keep learning.",
+      "JAPANESE": "落胆しないで, 学び続けよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319676"
+    },
+    {
+      "english": "Your effort, is not in vain.",
+      "JAPANESE": "君の努力は, 無駄じゃない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319677"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "JAPANESE": "いつも, 顔を上げて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319678"
+    },
+    {
+      "english": "A new day, brings new hope.",
+      "JAPANESE": "新しい日は, 新しい希望。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319679"
+    },
+    {
+      "english": "You have the power, within you.",
+      "JAPANESE": "力は, 君の中にある。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319680"
+    },
+    {
+      "english": "Push forward, little by little.",
+      "JAPANESE": "少しずつ, 前に進もう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319681"
+    },
+    {
+      "english": "Don't be afraid, to dream.",
+      "JAPANESE": "夢を見ることを, 恐れないで。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319681"
+    },
+    {
+      "english": "Success often comes, after failure.",
+      "JAPANESE": "成功は, 失敗の後に来ることが多い。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319682"
+    },
+    {
+      "english": "Believe in the good, ahead.",
+      "JAPANESE": "良いことを, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319683"
+    },
+    {
+      "english": "Let courage, guide your way.",
+      "JAPANESE": "勇気を, 道しるべに。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319684"
+    },
+    {
+      "english": "You can overcome, this challenge.",
+      "JAPANESE": "この挑戦は, 乗り越えられる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319685"
+    },
+    {
+      "english": "Keep faith, alive and well.",
+      "JAPANESE": "信仰を, 生き生きと。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319686"
+    },
+    {
+      "english": "Your destination, is getting closer.",
+      "JAPANESE": "目的地は, 近づいている。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319687"
+    },
+    {
+      "english": "Keep a positive outlook, always.",
+      "JAPANESE": "常に, 前向きでいよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319688"
+    },
+    {
+      "english": "Even darkness, has an end.",
+      "JAPANESE": "暗闇にも, 終わりはある。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319689"
+    },
+    {
+      "english": "Your future self, will thank you.",
+      "JAPANESE": "未来の君が, 感謝する。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319690"
+    },
+    {
+      "english": "Small seeds, grow into trees.",
+      "JAPANESE": "小さな種, 木になる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319691"
+    },
+    {
+      "english": "Let kindness, lead you forward.",
+      "JAPANESE": "親切を, 先に進もう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319692"
+    },
+    {
+      "english": "Never too late, to start.",
+      "JAPANESE": "始めるのに, 遅すぎることはない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319693"
+    },
+    {
+      "english": "Find joy, in the journey.",
+      "JAPANESE": "道中で, 喜びを見つけよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319694"
+    },
+    {
+      "english": "You have so much potential.",
+      "JAPANESE": "君には, 多くの可能性が。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319695"
+    },
+    {
+      "english": "Keep the flame, burning bright.",
+      "JAPANESE": "炎を, 燃やし続けよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319696"
+    },
+    {
+      "english": "One more try, might be it.",
+      "JAPANESE": "もう一度, それが鍵かも。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319697"
+    },
+    {
+      "english": "Believe in a brighter tomorrow.",
+      "JAPANESE": "より明るい明日を, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319698"
+    },
+    {
+      "english": "Keep trying, win eventually.",
+      "JAPANESE": "諦めないで, いつか勝つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319699"
+    },
+    {
+      "english": "Even a little, helps a lot.",
+      "JAPANESE": "少しでも, 助けになる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319700"
+    },
+    {
+      "english": "Never give up, always forward.",
+      "JAPANESE": "諦めない, 常に前へ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319701"
+    },
+    {
+      "english": "You can do it, I believe.",
+      "JAPANESE": "できるよ, 信じてる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319702"
+    },
+    {
+      "english": "One day, you'll reach it.",
+      "JAPANESE": "いつか、そこにたどり着く。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319703"
+    },
+    {
+      "english": "Every effort, counts for something.",
+      "JAPANESE": "努力は, 何かに役立つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319704"
+    },
+    {
+      "english": "A bright future, awaits you.",
+      "JAPANESE": "明るい未来が, 君を待つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319705"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "JAPANESE": "続けて, 今は止まらない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319706"
+    },
+    {
+      "english": "Small actions, make big impact.",
+      "JAPANESE": "小さな行動, 大きな影響。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319707"
+    },
+    {
+      "english": "Hope is a powerful light.",
+      "JAPANESE": "希望は強力な光。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319708"
+    },
+    {
+      "english": "Believe in your own path.",
+      "JAPANESE": "自分の道, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319710"
+    },
+    {
+      "english": "The dawn will surely come.",
+      "JAPANESE": "夜明けは必ず来る。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319710"
+    },
+    {
+      "english": "Don't get discouraged, keep learning.",
+      "JAPANESE": "落胆しないで, 学び続けよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319711"
+    },
+    {
+      "english": "Your effort, is not in vain.",
+      "JAPANESE": "君の努力は, 無駄じゃない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319712"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "JAPANESE": "いつも, 顔を上げて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319713"
+    },
+    {
+      "english": "A new day, brings new hope.",
+      "JAPANESE": "新しい日は, 新しい希望。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319714"
+    },
+    {
+      "english": "You have the power, within you.",
+      "JAPANESE": "力は, 君の中にある。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319715"
+    },
+    {
+      "english": "Push forward, little by little.",
+      "JAPANESE": "少しずつ, 前に進もう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319716"
+    },
+    {
+      "english": "Don't be afraid, to dream.",
+      "JAPANESE": "夢を見ることを, 恐れないで。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319718"
+    },
+    {
+      "english": "Success often comes, after failure.",
+      "JAPANESE": "成功は, 失敗の後に来ることが多い。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319719"
+    },
+    {
+      "english": "Believe in the good, ahead.",
+      "JAPANESE": "良いことを, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319720"
+    },
+    {
+      "english": "Let courage, guide your way.",
+      "JAPANESE": "勇気を, 道しるべに。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319721"
+    },
+    {
+      "english": "You can overcome, this challenge.",
+      "JAPANESE": "この挑戦は, 乗り越えられる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319722"
+    },
+    {
+      "english": "Keep faith, alive and well.",
+      "JAPANESE": "信仰を, 生き生きと。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319723"
+    },
+    {
+      "english": "Your destination, is getting closer.",
+      "JAPANESE": "目的地は, 近づいている。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319724"
+    },
+    {
+      "english": "Keep a positive outlook, always.",
+      "JAPANESE": "常に, 前向きでいよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319725"
+    },
+    {
+      "english": "Even darkness, has an end.",
+      "JAPANESE": "暗闇にも, 終わりはある。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319726"
+    },
+    {
+      "english": "Your future self, will thank you.",
+      "JAPANESE": "未来の君が, 感謝する。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319727"
+    },
+    {
+      "english": "Small seeds, grow into trees.",
+      "JAPANESE": "小さな種, 木になる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319728"
+    },
+    {
+      "english": "Let kindness, lead you forward.",
+      "JAPANESE": "親切を, 先に進もう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319729"
+    },
+    {
+      "english": "Never too late, to start.",
+      "JAPANESE": "始めるのに, 遅すぎることはない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319730"
+    },
+    {
+      "english": "Find joy, in the journey.",
+      "JAPANESE": "道中で, 喜びを見つけよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319731"
+    },
+    {
+      "english": "You have so much potential.",
+      "JAPANESE": "君には, 多くの可能性が。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319731"
+    },
+    {
+      "english": "Keep the flame, burning bright.",
+      "JAPANESE": "炎を, 燃やし続けよう。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319732"
+    },
+    {
+      "english": "One more try, might be it.",
+      "JAPANESE": "もう一度, それが鍵かも。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319733"
+    },
+    {
+      "english": "Believe in a brighter tomorrow.",
+      "JAPANESE": "より明るい明日を, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319734"
+    },
+    {
+      "english": "Keep trying, win eventually.",
+      "JAPANESE": "諦めないで, いつか勝つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319735"
+    },
+    {
+      "english": "Even a little, helps a lot.",
+      "JAPANESE": "少しでも, 助けになる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319736"
+    },
+    {
+      "english": "Never give up, always forward.",
+      "JAPANESE": "諦めない, 常に前へ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319741"
+    },
+    {
+      "english": "You can do it, I believe.",
+      "JAPANESE": "できるよ, 信じてる。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319744"
+    },
+    {
+      "english": "One day, you'll reach it.",
+      "JAPANESE": "いつか、そこにたどり着く。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319745"
+    },
+    {
+      "english": "Every effort, counts for something.",
+      "JAPANESE": "努力は, 何かに役立つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319746"
+    },
+    {
+      "english": "A bright future, awaits you.",
+      "JAPANESE": "明るい未来が, 君を待つ。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319747"
+    },
+    {
+      "english": "Keep going, don't stop now.",
+      "JAPANESE": "続けて, 今は止まらない。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319748"
+    },
+    {
+      "english": "Small actions, make big impact.",
+      "JAPANESE": "小さな行動, 大きな影響。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319749"
+    },
+    {
+      "english": "Hope is a powerful light.",
+      "JAPANESE": "希望は強力な光。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319750"
+    },
+    {
+      "english": "Believe in your own path.",
+      "JAPANESE": "自分の道, 信じて。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319751"
+    },
+    {
+      "english": "The dawn will surely come.",
+      "JAPANESE": "夜明けは必ず来る。",
+      "category": "Hope",
+      "generated_at": "2026-07-24T04:10:17.319752"
     }
   ],
-  "last_updated": "2026-07-23T04:11:31.648703"
+  "last_updated": "2026-07-24T04:10:17.319754"
 }
