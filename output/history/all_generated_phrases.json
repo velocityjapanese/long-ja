@@ -10559,7 +10559,727 @@
       "JAPANESE": "毎日の日の出は、再生をもたらす。",
       "category": "Hope",
       "generated_at": "2026-07-26T04:23:02.358629"
+    },
+    {
+      "english": "Speak clearly, for understanding.",
+      "JAPANESE": "はっきり話しましょう、分かりやすく。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845330"
+    },
+    {
+      "english": "Ask questions, learn more.",
+      "JAPANESE": "質問してください、もっと学ぶために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845340"
+    },
+    {
+      "english": "Listen carefully, don't miss details.",
+      "JAPANESE": "注意深く聞いて、詳細を逃さないで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845342"
+    },
+    {
+      "english": "Practice daily, improve skills.",
+      "JAPANESE": "毎日練習して、スキルを向上させましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845343"
+    },
+    {
+      "english": "Review often, remember words.",
+      "JAPANESE": "よく復習して、単語を覚えてください。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845345"
+    },
+    {
+      "english": "Think first, then speak.",
+      "JAPANESE": "まず考えて、それから話しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845346"
+    },
+    {
+      "english": "Be patient, it takes time.",
+      "JAPANESE": "辛抱強く、時間がかかりますから。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845347"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "JAPANESE": "もう一度挑戦して、諦めないで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845350"
+    },
+    {
+      "english": "Write it down, to remember.",
+      "JAPANESE": "書き留めて、忘れないように。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845351"
+    },
+    {
+      "english": "Use context, for meaning.",
+      "JAPANESE": "文脈を使って、意味を理解しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845353"
+    },
+    {
+      "english": "Repeat it out loud, for practice.",
+      "JAPANESE": "声に出して繰り返して、練習のために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845354"
+    },
+    {
+      "english": "Explore new words, expand vocabulary.",
+      "JAPANESE": "新しい単語を探求して、語彙を増やしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845355"
+    },
+    {
+      "english": "Read books, for fluency.",
+      "JAPANESE": "本を読んで、流暢さを目指しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845357"
+    },
+    {
+      "english": "Watch movies, for immersion.",
+      "JAPANESE": "映画を見て、没入感を深めましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845358"
+    },
+    {
+      "english": "Sing songs, for pronunciation.",
+      "JAPANESE": "歌を歌って、発音を練習しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845359"
+    },
+    {
+      "english": "Make friends, to converse.",
+      "JAPANESE": "友達を作って、会話するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845360"
+    },
+    {
+      "english": "Travel abroad, for experience.",
+      "JAPANESE": "海外旅行して、経験を積むために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845361"
+    },
+    {
+      "english": "Order food, to practice.",
+      "JAPANESE": "食べ物を注文して、練習しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845362"
+    },
+    {
+      "english": "Ask for directions, to navigate.",
+      "JAPANESE": "道を尋ねて、案内してもらうために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845363"
+    },
+    {
+      "english": "Introduce yourself, to connect.",
+      "JAPANESE": "自己紹介して、繋がるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845364"
+    },
+    {
+      "english": "Say thank you, always.",
+      "JAPANESE": "いつも、ありがとうと言いましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845365"
+    },
+    {
+      "english": "Apologize sincerely, for impact.",
+      "JAPANESE": "心から謝って、影響を和らげるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845366"
+    },
+    {
+      "english": "Express gratitude, deeply.",
+      "JAPANESE": "感謝の気持ちを、深く表現しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845368"
+    },
+    {
+      "english": "Share your thoughts, to communicate.",
+      "JAPANESE": "考えを共有して、伝えるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845369"
+    },
+    {
+      "english": "Ask for opinions, to understand.",
+      "JAPANESE": "意見を求めて、理解を深めるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845370"
+    },
+    {
+      "english": "Explain your reasons, clearly.",
+      "JAPANESE": "理由を、はっきり説明しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845371"
+    },
+    {
+      "english": "Summarize points, for clarity.",
+      "JAPANESE": "要点をまとめて、分かりやすくしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845372"
+    },
+    {
+      "english": "Ask 'why', to understand deeper.",
+      "JAPANESE": "「なぜ」と尋ねて、深く理解するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845373"
+    },
+    {
+      "english": "Be open to feedback, for growth.",
+      "JAPANESE": "成長のために、フィードバックに心を開きましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845374"
+    },
+    {
+      "english": "Seek help, when needed.",
+      "JAPANESE": "助けが必要なときは、求めましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845377"
+    },
+    {
+      "english": "Collaborate with others, to create.",
+      "JAPANESE": "協力して、創造するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845378"
+    },
+    {
+      "english": "Imagine possibilities, and act.",
+      "JAPANESE": "可能性を想像して、行動しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845379"
+    },
+    {
+      "english": "Stay curious, explore widely.",
+      "JAPANESE": "好奇心を持ち続け、広く探求しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845380"
+    },
+    {
+      "english": "Simplify your message, for clarity.",
+      "JAPANESE": "メッセージを単純化して、分かりやすくしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845381"
+    },
+    {
+      "english": "Focus on the goal, then proceed.",
+      "JAPANESE": "目標に集中して、それから進みましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845385"
+    },
+    {
+      "english": "Adapt to changes, with ease.",
+      "JAPANESE": "変化に、楽に適応しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845386"
+    },
+    {
+      "english": "Express yourself, authentically.",
+      "JAPANESE": "自分自身を、ありのまま表現しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845387"
+    },
+    {
+      "english": "Be mindful of others, always.",
+      "JAPANESE": "常に、周りの人に配慮しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845388"
+    },
+    {
+      "english": "Contribute your ideas, to the team.",
+      "JAPANESE": "チームのために、あなたのアイデアを提供しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845389"
+    },
+    {
+      "english": "Speak clearly, for understanding.",
+      "JAPANESE": "はっきり話しましょう、分かりやすく。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845390"
+    },
+    {
+      "english": "Ask questions, learn more.",
+      "JAPANESE": "質問してください、もっと学ぶために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845392"
+    },
+    {
+      "english": "Listen carefully, don't miss details.",
+      "JAPANESE": "注意深く聞いて、詳細を逃さないで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845393"
+    },
+    {
+      "english": "Practice daily, improve skills.",
+      "JAPANESE": "毎日練習して、スキルを向上させましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845394"
+    },
+    {
+      "english": "Review often, remember words.",
+      "JAPANESE": "よく復習して、単語を覚えてください。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845395"
+    },
+    {
+      "english": "Think first, then speak.",
+      "JAPANESE": "まず考えて、それから話しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845396"
+    },
+    {
+      "english": "Be patient, it takes time.",
+      "JAPANESE": "辛抱強く、時間がかかりますから。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845397"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "JAPANESE": "もう一度挑戦して、諦めないで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845399"
+    },
+    {
+      "english": "Write it down, to remember.",
+      "JAPANESE": "書き留めて、忘れないように。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845400"
+    },
+    {
+      "english": "Use context, for meaning.",
+      "JAPANESE": "文脈を使って、意味を理解しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845401"
+    },
+    {
+      "english": "Repeat it out loud, for practice.",
+      "JAPANESE": "声に出して繰り返して、練習のために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845402"
+    },
+    {
+      "english": "Explore new words, expand vocabulary.",
+      "JAPANESE": "新しい単語を探求して、語彙を増やしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845403"
+    },
+    {
+      "english": "Read books, for fluency.",
+      "JAPANESE": "本を読んで、流暢さを目指しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845404"
+    },
+    {
+      "english": "Watch movies, for immersion.",
+      "JAPANESE": "映画を見て、没入感を深めましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845405"
+    },
+    {
+      "english": "Sing songs, for pronunciation.",
+      "JAPANESE": "歌を歌って、発音を練習しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845406"
+    },
+    {
+      "english": "Make friends, to converse.",
+      "JAPANESE": "友達を作って、会話するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845408"
+    },
+    {
+      "english": "Travel abroad, for experience.",
+      "JAPANESE": "海外旅行して、経験を積むために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845409"
+    },
+    {
+      "english": "Order food, to practice.",
+      "JAPANESE": "食べ物を注文して、練習しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845410"
+    },
+    {
+      "english": "Ask for directions, to navigate.",
+      "JAPANESE": "道を尋ねて、案内してもらうために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845411"
+    },
+    {
+      "english": "Introduce yourself, to connect.",
+      "JAPANESE": "自己紹介して、繋がるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845412"
+    },
+    {
+      "english": "Say thank you, always.",
+      "JAPANESE": "いつも、ありがとうと言いましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845413"
+    },
+    {
+      "english": "Apologize sincerely, for impact.",
+      "JAPANESE": "心から謝って、影響を和らげるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845414"
+    },
+    {
+      "english": "Express gratitude, deeply.",
+      "JAPANESE": "感謝の気持ちを、深く表現しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845415"
+    },
+    {
+      "english": "Share your thoughts, to communicate.",
+      "JAPANESE": "考えを共有して、伝えるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845416"
+    },
+    {
+      "english": "Ask for opinions, to understand.",
+      "JAPANESE": "意見を求めて、理解を深めるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845417"
+    },
+    {
+      "english": "Explain your reasons, clearly.",
+      "JAPANESE": "理由を、はっきり説明しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845418"
+    },
+    {
+      "english": "Summarize points, for clarity.",
+      "JAPANESE": "要点をまとめて、分かりやすくしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845419"
+    },
+    {
+      "english": "Ask 'why', to understand deeper.",
+      "JAPANESE": "「なぜ」と尋ねて、深く理解するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845420"
+    },
+    {
+      "english": "Be open to feedback, for growth.",
+      "JAPANESE": "成長のために、フィードバックに心を開きましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845421"
+    },
+    {
+      "english": "Seek help, when needed.",
+      "JAPANESE": "助けが必要なときは、求めましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845422"
+    },
+    {
+      "english": "Collaborate with others, to create.",
+      "JAPANESE": "協力して、創造するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845423"
+    },
+    {
+      "english": "Imagine possibilities, and act.",
+      "JAPANESE": "可能性を想像して、行動しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845424"
+    },
+    {
+      "english": "Stay curious, explore widely.",
+      "JAPANESE": "好奇心を持ち続け、広く探求しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845425"
+    },
+    {
+      "english": "Simplify your message, for clarity.",
+      "JAPANESE": "メッセージを単純化して、分かりやすくしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845426"
+    },
+    {
+      "english": "Focus on the goal, then proceed.",
+      "JAPANESE": "目標に集中して、それから進みましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845427"
+    },
+    {
+      "english": "Adapt to changes, with ease.",
+      "JAPANESE": "変化に、楽に適応しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845428"
+    },
+    {
+      "english": "Express yourself, authentically.",
+      "JAPANESE": "自分自身を、ありのまま表現しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845429"
+    },
+    {
+      "english": "Be mindful of others, always.",
+      "JAPANESE": "常に、周りの人に配慮しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845430"
+    },
+    {
+      "english": "Contribute your ideas, to the team.",
+      "JAPANESE": "チームのために、あなたのアイデアを提供しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845431"
+    },
+    {
+      "english": "Speak clearly, for understanding.",
+      "JAPANESE": "はっきり話しましょう、分かりやすく。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845433"
+    },
+    {
+      "english": "Ask questions, learn more.",
+      "JAPANESE": "質問してください、もっと学ぶために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845434"
+    },
+    {
+      "english": "Listen carefully, don't miss details.",
+      "JAPANESE": "注意深く聞いて、詳細を逃さないで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845435"
+    },
+    {
+      "english": "Practice daily, improve skills.",
+      "JAPANESE": "毎日練習して、スキルを向上させましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845436"
+    },
+    {
+      "english": "Review often, remember words.",
+      "JAPANESE": "よく復習して、単語を覚えてください。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845438"
+    },
+    {
+      "english": "Think first, then speak.",
+      "JAPANESE": "まず考えて、それから話しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845439"
+    },
+    {
+      "english": "Be patient, it takes time.",
+      "JAPANESE": "辛抱強く、時間がかかりますから。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845440"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "JAPANESE": "もう一度挑戦して、諦めないで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845441"
+    },
+    {
+      "english": "Write it down, to remember.",
+      "JAPANESE": "書き留めて、忘れないように。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845442"
+    },
+    {
+      "english": "Use context, for meaning.",
+      "JAPANESE": "文脈を使って、意味を理解しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845443"
+    },
+    {
+      "english": "Repeat it out loud, for practice.",
+      "JAPANESE": "声に出して繰り返して、練習のために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845444"
+    },
+    {
+      "english": "Explore new words, expand vocabulary.",
+      "JAPANESE": "新しい単語を探求して、語彙を増やしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845446"
+    },
+    {
+      "english": "Read books, for fluency.",
+      "JAPANESE": "本を読んで、流暢さを目指しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845447"
+    },
+    {
+      "english": "Watch movies, for immersion.",
+      "JAPANESE": "映画を見て、没入感を深めましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845448"
+    },
+    {
+      "english": "Sing songs, for pronunciation.",
+      "JAPANESE": "歌を歌って、発音を練習しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845449"
+    },
+    {
+      "english": "Make friends, to converse.",
+      "JAPANESE": "友達を作って、会話するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845450"
+    },
+    {
+      "english": "Travel abroad, for experience.",
+      "JAPANESE": "海外旅行して、経験を積むために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845451"
+    },
+    {
+      "english": "Order food, to practice.",
+      "JAPANESE": "食べ物を注文して、練習しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845452"
+    },
+    {
+      "english": "Ask for directions, to navigate.",
+      "JAPANESE": "道を尋ねて、案内してもらうために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845453"
+    },
+    {
+      "english": "Introduce yourself, to connect.",
+      "JAPANESE": "自己紹介して、繋がるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845456"
+    },
+    {
+      "english": "Say thank you, always.",
+      "JAPANESE": "いつも、ありがとうと言いましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845457"
+    },
+    {
+      "english": "Apologize sincerely, for impact.",
+      "JAPANESE": "心から謝って、影響を和らげるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845458"
+    },
+    {
+      "english": "Express gratitude, deeply.",
+      "JAPANESE": "感謝の気持ちを、深く表現しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845459"
+    },
+    {
+      "english": "Share your thoughts, to communicate.",
+      "JAPANESE": "考えを共有して、伝えるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845460"
+    },
+    {
+      "english": "Ask for opinions, to understand.",
+      "JAPANESE": "意見を求めて、理解を深めるために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845461"
+    },
+    {
+      "english": "Explain your reasons, clearly.",
+      "JAPANESE": "理由を、はっきり説明しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845462"
+    },
+    {
+      "english": "Summarize points, for clarity.",
+      "JAPANESE": "要点をまとめて、分かりやすくしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845463"
+    },
+    {
+      "english": "Ask 'why', to understand deeper.",
+      "JAPANESE": "「なぜ」と尋ねて、深く理解するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845464"
+    },
+    {
+      "english": "Be open to feedback, for growth.",
+      "JAPANESE": "成長のために、フィードバックに心を開きましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845465"
+    },
+    {
+      "english": "Seek help, when needed.",
+      "JAPANESE": "助けが必要なときは、求めましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845466"
+    },
+    {
+      "english": "Collaborate with others, to create.",
+      "JAPANESE": "協力して、創造するために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845467"
+    },
+    {
+      "english": "Imagine possibilities, and act.",
+      "JAPANESE": "可能性を想像して、行動しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845468"
+    },
+    {
+      "english": "Stay curious, explore widely.",
+      "JAPANESE": "好奇心を持ち続け、広く探求しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845469"
+    },
+    {
+      "english": "Simplify your message, for clarity.",
+      "JAPANESE": "メッセージを単純化して、分かりやすくしましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845470"
+    },
+    {
+      "english": "Focus on the goal, then proceed.",
+      "JAPANESE": "目標に集中して、それから進みましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845472"
+    },
+    {
+      "english": "Adapt to changes, with ease.",
+      "JAPANESE": "変化に、楽に適応しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845473"
+    },
+    {
+      "english": "Express yourself, authentically.",
+      "JAPANESE": "自分自身を、ありのまま表現しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845474"
+    },
+    {
+      "english": "Be mindful of others, always.",
+      "JAPANESE": "常に、周りの人に配慮しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845475"
+    },
+    {
+      "english": "Contribute your ideas, to the team.",
+      "JAPANESE": "チームのために、あなたのアイデアを提供しましょう。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845476"
+    },
+    {
+      "english": "Speak clearly, for understanding.",
+      "JAPANESE": "はっきり話しましょう、分かりやすく。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845477"
+    },
+    {
+      "english": "Ask questions, learn more.",
+      "JAPANESE": "質問してください、もっと学ぶために。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845478"
+    },
+    {
+      "english": "Listen carefully, don't miss details.",
+      "JAPANESE": "注意深く聞いて、詳細を逃さないで。",
+      "category": "Purpose",
+      "generated_at": "2026-07-27T04:32:47.845479"
     }
   ],
-  "last_updated": "2026-07-26T04:23:02.358632"
+  "last_updated": "2026-07-27T04:32:47.845481"
 }
