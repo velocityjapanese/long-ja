@@ -11279,7 +11279,367 @@
       "JAPANESE": "注意深く聞いて、詳細を逃さないで。",
       "category": "Purpose",
       "generated_at": "2026-07-27T04:32:47.845479"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "japanese": "旅を楽しもう、満喫して。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889766"
+    },
+    {
+      "english": "Shine your light, brightly.",
+      "japanese": "君の光を、輝かせよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889779"
+    },
+    {
+      "english": "Kindness spreads, like ripples.",
+      "japanese": "優しさは広がる、波紋のように。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889781"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger.",
+      "japanese": "間違いから学んで、強くなる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889782"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "japanese": "感謝は扉を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889783"
+    },
+    {
+      "english": "Hope fuels the soul.",
+      "japanese": "希望は魂を燃やす。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889784"
+    },
+    {
+      "english": "Patience, a virtue.",
+      "japanese": "忍耐は、美徳。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889785"
+    },
+    {
+      "english": "Keep pushing forward, gently.",
+      "japanese": "優しく、前進し続けよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889789"
+    },
+    {
+      "english": "Today is a gift, unwrap it.",
+      "japanese": "今日は贈り物、開けてみよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889790"
+    },
+    {
+      "english": "Be the change, you wish.",
+      "japanese": "望む変化になろう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889791"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "japanese": "心に耳を澄ませて、知っている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889793"
+    },
+    {
+      "english": "Love yourself, first.",
+      "japanese": "まず、自分を愛そう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889794"
+    },
+    {
+      "english": "Dream big, work hard.",
+      "japanese": "大きく夢見て、一生懸命働こう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889795"
+    },
+    {
+      "english": "Spread positivity, everywhere.",
+      "japanese": "ポジティブさを広げよう、どこでも。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889796"
+    },
+    {
+      "english": "Courage is a spark.",
+      "japanese": "勇気は、火花。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889796"
+    },
+    {
+      "english": "Success is built, slowly.",
+      "japanese": "成功は築かれる、ゆっくりと。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889797"
+    },
+    {
+      "english": "Share your smile, often.",
+      "japanese": "笑顔を分け合おう、よく。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889798"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "japanese": "全てに感謝しよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889799"
+    },
+    {
+      "english": "Find beauty, in chaos.",
+      "japanese": "混乱の中に、美を見つけよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889800"
+    },
+    {
+      "english": "Inspire others, with your actions.",
+      "japanese": "行動で、他人を刺激しよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889801"
+    },
+    {
+      "english": "Let go, of what hurts.",
+      "japanese": "痛いものを、手放そう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889802"
+    },
+    {
+      "english": "Stay focused, on your goals.",
+      "japanese": "目標に、集中し続けよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889803"
+    },
+    {
+      "english": "Embrace challenges, with spirit.",
+      "japanese": "困難に、意気込みを持って立ち向かおう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889804"
+    },
+    {
+      "english": "Kind words, heal hearts.",
+      "japanese": "優しい言葉は、心を癒す。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889805"
+    },
+    {
+      "english": "Listen to, your intuition.",
+      "japanese": "直感を、聞こう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889806"
+    },
+    {
+      "english": "Grow, like a flower.",
+      "japanese": "花のように、成長しよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889807"
+    },
+    {
+      "english": "Find your rhythm, and dance.",
+      "japanese": "自分のリズムを見つけて、踊ろう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889808"
+    },
+    {
+      "english": "Live with purpose, always.",
+      "japanese": "目的を持って生きよう、常に。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889809"
+    },
+    {
+      "english": "Make today, amazing.",
+      "japanese": "今日を、素晴らしいものにしよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889810"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "japanese": "小さな勝利を祝おう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889811"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "japanese": "旅を楽しもう、満喫して。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889812"
+    },
+    {
+      "english": "Shine your light, brightly.",
+      "japanese": "君の光を、輝かせよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889813"
+    },
+    {
+      "english": "Kindness spreads, like ripples.",
+      "japanese": "優しさは広がる、波紋のように。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889833"
+    },
+    {
+      "english": "Learn from mistakes, grow stronger.",
+      "japanese": "間違いから学んで、強くなる。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889834"
+    },
+    {
+      "english": "Gratitude opens doors.",
+      "japanese": "感謝は扉を開く。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889835"
+    },
+    {
+      "english": "Hope fuels the soul.",
+      "japanese": "希望は魂を燃やす。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889836"
+    },
+    {
+      "english": "Patience, a virtue.",
+      "japanese": "忍耐は、美徳。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889837"
+    },
+    {
+      "english": "Keep pushing forward, gently.",
+      "japanese": "優しく、前進し続けよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889838"
+    },
+    {
+      "english": "Today is a gift, unwrap it.",
+      "japanese": "今日は贈り物、開けてみよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889839"
+    },
+    {
+      "english": "Be the change, you wish.",
+      "japanese": "望む変化になろう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889840"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "japanese": "心に耳を澄ませて、知っている。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889841"
+    },
+    {
+      "english": "Love yourself, first.",
+      "japanese": "まず、自分を愛そう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889842"
+    },
+    {
+      "english": "Dream big, work hard.",
+      "japanese": "大きく夢見て、一生懸命働こう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889843"
+    },
+    {
+      "english": "Spread positivity, everywhere.",
+      "japanese": "ポジティブさを広げよう、どこでも。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889844"
+    },
+    {
+      "english": "Courage is a spark.",
+      "japanese": "勇気は、火花。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889845"
+    },
+    {
+      "english": "Success is built, slowly.",
+      "japanese": "成功は築かれる、ゆっくりと。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889846"
+    },
+    {
+      "english": "Share your smile, often.",
+      "japanese": "笑顔を分け合おう、よく。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889847"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "japanese": "全てに感謝しよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889848"
+    },
+    {
+      "english": "Find beauty, in chaos.",
+      "japanese": "混乱の中に、美を見つけよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889849"
+    },
+    {
+      "english": "Inspire others, with your actions.",
+      "japanese": "行動で、他人を刺激しよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889850"
+    },
+    {
+      "english": "Let go, of what hurts.",
+      "japanese": "痛いものを、手放そう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889851"
+    },
+    {
+      "english": "Stay focused, on your goals.",
+      "japanese": "目標に、集中し続けよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889852"
+    },
+    {
+      "english": "Embrace challenges, with spirit.",
+      "japanese": "困難に、意気込みを持って立ち向かおう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889853"
+    },
+    {
+      "english": "Kind words, heal hearts.",
+      "japanese": "優しい言葉は、心を癒す。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889854"
+    },
+    {
+      "english": "Listen to, your intuition.",
+      "japanese": "直感を、聞こう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889855"
+    },
+    {
+      "english": "Grow, like a flower.",
+      "japanese": "花のように、成長しよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889855"
+    },
+    {
+      "english": "Find your rhythm, and dance.",
+      "japanese": "自分のリズムを見つけて、踊ろう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889857"
+    },
+    {
+      "english": "Live with purpose, always.",
+      "japanese": "目的を持って生きよう、常に。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889857"
+    },
+    {
+      "english": "Make today, amazing.",
+      "japanese": "今日を、素晴らしいものにしよう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889858"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "japanese": "小さな勝利を祝おう。",
+      "category": "Positive Life",
+      "generated_at": "2026-07-31T10:10:19.889859"
     }
   ],
-  "last_updated": "2026-07-27T04:32:47.845481"
+  "last_updated": "2026-07-31T10:10:19.889861"
 }
