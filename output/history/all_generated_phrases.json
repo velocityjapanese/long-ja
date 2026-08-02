@@ -12359,7 +12359,367 @@
       "japanese": "小さなご褒美、大きな後押し。",
       "category": "Motivation",
       "generated_at": "2026-08-01T04:18:11.117453"
+    },
+    {
+      "english": "Oops, my bad. Let me fix that.",
+      "japanese": "おっと、私のミスです。直します。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226814"
+    },
+    {
+      "english": "Sorry, I messed up that word.",
+      "japanese": "ごめん、あの言葉間違えた。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226826"
+    },
+    {
+      "english": "My apologies, that was incorrect.",
+      "japanese": "すみません、それは間違いでした。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226827"
+    },
+    {
+      "english": "Whoops, wrong pronunciation, I think.",
+      "japanese": "うわ、発音が間違ってる、かな。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226828"
+    },
+    {
+      "english": "Ah, I said that wrong, sorry.",
+      "japanese": "あ、それは言い間違えた、ごめん。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226829"
+    },
+    {
+      "english": "My mistake, I'll try again.",
+      "japanese": "私の間違い、もう一度やってみます。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226830"
+    },
+    {
+      "english": "Forgive me, I misunderstood that.",
+      "japanese": "許してください、それは勘違いでした。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226831"
+    },
+    {
+      "english": "I didn't mean to say that.",
+      "japanese": "そんなつもりで言ったんじゃない。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226835"
+    },
+    {
+      "english": "Excuse me, that was a slip-up.",
+      "japanese": "失礼、それはうっかりでした。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226836"
+    },
+    {
+      "english": "My apologies for the confusion.",
+      "japanese": "混乱させてごめんなさい。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226838"
+    },
+    {
+      "english": "I'll be more careful next time.",
+      "japanese": "次はもっと気をつけます。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226839"
+    },
+    {
+      "english": "That wasn't what I meant, sorry.",
+      "japanese": "それは私の意図ではなかった、ごめん。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226840"
+    },
+    {
+      "english": "I stumbled over that word.",
+      "japanese": "あの言葉でつまずいた。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226841"
+    },
+    {
+      "english": "Sorry for the slight error.",
+      "japanese": "ちょっとした間違い、ごめん。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226842"
+    },
+    {
+      "english": "My bad, I got mixed up.",
+      "japanese": "私のミス、混乱しちゃった。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226843"
+    },
+    {
+      "english": "Please overlook that small mistake.",
+      "japanese": "その小さな間違いは、見逃してください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226844"
+    },
+    {
+      "english": "I'm still learning, so forgive me.",
+      "japanese": "まだ勉強中なので、許してください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226845"
+    },
+    {
+      "english": "That was a clumsy attempt, sorry.",
+      "japanese": "それは不器用な試みでした、ごめん。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226846"
+    },
+    {
+      "english": "I misspoke, my sincere apologies.",
+      "japanese": "言い間違えました、心からお詫びします。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226847"
+    },
+    {
+      "english": "Don't mind my little fumble.",
+      "japanese": "私のちょっとした失敗は、気にしないで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226848"
+    },
+    {
+      "english": "I meant to say something else.",
+      "japanese": "別のことを言いたかったんだ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226849"
+    },
+    {
+      "english": "Sorry if that sounded odd.",
+      "japanese": "変に聞こえたらごめん。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226850"
+    },
+    {
+      "english": "That phrase didn't come out right.",
+      "japanese": "そのフレーズ、うまく出なかった。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226851"
+    },
+    {
+      "english": "A little pronunciation slip, sorry.",
+      "japanese": "ちょっと発音を間違えた、ごめん。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226852"
+    },
+    {
+      "english": "I'm still getting the hang of it.",
+      "japanese": "まだ慣れていないんです。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226853"
+    },
+    {
+      "english": "Please excuse my language error.",
+      "japanese": "言葉の間違い、ご容赦ください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226853"
+    },
+    {
+      "english": "That phrasing was a bit off.",
+      "japanese": "その言い回し、少しずれてた。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226854"
+    },
+    {
+      "english": "My apologies, I forgot that.",
+      "japanese": "すみません、それを忘れました。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226855"
+    },
+    {
+      "english": "I'm working on that detail.",
+      "japanese": "その詳細を練習中です。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226856"
+    },
+    {
+      "english": "That wasn't quite right, was it?",
+      "japanese": "それは、あんまり正しくなかったよね？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226857"
+    },
+    {
+      "english": "I tripped up on grammar, sorry.",
+      "japanese": "文法でつまずいた、ごめん。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226858"
+    },
+    {
+      "english": "My attempt was a little awkward.",
+      "japanese": "私の試みは、少しぎこちなかった。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226858"
+    },
+    {
+      "english": "I'll refine my delivery next time.",
+      "japanese": "次は、伝え方を磨きます。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226859"
+    },
+    {
+      "english": "Sorry, that was an unintentional error.",
+      "japanese": "ごめん、それは意図しない間違いだった。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226860"
+    },
+    {
+      "english": "I hope you can forgive my error.",
+      "japanese": "私の間違いを許してくれると嬉しいです。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226861"
+    },
+    {
+      "english": "That was a bit of a misstep.",
+      "japanese": "それはちょっとした踏み外しだった。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226862"
+    },
+    {
+      "english": "My apologies for the linguistic hiccup.",
+      "japanese": "言語的なつまずき、すみません。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226863"
+    },
+    {
+      "english": "I'll pay more attention to detail.",
+      "japanese": "もっと細部に注意を払います。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226864"
+    },
+    {
+      "english": "That sentence construction was off.",
+      "japanese": "あの文の作り方、間違ってた。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226864"
+    },
+    {
+      "english": "My apologies for my imperfect Japanese.",
+      "japanese": "不完全な日本語、ごめんなさい。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226865"
+    },
+    {
+      "english": "I'm still finding the right words.",
+      "japanese": "まだ、適切な言葉を探しています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226866"
+    },
+    {
+      "english": "It's okay, don't worry.",
+      "japanese": "大丈夫、心配しないで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226867"
+    },
+    {
+      "english": "Mistakes happen, move on.",
+      "japanese": "間違いは起こる、次に進もう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226868"
+    },
+    {
+      "english": "Don't be too hard on yourself.",
+      "japanese": "自分を責めすぎないで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226869"
+    },
+    {
+      "english": "That's a common slip-up.",
+      "japanese": "それはよくある間違いだよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226870"
+    },
+    {
+      "english": "No problem, we all do it.",
+      "japanese": "問題ないよ、みんなするから。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226871"
+    },
+    {
+      "english": "Just a small detour.",
+      "japanese": "ちょっとした寄り道だよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226872"
+    },
+    {
+      "english": "It's a learning moment.",
+      "japanese": "これは学びの瞬間だ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226872"
+    },
+    {
+      "english": "Forget it, try again.",
+      "japanese": "忘れて、またやってみよう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226873"
+    },
+    {
+      "english": "No need to apologize.",
+      "japanese": "謝る必要はないよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226874"
+    },
+    {
+      "english": "Let it go, breathe easy.",
+      "japanese": "手放して、楽に息をして。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226875"
+    },
+    {
+      "english": "That's fine, really.",
+      "japanese": "それでいいんだ、本当に。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226876"
+    },
+    {
+      "english": "Don't sweat the small stuff.",
+      "japanese": "細かいことは気にしないで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226877"
+    },
+    {
+      "english": "You'll get it next time.",
+      "japanese": "次はうまくいくよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226878"
+    },
+    {
+      "english": "Consider it a lesson learned.",
+      "japanese": "学んだ教訓と思おう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226879"
+    },
+    {
+      "english": "Happens to the best of us.",
+      "japanese": "私たちの一番得意な人にも起こるよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226880"
+    },
+    {
+      "english": "No harm done, forget it.",
+      "japanese": "害はないよ、忘れて。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226880"
+    },
+    {
+      "english": "It's a tiny stumble.",
+      "japanese": "小さなつまずきだよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226881"
+    },
+    {
+      "english": "Don't dwell on that.",
+      "japanese": "それにこだわりすぎないで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226882"
+    },
+    {
+      "english": "We'll fix it, no worries.",
+      "japanese": "直そう、心配しないで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-02T04:20:59.226883"
     }
   ],
-  "last_updated": "2026-08-01T04:18:11.117455"
+  "last_updated": "2026-08-02T04:20:59.226885"
 }
