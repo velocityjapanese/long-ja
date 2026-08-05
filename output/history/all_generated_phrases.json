@@ -13439,7 +13439,367 @@
       "japanese": "あなたの努力、報われるよ。",
       "category": "Motivation",
       "generated_at": "2026-08-04T04:07:51.271168"
+    },
+    {
+      "english": "Let's share secrets, okay?",
+      "japanese": "秘密、共有しよ？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921975"
+    },
+    {
+      "english": "You make learning, fun.",
+      "japanese": "君がいると、楽しいね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921988"
+    },
+    {
+      "english": "Can I borrow your notes?",
+      "japanese": "ノート、貸してくれる？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921989"
+    },
+    {
+      "english": "Let's study, together always.",
+      "japanese": "いつも一緒に、勉強しよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921991"
+    },
+    {
+      "english": "This word, reminds me of you.",
+      "japanese": "この言葉、君みたい。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921992"
+    },
+    {
+      "english": "You're my favorite study buddy.",
+      "japanese": "一番好きな、勉強仲間だよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921993"
+    },
+    {
+      "english": "Can we practice, more often?",
+      "japanese": "もっと練習、できるかな？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921994"
+    },
+    {
+      "english": "Your explanations, are so clear.",
+      "japanese": "君の説明、分かりやすい。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921997"
+    },
+    {
+      "english": "I'm thinking of you, a lot.",
+      "japanese": "君のこと、よく考える。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.921999"
+    },
+    {
+      "english": "Let's make new words, together.",
+      "japanese": "新しい言葉、作ろうよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922001"
+    },
+    {
+      "english": "You make grammar, seem easy.",
+      "japanese": "文法も、簡単に見える。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922002"
+    },
+    {
+      "english": "Want to grab coffee, after class?",
+      "japanese": "授業後、コーヒーどう？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922003"
+    },
+    {
+      "english": "You're really, a good listener.",
+      "japanese": "君、すごく聞き上手だね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922005"
+    },
+    {
+      "english": "This phrase, is for you.",
+      "japanese": "このフレーズ、君のために。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922006"
+    },
+    {
+      "english": "Let's create, our own language.",
+      "japanese": "僕らの言葉、作ろう。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922007"
+    },
+    {
+      "english": "Can I ask for help, anytime?",
+      "japanese": "いつでも、聞いてもいい？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922008"
+    },
+    {
+      "english": "You're the best, in this class.",
+      "japanese": "このクラスで、君が一番。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922009"
+    },
+    {
+      "english": "Let's talk, about anything.",
+      "japanese": "何でも話そうよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922010"
+    },
+    {
+      "english": "Your accent, is so cute.",
+      "japanese": "君の発音、可愛いね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922011"
+    },
+    {
+      "english": "I always look forward, to seeing you.",
+      "japanese": "会えるのが、いつも楽しみ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922012"
+    },
+    {
+      "english": "Let's share, our favorite words.",
+      "japanese": "好きな言葉、教え合おう。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922013"
+    },
+    {
+      "english": "You make me, want to learn more.",
+      "japanese": "もっと学びたくなるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922014"
+    },
+    {
+      "english": "Can we have, private lessons?",
+      "japanese": "プライベートレッスン、どう？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922015"
+    },
+    {
+      "english": "Your Japanese, is improving fast.",
+      "japanese": "日本語、上手になってるね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922016"
+    },
+    {
+      "english": "Let's write a story, together.",
+      "japanese": "物語、一緒に書こう。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922017"
+    },
+    {
+      "english": "You make studying, feel like a game.",
+      "japanese": "勉強が、ゲームみたいだよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922018"
+    },
+    {
+      "english": "Can I be your, language partner?",
+      "japanese": "私の言語交換パートナー、なってくれる？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922019"
+    },
+    {
+      "english": "You're so good, at this.",
+      "japanese": "君、これ得意なんだね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922020"
+    },
+    {
+      "english": "Let's use Japanese, all day.",
+      "japanese": "一日中、日本語で話そう。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922021"
+    },
+    {
+      "english": "Can I practice, with you alone?",
+      "japanese": "二人だけで、練習したいな。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922022"
+    },
+    {
+      "english": "You have a talent, for languages.",
+      "japanese": "言語の才能、あるね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922023"
+    },
+    {
+      "english": "Let's discover, new phrases.",
+      "japanese": "新しいフレーズ、見つけよう。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922024"
+    },
+    {
+      "english": "Your enthusiasm, is contagious.",
+      "japanese": "君の熱意、伝染するよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922025"
+    },
+    {
+      "english": "Can we have, a Japanese date?",
+      "japanese": "日本語デート、どうかな？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922028"
+    },
+    {
+      "english": "You make me, laugh so much.",
+      "japanese": "君、よく笑わせてくれる。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922029"
+    },
+    {
+      "english": "Let's be friends, forever and ever.",
+      "japanese": "ずっと友達だよ、絶対。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922030"
+    },
+    {
+      "english": "You're my favorite, person to learn with.",
+      "japanese": "一緒に学ぶなら、君が一番。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922031"
+    },
+    {
+      "english": "Let's share secrets, okay?",
+      "japanese": "秘密、共有しよ？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922032"
+    },
+    {
+      "english": "You make learning, fun.",
+      "japanese": "君がいると、楽しいね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922033"
+    },
+    {
+      "english": "Can I borrow your notes?",
+      "japanese": "ノート、貸してくれる？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922038"
+    },
+    {
+      "english": "Let's study, together always.",
+      "japanese": "いつも一緒に、勉強しよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922039"
+    },
+    {
+      "english": "This word, reminds me of you.",
+      "japanese": "この言葉、君みたい。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922040"
+    },
+    {
+      "english": "You're my favorite study buddy.",
+      "japanese": "一番好きな、勉強仲間だよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922042"
+    },
+    {
+      "english": "Can we practice, more often?",
+      "japanese": "もっと練習、できるかな？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922043"
+    },
+    {
+      "english": "Your explanations, are so clear.",
+      "japanese": "君の説明、分かりやすい。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922044"
+    },
+    {
+      "english": "I'm thinking of you, a lot.",
+      "japanese": "君のこと、よく考える。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922045"
+    },
+    {
+      "english": "Let's make new words, together.",
+      "japanese": "新しい言葉、作ろうよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922046"
+    },
+    {
+      "english": "You make grammar, seem easy.",
+      "japanese": "文法も、簡単に見える。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922047"
+    },
+    {
+      "english": "Want to grab coffee, after class?",
+      "japanese": "授業後、コーヒーどう？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922048"
+    },
+    {
+      "english": "You're really, a good listener.",
+      "japanese": "君、すごく聞き上手だね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922049"
+    },
+    {
+      "english": "This phrase, is for you.",
+      "japanese": "このフレーズ、君のために。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922050"
+    },
+    {
+      "english": "Let's create, our own language.",
+      "japanese": "僕らの言葉、作ろう。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922051"
+    },
+    {
+      "english": "Can I ask for help, anytime?",
+      "japanese": "いつでも、聞いてもいい？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922052"
+    },
+    {
+      "english": "You're the best, in this class.",
+      "japanese": "このクラスで、君が一番。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922053"
+    },
+    {
+      "english": "Let's talk, about anything.",
+      "japanese": "何でも話そうよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922054"
+    },
+    {
+      "english": "Your accent, is so cute.",
+      "japanese": "君の発音、可愛いね。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922055"
+    },
+    {
+      "english": "I always look forward, to seeing you.",
+      "japanese": "会えるのが、いつも楽しみ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922056"
+    },
+    {
+      "english": "Let's share, our favorite words.",
+      "japanese": "好きな言葉、教え合おう。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922057"
+    },
+    {
+      "english": "You make me, want to learn more.",
+      "japanese": "もっと学びたくなるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922058"
+    },
+    {
+      "english": "Can we have, private lessons?",
+      "japanese": "プライベートレッスン、どう？",
+      "category": "Friendship",
+      "generated_at": "2026-08-05T03:55:21.922059"
     }
   ],
-  "last_updated": "2026-08-04T04:07:51.271170"
+  "last_updated": "2026-08-05T03:55:21.922061"
 }
