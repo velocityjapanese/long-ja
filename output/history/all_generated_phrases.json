@@ -13799,7 +13799,367 @@
       "japanese": "プライベートレッスン、どう？",
       "category": "Friendship",
       "generated_at": "2026-08-05T03:55:21.922059"
+    },
+    {
+      "english": "Listen well, speak slowly.",
+      "japanese": "よく聞いて、ゆっくり話す。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806671"
+    },
+    {
+      "english": "Practice daily, remember always.",
+      "japanese": "毎日練習、いつも記憶。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806682"
+    },
+    {
+      "english": "Don't fear, mistakes. Learn them.",
+      "japanese": "間違いを恐れない、学びなさい。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806684"
+    },
+    {
+      "english": "Hear the sound, feel the meaning.",
+      "japanese": "音を聞いて、意味を感じて。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806686"
+    },
+    {
+      "english": "Read aloud, improve fluency.",
+      "japanese": "声に出して読む、流暢に。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806687"
+    },
+    {
+      "english": "Think in Japanese, not English.",
+      "japanese": "日本語で考えろ、英語でなく。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806688"
+    },
+    {
+      "english": "Connect words, build sentences.",
+      "japanese": "単語をつなぐ、文を作る。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806690"
+    },
+    {
+      "english": "Every word, is a new door.",
+      "japanese": "全ての言葉、新しい扉。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806693"
+    },
+    {
+      "english": "Mimic native speakers, carefully.",
+      "japanese": "ネイティブを真似る、注意深く。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806694"
+    },
+    {
+      "english": "Immersion is key, find it.",
+      "japanese": "没頭が鍵、見つけよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806696"
+    },
+    {
+      "english": "Enjoy the journey, of learning.",
+      "japanese": "学ぶ旅を、楽しんで。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806697"
+    },
+    {
+      "english": "Ask questions, often.",
+      "japanese": "質問を、よくして。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806698"
+    },
+    {
+      "english": "Repetition builds, understanding.",
+      "japanese": "繰り返しで、理解する。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806699"
+    },
+    {
+      "english": "Speak with confidence, even flawed.",
+      "japanese": "自信を持って話す、たとえ不完全でも。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806700"
+    },
+    {
+      "english": "The dictionary, is your friend.",
+      "japanese": "辞書は、友達。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806701"
+    },
+    {
+      "english": "Write things down, review later.",
+      "japanese": "書き留めて、後で復習。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806702"
+    },
+    {
+      "english": "Embrace the sounds, of Japanese.",
+      "japanese": "日本語の音を、受け入れて。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806704"
+    },
+    {
+      "english": "Listen to music, learn lyrics.",
+      "japanese": "音楽を聴いて、歌詞を学ぶ。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806705"
+    },
+    {
+      "english": "Watch dramas, with subtitles.",
+      "japanese": "ドラマを見る、字幕付きで。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806706"
+    },
+    {
+      "english": "Language is a skill, not a subject.",
+      "japanese": "言語はスキル、科目じゃない。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806707"
+    },
+    {
+      "english": "Be brave, use new words.",
+      "japanese": "勇気を出して、新単語を。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806708"
+    },
+    {
+      "english": "Every conversation, is practice.",
+      "japanese": "全ての会話、練習。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806709"
+    },
+    {
+      "english": "Learn context, not just words.",
+      "japanese": "文脈を学ぶ、単語だけでなく。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806711"
+    },
+    {
+      "english": "Simplify your speech, at first.",
+      "japanese": "話し方を、まず簡単にする。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806712"
+    },
+    {
+      "english": "Make it a habit, to speak.",
+      "japanese": "話すことを、習慣に。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806713"
+    },
+    {
+      "english": "Motivation comes, from progress.",
+      "japanese": "やる気は、進歩から。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806714"
+    },
+    {
+      "english": "Understand the nuances, slowly.",
+      "japanese": "ニュアンスを理解する、ゆっくり。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806715"
+    },
+    {
+      "english": "Keep a learning journal.",
+      "japanese": "学習ノートを、つけよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806716"
+    },
+    {
+      "english": "Embrace the silence, between words.",
+      "japanese": "言葉の間の、静寂を受け入れて。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806717"
+    },
+    {
+      "english": "Listen well, speak slowly.",
+      "japanese": "よく聞いて、ゆっくり話す。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806718"
+    },
+    {
+      "english": "Practice daily, remember always.",
+      "japanese": "毎日練習、いつも記憶。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806719"
+    },
+    {
+      "english": "Don't fear, mistakes. Learn them.",
+      "japanese": "間違いを恐れない、学びなさい。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806721"
+    },
+    {
+      "english": "Hear the sound, feel the meaning.",
+      "japanese": "音を聞いて、意味を感じて。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806722"
+    },
+    {
+      "english": "Read aloud, improve fluency.",
+      "japanese": "声に出して読む、流暢に。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806723"
+    },
+    {
+      "english": "Think in Japanese, not English.",
+      "japanese": "日本語で考えろ、英語でなく。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806724"
+    },
+    {
+      "english": "Connect words, build sentences.",
+      "japanese": "単語をつなぐ、文を作る。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806725"
+    },
+    {
+      "english": "Every word, is a new door.",
+      "japanese": "全ての言葉、新しい扉。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806726"
+    },
+    {
+      "english": "Mimic native speakers, carefully.",
+      "japanese": "ネイティブを真似る、注意深く。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806727"
+    },
+    {
+      "english": "Immersion is key, find it.",
+      "japanese": "没頭が鍵、見つけよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806729"
+    },
+    {
+      "english": "Enjoy the journey, of learning.",
+      "japanese": "学ぶ旅を、楽しんで。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806730"
+    },
+    {
+      "english": "Ask questions, often.",
+      "japanese": "質問を、よくして。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806731"
+    },
+    {
+      "english": "Repetition builds, understanding.",
+      "japanese": "繰り返しで、理解する。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806732"
+    },
+    {
+      "english": "Speak with confidence, even flawed.",
+      "japanese": "自信を持って話す、たとえ不完全でも。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806733"
+    },
+    {
+      "english": "The dictionary, is your friend.",
+      "japanese": "辞書は、友達。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806734"
+    },
+    {
+      "english": "Write things down, review later.",
+      "japanese": "書き留めて、後で復習。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806735"
+    },
+    {
+      "english": "Embrace the sounds, of Japanese.",
+      "japanese": "日本語の音を、受け入れて。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806737"
+    },
+    {
+      "english": "Listen to music, learn lyrics.",
+      "japanese": "音楽を聴いて、歌詞を学ぶ。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806738"
+    },
+    {
+      "english": "Watch dramas, with subtitles.",
+      "japanese": "ドラマを見る、字幕付きで。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806739"
+    },
+    {
+      "english": "Language is a skill, not a subject.",
+      "japanese": "言語はスキル、科目じゃない。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806740"
+    },
+    {
+      "english": "Be brave, use new words.",
+      "japanese": "勇気を出して、新単語を。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806741"
+    },
+    {
+      "english": "Every conversation, is practice.",
+      "japanese": "全ての会話、練習。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806742"
+    },
+    {
+      "english": "Learn context, not just words.",
+      "japanese": "文脈を学ぶ、単語だけでなく。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806743"
+    },
+    {
+      "english": "Simplify your speech, at first.",
+      "japanese": "話し方を、まず簡単にする。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806744"
+    },
+    {
+      "english": "Make it a habit, to speak.",
+      "japanese": "話すことを、習慣に。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806745"
+    },
+    {
+      "english": "Motivation comes, from progress.",
+      "japanese": "やる気は、進歩から。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806746"
+    },
+    {
+      "english": "Understand the nuances, slowly.",
+      "japanese": "ニュアンスを理解する、ゆっくり。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806747"
+    },
+    {
+      "english": "Keep a learning journal.",
+      "japanese": "学習ノートを、つけよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806749"
+    },
+    {
+      "english": "Embrace the silence, between words.",
+      "japanese": "言葉の間の、静寂を受け入れて。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806750"
+    },
+    {
+      "english": "Listen well, speak slowly.",
+      "japanese": "よく聞いて、ゆっくり話す。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806751"
+    },
+    {
+      "english": "Practice daily, remember always.",
+      "japanese": "毎日練習、いつも記憶。",
+      "category": "Wisdom",
+      "generated_at": "2026-08-06T04:07:13.806752"
     }
   ],
-  "last_updated": "2026-08-05T03:55:21.922061"
+  "last_updated": "2026-08-06T04:07:13.806754"
 }
