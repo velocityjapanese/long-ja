@@ -665,6 +665,9 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     ]
 
     japanese_font_paths = [
+        str(BASE_DIR / "fonts" / "NotoSansJP-Bold.ttf"),
+        str(BASE_DIR / "fonts" / "msgothic.ttc"),
+        str(BASE_DIR / "fonts" / "yugothb.ttc"),
         "C:/Windows/Fonts/msgothic.ttc",
         "C:/Windows/Fonts/YuGothB.ttc",
         "C:/Windows/Fonts/Meiryo.ttc",
@@ -828,8 +831,13 @@ def generate_thumbnail(category_english: str, category_japanese: str, output_pat
     draw = ImageDraw.Draw(img)
 
     # Load fonts
-    english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    japanese_font_paths = ["C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc"]
+    english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf",
+                          "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+                          str(BASE_DIR / "fonts" / "DejaVuSans-Bold.ttf")]
+    japanese_font_paths = [str(BASE_DIR / "fonts" / "NotoSansJP-Bold.ttf"),
+                           str(BASE_DIR / "fonts" / "msgothic.ttc"),
+                           str(BASE_DIR / "fonts" / "yugothb.ttc"),
+                           "C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
