@@ -15239,7 +15239,367 @@
       "japanese": "旅を信じて、展開していく。",
       "category": "Hope",
       "generated_at": "2026-08-09T03:00:22.984525"
+    },
+    {
+      "english": "Messy desk, brilliant mind.",
+      "japanese": "散らかった机、輝く頭。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543871"
+    },
+    {
+      "english": "Brain freeze? Still thinking!",
+      "japanese": "頭が凍る？まだ考えてる！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543881"
+    },
+    {
+      "english": "Oops, did that again. Retry!",
+      "japanese": "あれ、またやった。再挑戦！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543883"
+    },
+    {
+      "english": "Lost the map? Improvise!",
+      "japanese": "地図をなくした？即興で！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543884"
+    },
+    {
+      "english": "Falling down, is just gravity practice.",
+      "japanese": "転ぶのは、重力の練習。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543885"
+    },
+    {
+      "english": "My brain is buffering... please wait.",
+      "japanese": "私の脳はバッファリング中…待って。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543887"
+    },
+    {
+      "english": "This is hard, but I'm harder.",
+      "japanese": "これは難しい、でも私はもっと難しい。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543888"
+    },
+    {
+      "english": "Coffee is my co-pilot.",
+      "japanese": "コーヒーは私の副操縦士。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543891"
+    },
+    {
+      "english": "Not failing, just collecting data.",
+      "japanese": "失敗じゃない、データ収集中。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543893"
+    },
+    {
+      "english": "My effort level: Over 9000!",
+      "japanese": "私の努力レベル：9000以上！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543894"
+    },
+    {
+      "english": "One more try, for science!",
+      "japanese": "もう一度、科学のために！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543895"
+    },
+    {
+      "english": "My brain needs a snack.",
+      "japanese": "私の脳は、おやつが必要です。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543896"
+    },
+    {
+      "english": "Almost there, I can smell it!",
+      "japanese": "もうすぐ、匂いでわかる！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543897"
+    },
+    {
+      "english": "Stubbed my toe, still standing.",
+      "japanese": "足の指をぶつけた、まだ立ってる。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543898"
+    },
+    {
+      "english": "This is my 'thinking hard' face.",
+      "japanese": "これは私の「一生懸命考えてる」顔。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543900"
+    },
+    {
+      "english": "My persistence is my superpower.",
+      "japanese": "私の粘り強さは、私のスーパーパワー。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543901"
+    },
+    {
+      "english": "Sweat now, smile later.",
+      "japanese": "今汗を流し、後で笑う。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543902"
+    },
+    {
+      "english": "Learning curve? More like a learning mountain!",
+      "japanese": "学習曲線？学習の山だ！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543904"
+    },
+    {
+      "english": "My brain is 50% caffeine, 50% determination.",
+      "japanese": "私の脳はカフェイン50%、決意50%。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543905"
+    },
+    {
+      "english": "Getting stuck? Just a scenic detour.",
+      "japanese": "行き詰まった？ただの景色の良い回り道。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543906"
+    },
+    {
+      "english": "I'm not tired, just strategically resting.",
+      "japanese": "疲れてない、戦略的に休んでるだけ。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543907"
+    },
+    {
+      "english": "Mistakes are just speed bumps.",
+      "japanese": "間違いは、ただのスピードバンプ。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543910"
+    },
+    {
+      "english": "My will is stronger than this problem.",
+      "japanese": "私の意志は、この問題より強い。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543911"
+    },
+    {
+      "english": "This challenge, is my personal trainer.",
+      "japanese": "この挑戦は、私のパーソナルトレーナー。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543913"
+    },
+    {
+      "english": "My focus is on 'done', not 'perfect'.",
+      "japanese": "私の焦点は「完了」、完璧じゃない。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543914"
+    },
+    {
+      "english": "Keep trying, until it becomes easy.",
+      "japanese": "簡単になるまで、試みを続ける。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543915"
+    },
+    {
+      "english": "My patience is growing, slowly.",
+      "japanese": "私の忍耐は育っている、ゆっくり。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543916"
+    },
+    {
+      "english": "This is a marathon, not a sprint.",
+      "japanese": "これはマラソン、短距離走じゃない。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543917"
+    },
+    {
+      "english": "My spirit is unbreakable.",
+      "japanese": "私の精神は壊れない。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543918"
+    },
+    {
+      "english": "Just a little further, almost there!",
+      "japanese": "もう少し、もうすぐそこ！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543919"
+    },
+    {
+      "english": "My brain is still booting up.",
+      "japanese": "私の脳はまだ起動中です。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543920"
+    },
+    {
+      "english": "I'm learning, from every stumble.",
+      "japanese": "私は学んでいる、 every つまずきから。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543921"
+    },
+    {
+      "english": "My goal is in sight.",
+      "japanese": "私の目標は、視界に入っている。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543922"
+    },
+    {
+      "english": "Don't stop until you're proud.",
+      "japanese": "誇りに思うまで、止まらない。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543923"
+    },
+    {
+      "english": "My effort is my promise.",
+      "japanese": "私の努力は、私の約束。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543924"
+    },
+    {
+      "english": "This is a test, not a failure.",
+      "japanese": "これはテスト、失敗じゃない。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543926"
+    },
+    {
+      "english": "I can, I will, I am.",
+      "japanese": "できる、やる、している。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543927"
+    },
+    {
+      "english": "My passion fuels me.",
+      "japanese": "私の情熱が、私を燃やす。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543927"
+    },
+    {
+      "english": "One more page, one more step.",
+      "japanese": "もう一ページ、もう一歩。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543928"
+    },
+    {
+      "english": "My determination is a marathon runner.",
+      "japanese": "私の決意は、マラソンランナー。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543930"
+    },
+    {
+      "english": "Messy desk, brilliant mind.",
+      "japanese": "散らかった机、輝く頭。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543931"
+    },
+    {
+      "english": "Brain freeze? Still thinking!",
+      "japanese": "頭が凍る？まだ考えてる！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543932"
+    },
+    {
+      "english": "Oops, did that again. Retry!",
+      "japanese": "あれ、またやった。再挑戦！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543933"
+    },
+    {
+      "english": "Lost the map? Improvise!",
+      "japanese": "地図をなくした？即興で！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543934"
+    },
+    {
+      "english": "Falling down, is just gravity practice.",
+      "japanese": "転ぶのは、重力の練習。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543935"
+    },
+    {
+      "english": "My brain is buffering... please wait.",
+      "japanese": "私の脳はバッファリング中…待って。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543937"
+    },
+    {
+      "english": "This is hard, but I'm harder.",
+      "japanese": "これは難しい、でも私はもっと難しい。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543938"
+    },
+    {
+      "english": "Coffee is my co-pilot.",
+      "japanese": "コーヒーは私の副操縦士。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543939"
+    },
+    {
+      "english": "Not failing, just collecting data.",
+      "japanese": "失敗じゃない、データ収集中。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543940"
+    },
+    {
+      "english": "My effort level: Over 9000!",
+      "japanese": "私の努力レベル：9000以上！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543941"
+    },
+    {
+      "english": "One more try, for science!",
+      "japanese": "もう一度、科学のために！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543942"
+    },
+    {
+      "english": "My brain needs a snack.",
+      "japanese": "私の脳は、おやつが必要です。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543943"
+    },
+    {
+      "english": "Almost there, I can smell it!",
+      "japanese": "もうすぐ、匂いでわかる！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543944"
+    },
+    {
+      "english": "Stubbed my toe, still standing.",
+      "japanese": "足の指をぶつけた、まだ立ってる。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543945"
+    },
+    {
+      "english": "This is my 'thinking hard' face.",
+      "japanese": "これは私の「一生懸命考えてる」顔。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543946"
+    },
+    {
+      "english": "My persistence is my superpower.",
+      "japanese": "私の粘り強さは、私のスーパーパワー。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543947"
+    },
+    {
+      "english": "Sweat now, smile later.",
+      "japanese": "今汗を流し、後で笑う。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543948"
+    },
+    {
+      "english": "Learning curve? More like a learning mountain!",
+      "japanese": "学習曲線？学習の山だ！",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543949"
+    },
+    {
+      "english": "My brain is 50% caffeine, 50% determination.",
+      "japanese": "私の脳はカフェイン50%、決意50%。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543950"
+    },
+    {
+      "english": "Getting stuck? Just a scenic detour.",
+      "japanese": "行き詰まった？ただの景色の良い回り道。",
+      "category": "Perseverance",
+      "generated_at": "2026-08-09T03:47:05.543951"
     }
   ],
-  "last_updated": "2026-08-09T03:00:22.984527"
+  "last_updated": "2026-08-09T03:47:05.543953"
 }
