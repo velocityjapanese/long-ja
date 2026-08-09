@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 60  # Number of phrases to generate
+TARGET_DURATION_MINUTES = 12  # Target 12-minute videos (~120 phrases)
+TARGET_PHRASES = 120  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
