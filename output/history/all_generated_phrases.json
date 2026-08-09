@@ -15599,7 +15599,727 @@
       "japanese": "行き詰まった？ただの景色の良い回り道。",
       "category": "Perseverance",
       "generated_at": "2026-08-09T03:47:05.543951"
+    },
+    {
+      "english": "Spark a new idea, light a fire.",
+      "japanese": "新しいアイデアを spark, 火をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604959"
+    },
+    {
+      "english": "Think outside the box, find the key.",
+      "japanese": "箱の外で考える, 鍵を見つける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604969"
+    },
+    {
+      "english": "Imagine possibilities, draw new worlds.",
+      "japanese": "可能性を想像する, 新しい世界を描く。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604971"
+    },
+    {
+      "english": "Widen your view, grow your mind.",
+      "japanese": "視界を広げる, 心を育てる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604972"
+    },
+    {
+      "english": "Connect the dots, a picture forms.",
+      "japanese": "点を繋ぐ, 絵ができる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604974"
+    },
+    {
+      "english": "Mix and match, a new design.",
+      "japanese": "混ぜて合わせる, 新しいデザイン。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604975"
+    },
+    {
+      "english": "What if? The start of all.",
+      "japanese": "もし～だったら？ 全ての始まり。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604976"
+    },
+    {
+      "english": "Build from scratch, strong foundation.",
+      "japanese": "ゼロから作る, 強い土台。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604979"
+    },
+    {
+      "english": "Break the mold, make your mark.",
+      "japanese": "型を破る, 自分の印をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604981"
+    },
+    {
+      "english": "Play with ideas, let them bloom.",
+      "japanese": "アイデアで遊ぶ, 咲かせる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604982"
+    },
+    {
+      "english": "Explore the unknown, find surprise.",
+      "japanese": "未知を探求する, 驚きを見つける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604983"
+    },
+    {
+      "english": "Twist the ordinary, see anew.",
+      "japanese": "普通をひねる, 新しく見る。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604985"
+    },
+    {
+      "english": "Fuse your passions, create magic.",
+      "japanese": "情熱を融合する, 魔法を生む。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604986"
+    },
+    {
+      "english": "Dare to be different, bloom unique.",
+      "japanese": "違うことを恐れない, 個性的に咲く。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604987"
+    },
+    {
+      "english": "Invent the future, one step now.",
+      "japanese": "未来を発明する, 今、一歩。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604988"
+    },
+    {
+      "english": "Reimagine, redesign, rebuild.",
+      "japanese": "再考する, 再設計する, 再構築する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604990"
+    },
+    {
+      "english": "Paint with new colors, bold strokes.",
+      "japanese": "新しい色で描く, 大胆な筆致。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604991"
+    },
+    {
+      "english": "Unleash your inner artist, flow.",
+      "japanese": "内なる芸術家を解き放つ, 流れる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604992"
+    },
+    {
+      "english": "Brainstorm freely, no bad ideas.",
+      "japanese": "自由にブレインストーム, 悪いアイデアはない。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604993"
+    },
+    {
+      "english": "Combine and conquer, invent more.",
+      "japanese": "組み合わせて征服する, もっと発明する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604994"
+    },
+    {
+      "english": "Let curiosity lead, discover.",
+      "japanese": "好奇心に導かせる, 発見する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604995"
+    },
+    {
+      "english": "Shape the unseen, make it real.",
+      "japanese": "見えないものを形作る, 現実にする。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604997"
+    },
+    {
+      "english": "Think different, think daring.",
+      "japanese": "違うことを考える, 恐れず考える。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604998"
+    },
+    {
+      "english": "From chaos, order, then wonder.",
+      "japanese": "混沌から, 秩序, そして驚き。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.604999"
+    },
+    {
+      "english": "Open your mind, let light in.",
+      "japanese": "心を開く, 光を入れる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605000"
+    },
+    {
+      "english": "Generate, innovate, elevate.",
+      "japanese": "生成する, 革新する, 高める。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605001"
+    },
+    {
+      "english": "Flip the script, new perspective.",
+      "japanese": "脚本をひっくり返す, 新しい視点。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605003"
+    },
+    {
+      "english": "Blend your strengths, a new fusion.",
+      "japanese": "強みを混ぜる, 新しい融合。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605004"
+    },
+    {
+      "english": "See connections, weave them tight.",
+      "japanese": "繋がりを見る, それらをきつく織る。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605018"
+    },
+    {
+      "english": "Think beyond, then reach it.",
+      "japanese": "その先を考える, それから到達する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605020"
+    },
+    {
+      "english": "Invent your own path, forge ahead.",
+      "japanese": "自分の道を発明する, 前進する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605021"
+    },
+    {
+      "english": "Spark curiosity, ignite brilliance.",
+      "japanese": "好奇心を spark, 輝きに火をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605022"
+    },
+    {
+      "english": "Transform the mundane, make it art.",
+      "japanese": "ありふれたものを変容させる, 芸術にする。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605023"
+    },
+    {
+      "english": "Envision, then engineer.",
+      "japanese": "心に描く, それから設計する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605024"
+    },
+    {
+      "english": "Create with courage, build with heart.",
+      "japanese": "勇気で創造する, 心で構築する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605025"
+    },
+    {
+      "english": "Let inspiration flow, capture it.",
+      "japanese": "インスピレーションを流す, それを捉える。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605026"
+    },
+    {
+      "english": "Dream it, build it, share it.",
+      "japanese": "それを夢見る, それを構築する, それを共有する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605028"
+    },
+    {
+      "english": "Challenge the norm, innovate freely.",
+      "japanese": "常識に挑戦する, 自由に革新する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605028"
+    },
+    {
+      "english": "From a whisper, a roar of ideas.",
+      "japanese": "ささやきから, アイデアの咆哮。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605029"
+    },
+    {
+      "english": "Spark a new idea, light a fire.",
+      "japanese": "新しいアイデアを spark, 火をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605031"
+    },
+    {
+      "english": "Think outside the box, find the key.",
+      "japanese": "箱の外で考える, 鍵を見つける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605032"
+    },
+    {
+      "english": "Imagine possibilities, draw new worlds.",
+      "japanese": "可能性を想像する, 新しい世界を描く。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605033"
+    },
+    {
+      "english": "Widen your view, grow your mind.",
+      "japanese": "視界を広げる, 心を育てる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605034"
+    },
+    {
+      "english": "Connect the dots, a picture forms.",
+      "japanese": "点を繋ぐ, 絵ができる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605036"
+    },
+    {
+      "english": "Mix and match, a new design.",
+      "japanese": "混ぜて合わせる, 新しいデザイン。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605037"
+    },
+    {
+      "english": "What if? The start of all.",
+      "japanese": "もし～だったら？ 全ての始まり。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605038"
+    },
+    {
+      "english": "Build from scratch, strong foundation.",
+      "japanese": "ゼロから作る, 強い土台。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605039"
+    },
+    {
+      "english": "Break the mold, make your mark.",
+      "japanese": "型を破る, 自分の印をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605040"
+    },
+    {
+      "english": "Play with ideas, let them bloom.",
+      "japanese": "アイデアで遊ぶ, 咲かせる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605041"
+    },
+    {
+      "english": "Explore the unknown, find surprise.",
+      "japanese": "未知を探求する, 驚きを見つける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605042"
+    },
+    {
+      "english": "Twist the ordinary, see anew.",
+      "japanese": "普通をひねる, 新しく見る。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605044"
+    },
+    {
+      "english": "Fuse your passions, create magic.",
+      "japanese": "情熱を融合する, 魔法を生む。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605045"
+    },
+    {
+      "english": "Dare to be different, bloom unique.",
+      "japanese": "違うことを恐れない, 個性的に咲く。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605046"
+    },
+    {
+      "english": "Invent the future, one step now.",
+      "japanese": "未来を発明する, 今、一歩。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605047"
+    },
+    {
+      "english": "Reimagine, redesign, rebuild.",
+      "japanese": "再考する, 再設計する, 再構築する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605048"
+    },
+    {
+      "english": "Paint with new colors, bold strokes.",
+      "japanese": "新しい色で描く, 大胆な筆致。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605049"
+    },
+    {
+      "english": "Unleash your inner artist, flow.",
+      "japanese": "内なる芸術家を解き放つ, 流れる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605050"
+    },
+    {
+      "english": "Brainstorm freely, no bad ideas.",
+      "japanese": "自由にブレインストーム, 悪いアイデアはない。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605051"
+    },
+    {
+      "english": "Combine and conquer, invent more.",
+      "japanese": "組み合わせて征服する, もっと発明する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605052"
+    },
+    {
+      "english": "Let curiosity lead, discover.",
+      "japanese": "好奇心に導かせる, 発見する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605053"
+    },
+    {
+      "english": "Shape the unseen, make it real.",
+      "japanese": "見えないものを形作る, 現実にする。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605054"
+    },
+    {
+      "english": "Think different, think daring.",
+      "japanese": "違うことを考える, 恐れず考える。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605055"
+    },
+    {
+      "english": "From chaos, order, then wonder.",
+      "japanese": "混沌から, 秩序, そして驚き。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605056"
+    },
+    {
+      "english": "Open your mind, let light in.",
+      "japanese": "心を開く, 光を入れる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605057"
+    },
+    {
+      "english": "Generate, innovate, elevate.",
+      "japanese": "生成する, 革新する, 高める。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605058"
+    },
+    {
+      "english": "Flip the script, new perspective.",
+      "japanese": "脚本をひっくり返す, 新しい視点。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605059"
+    },
+    {
+      "english": "Blend your strengths, a new fusion.",
+      "japanese": "強みを混ぜる, 新しい融合。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605060"
+    },
+    {
+      "english": "See connections, weave them tight.",
+      "japanese": "繋がりを見る, それらをきつく織る。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605061"
+    },
+    {
+      "english": "Think beyond, then reach it.",
+      "japanese": "その先を考える, それから到達する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605063"
+    },
+    {
+      "english": "Invent your own path, forge ahead.",
+      "japanese": "自分の道を発明する, 前進する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605064"
+    },
+    {
+      "english": "Spark curiosity, ignite brilliance.",
+      "japanese": "好奇心を spark, 輝きに火をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605065"
+    },
+    {
+      "english": "Transform the mundane, make it art.",
+      "japanese": "ありふれたものを変容させる, 芸術にする。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605066"
+    },
+    {
+      "english": "Envision, then engineer.",
+      "japanese": "心に描く, それから設計する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605067"
+    },
+    {
+      "english": "Create with courage, build with heart.",
+      "japanese": "勇気で創造する, 心で構築する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605068"
+    },
+    {
+      "english": "Let inspiration flow, capture it.",
+      "japanese": "インスピレーションを流す, それを捉える。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605069"
+    },
+    {
+      "english": "Dream it, build it, share it.",
+      "japanese": "それを夢見る, それを構築する, それを共有する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605070"
+    },
+    {
+      "english": "Challenge the norm, innovate freely.",
+      "japanese": "常識に挑戦する, 自由に革新する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605071"
+    },
+    {
+      "english": "From a whisper, a roar of ideas.",
+      "japanese": "ささやきから, アイデアの咆哮。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605072"
+    },
+    {
+      "english": "Spark a new idea, light a fire.",
+      "japanese": "新しいアイデアを spark, 火をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605073"
+    },
+    {
+      "english": "Think outside the box, find the key.",
+      "japanese": "箱の外で考える, 鍵を見つける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605074"
+    },
+    {
+      "english": "Imagine possibilities, draw new worlds.",
+      "japanese": "可能性を想像する, 新しい世界を描く。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605075"
+    },
+    {
+      "english": "Widen your view, grow your mind.",
+      "japanese": "視界を広げる, 心を育てる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605077"
+    },
+    {
+      "english": "Connect the dots, a picture forms.",
+      "japanese": "点を繋ぐ, 絵ができる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605078"
+    },
+    {
+      "english": "Mix and match, a new design.",
+      "japanese": "混ぜて合わせる, 新しいデザイン。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605079"
+    },
+    {
+      "english": "What if? The start of all.",
+      "japanese": "もし～だったら？ 全ての始まり。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605080"
+    },
+    {
+      "english": "Build from scratch, strong foundation.",
+      "japanese": "ゼロから作る, 強い土台。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605081"
+    },
+    {
+      "english": "Break the mold, make your mark.",
+      "japanese": "型を破る, 自分の印をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605083"
+    },
+    {
+      "english": "Play with ideas, let them bloom.",
+      "japanese": "アイデアで遊ぶ, 咲かせる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605084"
+    },
+    {
+      "english": "Explore the unknown, find surprise.",
+      "japanese": "未知を探求する, 驚きを見つける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605085"
+    },
+    {
+      "english": "Twist the ordinary, see anew.",
+      "japanese": "普通をひねる, 新しく見る。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605086"
+    },
+    {
+      "english": "Fuse your passions, create magic.",
+      "japanese": "情熱を融合する, 魔法を生む。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605087"
+    },
+    {
+      "english": "Dare to be different, bloom unique.",
+      "japanese": "違うことを恐れない, 個性的に咲く。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605088"
+    },
+    {
+      "english": "Invent the future, one step now.",
+      "japanese": "未来を発明する, 今、一歩。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605089"
+    },
+    {
+      "english": "Reimagine, redesign, rebuild.",
+      "japanese": "再考する, 再設計する, 再構築する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605090"
+    },
+    {
+      "english": "Paint with new colors, bold strokes.",
+      "japanese": "新しい色で描く, 大胆な筆致。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605091"
+    },
+    {
+      "english": "Unleash your inner artist, flow.",
+      "japanese": "内なる芸術家を解き放つ, 流れる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605092"
+    },
+    {
+      "english": "Brainstorm freely, no bad ideas.",
+      "japanese": "自由にブレインストーム, 悪いアイデアはない。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605093"
+    },
+    {
+      "english": "Combine and conquer, invent more.",
+      "japanese": "組み合わせて征服する, もっと発明する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605094"
+    },
+    {
+      "english": "Let curiosity lead, discover.",
+      "japanese": "好奇心に導かせる, 発見する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605095"
+    },
+    {
+      "english": "Shape the unseen, make it real.",
+      "japanese": "見えないものを形作る, 現実にする。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605097"
+    },
+    {
+      "english": "Think different, think daring.",
+      "japanese": "違うことを考える, 恐れず考える。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605098"
+    },
+    {
+      "english": "From chaos, order, then wonder.",
+      "japanese": "混沌から, 秩序, そして驚き。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605099"
+    },
+    {
+      "english": "Open your mind, let light in.",
+      "japanese": "心を開く, 光を入れる。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605100"
+    },
+    {
+      "english": "Generate, innovate, elevate.",
+      "japanese": "生成する, 革新する, 高める。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605101"
+    },
+    {
+      "english": "Flip the script, new perspective.",
+      "japanese": "脚本をひっくり返す, 新しい視点。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605102"
+    },
+    {
+      "english": "Blend your strengths, a new fusion.",
+      "japanese": "強みを混ぜる, 新しい融合。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605103"
+    },
+    {
+      "english": "See connections, weave them tight.",
+      "japanese": "繋がりを見る, それらをきつく織る。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605104"
+    },
+    {
+      "english": "Think beyond, then reach it.",
+      "japanese": "その先を考える, それから到達する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605105"
+    },
+    {
+      "english": "Invent your own path, forge ahead.",
+      "japanese": "自分の道を発明する, 前進する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605106"
+    },
+    {
+      "english": "Spark curiosity, ignite brilliance.",
+      "japanese": "好奇心を spark, 輝きに火をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605107"
+    },
+    {
+      "english": "Transform the mundane, make it art.",
+      "japanese": "ありふれたものを変容させる, 芸術にする。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605108"
+    },
+    {
+      "english": "Envision, then engineer.",
+      "japanese": "心に描く, それから設計する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605109"
+    },
+    {
+      "english": "Create with courage, build with heart.",
+      "japanese": "勇気で創造する, 心で構築する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605110"
+    },
+    {
+      "english": "Let inspiration flow, capture it.",
+      "japanese": "インスピレーションを流す, それを捉える。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605111"
+    },
+    {
+      "english": "Dream it, build it, share it.",
+      "japanese": "それを夢見る, それを構築する, それを共有する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605112"
+    },
+    {
+      "english": "Challenge the norm, innovate freely.",
+      "japanese": "常識に挑戦する, 自由に革新する。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605113"
+    },
+    {
+      "english": "From a whisper, a roar of ideas.",
+      "japanese": "ささやきから, アイデアの咆哮。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605114"
+    },
+    {
+      "english": "Spark a new idea, light a fire.",
+      "japanese": "新しいアイデアを spark, 火をつける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605115"
+    },
+    {
+      "english": "Think outside the box, find the key.",
+      "japanese": "箱の外で考える, 鍵を見つける。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605116"
+    },
+    {
+      "english": "Imagine possibilities, draw new worlds.",
+      "japanese": "可能性を想像する, 新しい世界を描く。",
+      "category": "Creativity",
+      "generated_at": "2026-08-09T04:29:51.605117"
     }
   ],
-  "last_updated": "2026-08-09T03:47:05.543953"
+  "last_updated": "2026-08-09T04:29:51.605119"
 }
