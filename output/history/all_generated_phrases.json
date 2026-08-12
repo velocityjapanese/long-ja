@@ -17759,7 +17759,727 @@
       "japanese": "より明るい未来が、来る。",
       "category": "Hope",
       "generated_at": "2026-08-11T03:01:55.914515"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "japanese": "昨日から学び, 今日を生きる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068864"
+    },
+    {
+      "english": "Small changes, make big waves.",
+      "japanese": "小さな変化が, 大きな波を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068874"
+    },
+    {
+      "english": "Listen more, speak less often.",
+      "japanese": "よく聞き, あまり話さない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068876"
+    },
+    {
+      "english": "The quiet mind, sees clearly.",
+      "japanese": "静かな心は, はっきり見える。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068877"
+    },
+    {
+      "english": "Embrace the stillness, find your peace.",
+      "japanese": "静けさを受け入れ, 平和を見つけよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068878"
+    },
+    {
+      "english": "Your effort, is never wasted.",
+      "japanese": "あなたの努力は, 無駄にはならない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068880"
+    },
+    {
+      "english": "Gratitude blooms, from within.",
+      "japanese": "感謝は, 内側から咲く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068881"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "japanese": "間違いは教訓, 失敗ではない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068884"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "japanese": "プロセスに, 忍耐強く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068886"
+    },
+    {
+      "english": "Slow down, to speed up.",
+      "japanese": "遅くして, 速く進む。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068887"
+    },
+    {
+      "english": "A calm sea, reflects the sky.",
+      "japanese": "穏やかな海は, 空を映す。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068889"
+    },
+    {
+      "english": "Your perspective, shapes reality.",
+      "japanese": "あなたの視点が, 現実を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068890"
+    },
+    {
+      "english": "Breathe deep, and let go.",
+      "japanese": "深く息を吸い, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068891"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "japanese": "答えだけでなく, 理解を求めよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068892"
+    },
+    {
+      "english": "Create your own, happy rhythm.",
+      "japanese": "あなた自身の, 幸せなリズムを作ろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068893"
+    },
+    {
+      "english": "A quiet heart, hears softly.",
+      "japanese": "静かな心は, 優しく聞く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068895"
+    },
+    {
+      "english": "Plant seeds, of kindness daily.",
+      "japanese": "毎日のように, 親切の種を蒔こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068896"
+    },
+    {
+      "english": "Flow like water, adapt always.",
+      "japanese": "水のように流れ, いつも適応しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068897"
+    },
+    {
+      "english": "Seek peace, in the chaos.",
+      "japanese": "混沌の中に, 平和を探そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068898"
+    },
+    {
+      "english": "Your inner world, matters greatly.",
+      "japanese": "あなたの内なる世界は, とても大切。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068899"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "japanese": "コントロールできないものは, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068900"
+    },
+    {
+      "english": "Your best self, is waiting.",
+      "japanese": "あなたの最高の自分は, 待っている。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068901"
+    },
+    {
+      "english": "Small acts of love, ripple outward.",
+      "japanese": "小さな愛の行為は, 外側に広がる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068903"
+    },
+    {
+      "english": "Be the calm, in your storm.",
+      "japanese": "あなたの嵐の中で, 穏やかになろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068904"
+    },
+    {
+      "english": "Listen to your intuition, always.",
+      "japanese": "常に, あなたの直感を聞こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068905"
+    },
+    {
+      "english": "Cultivate peace, within yourself.",
+      "japanese": "あなた自身の中に, 平和を育もう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068906"
+    },
+    {
+      "english": "Let your actions, speak gently.",
+      "japanese": "あなたの行動が, 優しく語るように。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068907"
+    },
+    {
+      "english": "A grateful heart, is a full heart.",
+      "japanese": "感謝する心は, 満たされた心。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068908"
+    },
+    {
+      "english": "Grow through, what you go through.",
+      "japanese": "経験したことから, 成長しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068909"
+    },
+    {
+      "english": "Choose peace, over conflict.",
+      "japanese": "対立より, 平和を選ぼう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068910"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "japanese": "昨日から学び, 今日を生きる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068911"
+    },
+    {
+      "english": "Small changes, make big waves.",
+      "japanese": "小さな変化が, 大きな波を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068912"
+    },
+    {
+      "english": "Listen more, speak less often.",
+      "japanese": "よく聞き, あまり話さない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068913"
+    },
+    {
+      "english": "The quiet mind, sees clearly.",
+      "japanese": "静かな心は, はっきり見える。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068914"
+    },
+    {
+      "english": "Embrace the stillness, find your peace.",
+      "japanese": "静けさを受け入れ, 平和を見つけよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068916"
+    },
+    {
+      "english": "Your effort, is never wasted.",
+      "japanese": "あなたの努力は, 無駄にはならない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068917"
+    },
+    {
+      "english": "Gratitude blooms, from within.",
+      "japanese": "感謝は, 内側から咲く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068918"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "japanese": "間違いは教訓, 失敗ではない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068919"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "japanese": "プロセスに, 忍耐強く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068920"
+    },
+    {
+      "english": "Slow down, to speed up.",
+      "japanese": "遅くして, 速く進む。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068921"
+    },
+    {
+      "english": "A calm sea, reflects the sky.",
+      "japanese": "穏やかな海は, 空を映す。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068922"
+    },
+    {
+      "english": "Your perspective, shapes reality.",
+      "japanese": "あなたの視点が, 現実を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068923"
+    },
+    {
+      "english": "Breathe deep, and let go.",
+      "japanese": "深く息を吸い, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068924"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "japanese": "答えだけでなく, 理解を求めよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068925"
+    },
+    {
+      "english": "Create your own, happy rhythm.",
+      "japanese": "あなた自身の, 幸せなリズムを作ろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068926"
+    },
+    {
+      "english": "A quiet heart, hears softly.",
+      "japanese": "静かな心は, 優しく聞く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068927"
+    },
+    {
+      "english": "Plant seeds, of kindness daily.",
+      "japanese": "毎日のように, 親切の種を蒔こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068928"
+    },
+    {
+      "english": "Flow like water, adapt always.",
+      "japanese": "水のように流れ, いつも適応しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068933"
+    },
+    {
+      "english": "Seek peace, in the chaos.",
+      "japanese": "混沌の中に, 平和を探そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068934"
+    },
+    {
+      "english": "Your inner world, matters greatly.",
+      "japanese": "あなたの内なる世界は, とても大切。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068935"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "japanese": "コントロールできないものは, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068936"
+    },
+    {
+      "english": "Your best self, is waiting.",
+      "japanese": "あなたの最高の自分は, 待っている。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068938"
+    },
+    {
+      "english": "Small acts of love, ripple outward.",
+      "japanese": "小さな愛の行為は, 外側に広がる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068939"
+    },
+    {
+      "english": "Be the calm, in your storm.",
+      "japanese": "あなたの嵐の中で, 穏やかになろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068940"
+    },
+    {
+      "english": "Listen to your intuition, always.",
+      "japanese": "常に, あなたの直感を聞こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068941"
+    },
+    {
+      "english": "Cultivate peace, within yourself.",
+      "japanese": "あなた自身の中に, 平和を育もう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068942"
+    },
+    {
+      "english": "Let your actions, speak gently.",
+      "japanese": "あなたの行動が, 優しく語るように。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068943"
+    },
+    {
+      "english": "A grateful heart, is a full heart.",
+      "japanese": "感謝する心は, 満たされた心。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068944"
+    },
+    {
+      "english": "Grow through, what you go through.",
+      "japanese": "経験したことから, 成長しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068946"
+    },
+    {
+      "english": "Choose peace, over conflict.",
+      "japanese": "対立より, 平和を選ぼう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068947"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "japanese": "昨日から学び, 今日を生きる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068948"
+    },
+    {
+      "english": "Small changes, make big waves.",
+      "japanese": "小さな変化が, 大きな波を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068949"
+    },
+    {
+      "english": "Listen more, speak less often.",
+      "japanese": "よく聞き, あまり話さない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068950"
+    },
+    {
+      "english": "The quiet mind, sees clearly.",
+      "japanese": "静かな心は, はっきり見える。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068951"
+    },
+    {
+      "english": "Embrace the stillness, find your peace.",
+      "japanese": "静けさを受け入れ, 平和を見つけよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068953"
+    },
+    {
+      "english": "Your effort, is never wasted.",
+      "japanese": "あなたの努力は, 無駄にはならない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068954"
+    },
+    {
+      "english": "Gratitude blooms, from within.",
+      "japanese": "感謝は, 内側から咲く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068955"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "japanese": "間違いは教訓, 失敗ではない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068956"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "japanese": "プロセスに, 忍耐強く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068957"
+    },
+    {
+      "english": "Slow down, to speed up.",
+      "japanese": "遅くして, 速く進む。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068958"
+    },
+    {
+      "english": "A calm sea, reflects the sky.",
+      "japanese": "穏やかな海は, 空を映す。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068959"
+    },
+    {
+      "english": "Your perspective, shapes reality.",
+      "japanese": "あなたの視点が, 現実を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068960"
+    },
+    {
+      "english": "Breathe deep, and let go.",
+      "japanese": "深く息を吸い, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068962"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "japanese": "答えだけでなく, 理解を求めよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068963"
+    },
+    {
+      "english": "Create your own, happy rhythm.",
+      "japanese": "あなた自身の, 幸せなリズムを作ろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068964"
+    },
+    {
+      "english": "A quiet heart, hears softly.",
+      "japanese": "静かな心は, 優しく聞く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068965"
+    },
+    {
+      "english": "Plant seeds, of kindness daily.",
+      "japanese": "毎日のように, 親切の種を蒔こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068966"
+    },
+    {
+      "english": "Flow like water, adapt always.",
+      "japanese": "水のように流れ, いつも適応しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068967"
+    },
+    {
+      "english": "Seek peace, in the chaos.",
+      "japanese": "混沌の中に, 平和を探そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068970"
+    },
+    {
+      "english": "Your inner world, matters greatly.",
+      "japanese": "あなたの内なる世界は, とても大切。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068971"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "japanese": "コントロールできないものは, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068972"
+    },
+    {
+      "english": "Your best self, is waiting.",
+      "japanese": "あなたの最高の自分は, 待っている。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068973"
+    },
+    {
+      "english": "Small acts of love, ripple outward.",
+      "japanese": "小さな愛の行為は, 外側に広がる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068974"
+    },
+    {
+      "english": "Be the calm, in your storm.",
+      "japanese": "あなたの嵐の中で, 穏やかになろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068975"
+    },
+    {
+      "english": "Listen to your intuition, always.",
+      "japanese": "常に, あなたの直感を聞こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068976"
+    },
+    {
+      "english": "Cultivate peace, within yourself.",
+      "japanese": "あなた自身の中に, 平和を育もう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068977"
+    },
+    {
+      "english": "Let your actions, speak gently.",
+      "japanese": "あなたの行動が, 優しく語るように。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068978"
+    },
+    {
+      "english": "A grateful heart, is a full heart.",
+      "japanese": "感謝する心は, 満たされた心。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068979"
+    },
+    {
+      "english": "Grow through, what you go through.",
+      "japanese": "経験したことから, 成長しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068980"
+    },
+    {
+      "english": "Choose peace, over conflict.",
+      "japanese": "対立より, 平和を選ぼう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068981"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "japanese": "昨日から学び, 今日を生きる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068982"
+    },
+    {
+      "english": "Small changes, make big waves.",
+      "japanese": "小さな変化が, 大きな波を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068984"
+    },
+    {
+      "english": "Listen more, speak less often.",
+      "japanese": "よく聞き, あまり話さない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068985"
+    },
+    {
+      "english": "The quiet mind, sees clearly.",
+      "japanese": "静かな心は, はっきり見える。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068986"
+    },
+    {
+      "english": "Embrace the stillness, find your peace.",
+      "japanese": "静けさを受け入れ, 平和を見つけよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068987"
+    },
+    {
+      "english": "Your effort, is never wasted.",
+      "japanese": "あなたの努力は, 無駄にはならない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068988"
+    },
+    {
+      "english": "Gratitude blooms, from within.",
+      "japanese": "感謝は, 内側から咲く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068989"
+    },
+    {
+      "english": "Mistakes are lessons, not failures.",
+      "japanese": "間違いは教訓, 失敗ではない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068990"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "japanese": "プロセスに, 忍耐強く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068992"
+    },
+    {
+      "english": "Slow down, to speed up.",
+      "japanese": "遅くして, 速く進む。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068993"
+    },
+    {
+      "english": "A calm sea, reflects the sky.",
+      "japanese": "穏やかな海は, 空を映す。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068994"
+    },
+    {
+      "english": "Your perspective, shapes reality.",
+      "japanese": "あなたの視点が, 現実を作る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068995"
+    },
+    {
+      "english": "Breathe deep, and let go.",
+      "japanese": "深く息を吸い, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068996"
+    },
+    {
+      "english": "Seek understanding, not just answers.",
+      "japanese": "答えだけでなく, 理解を求めよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068997"
+    },
+    {
+      "english": "Create your own, happy rhythm.",
+      "japanese": "あなた自身の, 幸せなリズムを作ろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068998"
+    },
+    {
+      "english": "A quiet heart, hears softly.",
+      "japanese": "静かな心は, 優しく聞く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.068999"
+    },
+    {
+      "english": "Plant seeds, of kindness daily.",
+      "japanese": "毎日のように, 親切の種を蒔こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069000"
+    },
+    {
+      "english": "Flow like water, adapt always.",
+      "japanese": "水のように流れ, いつも適応しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069003"
+    },
+    {
+      "english": "Seek peace, in the chaos.",
+      "japanese": "混沌の中に, 平和を探そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069005"
+    },
+    {
+      "english": "Your inner world, matters greatly.",
+      "japanese": "あなたの内なる世界は, とても大切。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069006"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "japanese": "コントロールできないものは, 手放そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069009"
+    },
+    {
+      "english": "Your best self, is waiting.",
+      "japanese": "あなたの最高の自分は, 待っている。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069010"
+    },
+    {
+      "english": "Small acts of love, ripple outward.",
+      "japanese": "小さな愛の行為は, 外側に広がる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069011"
+    },
+    {
+      "english": "Be the calm, in your storm.",
+      "japanese": "あなたの嵐の中で, 穏やかになろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069012"
+    },
+    {
+      "english": "Listen to your intuition, always.",
+      "japanese": "常に, あなたの直感を聞こう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069013"
+    },
+    {
+      "english": "Cultivate peace, within yourself.",
+      "japanese": "あなた自身の中に, 平和を育もう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069014"
+    },
+    {
+      "english": "Let your actions, speak gently.",
+      "japanese": "あなたの行動が, 優しく語るように。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069015"
+    },
+    {
+      "english": "A grateful heart, is a full heart.",
+      "japanese": "感謝する心は, 満たされた心。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069016"
+    },
+    {
+      "english": "Grow through, what you go through.",
+      "japanese": "経験したことから, 成長しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069017"
+    },
+    {
+      "english": "Choose peace, over conflict.",
+      "japanese": "対立より, 平和を選ぼう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-08-12T03:20:10.069018"
     }
   ],
-  "last_updated": "2026-08-11T03:01:55.914517"
+  "last_updated": "2026-08-12T03:20:10.069020"
 }
