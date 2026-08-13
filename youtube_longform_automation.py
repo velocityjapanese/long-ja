@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 12  # Target 12-minute videos (~120 phrases)
-TARGET_PHRASES = 120  # Number of phrases to generate
+TARGET_DURATION_MINUTES = 15  # Target ~15-minute videos (~170 phrases)
+TARGET_PHRASES = 170  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -915,11 +915,12 @@ def generate_title_description(category_english: str, category_japanese: str, ph
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
+    duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
-        f"Learn Japanese in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_japanese})",
+        f"Learn Japanese in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_japanese})",
         f"60 Japanese Phrases for {category_english} | Speak Japanese Like a Native! ({category_japanese})",
         f"Master Japanese {category_english} | 60 Essential Japanese Phrases with Romaji | Velocity Japanese",
-        f"Japanese Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Japanese Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
         f"Speak Japanese Fluently | {category_english} Phrases | English + Japanese + Romaji",
     ]
 
