@@ -924,56 +924,53 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 def generate_title_description(category_english: str, category_japanese: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
-    
+
     # Generate viral title variations
     duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
         f"Learn Japanese in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_japanese})",
-        f"60 Japanese Phrases for {category_english} | Speak Japanese Like a Native! ({category_japanese})",
-        f"Master Japanese {category_english} | 60 Essential Japanese Phrases with Romaji | Velocity Japanese",
+        f"{int(round(duration_minutes))} Japanese Phrases for {category_english} | Speak Japanese Like a Native! ({category_japanese})",
+        f"Master Japanese {category_english} | Essential Japanese Phrases with Phonetic | Velocity Japanese",
         f"Japanese Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
-        f"Speak Japanese Fluently | {category_english} Phrases | English + Japanese + Romaji",
+        f"Speak Japanese Fluently | {category_english} Phrases | English + Japanese + Phonetic",
     ]
-
     # YouTube title limit is 100 chars - truncate any overlong title safely
     titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
 
     # Generate comprehensive description
+    phrase_count = len(phrases)
     description = f"""🇯🇵 Learn Japanese with Velocity Japanese! 🇯🇵
 
-In this video, you'll learn 60 essential Japanese phrases about {category_english} ({category_japanese}).
+In this video, you'll learn {phrase_count} essential Japanese phrases about {category_english} ({category_japanese}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Japanese
-• Correct pronunciation with Romaji
+• {phrase_count} practical {category_english} phrases in Japanese
+• Correct pronunciation with Phonetic guide
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
 
 ⏱️ VIDEO TIMESTAMPS:
 """
-
     # Add timestamps for each phrase (every 10 phrases grouped)
-    avg_phrase_duration = duration_minutes * 60 / len(phrases)
+    avg_phrase_duration = duration_minutes * 60 / len(phrases) if phrases else 0
     for i in range(0, len(phrases), 10):
         seconds = int(i * avg_phrase_duration)
         minute = seconds // 60
         second = seconds % 60
         end_phrase = min(i + 10, len(phrases))
-        end_phrase = min(i + 10, len(phrases))
-        description += f"{minute:02d}:{second:02d} Phrases {i+1}-{end_phrase}\n"
+        description += f"{minute:02d}:{second:02d}  Phrases {i+1}-{end_phrase}\n"
 
     description += f"""
-📝 ALL PHRASES IN THIS VIDEO:
+📝 ALL {phrase_count} PHRASES IN THIS VIDEO:
 """
-
-    # Add all phrases
+    # Add all phrases (clean aligned list)
     for i, phrase in enumerate(phrases, 1):
-        description += f"""
-{i}. {phrase['english']}
-   Japanese: {phrase['japanese']}
-   Romaji: {phrase['romaji']}
-"""
+        description += (
+            f"\n{i}. {phrase['english']}\n"
+            f"    🇯🇵 {phrase['japanese']}\n"
+            f"    🔤 {phrase['romaji']}"
+        )
 
     description += f"""
 🎯 PERFECT FOR:
@@ -981,7 +978,6 @@ Perfect for beginners and intermediate learners!
 • Intermediate learners practicing pronunciation
 • Anyone interested in Japanese
 • Language enthusiasts and polyglots
-• Students preparing for JLPT exams
 
 💡 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -994,21 +990,8 @@ Perfect for beginners and intermediate learners!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY JAPANESE:
-[Add your social media links here]
+#LearnJapanese #JapanesePhrases #JapaneseLanguage #{category_english.replace(' ', '')} #VelocityJapanese #JapaneseForBeginners #SpeakJapanese #JapaneseVocabulary #Phonetic #LanguageLearning
 
-🎵 MUSIC:
-[Add music credits if applicable]
-
-📖 RELATED VIDEOS:
-• Japanese Motivation Phrases
-• Japanese Love Expressions
-• JLPT N5 Vocabulary
-• Basic Japanese Greetings
-
-#LearnJapanese #JapanesePhrases #Japanese #{category_english.replace(' ', '')} #VelocityJapanese #JapaneseForBeginners #SpeakJapanese #JapaneseVocabulary #Romaji #LanguageLearning #Japanese101 #JapaneseLesson
-
----
 © Velocity Japanese - Making Japanese learning accessible to everyone!
 """
 
@@ -1021,22 +1004,22 @@ Perfect for beginners and intermediate learners!
         f.write("=" * 80 + "\n")
         f.write("YOUTUBE VIDEO UPLOAD INFORMATION\n")
         f.write("=" * 80 + "\n\n")
-        
+
         f.write("📌 RECOMMENDED TITLES (Choose one):\n")
         f.write("-" * 80 + "\n")
         for i, title in enumerate(titles, 1):
             f.write(f"\n{i}. {title}\n")
-        
+
         f.write("\n" + "=" * 80 + "\n")
         f.write("📝 SELECTED TITLE (Recommended):\n")
         f.write("-" * 80 + "\n")
         f.write(f"\n{titles[0]}\n")
-        
+
         f.write("\n" + "=" * 80 + "\n")
         f.write("📄 VIDEO DESCRIPTION:\n")
         f.write("-" * 80 + "\n\n")
         f.write(description)
-        
+
         f.write("\n" + "=" * 80 + "\n")
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
@@ -1044,14 +1027,14 @@ Perfect for beginners and intermediate learners!
             "Learn Japanese",
             "Japanese Phrases",
             "Japanese",
-            category_english,
+            "{category_english}",
+            "{category_english} in Japanese",
             "Velocity Japanese",
             "Japanese for Beginners",
             "Speak Japanese",
             "Japanese Vocabulary",
-            "Romaji",
+            "Phonetic",
             "Language Learning",
-            "Japanese 101",
             "Japanese Lesson"
         ]
         f.write(", ".join(tags) + "\n")
@@ -1071,14 +1054,13 @@ Perfect for beginners and intermediate learners!
     with open(output_dir / "video_metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
 
-    print(f"\n[metadata] ✓ Generated YouTube upload files")
-    print(f"  📄 youtube_upload_info.txt (title + description + tags)")
-    print(f"  📄 video_metadata.json")
+    print(f"\n[metadata] \u2713 Generated YouTube upload files")
+    print(f"  \U0001F4C4 youtube_upload_info.txt (title + description + tags)")
+    print(f"  \U0001F4C4 video_metadata.json")
 
     return metadata
 
 
-# ============== VIDEO CREATION WITH TRANSITIONS ==============
 
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
     """Create video from images and audio with PERFECT synchronization"""
