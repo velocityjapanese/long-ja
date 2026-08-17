@@ -65,6 +65,15 @@ def reformat_description(desc):
 
     # Clean up triple+ newlines
     text = re.sub(r"\n{3,}", "\n\n", text)
+
+    # Sanitize: remove lone surrogates / control chars that YouTube rejects,
+    # but KEEP \n and \r (needed for spacing) and real emoji.
+    text = "".join(c for c in text
+                   if not (0xD800 <= ord(c) <= 0xDFFF)
+                   and not (0x00 <= ord(c) <= 0x09)
+                   and not (0x0B <= ord(c) <= 0x0C)
+                   and not (0x0E <= ord(c) <= 0x1F)
+                   and ord(c) not in (0x7F, 0xFEFF))
     return text.strip()
 
 
