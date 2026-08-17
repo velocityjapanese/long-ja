@@ -40,7 +40,7 @@ def compress_thumbnail(img_path, max_size=2097152):
 
 
 
-def ensure_playlist(youtube, title="Velocity Japanese - Japanese Phrases", description="All Japanese phrases videos in one playlist. Learn Japanese with Velocity Japanese!"):
+def ensure_playlist(youtube, title="Learn Japanese Phrases for Beginners | Velocity Japanese", description="All Japanese phrases videos in one playlist. Learn Japanese with Velocity Japanese!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
