@@ -74,6 +74,14 @@ def reformat_description(desc):
                    and not (0x0B <= ord(c) <= 0x0C)
                    and not (0x0E <= ord(c) <= 0x1F)
                    and ord(c) not in (0x7F, 0xFEFF))
+
+    # YouTube description limit is 5000 chars - truncate cleanly if needed
+    if len(text) > 4900:
+        text = text[:4900]
+        cut = text.rfind("\n\n")
+        if cut > 3000:
+            text = text[:cut]
+        text += "\n\n... and more!\n\n#LanguageLearning #LearnLanguages"
     return text.strip()
 
 
