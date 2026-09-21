@@ -78,7 +78,7 @@ CATEGORIES_JAPANESE = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 JAPANESE_VOICE = "ja-JP-NanamiNeural"
 
 # Phrase history file (NEVER delete this!)
