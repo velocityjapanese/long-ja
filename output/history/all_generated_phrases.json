@@ -30239,7 +30239,367 @@
       "japanese": "この瞬間に、休んで。",
       "category": "Mindfulness",
       "generated_at": "2026-10-12T07:00:20.198053"
+    },
+    {
+      "english": "Thanks, for helping me.",
+      "japanese": "手伝ってくれて、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739769"
+    },
+    {
+      "english": "Very helpful, thank you.",
+      "japanese": "とても助かりました、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739781"
+    },
+    {
+      "english": "Much appreciated, really.",
+      "japanese": "本当に、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739783"
+    },
+    {
+      "english": "Thanks, for the delicious food.",
+      "japanese": "美味しい食事、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739785"
+    },
+    {
+      "english": "Your kindness, I appreciate.",
+      "japanese": "あなたの優しさ、感謝です。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739786"
+    },
+    {
+      "english": "Grateful for this chance.",
+      "japanese": "この機会に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739787"
+    },
+    {
+      "english": "Really appreciate it, thanks.",
+      "japanese": "本当に、感謝してます、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739788"
+    },
+    {
+      "english": "Thanks, for listening.",
+      "japanese": "聞いてくれて、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739792"
+    },
+    {
+      "english": "I'm thankful, for you.",
+      "japanese": "あなたに、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739793"
+    },
+    {
+      "english": "Thank you, for your hard work.",
+      "japanese": "お疲れ様です、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739795"
+    },
+    {
+      "english": "Grateful for your support.",
+      "japanese": "あなたのサポート、感謝します。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739796"
+    },
+    {
+      "english": "Grateful for your presence.",
+      "japanese": "あなたの存在に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739797"
+    },
+    {
+      "english": "Appreciate this moment.",
+      "japanese": "この瞬間、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739798"
+    },
+    {
+      "english": "Grateful for the learning.",
+      "japanese": "学び、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739799"
+    },
+    {
+      "english": "Appreciate your understanding.",
+      "japanese": "あなたの理解、感謝します。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739800"
+    },
+    {
+      "english": "Grateful for this experience.",
+      "japanese": "この経験、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739801"
+    },
+    {
+      "english": "Appreciate the thought.",
+      "japanese": "その心遣い、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739802"
+    },
+    {
+      "english": "Grateful for the connection.",
+      "japanese": "つながりに、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739803"
+    },
+    {
+      "english": "Appreciate the effort made.",
+      "japanese": "かけた努力、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739804"
+    },
+    {
+      "english": "Grateful for the memories.",
+      "japanese": "思い出に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739805"
+    },
+    {
+      "english": "Appreciate this gift of time.",
+      "japanese": "この時間の贈りもの、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739806"
+    },
+    {
+      "english": "Grateful for your guidance.",
+      "japanese": "あなたの導き、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739807"
+    },
+    {
+      "english": "Thanks, for helping me.",
+      "japanese": "手伝ってくれて、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739808"
+    },
+    {
+      "english": "Very helpful, thank you.",
+      "japanese": "とても助かりました、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739809"
+    },
+    {
+      "english": "Much appreciated, really.",
+      "japanese": "本当に、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739810"
+    },
+    {
+      "english": "Thanks, for the delicious food.",
+      "japanese": "美味しい食事、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739811"
+    },
+    {
+      "english": "Your kindness, I appreciate.",
+      "japanese": "あなたの優しさ、感謝です。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739812"
+    },
+    {
+      "english": "Grateful for this chance.",
+      "japanese": "この機会に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739813"
+    },
+    {
+      "english": "Really appreciate it, thanks.",
+      "japanese": "本当に、感謝してます、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739815"
+    },
+    {
+      "english": "Thanks, for listening.",
+      "japanese": "聞いてくれて、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739815"
+    },
+    {
+      "english": "I'm thankful, for you.",
+      "japanese": "あなたに、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739816"
+    },
+    {
+      "english": "Thank you, for your hard work.",
+      "japanese": "お疲れ様です、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739817"
+    },
+    {
+      "english": "Grateful for your support.",
+      "japanese": "あなたのサポート、感謝します。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739819"
+    },
+    {
+      "english": "Grateful for your presence.",
+      "japanese": "あなたの存在に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739820"
+    },
+    {
+      "english": "Appreciate this moment.",
+      "japanese": "この瞬間、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739821"
+    },
+    {
+      "english": "Grateful for the learning.",
+      "japanese": "学び、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739822"
+    },
+    {
+      "english": "Appreciate your understanding.",
+      "japanese": "あなたの理解、感謝します。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739822"
+    },
+    {
+      "english": "Grateful for this experience.",
+      "japanese": "この経験、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739824"
+    },
+    {
+      "english": "Appreciate the thought.",
+      "japanese": "その心遣い、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739824"
+    },
+    {
+      "english": "Grateful for the connection.",
+      "japanese": "つながりに、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739825"
+    },
+    {
+      "english": "Appreciate the effort made.",
+      "japanese": "かけた努力、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739826"
+    },
+    {
+      "english": "Grateful for the memories.",
+      "japanese": "思い出に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739827"
+    },
+    {
+      "english": "Appreciate this gift of time.",
+      "japanese": "この時間の贈りもの、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739828"
+    },
+    {
+      "english": "Grateful for your guidance.",
+      "japanese": "あなたの導き、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739829"
+    },
+    {
+      "english": "Thanks, for helping me.",
+      "japanese": "手伝ってくれて、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739830"
+    },
+    {
+      "english": "Very helpful, thank you.",
+      "japanese": "とても助かりました、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739831"
+    },
+    {
+      "english": "Much appreciated, really.",
+      "japanese": "本当に、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739832"
+    },
+    {
+      "english": "Thanks, for the delicious food.",
+      "japanese": "美味しい食事、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739834"
+    },
+    {
+      "english": "Your kindness, I appreciate.",
+      "japanese": "あなたの優しさ、感謝です。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739835"
+    },
+    {
+      "english": "Grateful for this chance.",
+      "japanese": "この機会に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739836"
+    },
+    {
+      "english": "Really appreciate it, thanks.",
+      "japanese": "本当に、感謝してます、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739837"
+    },
+    {
+      "english": "Thanks, for listening.",
+      "japanese": "聞いてくれて、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739838"
+    },
+    {
+      "english": "I'm thankful, for you.",
+      "japanese": "あなたに、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739839"
+    },
+    {
+      "english": "Thank you, for your hard work.",
+      "japanese": "お疲れ様です、ありがとう。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739840"
+    },
+    {
+      "english": "Grateful for your support.",
+      "japanese": "あなたのサポート、感謝します。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739841"
+    },
+    {
+      "english": "Grateful for your presence.",
+      "japanese": "あなたの存在に、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739842"
+    },
+    {
+      "english": "Appreciate this moment.",
+      "japanese": "この瞬間、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739843"
+    },
+    {
+      "english": "Grateful for the learning.",
+      "japanese": "学び、感謝しています。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739845"
+    },
+    {
+      "english": "Appreciate your understanding.",
+      "japanese": "あなたの理解、感謝します。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739846"
+    },
+    {
+      "english": "Grateful for this experience.",
+      "japanese": "この経験、感謝。",
+      "category": "Gratitude",
+      "generated_at": "2026-10-13T07:23:48.739847"
     }
   ],
-  "last_updated": "2026-10-12T07:00:20.198090"
+  "last_updated": "2026-10-13T07:23:48.739849"
 }
