@@ -30959,7 +30959,367 @@
       "japanese": "これはとても、いいね。",
       "category": "Happiness",
       "generated_at": "2026-10-14T05:51:38.019824"
+    },
+    {
+      "english": "Stillness speaks, volumes.",
+      "japanese": "静寂は、多くを語ります。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578485"
+    },
+    {
+      "english": "Slow down, observe.",
+      "japanese": "ゆっくりと、観察しよう。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578496"
+    },
+    {
+      "english": "Inner peace, blooms now.",
+      "japanese": "内なる平和が、今、咲きます。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578498"
+    },
+    {
+      "english": "Serenity finds, its way.",
+      "japanese": "静けさが、その道を見つける。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578500"
+    },
+    {
+      "english": "Quiet the mind, gently.",
+      "japanese": "心を、優しく静めて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578501"
+    },
+    {
+      "english": "Inner quiet, is bliss.",
+      "japanese": "内なる静けさは、至福です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578502"
+    },
+    {
+      "english": "Release tension, breathe.",
+      "japanese": "緊張を解き放ち、息をして。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578504"
+    },
+    {
+      "english": "Peace resides, within.",
+      "japanese": "平和は、内に宿る。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578507"
+    },
+    {
+      "english": "A soft breath, helps.",
+      "japanese": "そっと息をすると、助けになる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578509"
+    },
+    {
+      "english": "Find stillness, now.",
+      "japanese": "今すぐ、静けさを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578510"
+    },
+    {
+      "english": "Your peace, matters.",
+      "japanese": "あなたの平和は、大切です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578511"
+    },
+    {
+      "english": "Simply rest, deeply.",
+      "japanese": "ただ、深く休んで。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578512"
+    },
+    {
+      "english": "A tranquil mind, shines.",
+      "japanese": "穏やかな心は、輝く。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578513"
+    },
+    {
+      "english": "Find solace, here.",
+      "japanese": "ここで、慰めを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578514"
+    },
+    {
+      "english": "True peace, begins.",
+      "japanese": "真の平和が、始まる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578516"
+    },
+    {
+      "english": "Your inner calm, grows.",
+      "japanese": "あなたの内なる静けさが、育つ。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578517"
+    },
+    {
+      "english": "Just breathe, easily.",
+      "japanese": "ただ、楽に息をして。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578518"
+    },
+    {
+      "english": "A gentle pause, helps.",
+      "japanese": "優しい一時停止が、助けになる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578519"
+    },
+    {
+      "english": "Find comfort, within.",
+      "japanese": "内に、快適さを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578520"
+    },
+    {
+      "english": "This stillness, is real.",
+      "japanese": "この静けさは、本物です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578521"
+    },
+    {
+      "english": "Stillness speaks, volumes.",
+      "japanese": "静寂は、多くを語ります。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578523"
+    },
+    {
+      "english": "Slow down, observe.",
+      "japanese": "ゆっくりと、観察しよう。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578524"
+    },
+    {
+      "english": "Inner peace, blooms now.",
+      "japanese": "内なる平和が、今、咲きます。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578525"
+    },
+    {
+      "english": "Serenity finds, its way.",
+      "japanese": "静けさが、その道を見つける。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578526"
+    },
+    {
+      "english": "Quiet the mind, gently.",
+      "japanese": "心を、優しく静めて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578527"
+    },
+    {
+      "english": "Inner quiet, is bliss.",
+      "japanese": "内なる静けさは、至福です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578529"
+    },
+    {
+      "english": "Release tension, breathe.",
+      "japanese": "緊張を解き放ち、息をして。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578530"
+    },
+    {
+      "english": "Peace resides, within.",
+      "japanese": "平和は、内に宿る。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578531"
+    },
+    {
+      "english": "A soft breath, helps.",
+      "japanese": "そっと息をすると、助けになる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578532"
+    },
+    {
+      "english": "Find stillness, now.",
+      "japanese": "今すぐ、静けさを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578533"
+    },
+    {
+      "english": "Your peace, matters.",
+      "japanese": "あなたの平和は、大切です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578534"
+    },
+    {
+      "english": "Simply rest, deeply.",
+      "japanese": "ただ、深く休んで。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578535"
+    },
+    {
+      "english": "A tranquil mind, shines.",
+      "japanese": "穏やかな心は、輝く。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578536"
+    },
+    {
+      "english": "Find solace, here.",
+      "japanese": "ここで、慰めを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578537"
+    },
+    {
+      "english": "True peace, begins.",
+      "japanese": "真の平和が、始まる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578539"
+    },
+    {
+      "english": "Your inner calm, grows.",
+      "japanese": "あなたの内なる静けさが、育つ。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578540"
+    },
+    {
+      "english": "Just breathe, easily.",
+      "japanese": "ただ、楽に息をして。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578541"
+    },
+    {
+      "english": "A gentle pause, helps.",
+      "japanese": "優しい一時停止が、助けになる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578542"
+    },
+    {
+      "english": "Find comfort, within.",
+      "japanese": "内に、快適さを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578543"
+    },
+    {
+      "english": "This stillness, is real.",
+      "japanese": "この静けさは、本物です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578544"
+    },
+    {
+      "english": "Stillness speaks, volumes.",
+      "japanese": "静寂は、多くを語ります。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578545"
+    },
+    {
+      "english": "Slow down, observe.",
+      "japanese": "ゆっくりと、観察しよう。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578546"
+    },
+    {
+      "english": "Inner peace, blooms now.",
+      "japanese": "内なる平和が、今、咲きます。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578547"
+    },
+    {
+      "english": "Serenity finds, its way.",
+      "japanese": "静けさが、その道を見つける。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578549"
+    },
+    {
+      "english": "Quiet the mind, gently.",
+      "japanese": "心を、優しく静めて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578550"
+    },
+    {
+      "english": "Inner quiet, is bliss.",
+      "japanese": "内なる静けさは、至福です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578551"
+    },
+    {
+      "english": "Release tension, breathe.",
+      "japanese": "緊張を解き放ち、息をして。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578552"
+    },
+    {
+      "english": "Peace resides, within.",
+      "japanese": "平和は、内に宿る。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578553"
+    },
+    {
+      "english": "A soft breath, helps.",
+      "japanese": "そっと息をすると、助けになる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578554"
+    },
+    {
+      "english": "Find stillness, now.",
+      "japanese": "今すぐ、静けさを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578555"
+    },
+    {
+      "english": "Your peace, matters.",
+      "japanese": "あなたの平和は、大切です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578557"
+    },
+    {
+      "english": "Simply rest, deeply.",
+      "japanese": "ただ、深く休んで。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578558"
+    },
+    {
+      "english": "A tranquil mind, shines.",
+      "japanese": "穏やかな心は、輝く。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578559"
+    },
+    {
+      "english": "Find solace, here.",
+      "japanese": "ここで、慰めを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578560"
+    },
+    {
+      "english": "True peace, begins.",
+      "japanese": "真の平和が、始まる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578561"
+    },
+    {
+      "english": "Your inner calm, grows.",
+      "japanese": "あなたの内なる静けさが、育つ。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578562"
+    },
+    {
+      "english": "Just breathe, easily.",
+      "japanese": "ただ、楽に息をして。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578563"
+    },
+    {
+      "english": "A gentle pause, helps.",
+      "japanese": "優しい一時停止が、助けになる。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578564"
+    },
+    {
+      "english": "Find comfort, within.",
+      "japanese": "内に、快適さを見つけて。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578565"
+    },
+    {
+      "english": "This stillness, is real.",
+      "japanese": "この静けさは、本物です。",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-14T10:20:48.578566"
     }
   ],
-  "last_updated": "2026-10-14T05:51:38.019826"
+  "last_updated": "2026-10-14T10:20:48.578568"
 }
