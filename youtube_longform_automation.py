@@ -784,28 +784,39 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     img = img.convert('RGBA')
     draw = ImageDraw.Draw(img)
 
-    # Load fonts
+    # Load fonts (prioritize bundled repo fonts)
+    repo_fonts = BASE_DIR / "fonts"
     english_font_paths = [
+        str(repo_fonts / "DejaVuSans-Bold.ttf"),
+        str(repo_fonts / "DejaVuSans.ttf"),
         "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
     ]
 
     japanese_font_paths = [
+        str(repo_fonts / "NotoSansJP-Bold.ttf"),
+        str(repo_fonts / "msgothic.ttc"),
+        str(repo_fonts / "yugothb.ttc"),
         "C:/Windows/Fonts/msgothic.ttc",
         "C:/Windows/Fonts/YuGothB.ttc",
         "C:/Windows/Fonts/Meiryo.ttc",
         "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
         "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/truetype/noto/NotoSansCJK-Bold.ttc",
         "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
     ]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
             try:
+                p = Path(font_path)
+                if p.exists():
+                    return ImageFont.truetype(str(p), size)
                 return ImageFont.truetype(font_path, size)
-            except:
+            except Exception:
                 continue
+        print(f"⚠️ Warning: Could not load font from paths, falling back to default for size {size}")
         return ImageFont.load_default()
 
     # Refined font sizes
@@ -820,19 +831,44 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     romaji = phrase_data.get("romaji", "")
 
     def wrap_text(text, font, max_width):
-        words = text.split()
-        lines = []
-        current_line = []
-        for word in words:
-            test_line = ' '.join(current_line + [word])
-            bbox = draw.textbbox((0, 0), test_line, font=font)
-            if bbox[2] - bbox[0] <= max_width:
-                current_line.append(word)
-            else:
-                if current_line: lines.append(' '.join(current_line))
-                current_line = [word]
-        if current_line: lines.append(' '.join(current_line))
-        return lines
+        if not text:
+            return []
+        bbox = draw.textbbox((0, 0), text, font=font)
+        if (bbox[2] - bbox[0]) <= max_width:
+            return [text]
+
+        if ' ' in text:
+            words = text.split()
+            lines = []
+            current_line = []
+            for word in words:
+                test_line = ' '.join(current_line + [word])
+                bbox = draw.textbbox((0, 0), test_line, font=font)
+                if (bbox[2] - bbox[0]) <= max_width:
+                    current_line.append(word)
+                else:
+                    if current_line:
+                        lines.append(' '.join(current_line))
+                    current_line = [word]
+            if current_line:
+                lines.append(' '.join(current_line))
+            return lines
+        else:
+            # Non-spaced text wrapping (Japanese Kanji/Hiragana/Katakana)
+            lines = []
+            current_line = ""
+            for char in text:
+                test_line = current_line + char
+                bbox = draw.textbbox((0, 0), test_line, font=font)
+                if (bbox[2] - bbox[0]) <= max_width:
+                    current_line = test_line
+                else:
+                    if current_line:
+                        lines.append(current_line)
+                    current_line = char
+            if current_line:
+                lines.append(current_line)
+            return lines
 
     # Header Bar (Top Left)
     cat_text = category_english.upper()
@@ -954,14 +990,38 @@ def generate_thumbnail(category_english: str, category_japanese: str, output_pat
     img = img.convert('RGBA')
     draw = ImageDraw.Draw(img)
 
-    # Load fonts
-    english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    japanese_font_paths = ["C:/Windows/Fonts/msgothic.ttc", "C:/Windows/Fonts/YuGothB.ttc", "C:/Windows/Fonts/Meiryo.ttc"]
+    # Load fonts (prioritize bundled repo fonts)
+    repo_fonts = BASE_DIR / "fonts"
+    english_font_paths = [
+        str(repo_fonts / "DejaVuSans-Bold.ttf"),
+        str(repo_fonts / "DejaVuSans.ttf"),
+        "C:/Windows/Fonts/segoeuib.ttf",
+        "C:/Windows/Fonts/arialbd.ttf",
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    ]
+    japanese_font_paths = [
+        str(repo_fonts / "NotoSansJP-Bold.ttf"),
+        str(repo_fonts / "msgothic.ttc"),
+        str(repo_fonts / "yugothb.ttc"),
+        "C:/Windows/Fonts/msgothic.ttc",
+        "C:/Windows/Fonts/YuGothB.ttc",
+        "C:/Windows/Fonts/Meiryo.ttc",
+        "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/noto-cjk/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/truetype/noto/NotoSansCJK-Bold.ttc",
+        "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+    ]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
-            try: return ImageFont.truetype(font_path, size)
-            except: continue
+            try:
+                p = Path(font_path)
+                if p.exists():
+                    return ImageFont.truetype(str(p), size)
+                return ImageFont.truetype(font_path, size)
+            except Exception:
+                continue
+        print(f"⚠️ Warning: Could not load thumbnail font from paths, falling back to default for size {size}")
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
