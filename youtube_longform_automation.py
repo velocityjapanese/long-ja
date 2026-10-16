@@ -40,7 +40,6 @@ TARGET_DURATION_MINUTES = 20  # Target ~20-minute videos (120 unique phrases wit
 TARGET_PHRASES = 120  # Number of unique phrases to generate
 
 # English category names (for American/European learners)
-CATEGORIES_ENGLISH = list(CATEGORIES_JAPANESE.keys())
 
 # Japanese translations for display
 CATEGORIES_JAPANESE = {
@@ -98,6 +97,9 @@ CATEGORIES_JAPANESE = {
     "Cultural Traditions": "文化的な伝統",
 }
 
+
+# English category names (dynamic)
+CATEGORIES_ENGLISH = list(CATEGORIES_JAPANESE.keys())
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
 JAPANESE_VOICE = "ja-JP-NanamiNeural"
