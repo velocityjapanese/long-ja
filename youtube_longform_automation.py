@@ -839,7 +839,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     english = phrase_data.get("english", "")
     japanese = phrase_data.get("japanese") or phrase_data.get("target") or phrase_data.get("foreign") or ""
-    romaji = phrase_data.get("romaji", "")
+    romaji = phrase_data.get("romaji") or phrase_data.get("pronunciation") or phrase_data.get("pinyin") or phrase_data.get("phonetic") or ""
 
     def wrap_text(text, font, max_width):
         if not text:
