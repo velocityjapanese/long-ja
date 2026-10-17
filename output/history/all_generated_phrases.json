@@ -6029,7 +6029,727 @@
       "japanese": "あなたは近づいている。",
       "category": "Motivation",
       "generated_at": "2026-05-12T23:38:03.922432"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "japanese": "こんにちは、はじめまして。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125644"
+    },
+    {
+      "english": "Excuse me, please.",
+      "japanese": "すみません、お願いします。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125658"
+    },
+    {
+      "english": "Thank you very much.",
+      "japanese": "ありがとうございます。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125661"
+    },
+    {
+      "english": "I'm sorry.",
+      "japanese": "ごめんなさい。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125664"
+    },
+    {
+      "english": "Yes, please.",
+      "japanese": "はい、お願いします。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125666"
+    },
+    {
+      "english": "No, thank you.",
+      "japanese": "いいえ、結構です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125668"
+    },
+    {
+      "english": "I don't understand.",
+      "japanese": "わかりません。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125671"
+    },
+    {
+      "english": "Could you say that again?",
+      "japanese": "もう一度、言ってもらえますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125675"
+    },
+    {
+      "english": "Where is the toilet?",
+      "japanese": "トイレはどこですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125678"
+    },
+    {
+      "english": "How much is this?",
+      "japanese": "これはいくらですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125680"
+    },
+    {
+      "english": "I'd like this, please.",
+      "japanese": "これをください。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125684"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "japanese": "ちょっと見てるだけです。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125686"
+    },
+    {
+      "english": "Do you have this?",
+      "japanese": "これ、ありますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125697"
+    },
+    {
+      "english": "This is delicious!",
+      "japanese": "これ、おいしい！",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125699"
+    },
+    {
+      "english": "It's beautiful, isn't it?",
+      "japanese": "きれいですね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125702"
+    },
+    {
+      "english": "What time is it?",
+      "japanese": "今、何時ですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125704"
+    },
+    {
+      "english": "Could you help me?",
+      "japanese": "助けてもらえますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125706"
+    },
+    {
+      "english": "I need a ticket.",
+      "japanese": "チケットが必要です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125708"
+    },
+    {
+      "english": "One ticket to Tokyo.",
+      "japanese": "東京までのチケット、一枚。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125710"
+    },
+    {
+      "english": "When does the train leave?",
+      "japanese": "電車はいつ発車しますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125712"
+    },
+    {
+      "english": "Where is the gate?",
+      "japanese": "ゲートはどこですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125714"
+    },
+    {
+      "english": "Is this seat taken?",
+      "japanese": "この席、空いていますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125716"
+    },
+    {
+      "english": "I have a reservation.",
+      "japanese": "予約があります。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125717"
+    },
+    {
+      "english": "My flight is delayed.",
+      "japanese": "私のフライト、遅れています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125719"
+    },
+    {
+      "english": "What's the Wi-Fi password?",
+      "japanese": "Wi-Fiのパスワードは何ですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125721"
+    },
+    {
+      "english": "Can I charge my phone?",
+      "japanese": "携帯、充電できますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125725"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "japanese": "SIMカードはどこで買えますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125727"
+    },
+    {
+      "english": "I need a taxi.",
+      "japanese": "タクシーが必要です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125729"
+    },
+    {
+      "english": "Take me to this address.",
+      "japanese": "この住所までお願いします。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125731"
+    },
+    {
+      "english": "Have a good trip!",
+      "japanese": "良い旅を！",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125733"
+    },
+    {
+      "english": "What's this called, in Japanese?",
+      "japanese": "これは日本語で何と言いますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125735"
+    },
+    {
+      "english": "Could you recommend a good place?",
+      "japanese": "どこか良いところ、おすすめありますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125737"
+    },
+    {
+      "english": "Is this the right way, to the station?",
+      "japanese": "駅まで、この道で合ってますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125740"
+    },
+    {
+      "english": "How do I get there, roughly?",
+      "japanese": "そこまで、だいたいどうやって行きますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125742"
+    },
+    {
+      "english": "Do you know, where that is?",
+      "japanese": "あれがどこか、ご存知ですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125746"
+    },
+    {
+      "english": "Can I ask a quick question?",
+      "japanese": "ちょっと質問してもいいですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125749"
+    },
+    {
+      "english": "Is this seat, free?",
+      "japanese": "この席、空いていますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125751"
+    },
+    {
+      "english": "What's the next stop, please?",
+      "japanese": "次は何駅ですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125753"
+    },
+    {
+      "english": "Can I get on, here?",
+      "japanese": "ここで、乗れますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125756"
+    },
+    {
+      "english": "Is this the train, for Kyoto?",
+      "japanese": "これは京都行きの電車ですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125758"
+    },
+    {
+      "english": "Do you mind, if I sit here?",
+      "japanese": "ここに座っても、構いませんか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125760"
+    },
+    {
+      "english": "Could you tell me, the time?",
+      "japanese": "時間を教えていただけますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125763"
+    },
+    {
+      "english": "Is this open, late?",
+      "japanese": "ここ、遅くまで開いていますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125765"
+    },
+    {
+      "english": "What's good, to eat around here?",
+      "japanese": "この辺で、美味しいもの何がありますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125767"
+    },
+    {
+      "english": "Do you speak, English?",
+      "japanese": "英語、話せますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125769"
+    },
+    {
+      "english": "Could you show me, on the map?",
+      "japanese": "地図で、教えてもらえますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125771"
+    },
+    {
+      "english": "Is there a cafe, nearby?",
+      "japanese": "近くにカフェ、ありますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125773"
+    },
+    {
+      "english": "How long does it take, to get there?",
+      "japanese": "そこまで、どのくらいかかりますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125775"
+    },
+    {
+      "english": "Can I take photos, here?",
+      "japanese": "ここで、写真撮ってもいいですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125777"
+    },
+    {
+      "english": "Which platform, is it?",
+      "japanese": "何番線ですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125779"
+    },
+    {
+      "english": "Is this the correct line?",
+      "japanese": "この路線で、合っていますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125781"
+    },
+    {
+      "english": "Could you repeat, that slowly?",
+      "japanese": "もう一度、ゆっくり言ってもらえますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125783"
+    },
+    {
+      "english": "Where can I get, a map?",
+      "japanese": "地図は、どこで手に入りますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125785"
+    },
+    {
+      "english": "Is it far, from here?",
+      "japanese": "ここから、遠いですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125789"
+    },
+    {
+      "english": "What time, does it close?",
+      "japanese": "何時に、閉まりますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125791"
+    },
+    {
+      "english": "Can I use, my credit card?",
+      "japanese": "クレジットカード、使えますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125793"
+    },
+    {
+      "english": "Do you have, a quiet place?",
+      "japanese": "静かな場所、ありますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125795"
+    },
+    {
+      "english": "What's the best way, to go?",
+      "japanese": "行くのに、一番良い方法は何ですか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125797"
+    },
+    {
+      "english": "Could you point, on the sign?",
+      "japanese": "看板で、指してもらえますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125799"
+    },
+    {
+      "english": "Is there Wi-Fi, available?",
+      "japanese": "Wi-Fi、使えますか？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125801"
+    },
+    {
+      "english": "Just a heads-up, watch your step.",
+      "japanese": "ちょっと、足元注意ね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125804"
+    },
+    {
+      "english": "It's a bit of a rush, isn't it?",
+      "japanese": "結構、急いでるね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125806"
+    },
+    {
+      "english": "Everything's running smoothly, thank goodness.",
+      "japanese": "無事に、進んでてよかった。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125809"
+    },
+    {
+      "english": "Hope this isn't a problem, for you.",
+      "japanese": "迷惑じゃ、なければいいんだけど。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125812"
+    },
+    {
+      "english": "Let's get this done, quickly.",
+      "japanese": "さっさと、済ませちゃおう。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125814"
+    },
+    {
+      "english": "This is quite the lively place.",
+      "japanese": "なかなかの、賑わいだね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125816"
+    },
+    {
+      "english": "It feels like a long time, coming.",
+      "japanese": "待ちに待った、感じだね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125820"
+    },
+    {
+      "english": "We'll be there, before you know it.",
+      "japanese": "あっという間に、着くだろうね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125823"
+    },
+    {
+      "english": "No need to overthink it.",
+      "japanese": "あんまり、考えすぎないで。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125825"
+    },
+    {
+      "english": "That was a close call.",
+      "japanese": "危うく、間に合わないところだった。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125827"
+    },
+    {
+      "english": "This is how it's done, normally.",
+      "japanese": "普通は、こうやるんだよ。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125831"
+    },
+    {
+      "english": "Just following the flow, you know.",
+      "japanese": "流れに、乗ってるだけだよ。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125833"
+    },
+    {
+      "english": "Don't sweat the small stuff.",
+      "japanese": "細かいことは、気にしない。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125835"
+    },
+    {
+      "english": "It's all part of the experience.",
+      "japanese": "これも、旅の醍醐味だね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125838"
+    },
+    {
+      "english": "Let's make the most of it.",
+      "japanese": "存分に、楽しもう。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125840"
+    },
+    {
+      "english": "Any news, on the flight?",
+      "japanese": "フライト、何か情報あった？",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125842"
+    },
+    {
+      "english": "Seems like we're on time.",
+      "japanese": "予定通り、みたいだね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125844"
+    },
+    {
+      "english": "Just trying to be prepared.",
+      "japanese": "準備してるだけだよ。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125846"
+    },
+    {
+      "english": "It's quite a walk, isn't it?",
+      "japanese": "結構、歩くね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125849"
+    },
+    {
+      "english": "Hope the connection is smooth.",
+      "japanese": "乗り継ぎ、スムーズだといいな。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125851"
+    },
+    {
+      "english": "This is a bit confusing.",
+      "japanese": "ちょっと、分かりにくいね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125854"
+    },
+    {
+      "english": "We've got some time to kill.",
+      "japanese": "時間、潰さないとね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125856"
+    },
+    {
+      "english": "Just following the signs.",
+      "japanese": "標識の、通りに進んでる。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125858"
+    },
+    {
+      "english": "It's a bit of a maze.",
+      "japanese": "迷路みたいだね、ここ。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125860"
+    },
+    {
+      "english": "Let's grab a quick bite.",
+      "japanese": "軽く、何か食べよう。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125862"
+    },
+    {
+      "english": "Hope it's not too crowded.",
+      "japanese": "あんまり、混んでないといいな。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125864"
+    },
+    {
+      "english": "Just trying to get my bearings.",
+      "japanese": "場所、確認してるんだ。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125866"
+    },
+    {
+      "english": "It's a bit of a trek.",
+      "japanese": "ちょっと、遠いね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125868"
+    },
+    {
+      "english": "Need to stay alert.",
+      "japanese": "気を抜かないと。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125870"
+    },
+    {
+      "english": "This is my first time, here.",
+      "japanese": "ここ、初めてなんだ。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125872"
+    },
+    {
+      "english": "This place, feels so peaceful.",
+      "japanese": "ここは、とても落ち着きますね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125875"
+    },
+    {
+      "english": "I'm enjoying the quiet moment.",
+      "japanese": "静かな時間を、楽しんでいます。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125877"
+    },
+    {
+      "english": "It makes me think, deeply.",
+      "japanese": "深く考えさせられますね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125879"
+    },
+    {
+      "english": "This journey, feels special.",
+      "japanese": "この旅は、特別な気がします。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125881"
+    },
+    {
+      "english": "I'm feeling quite reflective now.",
+      "japanese": "今、かなり内省的になっています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125883"
+    },
+    {
+      "english": "Patience is key, I think.",
+      "japanese": "忍耐が鍵だと思います。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125885"
+    },
+    {
+      "english": "It's worth the wait, surely.",
+      "japanese": "待つ価値は、きっとありますよ。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125889"
+    },
+    {
+      "english": "This is a moment, to cherish.",
+      "japanese": "これは、大切にすべき瞬間です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125892"
+    },
+    {
+      "english": "I'm grateful for this experience.",
+      "japanese": "この経験に、感謝しています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125896"
+    },
+    {
+      "english": "The world feels vast, from here.",
+      "japanese": "ここからだと、世界は広大に感じます。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125898"
+    },
+    {
+      "english": "It's a good time, to pause.",
+      "japanese": "立ち止まるのに、良い時間です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125900"
+    },
+    {
+      "english": "I'm really looking forward, to this.",
+      "japanese": "これを、本当に楽しみにしています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125902"
+    },
+    {
+      "english": "This feeling, is hard to describe.",
+      "japanese": "この気持ちは、言葉にしにくいです。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125904"
+    },
+    {
+      "english": "Let's take it all in, slowly.",
+      "japanese": "ゆっくりと、すべてを吸収しましょう。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125906"
+    },
+    {
+      "english": "I'm feeling very hopeful now.",
+      "japanese": "今、とても希望に満ちています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125909"
+    },
+    {
+      "english": "This pause, is much needed.",
+      "japanese": "この小休止は、とても必要でした。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125910"
+    },
+    {
+      "english": "I'm reflecting on my journey.",
+      "japanese": "旅を振り返っています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125913"
+    },
+    {
+      "english": "This calm before the storm.",
+      "japanese": "嵐の前の静けさですね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125916"
+    },
+    {
+      "english": "It’s a profound experience.",
+      "japanese": "それは、深い経験です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125919"
+    },
+    {
+      "english": "I'm really appreciating this.",
+      "japanese": "これを、本当に味わっています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125922"
+    },
+    {
+      "english": "This moment brings clarity.",
+      "japanese": "この瞬間は、明確さをもたらします。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125924"
+    },
+    {
+      "english": "I feel a sense of wonder.",
+      "japanese": "不思議な感覚を覚えます。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125926"
+    },
+    {
+      "english": "Let's savor this quiet time.",
+      "japanese": "この静かな時間を、味わいましょう。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125928"
+    },
+    {
+      "english": "It’s a chance to reset.",
+      "japanese": "リセットする機会です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125931"
+    },
+    {
+      "english": "I’m in a thoughtful mood.",
+      "japanese": "物思いにふける気分です。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125934"
+    },
+    {
+      "english": "This is quite heartwarming.",
+      "japanese": "これは、かなり心温まりますね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125936"
+    },
+    {
+      "english": "I’m feeling optimistic, honestly.",
+      "japanese": "正直、楽観的になっています。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125938"
+    },
+    {
+      "english": "This journey, changes perspective.",
+      "japanese": "この旅は、視点を変えますね。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125941"
+    },
+    {
+      "english": "I’m truly here, in the moment.",
+      "japanese": "今、本当にこの瞬間にいます。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125944"
+    },
+    {
+      "english": "This peace is deeply felt.",
+      "japanese": "この平和は、深く感じられます。",
+      "category": "Travel & Airport",
+      "generated_at": "2026-10-17T05:21:15.125946"
     }
   ],
-  "last_updated": "2026-05-12T23:38:03.922699"
+  "last_updated": "2026-10-17T05:21:15.125947"
 }
