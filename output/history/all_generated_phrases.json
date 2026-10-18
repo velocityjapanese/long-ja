@@ -6749,7 +6749,727 @@
       "japanese": "この平和は、深く感じられます。",
       "category": "Travel & Airport",
       "generated_at": "2026-10-17T05:21:15.125946"
+    },
+    {
+      "english": "Oops, my bad, sorry!",
+      "japanese": "あ、ごめん、すみません！",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.284968"
+    },
+    {
+      "english": "My mistake, I apologize.",
+      "japanese": "私のミスです、謝ります。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.284981"
+    },
+    {
+      "english": "So sorry, I messed up.",
+      "japanese": "本当にごめん、やっちゃった。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.284985"
+    },
+    {
+      "english": "That was thoughtless, forgive me.",
+      "japanese": "不注意でした、許してください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.284988"
+    },
+    {
+      "english": "I didn't mean to, sorry!",
+      "japanese": "わざとじゃないんだ、ごめん！",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.284991"
+    },
+    {
+      "english": "Please excuse my error.",
+      "japanese": "私の間違いをお許しください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.284994"
+    },
+    {
+      "english": "I regret that, truly.",
+      "japanese": "それを後悔しています、本当に。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.284996"
+    },
+    {
+      "english": "Can you forgive me, please?",
+      "japanese": "私を許してもらえますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285002"
+    },
+    {
+      "english": "I owe you an apology.",
+      "japanese": "謝らなければなりません。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285005"
+    },
+    {
+      "english": "Please overlook this.",
+      "japanese": "どうか、これをお見逃しください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285008"
+    },
+    {
+      "english": "I'm really sorry about that.",
+      "japanese": "あれについては本当にごめんなさい。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285011"
+    },
+    {
+      "english": "My apologies for the trouble.",
+      "japanese": "ご迷惑をおかけして申し訳ありません。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285013"
+    },
+    {
+      "english": "I hope you can forgive this.",
+      "japanese": "これを許してもらえたら嬉しいです。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285016"
+    },
+    {
+      "english": "It was unintentional, truly.",
+      "japanese": "意図的ではなかったのです、本当に。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285019"
+    },
+    {
+      "english": "Please accept my apology.",
+      "japanese": "私の謝罪を受け入れてください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285021"
+    },
+    {
+      "english": "I feel terrible about it.",
+      "japanese": "それについてひどく感じています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285035"
+    },
+    {
+      "english": "Let's move past this, okay?",
+      "japanese": "これを乗り越えましょう、いい？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285039"
+    },
+    {
+      "english": "I hope we can be friends.",
+      "japanese": "友達になれたらいいな。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285042"
+    },
+    {
+      "english": "Can we just forget it?",
+      "japanese": "もう忘れようよ？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285047"
+    },
+    {
+      "english": "No hard feelings, right?",
+      "japanese": "悪く思ってないよね？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285049"
+    },
+    {
+      "english": "Let's start over, please.",
+      "japanese": "もう一度やり直しましょう、お願いします。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285052"
+    },
+    {
+      "english": "I really value our relationship.",
+      "japanese": "私たちの関係を本当に大切にしています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285055"
+    },
+    {
+      "english": "I'm sorry for my actions.",
+      "japanese": "私の行動についてごめんなさい。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285057"
+    },
+    {
+      "english": "Please don't hold a grudge.",
+      "japanese": "恨まないでください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285062"
+    },
+    {
+      "english": "I understand my mistake.",
+      "japanese": "自分の間違いがわかっています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285064"
+    },
+    {
+      "english": "I hope for your understanding.",
+      "japanese": "ご理解いただけると幸いです。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285067"
+    },
+    {
+      "english": "Can we put this behind us?",
+      "japanese": "これを乗り越えられますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285069"
+    },
+    {
+      "english": "My sincerest apologies.",
+      "japanese": "心からお詫び申し上げます。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285072"
+    },
+    {
+      "english": "Let's not dwell on this.",
+      "japanese": "これにこだわらないようにしましょう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285074"
+    },
+    {
+      "english": "I apologize for my rudeness.",
+      "japanese": "失礼したことを謝ります。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285077"
+    },
+    {
+      "english": "What's on your mind, really?",
+      "japanese": "本当のところ、どう思ってる？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285080"
+    },
+    {
+      "english": "Did I upset you, perhaps?",
+      "japanese": "もしかして、怒らせちゃったかな？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285083"
+    },
+    {
+      "english": "Could you tell me your feelings?",
+      "japanese": "あなたの気持ち、聞かせてもらえますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285085"
+    },
+    {
+      "english": "Is there anything I can do?",
+      "japanese": "何か私にできることはありますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285088"
+    },
+    {
+      "english": "How should we resolve this, then?",
+      "japanese": "じゃあ、どうやって解決したらいいかな？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285091"
+    },
+    {
+      "english": "What's the best way forward?",
+      "japanese": "これからどうするのが一番いいかな？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285094"
+    },
+    {
+      "english": "Can we talk about this later?",
+      "japanese": "これ、後で話せるかな？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285096"
+    },
+    {
+      "english": "Your opinion matters to me.",
+      "japanese": "あなたの意見は私にとって重要です。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285099"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "japanese": "私にどんなアドバイスがありますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285101"
+    },
+    {
+      "english": "Are we still okay, I wonder?",
+      "japanese": "私たち、まだ大丈夫かな？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285104"
+    },
+    {
+      "english": "Did I misunderstand something?",
+      "japanese": "何か勘違いしていましたか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285107"
+    },
+    {
+      "english": "Please correct me if I'm wrong.",
+      "japanese": "もし間違っていたら、訂正してください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285111"
+    },
+    {
+      "english": "What are your expectations now?",
+      "japanese": "今のあなたの期待は何ですか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285114"
+    },
+    {
+      "english": "How do you feel about this?",
+      "japanese": "このことについて、どう感じていますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285118"
+    },
+    {
+      "english": "Can we find a solution together?",
+      "japanese": "一緒に解決策を見つけられますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285120"
+    },
+    {
+      "english": "I'm listening, tell me more.",
+      "japanese": "聞いています、もっと話してください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285123"
+    },
+    {
+      "english": "What can we learn from this?",
+      "japanese": "この経験から何を学べますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285126"
+    },
+    {
+      "english": "Do you need some time alone?",
+      "japanese": "一人になる時間が必要ですか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285128"
+    },
+    {
+      "english": "Is there a misunderstanding here?",
+      "japanese": "ここに誤解はありますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285131"
+    },
+    {
+      "english": "What should I have done instead?",
+      "japanese": "代わりに何をすべきでしたか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285133"
+    },
+    {
+      "english": "Can you help me understand better?",
+      "japanese": "もっと理解するのを手伝ってもらえますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285136"
+    },
+    {
+      "english": "What's your honest opinion?",
+      "japanese": "あなたの正直な意見は何ですか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285139"
+    },
+    {
+      "english": "Are we on the same page?",
+      "japanese": "私たちは同じ考えですか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285141"
+    },
+    {
+      "english": "What's the next step for us?",
+      "japanese": "私たちの次のステップは何ですか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285144"
+    },
+    {
+      "english": "How can I make things right?",
+      "japanese": "どうすれば状況を改善できますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285148"
+    },
+    {
+      "english": "Is reconciliation possible now?",
+      "japanese": "今、和解は可能でしょうか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285150"
+    },
+    {
+      "english": "What would make you feel better?",
+      "japanese": "何があれば気分が良くなりますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285153"
+    },
+    {
+      "english": "Can we move beyond this friction?",
+      "japanese": "この摩擦を乗り越えられますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285155"
+    },
+    {
+      "english": "What's the path to healing?",
+      "japanese": "癒しへの道は何ですか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285158"
+    },
+    {
+      "english": "Can we rebuild our trust?",
+      "japanese": "私たちの信頼を再構築できますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285160"
+    },
+    {
+      "english": "Water under the bridge, yeah?",
+      "japanese": "もう水に流そうよ、ね？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285163"
+    },
+    {
+      "english": "Let's bury the hatchet, okay?",
+      "japanese": "仲直りしよう、いい？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285166"
+    },
+    {
+      "english": "Forget it, let's move on.",
+      "japanese": "もう忘れよう、進もう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285169"
+    },
+    {
+      "english": "My bad, won't happen again.",
+      "japanese": "俺が悪かった、もうしない。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285172"
+    },
+    {
+      "english": "That's ancient history now.",
+      "japanese": "それはもう昔の話だよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285175"
+    },
+    {
+      "english": "Let's just clear the air.",
+      "japanese": "ちょっとスッキリさせようか。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285178"
+    },
+    {
+      "english": "Can we just hug it out?",
+      "japanese": "もうハグで許し合おうよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285180"
+    },
+    {
+      "english": "I take full responsibility.",
+      "japanese": "全部、俺が責任取るから。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285183"
+    },
+    {
+      "english": "Let sleeping dogs lie, maybe?",
+      "japanese": "寝た子を起こすのはやめとこうか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285185"
+    },
+    {
+      "english": "I owe you one, big time.",
+      "japanese": "でかい借り、作ったな。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285188"
+    },
+    {
+      "english": "It's all water under the bridge.",
+      "japanese": "もう全部、水に流れたよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285191"
+    },
+    {
+      "english": "Can we just let it go?",
+      "japanese": "もう、手放してもいいかな？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285195"
+    },
+    {
+      "english": "My mistake, I'll do better.",
+      "japanese": "俺のミス、もっと頑張るよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285198"
+    },
+    {
+      "english": "Peace treaty, anyone?",
+      "japanese": "平和条約、結びます？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285200"
+    },
+    {
+      "english": "I'm genuinely sorry, truly.",
+      "japanese": "本当にごめん、マジで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285203"
+    },
+    {
+      "english": "Let's turn over a new leaf.",
+      "japanese": "心機一転、やろうよ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285206"
+    },
+    {
+      "english": "I'm putting it behind me.",
+      "japanese": "もう過去のことにしてる。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285208"
+    },
+    {
+      "english": "Let's clear the slate, okay?",
+      "japanese": "白紙に戻そう、いい？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285211"
+    },
+    {
+      "english": "My deepest regrets, honestly.",
+      "japanese": "心から後悔してる、マジで。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285214"
+    },
+    {
+      "english": "Can we just agree to disagree?",
+      "japanese": "もう、お互い様ってことでどう？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285217"
+    },
+    {
+      "english": "I've learned my lesson, boss.",
+      "japanese": "教訓になったよ、先輩。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285219"
+    },
+    {
+      "english": "Let's call it even, shall we?",
+      "japanese": "チャラにしようぜ、どう？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285222"
+    },
+    {
+      "english": "No grudges held, promise.",
+      "japanese": "恨みっこなし、約束。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285225"
+    },
+    {
+      "english": "That was a silly mistake.",
+      "japanese": "あのミス、バカだったな。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285227"
+    },
+    {
+      "english": "Let's start fresh, you and I.",
+      "japanese": "君と俺、ゼロから始めよう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285230"
+    },
+    {
+      "english": "Consider it forgotten.",
+      "japanese": "もう忘れちまえ。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285232"
+    },
+    {
+      "english": "Can we shake on it, then?",
+      "japanese": "握手で解決、どう？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285236"
+    },
+    {
+      "english": "I sincerely apologize, friend.",
+      "japanese": "心から謝るよ、友達。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285239"
+    },
+    {
+      "english": "I've been reflecting, a lot.",
+      "japanese": "たくさん、反省していました。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285242"
+    },
+    {
+      "english": "It takes time, to truly heal.",
+      "japanese": "本当に癒えるには、時間がかかる。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285244"
+    },
+    {
+      "english": "I need your patience, please.",
+      "japanese": "あなたの忍耐が必要です、どうか。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285247"
+    },
+    {
+      "english": "My heart aches, honestly.",
+      "japanese": "正直、心が痛みます。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285250"
+    },
+    {
+      "english": "Let's talk it through, calmly.",
+      "japanese": "落ち着いて、話し合いましょう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285252"
+    },
+    {
+      "english": "I truly regret my actions.",
+      "japanese": "自分の行動を、心から後悔しています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285255"
+    },
+    {
+      "english": "Can we try again, slowly?",
+      "japanese": "ゆっくりと、もう一度やり直せますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285257"
+    },
+    {
+      "english": "Your feelings matter, to me.",
+      "japanese": "あなたの気持ちは、私にとって大切です。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285260"
+    },
+    {
+      "english": "I'm trying to understand, truly.",
+      "japanese": "本当に理解しようと、努めています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285265"
+    },
+    {
+      "english": "This is difficult, for both of us.",
+      "japanese": "これは、私たち二人にとって難しい。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285267"
+    },
+    {
+      "english": "I'm being open, with you.",
+      "japanese": "あなたに、正直になっています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285270"
+    },
+    {
+      "english": "Let's be gentle, with each other.",
+      "japanese": "お互いに、優しくしましょう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285273"
+    },
+    {
+      "english": "I'm learning, from this pain.",
+      "japanese": "この痛みから、学んでいます。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285276"
+    },
+    {
+      "english": "My mistake, was quite serious.",
+      "japanese": "私の間違いは、かなり深刻でした。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285279"
+    },
+    {
+      "english": "I value our connection, deeply.",
+      "japanese": "私たちの繋がりを、深く大切に思っています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285281"
+    },
+    {
+      "english": "It's hard to let go, I know.",
+      "japanese": "手放すのは難しい、分かっています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285315"
+    },
+    {
+      "english": "I need to earn back, your trust.",
+      "japanese": "あなたの信頼を、再び得る必要があります。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285319"
+    },
+    {
+      "english": "My emotions, are complicated now.",
+      "japanese": "私の感情は、今、複雑です。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285322"
+    },
+    {
+      "english": "Let's not rush, this process.",
+      "japanese": "このプロセスを、急がないでおきましょう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285324"
+    },
+    {
+      "english": "I'm working on myself, truly.",
+      "japanese": "自分自身を、本当に磨いています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285327"
+    },
+    {
+      "english": "Can we restart, with honesty?",
+      "japanese": "正直に、再開できますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285330"
+    },
+    {
+      "english": "This is a learning curve, for me.",
+      "japanese": "これは、私にとって学習曲線です。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285333"
+    },
+    {
+      "english": "I hope for understanding, from you.",
+      "japanese": "あなたからの理解を、願っています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285336"
+    },
+    {
+      "english": "My intention, was not to hurt.",
+      "japanese": "私の意図は、傷つけることではありませんでした。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285338"
+    },
+    {
+      "english": "We need to talk, openly.",
+      "japanese": "私たちは、率直に話す必要があります。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285341"
+    },
+    {
+      "english": "I'm giving this, my full effort.",
+      "japanese": "このことに、全力を尽くしています。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285344"
+    },
+    {
+      "english": "Can we be patient, with us?",
+      "japanese": "私たちに、忍耐強くなれますか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285346"
+    },
+    {
+      "english": "I feel vulnerable, admitting this.",
+      "japanese": "これを認めるのは、弱さを感じます。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285349"
+    },
+    {
+      "english": "Let's just move past this, yeah?",
+      "japanese": "もうこの件は、水に流しましょう、ね？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285352"
+    },
+    {
+      "english": "Mistakes happen, let's learn.",
+      "japanese": "失敗はつきもの、そこから学びましょう。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285355"
+    },
+    {
+      "english": "Can we leave it at that?",
+      "japanese": "その話は、もう終わりにしませんか？",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285359"
+    },
+    {
+      "english": "It's okay, don't worry about it.",
+      "japanese": "大丈夫、あまり気にしないでください。",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-18T05:28:44.285362"
     }
   ],
-  "last_updated": "2026-10-17T05:21:15.125947"
+  "last_updated": "2026-10-18T05:28:44.285366"
 }
