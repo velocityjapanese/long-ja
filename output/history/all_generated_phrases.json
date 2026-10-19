@@ -7469,7 +7469,727 @@
       "japanese": "大丈夫、あまり気にしないでください。",
       "category": "Forgiveness",
       "generated_at": "2026-10-18T05:28:44.285362"
+    },
+    {
+      "english": "I hope, it goes well.",
+      "japanese": "うまくいくといいな。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724443"
+    },
+    {
+      "english": "Let's hope, for good luck.",
+      "japanese": "幸運を祈りましょう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724457"
+    },
+    {
+      "english": "Maybe, it will work out.",
+      "japanese": "うまくいくかもしれない。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724461"
+    },
+    {
+      "english": "I'm hoping, you'll come.",
+      "japanese": "来てくれると嬉しいな。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724464"
+    },
+    {
+      "english": "Hope you're having fun.",
+      "japanese": "楽しんでいるといいけど。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724466"
+    },
+    {
+      "english": "Let's aim, higher next time.",
+      "japanese": "次はもっと上を目指そう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724468"
+    },
+    {
+      "english": "There's a chance, isn't there?",
+      "japanese": "可能性はあるよね？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724471"
+    },
+    {
+      "english": "Wishing you, all the best.",
+      "japanese": "あなたの幸せを願っています。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724475"
+    },
+    {
+      "english": "Hopefully, we'll meet again.",
+      "japanese": "また会えるといいですね。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724478"
+    },
+    {
+      "english": "Fingers crossed, for success.",
+      "japanese": "成功を祈っています。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724481"
+    },
+    {
+      "english": "I'm looking forward, to it.",
+      "japanese": "楽しみにしています。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724483"
+    },
+    {
+      "english": "Let's keep, hope alive.",
+      "japanese": "希望を持ち続けよう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724487"
+    },
+    {
+      "english": "It's worth, a try, right?",
+      "japanese": "試す価値はあるよね？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724489"
+    },
+    {
+      "english": "Hoping for, a bright future.",
+      "japanese": "明るい未来を願って。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724491"
+    },
+    {
+      "english": "Maybe, it's meant to be.",
+      "japanese": "運命なのかもしれない。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724493"
+    },
+    {
+      "english": "I hope, you feel better soon.",
+      "japanese": "早く良くなることを願っています。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724495"
+    },
+    {
+      "english": "Let's hold, onto hope.",
+      "japanese": "希望を握りしめよう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724497"
+    },
+    {
+      "english": "There's always, a way.",
+      "japanese": "いつも、道はある。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724499"
+    },
+    {
+      "english": "I hope, this works out.",
+      "japanese": "これがうまくいくといいな。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724501"
+    },
+    {
+      "english": "Let's keep, our spirits up.",
+      "japanese": "元気を出していこう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724504"
+    },
+    {
+      "english": "Hoping for, a better tomorrow.",
+      "japanese": "より良い明日を願って。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724506"
+    },
+    {
+      "english": "Maybe, it's not too late.",
+      "japanese": "まだ遅くないかもしれない。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724508"
+    },
+    {
+      "english": "I hope, you achieve your dreams.",
+      "japanese": "夢が叶うことを願っています。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724512"
+    },
+    {
+      "english": "Let's hope, for the best outcome.",
+      "japanese": "最良の結果を祈りましょう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724514"
+    },
+    {
+      "english": "There's still, hope, right?",
+      "japanese": "まだ希望はあるよね？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724516"
+    },
+    {
+      "english": "Hoping for, a little miracle.",
+      "japanese": "小さな奇跡を願って。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724518"
+    },
+    {
+      "english": "Maybe, we can make it.",
+      "japanese": "できるかもしれない。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724519"
+    },
+    {
+      "english": "I hope, you find happiness.",
+      "japanese": "幸せを見つけることを願っています。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724523"
+    },
+    {
+      "english": "Let's hold, onto this chance.",
+      "japanese": "このチャンスを掴もう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724525"
+    },
+    {
+      "english": "There's light, at the end.",
+      "japanese": "終わりには光がある。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724527"
+    },
+    {
+      "english": "What's your biggest wish, today?",
+      "japanese": "今日の、一番の願い事は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724529"
+    },
+    {
+      "english": "Do you think, it's possible?",
+      "japanese": "可能だと思いますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724532"
+    },
+    {
+      "english": "What if, we try this approach?",
+      "japanese": "このアプローチを、試してみるのはどうでしょう？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724534"
+    },
+    {
+      "english": "Any advice, for achieving this?",
+      "japanese": "これを達成するための、アドバイスはありますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724536"
+    },
+    {
+      "english": "How can we, make it happen?",
+      "japanese": "どうすれば、実現できるでしょうか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724538"
+    },
+    {
+      "english": "What are your, aspirations?",
+      "japanese": "あなたの、抱負は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724540"
+    },
+    {
+      "english": "Is there a, better way?",
+      "japanese": "もっと良い方法は、ありますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724542"
+    },
+    {
+      "english": "What inspires, your efforts?",
+      "japanese": "あなたの努力を、何が刺激しますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724544"
+    },
+    {
+      "english": "Can you share, your vision?",
+      "japanese": "あなたのビジョンを、共有してもらえますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724546"
+    },
+    {
+      "english": "What's the next, step forward?",
+      "japanese": "次の一歩は、何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724548"
+    },
+    {
+      "english": "What are we, aiming for?",
+      "japanese": "私たちは、何を目指していますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724550"
+    },
+    {
+      "english": "Do you believe, in this idea?",
+      "japanese": "このアイデアを、信じますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724552"
+    },
+    {
+      "english": "What gives you, courage?",
+      "japanese": "あなたに勇気を、与えるものは何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724554"
+    },
+    {
+      "english": "How do we, overcome this?",
+      "japanese": "これを、どう乗り越えましょうか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724556"
+    },
+    {
+      "english": "What's your dream, scenario?",
+      "japanese": "あなたの夢の、シナリオは何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724558"
+    },
+    {
+      "english": "Should we, consider this option?",
+      "japanese": "この選択肢を、検討すべきでしょうか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724560"
+    },
+    {
+      "english": "What's the motivation, behind it?",
+      "japanese": "その裏にある、動機は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724562"
+    },
+    {
+      "english": "What's your positive, outlook?",
+      "japanese": "あなたの前向きな、見通しは何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724564"
+    },
+    {
+      "english": "How can we, collaborate better?",
+      "japanese": "どうすれば、もっとうまく協力できますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724566"
+    },
+    {
+      "english": "What's your desired, outcome?",
+      "japanese": "あなたの望む、結果は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724568"
+    },
+    {
+      "english": "Do you see, potential here?",
+      "japanese": "ここに、可能性が見えますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724570"
+    },
+    {
+      "english": "What's your greatest, hope?",
+      "japanese": "あなたの最大の、希望は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724572"
+    },
+    {
+      "english": "How do you, stay motivated?",
+      "japanese": "どうやって、やる気を維持していますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724574"
+    },
+    {
+      "english": "What's the best, strategy?",
+      "japanese": "最善の、戦略は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724579"
+    },
+    {
+      "english": "What are you, looking forward to?",
+      "japanese": "何を楽しみに、していますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724582"
+    },
+    {
+      "english": "Do you have, a backup plan?",
+      "japanese": "代替案は、ありますか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724583"
+    },
+    {
+      "english": "What's the ideal, situation?",
+      "japanese": "理想的な、状況は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724586"
+    },
+    {
+      "english": "How do we, seize this opportunity?",
+      "japanese": "この機会を、どう活かしましょうか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724588"
+    },
+    {
+      "english": "What's your prediction, for success?",
+      "japanese": "成功への、あなたの予測は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724590"
+    },
+    {
+      "english": "What's your positive, spin?",
+      "japanese": "あなたの肯定的な、見解は何ですか？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724592"
+    },
+    {
+      "english": "Small steps, lead to big goals.",
+      "japanese": "ちりも積もれば山となる、だよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724594"
+    },
+    {
+      "english": "Never give up, try one more time.",
+      "japanese": "諦めずに、もう一度やってみよう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724596"
+    },
+    {
+      "english": "A new dawn, will surely break.",
+      "japanese": "きっと、新しい朝が来るよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724598"
+    },
+    {
+      "english": "Keep believing, in yourself.",
+      "japanese": "自分を信じ続けてね。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724600"
+    },
+    {
+      "english": "When in doubt, push forward.",
+      "japanese": "迷ったら、前に進むんだ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724602"
+    },
+    {
+      "english": "Tomorrow, will be different.",
+      "japanese": "明日は、きっと違うよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724604"
+    },
+    {
+      "english": "A little effort, makes a difference.",
+      "japanese": "少しの努力が、変わるきっかけになる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724606"
+    },
+    {
+      "english": "This challenge, we can overcome.",
+      "japanese": "この困難は、乗り越えられるさ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724608"
+    },
+    {
+      "english": "Look for the good, always.",
+      "japanese": "いつでも、良いところを探そう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724611"
+    },
+    {
+      "english": "Every cloud, has a silver lining.",
+      "japanese": "どんな雲にも、銀の裏地がある。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724612"
+    },
+    {
+      "english": "Don't lose heart, my friend.",
+      "japanese": "元気を出して、友よ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724615"
+    },
+    {
+      "english": "A seed of hope, planted deep.",
+      "japanese": "希望の種は、深く植えられた。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724616"
+    },
+    {
+      "english": "The future, is unwritten.",
+      "japanese": "未来は、まだ書かれていない。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724619"
+    },
+    {
+      "english": "Keep moving, don't look back.",
+      "japanese": "進み続けて、振り返らないで。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724621"
+    },
+    {
+      "english": "What if, we succeed wildly?",
+      "japanese": "もし、大成功したらどうする？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724623"
+    },
+    {
+      "english": "Let's aim, for the stars.",
+      "japanese": "星を目指そうよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724627"
+    },
+    {
+      "english": "Even a small light, guides us.",
+      "japanese": "小さな光でも、道しるべになる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724629"
+    },
+    {
+      "english": "We must try, for goodness sake.",
+      "japanese": "何としても、試さなければ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724631"
+    },
+    {
+      "english": "A new path, awaits us.",
+      "japanese": "新しい道が、待っているよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724633"
+    },
+    {
+      "english": "Believe in the power, of change.",
+      "japanese": "変化の力を、信じて。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724635"
+    },
+    {
+      "english": "Your courage, inspires others.",
+      "japanese": "君の勇気が、皆を励ます。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724639"
+    },
+    {
+      "english": "This moment, can change everything.",
+      "japanese": "この瞬間が、全てを変えるかも。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724641"
+    },
+    {
+      "english": "Let's create, a brighter future.",
+      "japanese": "もっと明るい未来を、作ろう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724643"
+    },
+    {
+      "english": "We are stronger, than we know.",
+      "japanese": "私たちは、思っているより強い。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724645"
+    },
+    {
+      "english": "A journey of a thousand miles, begins.",
+      "japanese": "千里の道も、一歩から始まる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724647"
+    },
+    {
+      "english": "May fortune, favor your efforts.",
+      "japanese": "君の努力に、幸運が味方しますように。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724651"
+    },
+    {
+      "english": "Keep your chin up, always.",
+      "japanese": "いつでも、顔を上げて。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724653"
+    },
+    {
+      "english": "This is not, the end.",
+      "japanese": "これは、終わりじゃない。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724655"
+    },
+    {
+      "english": "A little bit, of luck helps.",
+      "japanese": "少しの運も、助けになるよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724657"
+    },
+    {
+      "english": "We'll find a way, somehow.",
+      "japanese": "なんとか、道を見つけるさ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724659"
+    },
+    {
+      "english": "My heart, feels lighter now.",
+      "japanese": "私の心、今は軽くなったよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724661"
+    },
+    {
+      "english": "This feeling, is true hope.",
+      "japanese": "この気持ち、本当の希望なんだ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724663"
+    },
+    {
+      "english": "I believe, in this moment.",
+      "japanese": "この瞬間を、信じてる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724665"
+    },
+    {
+      "english": "Your smile, gives me hope.",
+      "japanese": "君の笑顔が、希望をくれる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724667"
+    },
+    {
+      "english": "Let's cherish, this feeling.",
+      "japanese": "この気持ち、大切にしようね。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724669"
+    },
+    {
+      "english": "My honest thoughts, are clear.",
+      "japanese": "正直な気持ち、はっきりしたよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724671"
+    },
+    {
+      "english": "I can wait, for you.",
+      "japanese": "君のためなら、待てるよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724673"
+    },
+    {
+      "english": "This patience, is rewarding.",
+      "japanese": "この忍耐、報われるはず。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724675"
+    },
+    {
+      "english": "My deepest wish, is coming true.",
+      "japanese": "一番の願い、叶いそうだよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724677"
+    },
+    {
+      "english": "I'm reflecting, on our path.",
+      "japanese": "僕たちの道、考えてたんだ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724679"
+    },
+    {
+      "english": "This quiet time, is valuable.",
+      "japanese": "この静かな時間、貴重だよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724681"
+    },
+    {
+      "english": "I feel a real connection.",
+      "japanese": "本当の繋がり、感じるよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724683"
+    },
+    {
+      "english": "My heart, feels at ease.",
+      "japanese": "心が、落ち着いたよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724685"
+    },
+    {
+      "english": "What if, this works out?",
+      "japanese": "もし、これが上手くいったら？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724687"
+    },
+    {
+      "english": "I'm being honest, with you.",
+      "japanese": "君には正直だよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724690"
+    },
+    {
+      "english": "This warmth, is comforting.",
+      "japanese": "この温かさ、安心するね。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724691"
+    },
+    {
+      "english": "My hope, is growing stronger.",
+      "japanese": "希望が、強くなってる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724695"
+    },
+    {
+      "english": "We can be patient, together.",
+      "japanese": "一緒に、待てるよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724697"
+    },
+    {
+      "english": "I'm looking inward, today.",
+      "japanese": "今日は、内面を見てる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724699"
+    },
+    {
+      "english": "This understanding, feels good.",
+      "japanese": "この理解、良い感じだね。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724701"
+    },
+    {
+      "english": "My faith, is renewed.",
+      "japanese": "信じる心が、蘇った。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724703"
+    },
+    {
+      "english": "Let's embrace, uncertainty.",
+      "japanese": "不確かさ、受け入れよう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724705"
+    },
+    {
+      "english": "Your presence, is calming.",
+      "japanese": "君がいると、落ち着く。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724707"
+    },
+    {
+      "english": "This calm heart, has hope.",
+      "japanese": "穏やかな心に、希望がある。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724709"
+    },
+    {
+      "english": "I'm truly happy, right now.",
+      "japanese": "今、本当に幸せだよ。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724711"
+    },
+    {
+      "english": "Let's trust, the process.",
+      "japanese": "過程を、信じよう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724713"
+    },
+    {
+      "english": "This moment, feels peaceful.",
+      "japanese": "この瞬間、平和だね。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724715"
+    },
+    {
+      "english": "I'm embracing, my feelings.",
+      "japanese": "自分の感情、受け入れてる。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724719"
+    },
+    {
+      "english": "This hope, is mutual, right?",
+      "japanese": "この希望、お互いにあるよね？",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724721"
+    },
+    {
+      "english": "Let's take it, one day at a time.",
+      "japanese": "一日、一日、やってみよう。",
+      "category": "Hope",
+      "generated_at": "2026-10-19T05:46:45.724723"
     }
   ],
-  "last_updated": "2026-10-18T05:28:44.285366"
+  "last_updated": "2026-10-19T05:46:45.724725"
 }
