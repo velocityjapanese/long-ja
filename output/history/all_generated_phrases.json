@@ -8189,7 +8189,727 @@
       "japanese": "一日、一日、やってみよう。",
       "category": "Hope",
       "generated_at": "2026-10-19T05:46:45.724723"
+    },
+    {
+      "english": "What do you do in your free time, actually?",
+      "japanese": "休みの日は、普段何をしていますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844400"
+    },
+    {
+      "english": "My hobby is, just relaxing.",
+      "japanese": "私の趣味は、ただリラックスすることです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844414"
+    },
+    {
+      "english": "I like to, read books.",
+      "japanese": "読書が好きです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844417"
+    },
+    {
+      "english": "Do you have, any hobbies?",
+      "japanese": "何か趣味はありますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844420"
+    },
+    {
+      "english": "I'm into, photography lately.",
+      "japanese": "最近、写真にハマっています。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844423"
+    },
+    {
+      "english": "It's nice to, have a hobby.",
+      "japanese": "趣味があるって、いいですよね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844426"
+    },
+    {
+      "english": "I usually, watch movies.",
+      "japanese": "普段は、映画を見ています。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844429"
+    },
+    {
+      "english": "I enjoy, cooking a lot.",
+      "japanese": "料理をするのが、とても楽しいです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844434"
+    },
+    {
+      "english": "Let's do something, fun together.",
+      "japanese": "一緒に、何か楽しいことしましょう。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844438"
+    },
+    {
+      "english": "I'm looking for, a new hobby.",
+      "japanese": "新しい趣味を、探しています。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844441"
+    },
+    {
+      "english": "How do you, spend your weekends?",
+      "japanese": "週末は、どう過ごしていますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844444"
+    },
+    {
+      "english": "I like listening, to music.",
+      "japanese": "音楽を聴くのが、好きです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844446"
+    },
+    {
+      "english": "My hobby is, playing guitar.",
+      "japanese": "私の趣味は、ギターを弾くことです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844449"
+    },
+    {
+      "english": "I love going, hiking.",
+      "japanese": "ハイキングに行くのが、大好きです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844452"
+    },
+    {
+      "english": "What's your favorite, pastime?",
+      "japanese": "一番好きな、気晴らしは何ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844456"
+    },
+    {
+      "english": "I enjoy, gardening.",
+      "japanese": "ガーデニングを楽しんでいます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844460"
+    },
+    {
+      "english": "Let's go out, sometime soon.",
+      "japanese": "近いうちに、どこか出かけましょう。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844463"
+    },
+    {
+      "english": "I'm practicing, Japanese.",
+      "japanese": "日本語を練習しています。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844466"
+    },
+    {
+      "english": "I like trying, new things.",
+      "japanese": "新しいことに、挑戦するのが好きです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844468"
+    },
+    {
+      "english": "How do you, unwind?",
+      "japanese": "どうやって、リフレッシュしますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844471"
+    },
+    {
+      "english": "I enjoy, drawing.",
+      "japanese": "絵を描くのが、好きです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844473"
+    },
+    {
+      "english": "What do you, usually do?",
+      "japanese": "普段、何をしていますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844476"
+    },
+    {
+      "english": "I like to, play games.",
+      "japanese": "ゲームをするのが、好きです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844478"
+    },
+    {
+      "english": "It's good to, relax.",
+      "japanese": "リラックスするのは、良いことです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844481"
+    },
+    {
+      "english": "I'm interested in, art.",
+      "japanese": "アートに、興味があります。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844483"
+    },
+    {
+      "english": "Do you like, sports?",
+      "japanese": "スポーツは好きですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844486"
+    },
+    {
+      "english": "I'm learning, to play piano.",
+      "japanese": "ピアノを習っています。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844489"
+    },
+    {
+      "english": "This is my, favorite pastime.",
+      "japanese": "これが、私の一番好きな気晴らしです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844491"
+    },
+    {
+      "english": "I like to, travel.",
+      "japanese": "旅行をするのが、好きです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844494"
+    },
+    {
+      "english": "What do you do, to relax?",
+      "japanese": "リラックスするために、何をしますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844497"
+    },
+    {
+      "english": "Do you have, a favorite activity?",
+      "japanese": "お気に入りの活動は、ありますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844501"
+    },
+    {
+      "english": "What's your go-to, hobby?",
+      "japanese": "あなたの定番の、趣味は何ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844504"
+    },
+    {
+      "english": "How do you usually, spend your evenings?",
+      "japanese": "普段、夕食後はどのように過ごしますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844507"
+    },
+    {
+      "english": "Are you interested, in any new hobbies?",
+      "japanese": "何か新しい趣味に、興味はありますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844510"
+    },
+    {
+      "english": "What do you enjoy, doing on holidays?",
+      "japanese": "休日は、何をするのが好きですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844512"
+    },
+    {
+      "english": "Could you recommend, a good book?",
+      "japanese": "何か良い本を、おすすめしてもらえませんか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844515"
+    },
+    {
+      "english": "What kind of music, do you listen to?",
+      "japanese": "どんな種類の音楽を、聴きますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844518"
+    },
+    {
+      "english": "Do you ever, go to concerts?",
+      "japanese": "コンサートには、よく行きますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844521"
+    },
+    {
+      "english": "What's your favorite, type of movie?",
+      "japanese": "好きな映画の種類は、何ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844524"
+    },
+    {
+      "english": "Have you tried, any new recipes lately?",
+      "japanese": "最近、新しいレシピを試しましたか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844526"
+    },
+    {
+      "english": "What do you do, when you feel stressed?",
+      "japanese": "ストレスを感じた時、どうしますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844531"
+    },
+    {
+      "english": "Do you prefer, indoor or outdoor activities?",
+      "japanese": "インドア派ですか、それともアウトドア派ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844534"
+    },
+    {
+      "english": "What are you, learning right now?",
+      "japanese": "今、何を学んでいますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844537"
+    },
+    {
+      "english": "Do you collect, anything interesting?",
+      "japanese": "何か面白いものを、集めていますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844540"
+    },
+    {
+      "english": "What's your ideal, weekend plan?",
+      "japanese": "理想の週末の過ごし方は、何ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844543"
+    },
+    {
+      "english": "Do you like, spending time alone?",
+      "japanese": "一人の時間を、楽しむ方ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844547"
+    },
+    {
+      "english": "What's a hobby, you'd like to try?",
+      "japanese": "挑戦してみたい趣味は、何ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844550"
+    },
+    {
+      "english": "Do you enjoy, creative pursuits?",
+      "japanese": "創造的な活動は、お好きですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844552"
+    },
+    {
+      "english": "What do you do, for exercise?",
+      "japanese": "運動は、何をしていますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844555"
+    },
+    {
+      "english": "Do you like, visiting museums?",
+      "japanese": "美術館に行くのは、好きですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844558"
+    },
+    {
+      "english": "What's your favorite, season for outdoor activities?",
+      "japanese": "アウトドア活動に最適な、季節はいつですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844561"
+    },
+    {
+      "english": "Do you volunteer, for any causes?",
+      "japanese": "何かボランティア活動は、していますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844564"
+    },
+    {
+      "english": "What's the best, way to learn a language?",
+      "japanese": "語学を学ぶのに、一番良い方法は？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844566"
+    },
+    {
+      "english": "Do you play, any team sports?",
+      "japanese": "何かチームスポーツは、しますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844569"
+    },
+    {
+      "english": "What do you do, to stay active?",
+      "japanese": "アクティブでいるために、何をしますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844572"
+    },
+    {
+      "english": "How do you, share your interests?",
+      "japanese": "ご自身の興味を、どのように共有しますか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844574"
+    },
+    {
+      "english": "Do you enjoy, exploring new places?",
+      "japanese": "新しい場所を、探検するのは好きですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844577"
+    },
+    {
+      "english": "What's your favorite, way to de-stress?",
+      "japanese": "ストレス解消に一番良い方法は、何ですか？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844580"
+    },
+    {
+      "english": "Keep going, you're doing great!",
+      "japanese": "頑張って、すごく上手だよ！",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844583"
+    },
+    {
+      "english": "This hobby, really suits you.",
+      "japanese": "その趣味、すごく似合ってるね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844586"
+    },
+    {
+      "english": "Enjoy the process, not just the result.",
+      "japanese": "結果だけでなく、過程を楽しんで。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844589"
+    },
+    {
+      "english": "Your effort, is truly admirable.",
+      "japanese": "あなたの努力、本当に感心だよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844593"
+    },
+    {
+      "english": "It's okay, to make mistakes.",
+      "japanese": "間違えても、大丈夫だよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844596"
+    },
+    {
+      "english": "Take your time, and have fun.",
+      "japanese": "ゆっくり楽しんで、気楽にいこう。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844598"
+    },
+    {
+      "english": "You're improving, so quickly!",
+      "japanese": "すごく早く、上達してるね！",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844601"
+    },
+    {
+      "english": "Find joy, in the little things.",
+      "japanese": "小さなことから、喜びを見つけて。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844603"
+    },
+    {
+      "english": "What you're doing, is wonderful.",
+      "japanese": "あなたがやっていること、素晴らしいよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844606"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "japanese": "自分を信じて、いつも。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844609"
+    },
+    {
+      "english": "Practice makes, perfect, right?",
+      "japanese": "練習は、完璧につながる、だよね？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844612"
+    },
+    {
+      "english": "It's inspiring, to see your passion.",
+      "japanese": "あなたの情熱を見ると、元気が出るよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844615"
+    },
+    {
+      "english": "Don't give up, on your dreams.",
+      "japanese": "夢を、諦めないで。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844617"
+    },
+    {
+      "english": "That's a fantastic, idea!",
+      "japanese": "それは素晴らしい、アイデアだね！",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844620"
+    },
+    {
+      "english": "You have, a great talent.",
+      "japanese": "あなたは、素晴らしい才能があるね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844623"
+    },
+    {
+      "english": "Let your creativity, flow freely.",
+      "japanese": "あなたの創造性を、自由に解き放って。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844625"
+    },
+    {
+      "english": "Every step counts, forward.",
+      "japanese": "一歩一歩が、前進だよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844629"
+    },
+    {
+      "english": "This is your, special time.",
+      "japanese": "これはあなたの、特別な時間だよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844632"
+    },
+    {
+      "english": "You're learning, so much.",
+      "japanese": "たくさん、学んでいるね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844635"
+    },
+    {
+      "english": "That's a unique, perspective.",
+      "japanese": "それはユニークな、視点だね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844639"
+    },
+    {
+      "english": "Keep exploring, and discovering.",
+      "japanese": "探求し、発見し続けてね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844642"
+    },
+    {
+      "english": "Your passion, is infectious.",
+      "japanese": "あなたの情熱、伝染するね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844645"
+    },
+    {
+      "english": "This hobby, brings you joy?",
+      "japanese": "この趣味、あなたに喜びをもたらす？",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844647"
+    },
+    {
+      "english": "Don't compare, yourself to others.",
+      "japanese": "他人と、自分を比べないで。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844650"
+    },
+    {
+      "english": "Focus on, your own path.",
+      "japanese": "あなた自身の、道に集中して。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844653"
+    },
+    {
+      "english": "It's okay, to rest sometimes.",
+      "japanese": "たまには、休んでもいいんだよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844655"
+    },
+    {
+      "english": "What you're creating, is amazing.",
+      "japanese": "あなたが作っているもの、すごいね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844658"
+    },
+    {
+      "english": "Keep nurturing, your interests.",
+      "japanese": "あなたの興味を、育て続けてね。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844661"
+    },
+    {
+      "english": "You're on the right, track.",
+      "japanese": "あなたは正しい、道を進んでいるよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844663"
+    },
+    {
+      "english": "This time, is truly mine.",
+      "japanese": "この時間は、本当に私のものです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844666"
+    },
+    {
+      "english": "I feel calm, when I do this.",
+      "japanese": "これをする時、心が落ち着きます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844669"
+    },
+    {
+      "english": "It helps me, to think clearly.",
+      "japanese": "頭をすっきりさせるのに役立ちます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844709"
+    },
+    {
+      "english": "My mind, feels refreshed afterward.",
+      "japanese": "終わった後、頭がリフレッシュします。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844712"
+    },
+    {
+      "english": "I can be, my true self here.",
+      "japanese": "ここでは、本当の自分でいられます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844715"
+    },
+    {
+      "english": "It’s a space, for my soul.",
+      "japanese": "これは、私の魂のための空間です。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844721"
+    },
+    {
+      "english": "I find a lot, of satisfaction.",
+      "japanese": "たくさんの満足感を得られます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844723"
+    },
+    {
+      "english": "This hobby, nourishes my spirit.",
+      "japanese": "この趣味は、私の精神を養います。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844726"
+    },
+    {
+      "english": "I appreciate, the quiet moments.",
+      "japanese": "静かな瞬間を大切にしています。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844729"
+    },
+    {
+      "english": "It’s a journey, of self-discovery.",
+      "japanese": "自己発見の旅です。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844733"
+    },
+    {
+      "english": "I feel more, patient with this.",
+      "japanese": "これに対して、より忍耐強くなれます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844736"
+    },
+    {
+      "english": "It allows, deep introspection.",
+      "japanese": "深い内省を可能にします。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844738"
+    },
+    {
+      "english": "I'm learning, to accept imperfections.",
+      "japanese": "不完全さを受け入れることを学んでいます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844741"
+    },
+    {
+      "english": "This brings me, inner peace.",
+      "japanese": "これは私に心の平和をもたらします。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844744"
+    },
+    {
+      "english": "I reflect, on my progress.",
+      "japanese": "自分の進歩を振り返ります。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844749"
+    },
+    {
+      "english": "It’s a form, of meditation.",
+      "japanese": "それは瞑想の一種です。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844752"
+    },
+    {
+      "english": "I feel truly, present in this.",
+      "japanese": "これにいる時、本当に今を感じます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844755"
+    },
+    {
+      "english": "My thoughts, become much clearer.",
+      "japanese": "考えがずっと明確になります。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844757"
+    },
+    {
+      "english": "I'm cultivating, a sense of calm.",
+      "japanese": "落ち着きの感覚を育んでいます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844761"
+    },
+    {
+      "english": "This is my, gentle escape.",
+      "japanese": "これは私の、穏やかな逃避行です。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844763"
+    },
+    {
+      "english": "I embrace, the slow unfolding.",
+      "japanese": "ゆっくりと展開していく様を受け入れます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844766"
+    },
+    {
+      "english": "It teaches, me to be present.",
+      "japanese": "それは私に、今を生きることを教えてくれます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844769"
+    },
+    {
+      "english": "I gain, a deeper understanding.",
+      "japanese": "より深い理解を得ます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844786"
+    },
+    {
+      "english": "This hobby, is my solace.",
+      "japanese": "この趣味は、私の心の安らぎです。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844789"
+    },
+    {
+      "english": "I connect, with my inner self.",
+      "japanese": "自分の内なる自分と繋がります。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844791"
+    },
+    {
+      "english": "It fosters, self-compassion.",
+      "japanese": "自己への思いやりを育みます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844794"
+    },
+    {
+      "english": "I feel a, quiet contentment.",
+      "japanese": "静かな満足感を感じます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844797"
+    },
+    {
+      "english": "It helps me, process emotions.",
+      "japanese": "感情を処理するのに役立ちます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844799"
+    },
+    {
+      "english": "This activity, grounds me.",
+      "japanese": "この活動は、私を地に足がついた状態にしてくれます。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844802"
+    },
+    {
+      "english": "I'm embracing, the quiet stillness.",
+      "japanese": "静かな静寂を受け入れています。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844807"
+    },
+    {
+      "english": "This is my favorite, way to relax.",
+      "japanese": "これが一番, 好きなリラックス法だよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844810"
+    },
+    {
+      "english": "Let's try that, together sometime.",
+      "japanese": "今度, 一緒にやってみようよ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844813"
+    },
+    {
+      "english": "I'm trying, something new.",
+      "japanese": "新しいことに, 挑戦中なんだ。",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T05:42:18.844815"
     }
   ],
-  "last_updated": "2026-10-19T05:46:45.724725"
+  "last_updated": "2026-10-20T05:42:18.844817"
 }
