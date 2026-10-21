@@ -8909,7 +8909,727 @@
       "japanese": "新しいことに, 挑戦中なんだ。",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-10-20T05:42:18.844815"
+    },
+    {
+      "english": "Today's goal, achieve it.",
+      "japanese": "今日 の 目標 、 達成 しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353408"
+    },
+    {
+      "english": "What's new, with you?",
+      "japanese": "最近 どう 、 調子 は？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353421"
+    },
+    {
+      "english": "I'm trying my best.",
+      "japanese": "一生懸命 、 やってます。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353423"
+    },
+    {
+      "english": "Let's begin now.",
+      "japanese": "今 から 、 始めよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353426"
+    },
+    {
+      "english": "What do you think?",
+      "japanese": "どう 思う 、？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353428"
+    },
+    {
+      "english": "Slowly, but surely.",
+      "japanese": "ゆっくり 、 でも 確実に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353430"
+    },
+    {
+      "english": "I understand a little.",
+      "japanese": "少し 、 分かります。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353432"
+    },
+    {
+      "english": "Let's talk again.",
+      "japanese": "また 話そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353438"
+    },
+    {
+      "english": "This is interesting.",
+      "japanese": "これ は 面白い。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353440"
+    },
+    {
+      "english": "I need to practice.",
+      "japanese": "練習 が 必要 だ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353443"
+    },
+    {
+      "english": "How was your day?",
+      "japanese": "今日 は どう でした か？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353445"
+    },
+    {
+      "english": "I'm feeling motivated.",
+      "japanese": "やる気 が 出てる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353447"
+    },
+    {
+      "english": "Don't give up yet.",
+      "japanese": "まだ 、 諦め ないで。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353449"
+    },
+    {
+      "english": "Let's aim higher.",
+      "japanese": "もっと 高い ところ を 目指そう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353451"
+    },
+    {
+      "english": "What is this called?",
+      "japanese": "これ は 何と 言いますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353453"
+    },
+    {
+      "english": "I'm learning something new.",
+      "japanese": "新しい こと を 学んでる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353455"
+    },
+    {
+      "english": "Can you say that again?",
+      "japanese": "もう 一度 言って くれ ます か？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353457"
+    },
+    {
+      "english": "It takes time, you know.",
+      "japanese": "時間 が かかる もの だ よ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353459"
+    },
+    {
+      "english": "What's the plan today?",
+      "japanese": "今日 の 予定 は？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353461"
+    },
+    {
+      "english": "Focus on the process.",
+      "japanese": "プロセス に 集中 しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353465"
+    },
+    {
+      "english": "I'm getting better.",
+      "japanese": "上手く なって いる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353467"
+    },
+    {
+      "english": "Let's make an effort.",
+      "japanese": "頑張ろう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353468"
+    },
+    {
+      "english": "Tomorrow will be better.",
+      "japanese": "明日 は もっと 良い 日 に なる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353470"
+    },
+    {
+      "english": "I need more coffee.",
+      "japanese": "コーヒー が もっと 必要 だ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353472"
+    },
+    {
+      "english": "It's a good start.",
+      "japanese": "良い スタート だ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353474"
+    },
+    {
+      "english": "Don't worry too much.",
+      "japanese": "あまり 心配 し ない で。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353478"
+    },
+    {
+      "english": "Let's reflect on this.",
+      "japanese": "これ を 振り返って みよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353480"
+    },
+    {
+      "english": "Keep that in mind.",
+      "japanese": "その こと を 覚えて おいて。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353481"
+    },
+    {
+      "english": "I'm ready for it.",
+      "japanese": "準備 は でき てる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353483"
+    },
+    {
+      "english": "What are you working on, lately?",
+      "japanese": "最近、何に取り組んでいますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353485"
+    },
+    {
+      "english": "Can you give me some advice?",
+      "japanese": "何かアドバイスをいただけますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353487"
+    },
+    {
+      "english": "What's your best learning tip?",
+      "japanese": "一番の学習のコツは何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353490"
+    },
+    {
+      "english": "Where should I start, first?",
+      "japanese": "まず、どこから始めるべきですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353492"
+    },
+    {
+      "english": "Do you have any good resources?",
+      "japanese": "何か良い資料はありますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353494"
+    },
+    {
+      "english": "What helped you the most?",
+      "japanese": "何が一番役に立ちましたか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353496"
+    },
+    {
+      "english": "How do you overcome challenges?",
+      "japanese": "どうやって困難を乗り越えていますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353498"
+    },
+    {
+      "english": "What's a good daily habit?",
+      "japanese": "良い毎日の習慣は何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353501"
+    },
+    {
+      "english": "Can we practice together, sometime?",
+      "japanese": "いつか一緒に練習しませんか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353503"
+    },
+    {
+      "english": "What's your personal goal, now?",
+      "japanese": "あなたの今の個人的な目標は何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353505"
+    },
+    {
+      "english": "How do you deal with mistakes?",
+      "japanese": "間違いにどう対処しますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353509"
+    },
+    {
+      "english": "What inspires you to keep going?",
+      "japanese": "進み続けるためのインスピレーションは何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353511"
+    },
+    {
+      "english": "What did you learn today?",
+      "japanese": "今日は何を学びましたか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353513"
+    },
+    {
+      "english": "Can you recommend a book?",
+      "japanese": "本を推薦してもらえますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353515"
+    },
+    {
+      "english": "What are you proud of?",
+      "japanese": "何に誇りを持っていますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353517"
+    },
+    {
+      "english": "How do you celebrate small wins?",
+      "japanese": "小さな成功をどう祝いますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353519"
+    },
+    {
+      "english": "What's the secret to progress?",
+      "japanese": "進歩の秘訣は何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353521"
+    },
+    {
+      "english": "Are you feeling stuck, at all?",
+      "japanese": "何か行き詰まっていますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353523"
+    },
+    {
+      "english": "What's one thing to try next?",
+      "japanese": "次に試すことは何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353526"
+    },
+    {
+      "english": "How do you manage your time?",
+      "japanese": "どうやって時間を管理していますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353529"
+    },
+    {
+      "english": "What's a helpful mindset?",
+      "japanese": "役立つ考え方は何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353531"
+    },
+    {
+      "english": "Did you reach your target?",
+      "japanese": "目標に到達しましたか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353534"
+    },
+    {
+      "english": "What's your favorite success story?",
+      "japanese": "お気に入りの成功談は何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353536"
+    },
+    {
+      "english": "How do you find balance?",
+      "japanese": "どうやってバランスを見つけますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353540"
+    },
+    {
+      "english": "What's your long-term vision?",
+      "japanese": "あなたの長期的なビジョンは何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353542"
+    },
+    {
+      "english": "Can you share your experience?",
+      "japanese": "あなたの経験を共有してもらえますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353544"
+    },
+    {
+      "english": "What makes you happy, today?",
+      "japanese": "今日、あなたを幸せにすることは何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353546"
+    },
+    {
+      "english": "How do you practice self-care?",
+      "japanese": "どうやってセルフケアを実践しますか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353548"
+    },
+    {
+      "english": "What is your next step?",
+      "japanese": "あなたの次のステップは何ですか？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353550"
+    },
+    {
+      "english": "You can do this, seriously.",
+      "japanese": "君ならできるよ、マジで。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353552"
+    },
+    {
+      "english": "That's a great idea, wow!",
+      "japanese": "それは良い考えだね、すごい！",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353554"
+    },
+    {
+      "english": "Small steps, big results.",
+      "japanese": "小さな一歩、大きな成果。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353556"
+    },
+    {
+      "english": "Today is a new chance.",
+      "japanese": "今日は新しいチャンスだ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353558"
+    },
+    {
+      "english": "You're doing so well!",
+      "japanese": "すごく頑張ってるね！",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353560"
+    },
+    {
+      "english": "Positive thoughts, positive life.",
+      "japanese": "ポジティブ思考、ポジティブな人生。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353562"
+    },
+    {
+      "english": "Just try your best, okay?",
+      "japanese": "とにかくベストを尽くして、ね？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353564"
+    },
+    {
+      "english": "This is worth the effort.",
+      "japanese": "これはやる価値があるよ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353567"
+    },
+    {
+      "english": "You've got this potential.",
+      "japanese": "君にはその可能性がある。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353569"
+    },
+    {
+      "english": "Learn from every mistake.",
+      "japanese": "すべての間違いから学ぼう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353571"
+    },
+    {
+      "english": "What a good effort!",
+      "japanese": "なんて良い努力なんだ！",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353573"
+    },
+    {
+      "english": "Believe in the process.",
+      "japanese": "その過程を信じよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353575"
+    },
+    {
+      "english": "You're getting stronger, daily.",
+      "japanese": "毎日、強くなってるよ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353579"
+    },
+    {
+      "english": "Keep pushing forward, now.",
+      "japanese": "今、前進し続けよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353581"
+    },
+    {
+      "english": "Don't be too hard on yourself.",
+      "japanese": "自分を責めすぎないで。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353583"
+    },
+    {
+      "english": "Every day counts, you know.",
+      "japanese": "毎日が大切なんだよ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353586"
+    },
+    {
+      "english": "That's a fantastic mindset!",
+      "japanese": "それは素晴らしい考え方だ！",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353588"
+    },
+    {
+      "english": "You are capable of more.",
+      "japanese": "君はもっとできる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353590"
+    },
+    {
+      "english": "Keep that momentum going.",
+      "japanese": "その勢いを保ってね。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353592"
+    },
+    {
+      "english": "Focus on your progress.",
+      "japanese": "自分の進歩に集中して。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353595"
+    },
+    {
+      "english": "Never stop learning, ever.",
+      "japanese": "学び続けるのをやめないで、絶対に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353597"
+    },
+    {
+      "english": "What a great achievement!",
+      "japanese": "なんて素晴らしい達成なんだ！",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353599"
+    },
+    {
+      "english": "Keep your chin up, friend.",
+      "japanese": "元気出して、友達。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353601"
+    },
+    {
+      "english": "You're making a difference.",
+      "japanese": "君は変化を起こしている。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353604"
+    },
+    {
+      "english": "Awesome job, really proud!",
+      "japanese": "素晴らしい仕事ぶり、本当に誇らしい！",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353607"
+    },
+    {
+      "english": "Honesty, with myself, is key.",
+      "japanese": "自分に正直でいることが、大切。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353609"
+    },
+    {
+      "english": "True feelings, need expression.",
+      "japanese": "本当の気持ちは、伝えなきゃ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353611"
+    },
+    {
+      "english": "Patience, it's a virtue, really.",
+      "japanese": "忍耐、それは美徳、本当に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353614"
+    },
+    {
+      "english": "Letting go, brings peace.",
+      "japanese": "手放すことで、心が安らぐ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353616"
+    },
+    {
+      "english": "Inner strength, I'm building.",
+      "japanese": "内なる強さ、築いているんだ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353618"
+    },
+    {
+      "english": "My own journey, I trust.",
+      "japanese": "自分の旅を、信じる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353620"
+    },
+    {
+      "english": "Reflecting now, on growth.",
+      "japanese": "今、成長を振り返る。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353622"
+    },
+    {
+      "english": "Deep breaths, help calm.",
+      "japanese": "深呼吸は、落ち着くのに役立つ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353624"
+    },
+    {
+      "english": "Vulnerability, makes us human.",
+      "japanese": "弱さを見せることが、人間らしさ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353626"
+    },
+    {
+      "english": "Accepting myself, finally.",
+      "japanese": "自分を受け入れる、ついに。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353628"
+    },
+    {
+      "english": "What matters, is effort.",
+      "japanese": "大切なのは、努力。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353630"
+    },
+    {
+      "english": "True happiness, from within.",
+      "japanese": "本当の幸せは、内側から。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353632"
+    },
+    {
+      "english": "Learning from sorrow, too.",
+      "japanese": "悲しみからも、学ぶ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353634"
+    },
+    {
+      "english": "My voice, needs to be heard.",
+      "japanese": "自分の声は、聞かれるべき。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353636"
+    },
+    {
+      "english": "Gentleness, towards myself.",
+      "japanese": "自分への優しさ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353638"
+    },
+    {
+      "english": "Understanding others, starts here.",
+      "japanese": "他人を理解することは、ここから。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353640"
+    },
+    {
+      "english": "This feeling, is valid.",
+      "japanese": "この感情は、間違っていない。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353642"
+    },
+    {
+      "english": "My core beliefs, I examine.",
+      "japanese": "自分の核となる信念を、見つめる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353646"
+    },
+    {
+      "english": "Embracing change, gracefully.",
+      "japanese": "変化を、優雅に受け入れる。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353648"
+    },
+    {
+      "english": "Gratitude, fills my heart.",
+      "japanese": "感謝の気持ちが、心を満たす。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353650"
+    },
+    {
+      "english": "Finding my own rhythm.",
+      "japanese": "自分自身の、リズムを見つける。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353654"
+    },
+    {
+      "english": "Quiet reflection, is powerful.",
+      "japanese": "静かな内省は、力強い。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353656"
+    },
+    {
+      "english": "This moment, is enough.",
+      "japanese": "この瞬間は、十分だ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353658"
+    },
+    {
+      "english": "My intuition, I listen.",
+      "japanese": "自分の直感を、聞く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353668"
+    },
+    {
+      "english": "Being present, is a skill.",
+      "japanese": "今に集中することは、スキル。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353670"
+    },
+    {
+      "english": "Self-compassion, it matters.",
+      "japanese": "自分への思いやりは、重要。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353672"
+    },
+    {
+      "english": "What truly inspires me?",
+      "japanese": "私を本当に刺激するものは？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353674"
+    },
+    {
+      "english": "My values, guide me.",
+      "japanese": "自分の価値観が、私を導く。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353676"
+    },
+    {
+      "english": "Inner peace, I seek.",
+      "japanese": "心の平和を、求める。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353678"
+    },
+    {
+      "english": "Authenticity, my true north.",
+      "japanese": "自分らしさが、私の北極星。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353680"
+    },
+    {
+      "english": "Small steps, big changes, right?",
+      "japanese": "小さな一歩が、大きな変化に、ね？",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353683"
+    },
+    {
+      "english": "Drink water, always remember.",
+      "japanese": "水を飲もう、いつも忘れずに。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353686"
+    },
+    {
+      "english": "Organize your space, clear your mind.",
+      "japanese": "場所を片付ければ、心も晴れるよ。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353689"
+    },
+    {
+      "english": "Ask for help, it's okay.",
+      "japanese": "助けを求めて、大丈夫だから。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353691"
+    },
+    {
+      "english": "Plan tomorrow, tonight.",
+      "japanese": "明日の計画を、今夜立てよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353693"
+    },
+    {
+      "english": "Take a break, when tired.",
+      "japanese": "疲れたら、休憩しよう。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353695"
+    },
+    {
+      "english": "Practice saying 'no', politely.",
+      "japanese": "「いいえ」と言う練習を、丁寧に。",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-21T05:46:01.353698"
     }
   ],
-  "last_updated": "2026-10-20T05:42:18.844817"
+  "last_updated": "2026-10-21T05:46:01.353699"
 }
