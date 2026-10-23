@@ -10349,7 +10349,727 @@
       "japanese": "困ったら、誰かに頼って。",
       "category": "Perseverance",
       "generated_at": "2026-10-22T05:47:38.143374"
+    },
+    {
+      "english": "Happy birthday, everyone!",
+      "japanese": "皆さん、お誕生日おめでとうございます！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337662"
+    },
+    {
+      "english": "Congratulations, you did it!",
+      "japanese": "おめでとう、やったね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337671"
+    },
+    {
+      "english": "Let's celebrate, shall we?",
+      "japanese": "お祝いしましょうか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337674"
+    },
+    {
+      "english": "This is a fun party!",
+      "japanese": "楽しいパーティーだね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337677"
+    },
+    {
+      "english": "What a great event!",
+      "japanese": "なんて素晴らしいイベントなんだ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337682"
+    },
+    {
+      "english": "Thanks for inviting me.",
+      "japanese": "お招きいただき、ありがとうございます。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337685"
+    },
+    {
+      "english": "It's time for a toast!",
+      "japanese": "乾杯の時間ですよ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337687"
+    },
+    {
+      "english": "Cheers, to us!",
+      "japanese": "乾杯、私たちのために！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337693"
+    },
+    {
+      "english": "Have a wonderful time!",
+      "japanese": "素晴らしい時間を過ごしてね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337696"
+    },
+    {
+      "english": "Are you enjoying yourself?",
+      "japanese": "楽しんでいますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337699"
+    },
+    {
+      "english": "Let's take a photo!",
+      "japanese": "写真を撮りましょう！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337702"
+    },
+    {
+      "english": "It's a surprise party!",
+      "japanese": "サプライズパーティーだよ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337704"
+    },
+    {
+      "english": "Wow, so many people!",
+      "japanese": "わあ、人がいっぱいだ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337707"
+    },
+    {
+      "english": "Happy anniversary, dear.",
+      "japanese": "記念日おめでとう、愛しい人。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337710"
+    },
+    {
+      "english": "Let's dance, come on!",
+      "japanese": "踊りましょう、さあ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337714"
+    },
+    {
+      "english": "This music is great!",
+      "japanese": "この音楽、いいね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337716"
+    },
+    {
+      "english": "Happy New Year, everyone!",
+      "japanese": "新年おめでとうございます、皆さん！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337719"
+    },
+    {
+      "english": "Happy holidays to you!",
+      "japanese": "楽しい休日を！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337721"
+    },
+    {
+      "english": "Let's make a wish.",
+      "japanese": "願い事をしましょう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337726"
+    },
+    {
+      "english": "It's a special occasion.",
+      "japanese": "特別な機会ですね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337728"
+    },
+    {
+      "english": "Hope you have fun!",
+      "japanese": "楽しんでね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337731"
+    },
+    {
+      "english": "This is so exciting!",
+      "japanese": "これはとてもワクワクするね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337733"
+    },
+    {
+      "english": "Let's eat, drink, and be merry.",
+      "japanese": "食べて、飲んで、楽しもう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337736"
+    },
+    {
+      "english": "What are we celebrating?",
+      "japanese": "何のお祝いですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337738"
+    },
+    {
+      "english": "Happy graduation, congratulations!",
+      "japanese": "卒業おめでとう、お祝いだ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337741"
+    },
+    {
+      "english": "Wishing you joy and laughter.",
+      "japanese": "喜びと笑いに満ちた日々を。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337744"
+    },
+    {
+      "english": "Time to get the party started!",
+      "japanese": "パーティーを始める時間だよ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337746"
+    },
+    {
+      "english": "This calls for a celebration!",
+      "japanese": "これはお祝いするしかないね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337748"
+    },
+    {
+      "english": "What's happening, everyone?",
+      "japanese": "皆さん、どうしたんですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337751"
+    },
+    {
+      "english": "Is this a special event?",
+      "japanese": "これは特別なイベントですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337754"
+    },
+    {
+      "english": "Who is the guest of honor?",
+      "japanese": "主役はどなたですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337756"
+    },
+    {
+      "english": "When does the party begin?",
+      "japanese": "パーティーはいつ始まりますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337759"
+    },
+    {
+      "english": "Where are we going next?",
+      "japanese": "次、どこへ行くんですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337761"
+    },
+    {
+      "english": "Can I help with anything?",
+      "japanese": "何かお手伝いできることはありますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337764"
+    },
+    {
+      "english": "What should I bring?",
+      "japanese": "何を持っていけばいいですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337767"
+    },
+    {
+      "english": "Is there a dress code?",
+      "japanese": "服装の規定はありますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337774"
+    },
+    {
+      "english": "How long will this last?",
+      "japanese": "これ、どのくらい続きますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337777"
+    },
+    {
+      "english": "Did you plan this surprise?",
+      "japanese": "このサプライズ、計画したんですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337780"
+    },
+    {
+      "english": "Are there any activities?",
+      "japanese": "何かアクティビティはありますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337782"
+    },
+    {
+      "english": "Who organized this party?",
+      "japanese": "このパーティー、誰が企画したんですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337785"
+    },
+    {
+      "english": "Can you tell me more?",
+      "japanese": "もう少し教えてもらえますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337789"
+    },
+    {
+      "english": "What's the occasion today?",
+      "japanese": "今日の、お祝いは何ですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337792"
+    },
+    {
+      "english": "Is there a schedule?",
+      "japanese": "タイムスケジュールはありますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337794"
+    },
+    {
+      "english": "What time should I arrive?",
+      "japanese": "何時頃に着けばいいですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337797"
+    },
+    {
+      "english": "Is this a potluck?",
+      "japanese": "これ、ポットラックですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337799"
+    },
+    {
+      "english": "What kind of food is this?",
+      "japanese": "これ、どんな料理ですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337801"
+    },
+    {
+      "english": "Can I take a picture?",
+      "japanese": "写真撮ってもいいですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337804"
+    },
+    {
+      "english": "Is there parking nearby?",
+      "japanese": "近くに駐車場はありますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337806"
+    },
+    {
+      "english": "Who else is coming?",
+      "japanese": "他に誰が来ますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337808"
+    },
+    {
+      "english": "What are your plans now?",
+      "japanese": "皆さんの、これからの予定は？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337811"
+    },
+    {
+      "english": "Did you like the gift?",
+      "japanese": "プレゼント、気に入りましたか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337813"
+    },
+    {
+      "english": "Shall we move inside?",
+      "japanese": "中へ移動しましょうか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337815"
+    },
+    {
+      "english": "Is there a gift registry?",
+      "japanese": "ギフトレジストリはありますか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337818"
+    },
+    {
+      "english": "What's the theme, again?",
+      "japanese": "テーマ、もう一度何でしたっけ？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337820"
+    },
+    {
+      "english": "Can I try that dish?",
+      "japanese": "あの料理、試してもいいですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337823"
+    },
+    {
+      "english": "What time does it end?",
+      "japanese": "何時に終わるんですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337825"
+    },
+    {
+      "english": "Is this your first time?",
+      "japanese": "これ、初めてですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337827"
+    },
+    {
+      "english": "What are you drinking?",
+      "japanese": "何飲んでるんですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337829"
+    },
+    {
+      "english": "You did great, really!",
+      "japanese": "君、すごく頑張ったね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337832"
+    },
+    {
+      "english": "Keep up the amazing work!",
+      "japanese": "その調子で、頑張ってね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337835"
+    },
+    {
+      "english": "You deserve this success.",
+      "japanese": "この成功は、君にふさわしいよ。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337837"
+    },
+    {
+      "english": "Let's toast to your achievement!",
+      "japanese": "君の成果を、祝杯あげよう！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337840"
+    },
+    {
+      "english": "Positive vibes only, okay?",
+      "japanese": "ポジティブに、いこうね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337842"
+    },
+    {
+      "english": "What a fantastic idea!",
+      "japanese": "なんて素晴らしい、アイデアなんだ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337845"
+    },
+    {
+      "english": "Your effort paid off.",
+      "japanese": "君の努力が、実を結んだね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337849"
+    },
+    {
+      "english": "Don't forget to smile.",
+      "japanese": "笑顔を、忘れずにね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337853"
+    },
+    {
+      "english": "This calls for big cheers!",
+      "japanese": "盛大に、乾杯しよう！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337856"
+    },
+    {
+      "english": "You're doing awesome!",
+      "japanese": "君、最高だよ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337860"
+    },
+    {
+      "english": "Celebrate every little win.",
+      "japanese": "小さな勝利も、祝おう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337863"
+    },
+    {
+      "english": "Here's to new beginnings!",
+      "japanese": "新たな始まりに、乾杯！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337866"
+    },
+    {
+      "english": "You've got this, for sure.",
+      "japanese": "君なら、できるよ、きっと。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337868"
+    },
+    {
+      "english": "Let's make this unforgettable.",
+      "japanese": "忘れられない、思い出にしよう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337871"
+    },
+    {
+      "english": "Shine bright, like you do.",
+      "japanese": "君らしく、輝いてね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337874"
+    },
+    {
+      "english": "This is a great milestone.",
+      "japanese": "これは、素晴らしい節目だね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337876"
+    },
+    {
+      "english": "Never give up on dreams.",
+      "japanese": "夢を、諦めないで。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337878"
+    },
+    {
+      "english": "You made it happen!",
+      "japanese": "君が、実現させたんだね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337881"
+    },
+    {
+      "english": "Let's raise a glass!",
+      "japanese": "グラスを、掲げよう！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337883"
+    },
+    {
+      "english": "This success is well-earned.",
+      "japanese": "この成功は、当然だよ。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337886"
+    },
+    {
+      "english": "Keep aiming higher.",
+      "japanese": "もっと、上を目指そう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337888"
+    },
+    {
+      "english": "What a wonderful achievement!",
+      "japanese": "なんて素晴らしい、功績なんだ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337891"
+    },
+    {
+      "english": "Proud of you, truly.",
+      "japanese": "君を、誇りに思うよ。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337893"
+    },
+    {
+      "english": "Let's celebrate this moment.",
+      "japanese": "この瞬間を、祝おう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337896"
+    },
+    {
+      "english": "You crushed it, seriously.",
+      "japanese": "君、マジでやり遂げたね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337901"
+    },
+    {
+      "english": "May your future be bright.",
+      "japanese": "君の未来が、明るいように。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337903"
+    },
+    {
+      "english": "This party is for you!",
+      "japanese": "このパーティーは、君のためだよ！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337906"
+    },
+    {
+      "english": "You inspire us all.",
+      "japanese": "君は、みんなの刺激だよ。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337908"
+    },
+    {
+      "english": "I feel so happy, truly.",
+      "japanese": "本当に、すごく幸せな気持ちです。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337910"
+    },
+    {
+      "english": "This memory, I'll cherish.",
+      "japanese": "この思い出を、大切にします。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337913"
+    },
+    {
+      "english": "Takes patience, this moment.",
+      "japanese": "この瞬間には、忍耐が必要です。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337916"
+    },
+    {
+      "english": "Thinking back, it was tough.",
+      "japanese": "振り返ると、大変でしたね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337918"
+    },
+    {
+      "english": "So relieved, finally.",
+      "japanese": "やっと、ほっとしました。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337921"
+    },
+    {
+      "english": "My heart feels full.",
+      "japanese": "心が満たされた感じです。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337925"
+    },
+    {
+      "english": "This dream, is now real.",
+      "japanese": "この夢が、現実になったんですね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337928"
+    },
+    {
+      "english": "What a long journey.",
+      "japanese": "本当に長い道のりでした。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337930"
+    },
+    {
+      "english": "I'm grateful, for everything.",
+      "japanese": "すべてに、感謝しています。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337933"
+    },
+    {
+      "english": "So moved, I could cry.",
+      "japanese": "感動して、泣きそうです。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337935"
+    },
+    {
+      "english": "Hard work, paid off well.",
+      "japanese": "努力が、よく報われました。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337938"
+    },
+    {
+      "english": "Such a special occasion.",
+      "japanese": "なんて特別な機会なんでしょう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337940"
+    },
+    {
+      "english": "I'm so proud of you.",
+      "japanese": "あなたを、とても誇りに思います。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337943"
+    },
+    {
+      "english": "This peace, I needed.",
+      "japanese": "この安らぎが、必要でした。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337947"
+    },
+    {
+      "english": "Truly happy, for your sake.",
+      "japanese": "あなたのことを、心から嬉しく思います。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337949"
+    },
+    {
+      "english": "A moment to reflect.",
+      "japanese": "振り返るための、ひとときですね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337952"
+    },
+    {
+      "english": "This joy, is immense.",
+      "japanese": "この喜びは、計り知れません。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337954"
+    },
+    {
+      "english": "It feels so right.",
+      "japanese": "これでいいんだ、という感じです。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337957"
+    },
+    {
+      "english": "Deeply touched, by this.",
+      "japanese": "これには、深く感動しました。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337959"
+    },
+    {
+      "english": "Worth all the struggle.",
+      "japanese": "すべての苦労に見合う価値があります。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337961"
+    },
+    {
+      "english": "What a beautiful ending.",
+      "japanese": "なんて美しい終わり方なんでしょう。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337964"
+    },
+    {
+      "english": "My heart is at ease.",
+      "japanese": "心が落ち着きました。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337966"
+    },
+    {
+      "english": "So happy, to be here.",
+      "japanese": "ここにいられて、とても嬉しいです。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337968"
+    },
+    {
+      "english": "This journey, continues on.",
+      "japanese": "この旅は、これからも続きます。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337971"
+    },
+    {
+      "english": "A moment of pure bliss.",
+      "japanese": "純粋な至福のひとときです。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337973"
+    },
+    {
+      "english": "I feel genuine peace.",
+      "japanese": "偽りのない平和を感じます。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337976"
+    },
+    {
+      "english": "This is a true reward.",
+      "japanese": "これは、本当のご褒美です。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337978"
+    },
+    {
+      "english": "Don't forget, the gifts!",
+      "japanese": "プレゼント、忘れないでね！",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337981"
+    },
+    {
+      "english": "Who brought the snacks?",
+      "japanese": "お菓子、誰か持ってきた？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337983"
+    },
+    {
+      "english": "Can you help me with this?",
+      "japanese": "これ、手伝ってくれる？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337986"
+    },
+    {
+      "english": "This song is perfect.",
+      "japanese": "この曲、最高だね。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337990"
+    },
+    {
+      "english": "Where is the restroom?",
+      "japanese": "トイレ、どこですか？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337992"
+    },
+    {
+      "english": "I need some fresh air.",
+      "japanese": "ちょっと外の空気吸いたいな。",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337994"
+    },
+    {
+      "english": "Have you tried the cake?",
+      "japanese": "ケーキ、もう食べた？",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-10-23T05:47:09.337997"
     }
   ],
-  "last_updated": "2026-10-22T05:47:38.143376"
+  "last_updated": "2026-10-23T05:47:09.337998"
 }
