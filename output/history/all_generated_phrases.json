@@ -11069,7 +11069,727 @@
       "japanese": "ケーキ、もう食べた？",
       "category": "Celebrations & Parties",
       "generated_at": "2026-10-23T05:47:09.337997"
+    },
+    {
+      "english": "Let's begin, with a smile.",
+      "japanese": "笑顔で、始めましょう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548106"
+    },
+    {
+      "english": "Believe in your potential.",
+      "japanese": "自分の可能性を信じて。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548115"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "japanese": "常に、前進し続けよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548119"
+    },
+    {
+      "english": "Embrace the journey, enjoy it.",
+      "japanese": "旅を受け入れて、楽しんで。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548122"
+    },
+    {
+      "english": "Stay motivated, stay strong.",
+      "japanese": "やる気を保ち、強くいて。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548127"
+    },
+    {
+      "english": "What will you create today?",
+      "japanese": "今日は何を作りますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548130"
+    },
+    {
+      "english": "Focus on your goals.",
+      "japanese": "目標に集中して。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548132"
+    },
+    {
+      "english": "You've got this, really.",
+      "japanese": "あなたならできる、本当に。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548138"
+    },
+    {
+      "english": "Let your passion lead.",
+      "japanese": "情熱に導かれよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548141"
+    },
+    {
+      "english": "Celebrate every success.",
+      "japanese": "すべての成功を祝おう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548144"
+    },
+    {
+      "english": "Imagine, then achieve.",
+      "japanese": "想像して、そして達成する。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548147"
+    },
+    {
+      "english": "Your efforts are seen.",
+      "japanese": "あなたの努力は見ています。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548150"
+    },
+    {
+      "english": "Find inspiration, everywhere.",
+      "japanese": "インスピレーションを、どこにでも。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548154"
+    },
+    {
+      "english": "Dare to dream, bigger.",
+      "japanese": "もっと、大きな夢を見よう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548157"
+    },
+    {
+      "english": "Transform ideas, into action.",
+      "japanese": "アイデアを、行動に変える。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548160"
+    },
+    {
+      "english": "What inspires you most?",
+      "japanese": "何が一番あなたを刺激しますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548164"
+    },
+    {
+      "english": "Keep your spirit high.",
+      "japanese": "あなたの精神を高く保って。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548166"
+    },
+    {
+      "english": "Grow through challenges.",
+      "japanese": "困難を通して成長する。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548169"
+    },
+    {
+      "english": "Create your own path.",
+      "japanese": "自分の道を作りなさい。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548171"
+    },
+    {
+      "english": "Let your light shine.",
+      "japanese": "あなたの光を輝かせて。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548174"
+    },
+    {
+      "english": "The future is yours.",
+      "japanese": "未来はあなたのものです。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548176"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "japanese": "あなたは思っているより強い。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548179"
+    },
+    {
+      "english": "Start where you are.",
+      "japanese": "今いる場所から始めよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548181"
+    },
+    {
+      "english": "Make today count.",
+      "japanese": "今日を大切にしよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548183"
+    },
+    {
+      "english": "What's your big dream, right now?",
+      "japanese": "今, 一番大きな夢は何ですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548186"
+    },
+    {
+      "english": "How do you stay positive, daily?",
+      "japanese": "毎日, どうやって前向きでいますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548189"
+    },
+    {
+      "english": "What advice, would you give yourself?",
+      "japanese": "自分に、どんなアドバイスをしますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548192"
+    },
+    {
+      "english": "Who inspires you, the most?",
+      "japanese": "一番、誰に刺激を受けていますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548195"
+    },
+    {
+      "english": "Can you share, a turning point?",
+      "japanese": "転機になった出来事を、教えてくれますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548198"
+    },
+    {
+      "english": "What makes you, feel alive?",
+      "japanese": "何をしている時、一番生き生きしますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548201"
+    },
+    {
+      "english": "What if we tried, something new?",
+      "japanese": "何か新しいことに、挑戦してみるのはどうですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548204"
+    },
+    {
+      "english": "Is there a quote, you love?",
+      "japanese": "好きな言葉は、ありますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548206"
+    },
+    {
+      "english": "How did you overcome, that fear?",
+      "japanese": "その怖さを, どうやって乗り越えましたか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548209"
+    },
+    {
+      "english": "What's a small step, today?",
+      "japanese": "今日, 小さな一歩は何ですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548212"
+    },
+    {
+      "english": "Can you ask, for help, sometimes?",
+      "japanese": "時には, 助けを求めてもいいですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548215"
+    },
+    {
+      "english": "What's one thing, you're grateful for?",
+      "japanese": "一つだけ, 感謝していることは何ですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548220"
+    },
+    {
+      "english": "What lesson, did you learn recently?",
+      "japanese": "最近学んだ, 教訓は何ですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548223"
+    },
+    {
+      "english": "How do you find, your passion?",
+      "japanese": "情熱を, どうやって見つけますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548226"
+    },
+    {
+      "english": "What if we brainstormed, together?",
+      "japanese": "一緒に, アイデアを出し合いませんか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548228"
+    },
+    {
+      "english": "What's your favorite, inspiring place?",
+      "japanese": "お気に入りの, インスピレーションが湧く場所は？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548231"
+    },
+    {
+      "english": "Can you tell me, your story?",
+      "japanese": "あなたの物語を, 聞かせてくれますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548234"
+    },
+    {
+      "english": "What small joy, did you notice?",
+      "japanese": "どんな小さな喜びを, 見つけましたか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548237"
+    },
+    {
+      "english": "What's a risk, worth taking?",
+      "japanese": "取る価値のある, リスクは何ですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548239"
+    },
+    {
+      "english": "Can we help, someone today?",
+      "japanese": "今日, 誰かを助けることはできますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548244"
+    },
+    {
+      "english": "What are you curious, about now?",
+      "japanese": "今, 何に興味がありますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548246"
+    },
+    {
+      "english": "What does success, feel like?",
+      "japanese": "成功した時, どんな気持ちですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548249"
+    },
+    {
+      "english": "How do you recharge, your energy?",
+      "japanese": "エネルギーを, どうやって充電しますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548252"
+    },
+    {
+      "english": "What if you aimed, higher?",
+      "japanese": "もっと高く, 目指してみたらどうですか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548254"
+    },
+    {
+      "english": "What are you learning, from others?",
+      "japanese": "他人から, 何を学んでいますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548257"
+    },
+    {
+      "english": "Can you share, a moment of pride?",
+      "japanese": "誇りに思う瞬間を, 共有してくれますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548260"
+    },
+    {
+      "english": "What's your favorite, way to relax?",
+      "japanese": "リラックスする, 一番好きな方法は？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548263"
+    },
+    {
+      "english": "What question, do you ponder?",
+      "japanese": "どんな疑問を, よく考えますか？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548265"
+    },
+    {
+      "english": "Every day, is a new chance.",
+      "japanese": "毎日が、新しいチャンス。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548268"
+    },
+    {
+      "english": "You can do it, I know.",
+      "japanese": "君ならできる、知ってる。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548270"
+    },
+    {
+      "english": "Try your best, today.",
+      "japanese": "今日、ベストを尽くそう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548273"
+    },
+    {
+      "english": "Your effort, is not wasted.",
+      "japanese": "君の努力、無駄じゃない。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548276"
+    },
+    {
+      "english": "What's your goal, right now?",
+      "japanese": "今の目標は、何？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548278"
+    },
+    {
+      "english": "Think positively, always.",
+      "japanese": "いつも、前向きに考えよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548281"
+    },
+    {
+      "english": "You are amazing, truly.",
+      "japanese": "君はすごい、本当に。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548284"
+    },
+    {
+      "english": "What motivates you, daily?",
+      "japanese": "毎日のモチベーションは、何？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548286"
+    },
+    {
+      "english": "Embrace the learning process.",
+      "japanese": "学ぶ過程を、楽しもう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548289"
+    },
+    {
+      "english": "You are capable, of anything.",
+      "japanese": "君は何でも、できる。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548292"
+    },
+    {
+      "english": "Look forward, with hope.",
+      "japanese": "希望を持って、前を見よう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548294"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "japanese": "これは君の時、掴もう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548297"
+    },
+    {
+      "english": "Your future, is bright.",
+      "japanese": "君の未来は、明るい。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548299"
+    },
+    {
+      "english": "Just keep trying, that's key.",
+      "japanese": "挑戦し続けること、それが大事。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548302"
+    },
+    {
+      "english": "You've got this, believe me.",
+      "japanese": "君ならできる、信じて。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548305"
+    },
+    {
+      "english": "What is your passion, today?",
+      "japanese": "今日の情熱は、何？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548309"
+    },
+    {
+      "english": "Stay curious, always.",
+      "japanese": "いつも、好奇心を持とう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548312"
+    },
+    {
+      "english": "Never stop learning, new things.",
+      "japanese": "新しいことを、学び続けよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548316"
+    },
+    {
+      "english": "You are making progress, see?",
+      "japanese": "進歩してるよ、見て。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548319"
+    },
+    {
+      "english": "What are you grateful, for now?",
+      "japanese": "今、何に感謝してる？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548321"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "japanese": "君の可能性は、無限大。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548324"
+    },
+    {
+      "english": "Let's do our best, together.",
+      "japanese": "一緒に、頑張ろう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548328"
+    },
+    {
+      "english": "Today's effort, shapes tomorrow.",
+      "japanese": "今日の努力が、明日を作る。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548331"
+    },
+    {
+      "english": "What inspires your heart?",
+      "japanese": "君の心を、何が動かす？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548333"
+    },
+    {
+      "english": "You are doing great, really.",
+      "japanese": "君はよくやっている、本当に。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548336"
+    },
+    {
+      "english": "Keep that positive vibe, going.",
+      "japanese": "そのポジティブな気分、保ってね。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548338"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "japanese": "失敗から学び、成長しよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548341"
+    },
+    {
+      "english": "Find your own way, forward.",
+      "japanese": "自分の道を見つけ、前へ。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548344"
+    },
+    {
+      "english": "It's never too late, try.",
+      "japanese": "遅すぎることはない、挑戦しよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548346"
+    },
+    {
+      "english": "What if you took a chance?",
+      "japanese": "もし、チャンスをつかんだら？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548349"
+    },
+    {
+      "english": "Your effort counts, a lot.",
+      "japanese": "君の努力は、とても大きい。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548351"
+    },
+    {
+      "english": "Embrace change, find joy.",
+      "japanese": "変化を受け入れ、喜びを見つけよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548354"
+    },
+    {
+      "english": "Focus on the present, moment.",
+      "japanese": "今この瞬間に、集中しよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548357"
+    },
+    {
+      "english": "Every challenge, is a lesson.",
+      "japanese": "すべての挑戦は、学びだ。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548359"
+    },
+    {
+      "english": "What makes you, truly happy?",
+      "japanese": "何が君を、本当に幸せにする？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548362"
+    },
+    {
+      "english": "Don't fear failure, embrace it.",
+      "japanese": "失敗を恐れず、受け入れよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548365"
+    },
+    {
+      "english": "Find strength, within yourself.",
+      "japanese": "自分の中に、強さを見つけて。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548367"
+    },
+    {
+      "english": "Your dreams, are worth pursuing.",
+      "japanese": "君の夢は、追いかける価値がある。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548370"
+    },
+    {
+      "english": "What spark, ignites you?",
+      "japanese": "どんな火花が、君を燃え上がらせる？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548372"
+    },
+    {
+      "english": "What adventure, calls to you?",
+      "japanese": "どんな冒険が、君を呼んでいる？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548375"
+    },
+    {
+      "english": "Persistence pays, off greatly.",
+      "japanese": "粘り強さは、大きく報われる。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548378"
+    },
+    {
+      "english": "See the good, in everything.",
+      "japanese": "すべてに、良い点を見つけよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548380"
+    },
+    {
+      "english": "Take a breath, find calm.",
+      "japanese": "息を吸って、落ち着こう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548383"
+    },
+    {
+      "english": "Your potential, is immense.",
+      "japanese": "君の可能性は、計り知れない。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548387"
+    },
+    {
+      "english": "Dare to be, different now.",
+      "japanese": "今、違うことを恐れないで。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548390"
+    },
+    {
+      "english": "What inspires, your creativity?",
+      "japanese": "何が君の、創造性を刺激する？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548393"
+    },
+    {
+      "english": "Trust the timing, of life.",
+      "japanese": "人生のタイミングを、信じよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548395"
+    },
+    {
+      "english": "Keep your heart, open wide.",
+      "japanese": "心を、広く開いておこう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548399"
+    },
+    {
+      "english": "Let your spirit, shine bright.",
+      "japanese": "君の魂を、輝かせよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548402"
+    },
+    {
+      "english": "Small steps daily, make progress.",
+      "japanese": "毎日の小さな一歩が、進歩を生む。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548404"
+    },
+    {
+      "english": "When lost, look around you.",
+      "japanese": "迷ったら、周りを見渡して。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548407"
+    },
+    {
+      "english": "This habit helps, me a lot.",
+      "japanese": "この習慣は、私を助けてくれる。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548410"
+    },
+    {
+      "english": "Don't be afraid, to speak up.",
+      "japanese": "恐れないで、発言することを。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548412"
+    },
+    {
+      "english": "Try a new approach, today.",
+      "japanese": "新しいアプローチを、試してみて。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548462"
+    },
+    {
+      "english": "What's one small goal, now?",
+      "japanese": "今の小さな目標は、何？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548465"
+    },
+    {
+      "english": "Practice makes perfect, they say.",
+      "japanese": "習うより慣れろ、と言うけれど。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548468"
+    },
+    {
+      "english": "Keep your surroundings, tidy.",
+      "japanese": "身の回りを、きれいに保って。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548471"
+    },
+    {
+      "english": "What can you do, differently?",
+      "japanese": "何が違って、できる？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548473"
+    },
+    {
+      "english": "A moment of rest, is vital.",
+      "japanese": "一瞬の休息は、不可欠。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548476"
+    },
+    {
+      "english": "Share your knowledge, with others.",
+      "japanese": "知識を、他の人と分かち合おう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548478"
+    },
+    {
+      "english": "Don't overthink, just begin.",
+      "japanese": "考えすぎないで、始めてみて。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548481"
+    },
+    {
+      "english": "Ask \"how?\", not just \"why?\"",
+      "japanese": "「なぜ？」だけでなく、「どうやって？」と聞こう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548484"
+    },
+    {
+      "english": "Celebrate small wins, often.",
+      "japanese": "小さな成功を、よく祝おう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548487"
+    },
+    {
+      "english": "What's one thing, you learned?",
+      "japanese": "今日学んだことは、一つ何？",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548490"
+    },
+    {
+      "english": "Be patient, with the process.",
+      "japanese": "プロセスに、忍耐強く。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548492"
+    },
+    {
+      "english": "Find a mentor, if you can.",
+      "japanese": "もしできたら、師を見つけよう。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548495"
+    },
+    {
+      "english": "Review your day, before bed.",
+      "japanese": "寝る前に、一日を振り返って。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548497"
+    },
+    {
+      "english": "Simplify your tasks, first.",
+      "japanese": "まず、タスクを単純化して。",
+      "category": "Inspiration",
+      "generated_at": "2026-10-24T05:24:56.548500"
     }
   ],
-  "last_updated": "2026-10-23T05:47:09.337998"
+  "last_updated": "2026-10-24T05:24:56.548502"
 }
