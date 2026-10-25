@@ -11789,7 +11789,727 @@
       "japanese": "まず、タスクを単純化して。",
       "category": "Inspiration",
       "generated_at": "2026-10-24T05:24:56.548500"
+    },
+    {
+      "english": "Good morning, let's get started.",
+      "japanese": "おはようございます、始めましょう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652546"
+    },
+    {
+      "english": "Time to wake up, sleepyhead.",
+      "japanese": "起きる時間だよ、寝坊助さん。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652561"
+    },
+    {
+      "english": "I'm going to get ready now.",
+      "japanese": "そろそろ準備します。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652564"
+    },
+    {
+      "english": "Just a moment, please.",
+      "japanese": "ちょっと待ってください。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652567"
+    },
+    {
+      "english": "What's for breakfast today?",
+      "japanese": "今日の朝ごはんは何かな？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652570"
+    },
+    {
+      "english": "Time for a quick shower.",
+      "japanese": "さっとシャワー浴びよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652573"
+    },
+    {
+      "english": "I need to brush my teeth.",
+      "japanese": "歯を磨かないと。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652576"
+    },
+    {
+      "english": "Let's put on some clothes.",
+      "japanese": "服を着替えよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652581"
+    },
+    {
+      "english": "Almost ready, just a sec.",
+      "japanese": "もうすぐ準備できる、ちょっと待って。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652585"
+    },
+    {
+      "english": "Have you finished getting ready?",
+      "japanese": "準備はできた？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652587"
+    },
+    {
+      "english": "Don't forget your keys.",
+      "japanese": "鍵を忘れないでね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652590"
+    },
+    {
+      "english": "Where did I put my phone?",
+      "japanese": "携帯どこに置いたっけ？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652593"
+    },
+    {
+      "english": "Let's head out now.",
+      "japanese": "もう出かけよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652595"
+    },
+    {
+      "english": "See you later, have a good day.",
+      "japanese": "また後でね、良い一日を。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652604"
+    },
+    {
+      "english": "I'm heading to work.",
+      "japanese": "仕事に行ってきます。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652606"
+    },
+    {
+      "english": "What time do you usually wake up?",
+      "japanese": "普段何時に起きる？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652609"
+    },
+    {
+      "english": "I always drink coffee first.",
+      "japanese": "いつもまずコーヒーを飲むよ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652611"
+    },
+    {
+      "english": "Morning stretches feel great.",
+      "japanese": "朝のストレッチは気持ちいいね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652614"
+    },
+    {
+      "english": "Let's make some toast.",
+      "japanese": "トーストでも焼こうか。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652618"
+    },
+    {
+      "english": "I need to check my email.",
+      "japanese": "メールをチェックしないと。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652621"
+    },
+    {
+      "english": "Time to make some plans.",
+      "japanese": "予定を立てる時間だ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652623"
+    },
+    {
+      "english": "What's on the schedule today?",
+      "japanese": "今日のスケジュールは？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652626"
+    },
+    {
+      "english": "I'm leaving the house now.",
+      "japanese": "今から家を出ます。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652629"
+    },
+    {
+      "english": "Don't be late, okay?",
+      "japanese": "遅刻しないでね、いい？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652631"
+    },
+    {
+      "english": "Have a productive day!",
+      "japanese": "生産的な一日を！",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652634"
+    },
+    {
+      "english": "Let's get moving.",
+      "japanese": "さあ、動き出そう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652638"
+    },
+    {
+      "english": "Finished my morning routine.",
+      "japanese": "朝のルーティンが終わった。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652640"
+    },
+    {
+      "english": "Ready for the day's tasks.",
+      "japanese": "今日のタスクの準備はOK。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652643"
+    },
+    {
+      "english": "Let's do our best today.",
+      "japanese": "今日一日頑張ろう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652645"
+    },
+    {
+      "english": "What did you do this morning?",
+      "japanese": "今朝は何しましたか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652648"
+    },
+    {
+      "english": "Did you sleep well last night?",
+      "japanese": "昨夜はよく眠れましたか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652651"
+    },
+    {
+      "english": "How do you usually start your day?",
+      "japanese": "普段、どうやって一日を始めますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652653"
+    },
+    {
+      "english": "What's your go-to breakfast?",
+      "japanese": "朝食の定番は何ですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652656"
+    },
+    {
+      "english": "Do you like to exercise in the morning?",
+      "japanese": "朝、運動するのは好きですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652659"
+    },
+    {
+      "english": "What do you listen to while getting ready?",
+      "japanese": "準備中に何を聞きますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652661"
+    },
+    {
+      "english": "Have you already had your coffee?",
+      "japanese": "もうコーヒーは飲みましたか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652664"
+    },
+    {
+      "english": "What time do you usually leave home?",
+      "japanese": "普段、何時に家を出ますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652666"
+    },
+    {
+      "english": "Do you take the train or bus?",
+      "japanese": "電車ですか、それともバスですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652669"
+    },
+    {
+      "english": "How long is your commute?",
+      "japanese": "通勤時間はどれくらいですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652671"
+    },
+    {
+      "english": "What's the first thing you do at work?",
+      "japanese": "仕事で最初にすることは何ですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652674"
+    },
+    {
+      "english": "Do you eat lunch at your desk?",
+      "japanese": "デスクで昼食を食べますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652676"
+    },
+    {
+      "english": "What's your favorite part of the day?",
+      "japanese": "一日のうち、一番好きな時間はいつですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652679"
+    },
+    {
+      "english": "Do you usually work overtime?",
+      "japanese": "普段、残業はありますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652682"
+    },
+    {
+      "english": "How do you unwind after work?",
+      "japanese": "仕事の後、どうやってリラックスしますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652684"
+    },
+    {
+      "english": "What do you usually have for dinner?",
+      "japanese": "夕食は普段何を食べるんですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652688"
+    },
+    {
+      "english": "Do you watch TV in the evening?",
+      "japanese": "夜、テレビを見ますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652691"
+    },
+    {
+      "english": "What time do you usually go to bed?",
+      "japanese": "普段、何時に寝ますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652693"
+    },
+    {
+      "english": "Do you read before sleeping?",
+      "japanese": "寝る前に本を読みますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652696"
+    },
+    {
+      "english": "What are your weekend plans?",
+      "japanese": "週末の予定は何ですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652698"
+    },
+    {
+      "english": "Is there anything you want to try?",
+      "japanese": "何か試してみたいことはありますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652701"
+    },
+    {
+      "english": "What helps you relax the most?",
+      "japanese": "一番リラックスできることは何ですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652703"
+    },
+    {
+      "english": "Do you prefer a quiet morning or a busy one?",
+      "japanese": "静かな朝と忙しい朝、どっちが好きですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652705"
+    },
+    {
+      "english": "What's your morning ritual?",
+      "japanese": "朝のルーティンは何ですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652708"
+    },
+    {
+      "english": "Do you ever skip breakfast?",
+      "japanese": "朝食を抜くことはありますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652711"
+    },
+    {
+      "english": "How do you prepare for tomorrow?",
+      "japanese": "明日のために、どう準備しますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652713"
+    },
+    {
+      "english": "What's something new you learned today?",
+      "japanese": "今日、新しく学んだことは何ですか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652716"
+    },
+    {
+      "english": "Do you set an alarm for yourself?",
+      "japanese": "自分でアラームをセットしますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652718"
+    },
+    {
+      "english": "What makes your day easier?",
+      "japanese": "何があると一日が楽になりますか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652723"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "japanese": "自分を信じて、できるよ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652726"
+    },
+    {
+      "english": "Keep a positive attitude.",
+      "japanese": "前向きな気持ちでいようね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652728"
+    },
+    {
+      "english": "Focus on what matters.",
+      "japanese": "大切なことに集中しよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652731"
+    },
+    {
+      "english": "Every day is a learning opportunity.",
+      "japanese": "毎日が学びの機会だよ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652735"
+    },
+    {
+      "english": "You've got this, no worries.",
+      "japanese": "大丈夫、きっとできるよ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652738"
+    },
+    {
+      "english": "Be proud of your efforts.",
+      "japanese": "自分の頑張りを誇ろう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652740"
+    },
+    {
+      "english": "Good job today, really.",
+      "japanese": "今日の君、本当にすごいよ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652743"
+    },
+    {
+      "english": "One day at a time.",
+      "japanese": "一日ずつ、着実にね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652746"
+    },
+    {
+      "english": "What a wonderful start!",
+      "japanese": "なんて素晴らしい始まり！",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652748"
+    },
+    {
+      "english": "You are capable of amazing things.",
+      "japanese": "君ならすごいことができる。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652751"
+    },
+    {
+      "english": "You're making great progress.",
+      "japanese": "すごく進歩してるね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652753"
+    },
+    {
+      "english": "Positive vibes only today.",
+      "japanese": "今日は良い気分だけ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652777"
+    },
+    {
+      "english": "Believe in a brighter future.",
+      "japanese": "より良い未来を信じて。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652784"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "japanese": "頑張りはきっと報われるよ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652789"
+    },
+    {
+      "english": "Stay cool, stay calm.",
+      "japanese": "落ち着いて、冷静にいこう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652792"
+    },
+    {
+      "english": "You can overcome anything.",
+      "japanese": "何でも乗り越えられるよ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652795"
+    },
+    {
+      "english": "Today will be a good day.",
+      "japanese": "今日はきっと良い日になる。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652797"
+    },
+    {
+      "english": "You have great potential.",
+      "japanese": "君には大きな可能性がある。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652800"
+    },
+    {
+      "english": "Enjoy the journey, not just the destination.",
+      "japanese": "結果だけでなく、過程を楽しんで。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652805"
+    },
+    {
+      "english": "Tomorrow is another chance.",
+      "japanese": "明日はまた別のチャンス。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652808"
+    },
+    {
+      "english": "Morning, let's get this day started.",
+      "japanese": "おはよう、さあ一日を始めよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652812"
+    },
+    {
+      "english": "Just a quick bite, then out the door.",
+      "japanese": "軽くつまんで、すぐに出かける。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652815"
+    },
+    {
+      "english": "Traffic's always a beast in the morning.",
+      "japanese": "朝の通勤ラッシュはいつも大変だ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652818"
+    },
+    {
+      "english": "Clock in, and the grind begins.",
+      "japanese": "タイムカードを押して、仕事開始。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652821"
+    },
+    {
+      "english": "First things first, coffee.",
+      "japanese": "まず一番に、コーヒー。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652823"
+    },
+    {
+      "english": "Got to clear my inbox, you know?",
+      "japanese": "メールボックスを空にしないとね？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652826"
+    },
+    {
+      "english": "Lunch break, a moment of peace.",
+      "japanese": "昼休み、一瞬の平和。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652829"
+    },
+    {
+      "english": "Meeting marathon, phew!",
+      "japanese": "会議の連続、ふーっ！",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652831"
+    },
+    {
+      "english": "Afternoon slump, need a little boost.",
+      "japanese": "午後の眠気、ちょっと元気が必要。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652834"
+    },
+    {
+      "english": "Wrapping up, almost done for today.",
+      "japanese": "片付け中、今日の仕事はもうすぐ終わり。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652837"
+    },
+    {
+      "english": "Homeward bound, finally.",
+      "japanese": "ようやく、家路につく。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652841"
+    },
+    {
+      "english": "Change into comfy clothes, relax.",
+      "japanese": "楽な服に着替えて、リラックス。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652844"
+    },
+    {
+      "english": "Dinner's cooking, smells great!",
+      "japanese": "夕食ができてる、いい匂い！",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652847"
+    },
+    {
+      "english": "Catching up with family, quality time.",
+      "japanese": "家族と近況報告、大切な時間。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652850"
+    },
+    {
+      "english": "A little bit of scrolling, then sleep.",
+      "japanese": "ちょっとスマホを見て、それから寝る。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652852"
+    },
+    {
+      "english": "Brush teeth, face wash, ready for bed.",
+      "japanese": "歯磨き、洗顔、寝る準備OK。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652855"
+    },
+    {
+      "english": "Deep breaths, unwind completely.",
+      "japanese": "深呼吸して、完全にリラックス。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652857"
+    },
+    {
+      "english": "Tomorrow's plan, jotted down.",
+      "japanese": "明日の計画、書き留めておいた。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652860"
+    },
+    {
+      "english": "A quiet evening, just what I needed.",
+      "japanese": "静かな夜、まさに必要だった。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652863"
+    },
+    {
+      "english": "Let's recharge for the next day.",
+      "japanese": "次の日のために、チャージしよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652865"
+    },
+    {
+      "english": "A little bit of tidying up.",
+      "japanese": "ちょっと片付けをしよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652867"
+    },
+    {
+      "english": "Checking the weather for tomorrow.",
+      "japanese": "明日の天気を確認。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652870"
+    },
+    {
+      "english": "Good night, sleep tight.",
+      "japanese": "おやすみ、ぐっすり眠ってね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652872"
+    },
+    {
+      "english": "Dreamland, here I come.",
+      "japanese": "夢の世界へ、行ってきます。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652875"
+    },
+    {
+      "english": "Daily grind, gotta push through.",
+      "japanese": "日々の仕事、乗り越えないと。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652877"
+    },
+    {
+      "english": "Quick tidy before leaving home.",
+      "japanese": "家を出る前に、さっと片付け。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652880"
+    },
+    {
+      "english": "On my way, listening to music.",
+      "japanese": "移動中、音楽を聴いている。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652882"
+    },
+    {
+      "english": "Work flow, getting in the zone.",
+      "japanese": "仕事の流れ、集中している。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652885"
+    },
+    {
+      "english": "Evening chores, done and dusted.",
+      "japanese": "夜の雑用、完了。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652887"
+    },
+    {
+      "english": "One more thing, then I'm off to bed.",
+      "japanese": "あと一つやったら、寝ます。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652890"
+    },
+    {
+      "english": "Let's get ready, shall we?",
+      "japanese": "準備しましょうか？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652895"
+    },
+    {
+      "english": "Commuting is part of life.",
+      "japanese": "通勤も、まあ、日常だよね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652897"
+    },
+    {
+      "english": "Checking my schedule, briefly.",
+      "japanese": "軽く、今日の予定を確認。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652900"
+    },
+    {
+      "english": "Need to focus, for a bit.",
+      "japanese": "ちょっと、集中したいな。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652902"
+    },
+    {
+      "english": "Let's take a short break.",
+      "japanese": "少し、休憩を取りましょう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652905"
+    },
+    {
+      "english": "This task needs my full attention.",
+      "japanese": "この仕事、集中力いるなあ。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652907"
+    },
+    {
+      "english": "Anyone want some tea?",
+      "japanese": "お茶、いる人いる？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652910"
+    },
+    {
+      "english": "Let's discuss this later, okay?",
+      "japanese": "これ、後で話そうね？",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652913"
+    },
+    {
+      "english": "Almost done with this part.",
+      "japanese": "ここの部分は、もうすぐ終わり。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652917"
+    },
+    {
+      "english": "Sharing is caring, right?",
+      "japanese": "分け合うのは、良いことだよね。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652919"
+    },
+    {
+      "english": "Let's pack up our things.",
+      "japanese": "じゃあ、荷物をまとめよう。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652922"
+    },
+    {
+      "english": "Walking home, enjoying the air.",
+      "japanese": "歩いて帰ろう、空気美味い。",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-25T05:43:59.652924"
     }
   ],
-  "last_updated": "2026-10-24T05:24:56.548502"
+  "last_updated": "2026-10-25T05:43:59.652926"
 }
