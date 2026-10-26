@@ -12509,7 +12509,727 @@
       "japanese": "歩いて帰ろう、空気美味い。",
       "category": "Daily Routine",
       "generated_at": "2026-10-25T05:43:59.652924"
+    },
+    {
+      "english": "Observe well, then act.",
+      "japanese": "よく見て, それから動く。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.036984"
+    },
+    {
+      "english": "Understand the context, always.",
+      "japanese": "文脈を理解する, いつも。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.036999"
+    },
+    {
+      "english": "Ask questions, don't assume.",
+      "japanese": "質問する, 勝手に決めない。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037003"
+    },
+    {
+      "english": "Listen to the silence too.",
+      "japanese": "沈黙も聞くんだよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037008"
+    },
+    {
+      "english": "Learn from mistakes, move on.",
+      "japanese": "間違いから学び, 次へ進む。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037011"
+    },
+    {
+      "english": "Adapt to change, be flexible.",
+      "japanese": "変化に順応する, 柔軟に。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037014"
+    },
+    {
+      "english": "Seek clarity, avoid confusion.",
+      "japanese": "明確さを求める, 混乱を避ける。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037017"
+    },
+    {
+      "english": "Reflect often, grow daily.",
+      "japanese": "頻繁に反省する, 日々成長。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037022"
+    },
+    {
+      "english": "Find the core, ignore the noise.",
+      "japanese": "核心を見つける, 騒音は無視。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037026"
+    },
+    {
+      "english": "Trust your intuition, mostly.",
+      "japanese": "直感を信じる, たいていは。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037029"
+    },
+    {
+      "english": "Embrace the unknown, with courage.",
+      "japanese": "未知を受け入れる, 勇気を持って。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037032"
+    },
+    {
+      "english": "Focus on one thing at a time.",
+      "japanese": "一度に一つのことに集中。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037035"
+    },
+    {
+      "english": "Seek understanding, not just facts.",
+      "japanese": "事実だけでなく, 理解を求める。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037038"
+    },
+    {
+      "english": "Be present, in this moment.",
+      "japanese": "今この瞬間に, 存在しよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037040"
+    },
+    {
+      "english": "Communicate clearly, avoid doubt.",
+      "japanese": "明確に伝える, 疑問をなくす。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037043"
+    },
+    {
+      "english": "Value simplicity, it’s powerful.",
+      "japanese": "シンプルさを大切に, それは力強い。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037047"
+    },
+    {
+      "english": "Connect with people, deeply.",
+      "japanese": "人々と深く繋がる。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037050"
+    },
+    {
+      "english": "Solve problems, don't dwell.",
+      "japanese": "問題を解決する, くよくよしない。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037060"
+    },
+    {
+      "english": "Practice gratitude, daily.",
+      "japanese": "感謝を実践する, 毎日。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037063"
+    },
+    {
+      "english": "Think critically, question everything.",
+      "japanese": "批判的に考える, 全てを疑う。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037066"
+    },
+    {
+      "english": "Be open to new perspectives.",
+      "japanese": "新しい視点に開いていよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037069"
+    },
+    {
+      "english": "Prioritize what truly matters.",
+      "japanese": "本当に大切なことを優先する。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037071"
+    },
+    {
+      "english": "Act with integrity, always.",
+      "japanese": "常に誠実に行動する。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037074"
+    },
+    {
+      "english": "Embrace challenges, they shape us.",
+      "japanese": "困難を受け入れる, それらが私たちを作る。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037077"
+    },
+    {
+      "english": "Speak your truth, kindly.",
+      "japanese": "自分の真実を話す, 優しく。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037079"
+    },
+    {
+      "english": "Seek wisdom, not just knowledge.",
+      "japanese": "知識だけでなく, 知恵を求める。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037082"
+    },
+    {
+      "english": "Understand before being understood.",
+      "japanese": "理解される前に, 理解しよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037084"
+    },
+    {
+      "english": "Live intentionally, day by day.",
+      "japanese": "意図的に生きる, 日々。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037087"
+    },
+    {
+      "english": "Can you explain that, please?",
+      "japanese": "それを説明してもらえますか？, お願いします。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037090"
+    },
+    {
+      "english": "How should I approach this?",
+      "japanese": "これにはどう向き合えばいい？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037093"
+    },
+    {
+      "english": "Is there another way, maybe?",
+      "japanese": "他に方法はありませんか？, もしかして。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037097"
+    },
+    {
+      "english": "What did you mean by that?",
+      "japanese": "それはどういう意味でしたか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037100"
+    },
+    {
+      "english": "Could you elaborate a bit?",
+      "japanese": "もう少し詳しく教えてくれますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037102"
+    },
+    {
+      "english": "What's the most important part?",
+      "japanese": "一番大切な部分はどこ？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037105"
+    },
+    {
+      "english": "Any advice for a beginner?",
+      "japanese": "初心者へのアドバイスは？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037108"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "japanese": "この件について、あなたの視点は？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037111"
+    },
+    {
+      "english": "Do you have a moment to talk?",
+      "japanese": "少しお話しする時間はありますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037113"
+    },
+    {
+      "english": "What are your thoughts on karma?",
+      "japanese": "カルマについてどう思いますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037116"
+    },
+    {
+      "english": "How do you find inner peace?",
+      "japanese": "心の平穏はどうやって見つけますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037118"
+    },
+    {
+      "english": "What's a good habit to start?",
+      "japanese": "始めるのに良い習慣は何？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037121"
+    },
+    {
+      "english": "Could you share your experience?",
+      "japanese": "あなたの経験を共有してもらえますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037123"
+    },
+    {
+      "english": "What makes you happy, really?",
+      "japanese": "あなたを本当に幸せにすることは何？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037126"
+    },
+    {
+      "english": "Is this the right direction?",
+      "japanese": "これは正しい方向ですか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037129"
+    },
+    {
+      "english": "What should I focus on now?",
+      "japanese": "今、何に集中すべき？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037131"
+    },
+    {
+      "english": "How do you handle difficult people?",
+      "japanese": "扱いにくい人にはどう対処しますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037133"
+    },
+    {
+      "english": "What's your philosophy on life?",
+      "japanese": "人生についてのあなたの哲学は？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037136"
+    },
+    {
+      "english": "What question should I ask myself?",
+      "japanese": "自分にどんな質問をすべき？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037139"
+    },
+    {
+      "english": "What's one small change I can make?",
+      "japanese": "私ができる小さな変化は一つ何？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037141"
+    },
+    {
+      "english": "How do you find meaning daily?",
+      "japanese": "毎日、どうやって意味を見つけますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037146"
+    },
+    {
+      "english": "What's your advice for today?",
+      "japanese": "今日のアドバイスは何ですか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037148"
+    },
+    {
+      "english": "Can we discuss this further?",
+      "japanese": "これについて、もっと話し合えますか？",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037151"
+    },
+    {
+      "english": "Every small step counts.",
+      "japanese": "小さな一歩も、大切。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037154"
+    },
+    {
+      "english": "Don't give up, you've got this.",
+      "japanese": "諦めないで、できるよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037157"
+    },
+    {
+      "english": "You're learning so fast!",
+      "japanese": "すごく速く、学んでるね！",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037160"
+    },
+    {
+      "english": "You're making good progress.",
+      "japanese": "順調に進んでるね。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037163"
+    },
+    {
+      "english": "Keep up the good work.",
+      "japanese": "その調子で、頑張って。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037166"
+    },
+    {
+      "english": "You have potential, don't forget.",
+      "japanese": "君には可能性がある、忘れないで。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037169"
+    },
+    {
+      "english": "Your dedication is inspiring.",
+      "japanese": "君の熱意、刺激になるよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037173"
+    },
+    {
+      "english": "You're doing even better now.",
+      "japanese": "前より、ずっと良くなったね。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037176"
+    },
+    {
+      "english": "This is a valuable lesson.",
+      "japanese": "これは、貴重な学びだよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037178"
+    },
+    {
+      "english": "You're becoming wiser.",
+      "japanese": "賢くなってるね。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037182"
+    },
+    {
+      "english": "That's a thoughtful answer.",
+      "japanese": "それは、思慮深い答えだね。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037184"
+    },
+    {
+      "english": "You're handling it well.",
+      "japanese": "うまく、対処してるね。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037187"
+    },
+    {
+      "english": "Keep your head up high.",
+      "japanese": "顔を、高く上げて。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037189"
+    },
+    {
+      "english": "Wisdom comes from experience.",
+      "japanese": "知恵は、経験から来る。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037192"
+    },
+    {
+      "english": "You're growing as a person.",
+      "japanese": "人として、成長してるよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037195"
+    },
+    {
+      "english": "Your insights are valuable.",
+      "japanese": "君の洞察、価値があるよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037197"
+    },
+    {
+      "english": "See, before you speak.",
+      "japanese": "話す前に、よく見よ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037200"
+    },
+    {
+      "english": "Even a fool, sometimes speaks wisely.",
+      "japanese": "愚か者も、時に賢いことを言う。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037203"
+    },
+    {
+      "english": "A watched pot, never boils.",
+      "japanese": "待つ時、時間は長く感じる。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037206"
+    },
+    {
+      "english": "Look before you leap.",
+      "japanese": "跳ぶ前に、よく見よ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037208"
+    },
+    {
+      "english": "Necessity, is the mother of invention.",
+      "japanese": "必要は、発明の母。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037211"
+    },
+    {
+      "english": "Still waters, run deep.",
+      "japanese": "静かな水面、深みがある。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037214"
+    },
+    {
+      "english": "Actions, speak louder than words.",
+      "japanese": "行動は、言葉より雄弁。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037216"
+    },
+    {
+      "english": "The early bird, catches the worm.",
+      "japanese": "早起きは、三文の徳。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037219"
+    },
+    {
+      "english": "A friend in need, is a friend indeed.",
+      "japanese": "困った時の友こそ、真の友。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037222"
+    },
+    {
+      "english": "When in Rome, do as the Romans do.",
+      "japanese": "郷に入っては、郷に従え。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037225"
+    },
+    {
+      "english": "Two heads, are better than one.",
+      "japanese": "二人寄れば、文殊の知恵。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037227"
+    },
+    {
+      "english": "Don't count your chickens, before they hatch.",
+      "japanese": "捕らぬ狸の皮算用。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037230"
+    },
+    {
+      "english": "A picture, is worth a thousand words.",
+      "japanese": "絵は、千の言葉に値する。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037233"
+    },
+    {
+      "english": "The squeaky wheel, gets the grease.",
+      "japanese": "よく鳴る車輪に、油を差す。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037237"
+    },
+    {
+      "english": "Honesty, is the best policy.",
+      "japanese": "正直は、最良の策。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037242"
+    },
+    {
+      "english": "What goes around, comes around.",
+      "japanese": "自業自得。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037244"
+    },
+    {
+      "english": "A rolling stone, gathers no moss.",
+      "japanese": "流れる石に苔はつかず。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037247"
+    },
+    {
+      "english": "The grass, is always greener on the other side.",
+      "japanese": "隣の芝生は、青い。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037250"
+    },
+    {
+      "english": "Absence, makes the heart grow fonder.",
+      "japanese": "会えない時間が、愛を育む。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037252"
+    },
+    {
+      "english": "When the going gets tough, the tough get going.",
+      "japanese": "苦しい時こそ、強くあれ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037255"
+    },
+    {
+      "english": "Better late, than never.",
+      "japanese": "遅れても、やらないよりまし。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037257"
+    },
+    {
+      "english": "You can't judge a book, by its cover.",
+      "japanese": "本は、表紙で判断できない。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037260"
+    },
+    {
+      "english": "Out of sight, out of mind.",
+      "japanese": "見えなくなれば、忘れがち。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037265"
+    },
+    {
+      "english": "If it ain't broke, don't fix it.",
+      "japanese": "壊れていなければ、直すな。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037268"
+    },
+    {
+      "english": "Beggars can't be choosers.",
+      "japanese": "乞食は選べない。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037271"
+    },
+    {
+      "english": "Too many cooks, spoil the broth.",
+      "japanese": "船頭多くして、船山に登る。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037274"
+    },
+    {
+      "english": "There's no place, like home.",
+      "japanese": "我が家に勝る所なし。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037277"
+    },
+    {
+      "english": "A penny saved, is a penny earned.",
+      "japanese": "一銭の節約は、一銭の儲け。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037280"
+    },
+    {
+      "english": "Feelings matter, you know.",
+      "japanese": "気持ちも大事なんだよ、ね。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037282"
+    },
+    {
+      "english": "It's okay, to be unsure.",
+      "japanese": "分からなくても、いいんだよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037285"
+    },
+    {
+      "english": "Slow down, and breathe.",
+      "japanese": "ゆっくり、息を吸って。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037288"
+    },
+    {
+      "english": "What's truly important, is inside.",
+      "japanese": "本当に大切なのは、内側にある。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037291"
+    },
+    {
+      "english": "Don't rush, yourself too much.",
+      "japanese": "自分を、急かしすぎないで。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037294"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "japanese": "自分の心の声を聞こう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037296"
+    },
+    {
+      "english": "It takes time, to understand.",
+      "japanese": "理解するには、時間がかかる。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037299"
+    },
+    {
+      "english": "Be honest, with your heart.",
+      "japanese": "心には、正直でいよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037302"
+    },
+    {
+      "english": "A quiet mind, sees clearly.",
+      "japanese": "静かな心は、はっきり見える。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037304"
+    },
+    {
+      "english": "Mistakes are, learning chances.",
+      "japanese": "間違いは、学びのチャンス。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037307"
+    },
+    {
+      "english": "True strength, comes from within.",
+      "japanese": "本当の強さは、内から来る。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037309"
+    },
+    {
+      "english": "Don't be afraid, to feel.",
+      "japanese": "感じることを、恐れないで。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037312"
+    },
+    {
+      "english": "Patience, is a virtue, they say.",
+      "japanese": "忍耐は、美徳だって言うけど。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037315"
+    },
+    {
+      "english": "Sometimes, silence speaks volumes.",
+      "japanese": "時々、沈黙が物語る。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037320"
+    },
+    {
+      "english": "Dig deeper, to find truth.",
+      "japanese": "真実を見つけるために、深く掘ろう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037322"
+    },
+    {
+      "english": "Accept yourself, flaws and all.",
+      "japanese": "欠点も含めて、自分を受け入れよう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037325"
+    },
+    {
+      "english": "Reflect often, on your journey.",
+      "japanese": "自分の旅を、よく振り返ろう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037327"
+    },
+    {
+      "english": "Vulnerability, is not weakness.",
+      "japanese": "弱さではなく、脆さだよ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037332"
+    },
+    {
+      "english": "Let go, of what doesn't serve.",
+      "japanese": "役に立たないものを、手放そう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037335"
+    },
+    {
+      "english": "Your feelings, are valid data.",
+      "japanese": "君の感情は、有効なデータだ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037337"
+    },
+    {
+      "english": "Gentleness, with yourself first.",
+      "japanese": "まず、自分に優しく。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037342"
+    },
+    {
+      "english": "Inner peace, is the goal.",
+      "japanese": "心の平和が、目標だ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037345"
+    },
+    {
+      "english": "Learn from, the quiet moments.",
+      "japanese": "静かな瞬間から、学ぼう。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037348"
+    },
+    {
+      "english": "Authenticity, is beautiful.",
+      "japanese": "ありのままでいることは、美しい。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037350"
+    },
+    {
+      "english": "Self-compassion, is key.",
+      "japanese": "自分への思いやりが、鍵だ。",
+      "category": "Wisdom",
+      "generated_at": "2026-10-26T05:48:14.037353"
     }
   ],
-  "last_updated": "2026-10-25T05:43:59.652926"
+  "last_updated": "2026-10-26T05:48:14.037355"
 }
