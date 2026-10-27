@@ -13229,7 +13229,727 @@
       "japanese": "自分への思いやりが、鍵だ。",
       "category": "Wisdom",
       "generated_at": "2026-10-26T05:48:14.037353"
+    },
+    {
+      "english": "Honey, I'm home!",
+      "japanese": "ただいま、おかえり！",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193924"
+    },
+    {
+      "english": "Welcome home, dear.",
+      "japanese": "おかえりなさい、あなた。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193939"
+    },
+    {
+      "english": "Did you eat yet?",
+      "japanese": "もうご飯食べた？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193942"
+    },
+    {
+      "english": "I'm hungry, Mom.",
+      "japanese": "お腹すいたよ、ママ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193944"
+    },
+    {
+      "english": "Let's eat together.",
+      "japanese": "一緒にご飯食べよう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193947"
+    },
+    {
+      "english": "This tastes great!",
+      "japanese": "これ、美味しいね！",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193949"
+    },
+    {
+      "english": "Can you help me?",
+      "japanese": "ちょっと手伝ってくれる？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193951"
+    },
+    {
+      "english": "I'll clean this up.",
+      "japanese": "これ、片付けておくね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193955"
+    },
+    {
+      "english": "It's a bit messy.",
+      "japanese": "ちょっと散らかってるね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193960"
+    },
+    {
+      "english": "Can I have a sec?",
+      "japanese": "ちょっといい？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193964"
+    },
+    {
+      "english": "What are you doing?",
+      "japanese": "何してるの？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193966"
+    },
+    {
+      "english": "I'm just relaxing.",
+      "japanese": "ゆっくりしてるだけだよ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193968"
+    },
+    {
+      "english": "Let's watch TV.",
+      "japanese": "テレビでも見ようか。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193971"
+    },
+    {
+      "english": "That sounds fun.",
+      "japanese": "いいね、楽しそう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193973"
+    },
+    {
+      "english": "I'm going out now.",
+      "japanese": "ちょっと出かけてくるね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193974"
+    },
+    {
+      "english": "Be careful, okay?",
+      "japanese": "気をつけてね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193977"
+    },
+    {
+      "english": "I'll be back soon.",
+      "japanese": "すぐ戻るから。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193979"
+    },
+    {
+      "english": "Did you lock the door?",
+      "japanese": "ドア、閉めた？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193981"
+    },
+    {
+      "english": "Yes, I already did.",
+      "japanese": "うん、もう閉めたよ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193983"
+    },
+    {
+      "english": "It's getting late.",
+      "japanese": "もう遅い時間だね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193985"
+    },
+    {
+      "english": "Let's go to bed.",
+      "japanese": "もう寝ようか。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193989"
+    },
+    {
+      "english": "Sleep well, honey.",
+      "japanese": "ゆっくり休んでね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193991"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "japanese": "皆さん、おはよう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193993"
+    },
+    {
+      "english": "Did you sleep well?",
+      "japanese": "よく眠れた？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193994"
+    },
+    {
+      "english": "I had a good dream.",
+      "japanese": "いい夢見たよ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193996"
+    },
+    {
+      "english": "What's for dinner?",
+      "japanese": "今日の晩ご飯、何？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.193998"
+    },
+    {
+      "english": "Let me know if you need anything.",
+      "japanese": "何かあったら言ってね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194000"
+    },
+    {
+      "english": "I love our home.",
+      "japanese": "うち、大好きだよ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194002"
+    },
+    {
+      "english": "This is our happy place.",
+      "japanese": "ここが、私たちの一番の場所。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194003"
+    },
+    {
+      "english": "Is everything okay at home?",
+      "japanese": "家では、何か問題ない？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194006"
+    },
+    {
+      "english": "Can you tell me about your day?",
+      "japanese": "今日あったこと、話してくれる？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194008"
+    },
+    {
+      "english": "What do you think about this?",
+      "japanese": "これ、どう思う？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194010"
+    },
+    {
+      "english": "Do you need any help with that?",
+      "japanese": "それ、手伝おうか？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194012"
+    },
+    {
+      "english": "What should we do this evening?",
+      "japanese": "今晩、何しようか？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194014"
+    },
+    {
+      "english": "Have you heard from your parents lately?",
+      "japanese": "最近、ご両親とは連絡とってる？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194016"
+    },
+    {
+      "english": "What's your opinion on this matter?",
+      "japanese": "この件について、どう考えてる？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194018"
+    },
+    {
+      "english": "Do you want to discuss something?",
+      "japanese": "何か話したいことある？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194020"
+    },
+    {
+      "english": "How is your brother doing?",
+      "japanese": "お兄さん、元気にしてる？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194022"
+    },
+    {
+      "english": "Did you finish your homework?",
+      "japanese": "宿題、終わった？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194024"
+    },
+    {
+      "english": "Can we talk for a moment?",
+      "japanese": "ちょっと、話せる？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194028"
+    },
+    {
+      "english": "Is there anything I should know?",
+      "japanese": "何か知っておくべきことある？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194030"
+    },
+    {
+      "english": "How's your mother feeling?",
+      "japanese": "お母さん、体調どう？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194032"
+    },
+    {
+      "english": "Do you need anything from the store?",
+      "japanese": "お店で何か買ってきてほしいものある？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194034"
+    },
+    {
+      "english": "What are we having for lunch?",
+      "japanese": "お昼ご飯、何にする？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194036"
+    },
+    {
+      "english": "Can you explain this to me?",
+      "japanese": "これ、説明してくれる？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194038"
+    },
+    {
+      "english": "Is everything alright with the kids?",
+      "japanese": "子供たちは、みんな大丈夫？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194040"
+    },
+    {
+      "english": "What do you want to do tomorrow?",
+      "japanese": "明日、何したい？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194042"
+    },
+    {
+      "english": "Is there anything bothering you?",
+      "japanese": "何か気になることある？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194044"
+    },
+    {
+      "english": "Did you talk to your sister?",
+      "japanese": "妹さんと話した？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194045"
+    },
+    {
+      "english": "How are your grandparents?",
+      "japanese": "おじいちゃん、おばあちゃん、元気？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194047"
+    },
+    {
+      "english": "What do you think about the new neighbors?",
+      "japanese": "新しいご近所さん、どう思う？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194049"
+    },
+    {
+      "english": "Is there anything you'd like to change?",
+      "japanese": "何か変えたいこととかある？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194053"
+    },
+    {
+      "english": "Do you need a hand with groceries?",
+      "japanese": "買い物、手伝おうか？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194055"
+    },
+    {
+      "english": "Keep trying, don't give up now.",
+      "japanese": "頑張り続けて、今諦めないで。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194057"
+    },
+    {
+      "english": "We're a great team, always supporting each other.",
+      "japanese": "私たちは最高のチーム、いつも支え合っている。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194060"
+    },
+    {
+      "english": "Let's make today wonderful, together.",
+      "japanese": "今日を素晴らしい一日にしよう、一緒に。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194064"
+    },
+    {
+      "english": "Every small step counts, move forward.",
+      "japanese": "小さな一歩も大切、前に進もう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194066"
+    },
+    {
+      "english": "Positive thoughts bring positive results.",
+      "japanese": "前向きな考えは、良い結果を呼ぶ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194068"
+    },
+    {
+      "english": "Your unique talent shines brightly.",
+      "japanese": "君のユニークな才能は、キラキラ輝くよ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194070"
+    },
+    {
+      "english": "We'll overcome this, with love.",
+      "japanese": "これを乗り越えよう、愛をもって。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194072"
+    },
+    {
+      "english": "Focus on the good things.",
+      "japanese": "良いことに集中しよう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194074"
+    },
+    {
+      "english": "You're doing so well, keep it up.",
+      "japanese": "とてもよくやっているよ、そのまま続けて。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194076"
+    },
+    {
+      "english": "Let's create a happy memory now.",
+      "japanese": "今、幸せな思い出を作ろう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194078"
+    },
+    {
+      "english": "Your kindness makes a difference.",
+      "japanese": "君の優しさが、変化を生むんだ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194080"
+    },
+    {
+      "english": "Your perspective is valuable, thank you.",
+      "japanese": "君の視点は価値がある、ありがとう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194083"
+    },
+    {
+      "english": "Let's be patient, good things take time.",
+      "japanese": "忍耐強くいよう、良いものは時間がかかる。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194087"
+    },
+    {
+      "english": "You inspire me every day.",
+      "japanese": "君は毎日、私にインスピレーションをくれる。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194089"
+    },
+    {
+      "english": "Let's build a strong family bond.",
+      "japanese": "強い家族の絆を築こう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194091"
+    },
+    {
+      "english": "Stay positive, even when it's tough.",
+      "japanese": "大変な時でも、前向きでいよう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194094"
+    },
+    {
+      "english": "We can achieve anything, together.",
+      "japanese": "私たちは何でも達成できる、一緒に。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194096"
+    },
+    {
+      "english": "Let's make this home a sanctuary.",
+      "japanese": "この家を聖域にしよう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194098"
+    },
+    {
+      "english": "Embrace challenges with courage.",
+      "japanese": "困難に勇気をもって立ち向かおう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194100"
+    },
+    {
+      "english": "Your presence brings us joy.",
+      "japanese": "君がいるだけで、私たちは嬉しい。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194104"
+    },
+    {
+      "english": "Let's create lasting happiness here.",
+      "japanese": "ここで、永遠の幸せを作ろう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194106"
+    },
+    {
+      "english": "You are loved, remember that.",
+      "japanese": "君は愛されている、それを忘れないで。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194108"
+    },
+    {
+      "english": "Our home is full of warmth.",
+      "japanese": "私たちの家は、温かさに満ちている。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194110"
+    },
+    {
+      "english": "Home is where, the heart is.",
+      "japanese": "家は心の、居場所。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194112"
+    },
+    {
+      "english": "Family first, always.",
+      "japanese": "家族が一番、いつも。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194114"
+    },
+    {
+      "english": "Many hands, make light work.",
+      "japanese": "三人寄れば、文殊の知恵。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194116"
+    },
+    {
+      "english": "Like father, like son.",
+      "japanese": "瓜二つ、親子だね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194119"
+    },
+    {
+      "english": "Blood is thicker, than water.",
+      "japanese": "血は水より、濃い。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194121"
+    },
+    {
+      "english": "The apple, doesn't fall far from the tree.",
+      "japanese": "子は親に、似るものだ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194123"
+    },
+    {
+      "english": "A full stomach, makes a happy heart.",
+      "japanese": "腹が満ちれば、心も満ちる。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194125"
+    },
+    {
+      "english": "Even a sparrow, can build a nest.",
+      "japanese": "雀の涙でも、積もれば山。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194129"
+    },
+    {
+      "english": "Peaceful home, peaceful mind.",
+      "japanese": "穏やかな家庭、穏やかな心。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194131"
+    },
+    {
+      "english": "Little by little, piece by piece.",
+      "japanese": "ちりも積もれば、山となる。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194133"
+    },
+    {
+      "english": "Where there's love, there's life.",
+      "japanese": "愛があるところに、命がある。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194136"
+    },
+    {
+      "english": "A borrowed pot, boils quickly.",
+      "japanese": "借り物の鍋、すぐ煮える。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194138"
+    },
+    {
+      "english": "One rotten apple, spoils the barrel.",
+      "japanese": "一匹の狼が、群れを乱す。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194140"
+    },
+    {
+      "english": "Charity begins, at home.",
+      "japanese": "慈悲は家から、始まる。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194142"
+    },
+    {
+      "english": "The older the wiser.",
+      "japanese": "年輪を重ねて、賢くなる。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194144"
+    },
+    {
+      "english": "New broom, sweeps clean.",
+      "japanese": "新しい箒は、よく掃く。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194146"
+    },
+    {
+      "english": "A stitch in time, saves nine.",
+      "japanese": "早めの手当てが、後を救う。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194148"
+    },
+    {
+      "english": "No pain, no gain.",
+      "japanese": "苦あれば、楽あり。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194150"
+    },
+    {
+      "english": "This home, feels truly peaceful.",
+      "japanese": "この家は、本当に落ち着きますね。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194152"
+    },
+    {
+      "english": "I'm reflecting, on our past.",
+      "japanese": "過去を、振り返っています。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194154"
+    },
+    {
+      "english": "What are your thoughts, dear?",
+      "japanese": "どう思ってるの、あなた？",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194156"
+    },
+    {
+      "english": "It's okay, to be imperfect.",
+      "japanese": "完璧じゃなくても、いいんだよ。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194159"
+    },
+    {
+      "english": "Let's talk, about anything.",
+      "japanese": "何でも、話しましょう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194161"
+    },
+    {
+      "english": "This is, my safe space.",
+      "japanese": "ここは、私の安心できる場所。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194163"
+    },
+    {
+      "english": "I'm learning, from my mistakes.",
+      "japanese": "失敗から、学んでいます。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194167"
+    },
+    {
+      "english": "We understand, each other well.",
+      "japanese": "お互いのこと、よく分かっています。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194169"
+    },
+    {
+      "english": "This feeling, is so rare.",
+      "japanese": "この感覚、とても珍しいです。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194171"
+    },
+    {
+      "english": "Let's cherish, these moments.",
+      "japanese": "この瞬間を、大切にしましょう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194173"
+    },
+    {
+      "english": "Honesty is, our foundation.",
+      "japanese": "誠実さが、私たちの基盤です。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194176"
+    },
+    {
+      "english": "What a profound thought, dear.",
+      "japanese": "深い考えね、あなた。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194178"
+    },
+    {
+      "english": "This silence, is comforting.",
+      "japanese": "この静けさ、心地よいです。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194180"
+    },
+    {
+      "english": "I'm grateful, for this family.",
+      "japanese": "この家族に、感謝しています。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194182"
+    },
+    {
+      "english": "We grow, through difficulties.",
+      "japanese": "困難を通して、成長します。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194184"
+    },
+    {
+      "english": "This is, more than just a house.",
+      "japanese": "ここは、ただの家ではありません。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194186"
+    },
+    {
+      "english": "I feel understood, truly.",
+      "japanese": "本当に、理解されていると感じます。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194188"
+    },
+    {
+      "english": "Let's listen, carefully.",
+      "japanese": "注意深く、耳を傾けましょう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194190"
+    },
+    {
+      "english": "My feelings, are honest.",
+      "japanese": "私の気持ちは、正直です。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194192"
+    },
+    {
+      "english": "This bond, is unbreakable.",
+      "japanese": "この絆は、壊れません。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194194"
+    },
+    {
+      "english": "What matters, is connection.",
+      "japanese": "大切なのは、繋がりです。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194196"
+    },
+    {
+      "english": "I'm thinking, about the future.",
+      "japanese": "未来のことを、考えています。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194200"
+    },
+    {
+      "english": "This space, brings calm.",
+      "japanese": "この空間は、穏やかさをもたらします。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194202"
+    },
+    {
+      "english": "We forgive, and move on.",
+      "japanese": "許して、先に進みましょう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194204"
+    },
+    {
+      "english": "Your honesty, is appreciated.",
+      "japanese": "あなたの正直さ、感謝します。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194206"
+    },
+    {
+      "english": "Let's nurture, this feeling.",
+      "japanese": "この気持ちを、育みましょう。",
+      "category": "Family & Home",
+      "generated_at": "2026-10-27T06:01:30.194208"
     }
   ],
-  "last_updated": "2026-10-26T05:48:14.037355"
+  "last_updated": "2026-10-27T06:01:30.194210"
 }
