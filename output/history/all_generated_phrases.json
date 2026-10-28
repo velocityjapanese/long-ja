@@ -13949,7 +13949,727 @@
       "japanese": "この気持ちを、育みましょう。",
       "category": "Family & Home",
       "generated_at": "2026-10-27T06:01:30.194208"
+    },
+    {
+      "english": "This one, please.",
+      "japanese": "こちらを、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966191"
+    },
+    {
+      "english": "What do you recommend?",
+      "japanese": "おすすめは何ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966207"
+    },
+    {
+      "english": "I'll have this.",
+      "japanese": "これを、もらいます。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966208"
+    },
+    {
+      "english": "How much is it?",
+      "japanese": "いくらですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966210"
+    },
+    {
+      "english": "It's delicious!",
+      "japanese": "おいしいです！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966212"
+    },
+    {
+      "english": "A little more, please.",
+      "japanese": "もう少し、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966213"
+    },
+    {
+      "english": "Can I have water?",
+      "japanese": "お水、もらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966215"
+    },
+    {
+      "english": "Check, please.",
+      "japanese": "お会計、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966219"
+    },
+    {
+      "english": "Is this spicy?",
+      "japanese": "これ、辛いですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966221"
+    },
+    {
+      "english": "I'm hungry.",
+      "japanese": "お腹、空きました。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966223"
+    },
+    {
+      "english": "What's good here?",
+      "japanese": "ここの、人気は何ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966224"
+    },
+    {
+      "english": "Can I see the menu?",
+      "japanese": "メニュー、見せてもらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966226"
+    },
+    {
+      "english": "Not too spicy, please.",
+      "japanese": "辛さ控えめで、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966228"
+    },
+    {
+      "english": "I'd like a drink.",
+      "japanese": "飲み物を、ください。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966229"
+    },
+    {
+      "english": "Is that all?",
+      "japanese": "以上で、よろしいですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966230"
+    },
+    {
+      "english": "One more, please.",
+      "japanese": "もう一皿、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966232"
+    },
+    {
+      "english": "I'll take this, too.",
+      "japanese": "これも、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966233"
+    },
+    {
+      "english": "It's very good!",
+      "japanese": "とても、美味しいです！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966234"
+    },
+    {
+      "english": "I'm full.",
+      "japanese": "お腹、いっぱいです。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966236"
+    },
+    {
+      "english": "A table for two, please.",
+      "japanese": "二人で、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966237"
+    },
+    {
+      "english": "Can I have some soy sauce?",
+      "japanese": "醤油、もらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966240"
+    },
+    {
+      "english": "It's a little salty.",
+      "japanese": "少し、しょっぱいですね。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966241"
+    },
+    {
+      "english": "We're ready to order.",
+      "japanese": "注文、いいですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966243"
+    },
+    {
+      "english": "Can I have the bill?",
+      "japanese": "お会計、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966244"
+    },
+    {
+      "english": "Thank you for the meal.",
+      "japanese": "ごちそうさまでした。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966245"
+    },
+    {
+      "english": "I'll have a set meal.",
+      "japanese": "定食を、お願いします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966247"
+    },
+    {
+      "english": "What kind, of dishes, do you have?",
+      "japanese": "どんなお料理がありますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966249"
+    },
+    {
+      "english": "Do you have, a vegetarian option?",
+      "japanese": "ベジタリアン向けのメニューはありますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966250"
+    },
+    {
+      "english": "Can I change, my order?",
+      "japanese": "注文を変えてもいいですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966252"
+    },
+    {
+      "english": "What's the soup, of the day?",
+      "japanese": "本日のスープは何ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966254"
+    },
+    {
+      "english": "Could you explain, this dish?",
+      "japanese": "この料理について説明してもらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966255"
+    },
+    {
+      "english": "Is this, a local specialty?",
+      "japanese": "これは地元の名物ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966257"
+    },
+    {
+      "english": "Are there any, allergies, I should know?",
+      "japanese": "アレルギーに注意すべきものはありますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966259"
+    },
+    {
+      "english": "Can I get, a different side dish?",
+      "japanese": "サイドディッシュを別のものに変えられますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966261"
+    },
+    {
+      "english": "How is, this prepared?",
+      "japanese": "これはどのように調理されますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966267"
+    },
+    {
+      "english": "What do you suggest, for dessert?",
+      "japanese": "デザートには何がおすすめですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966269"
+    },
+    {
+      "english": "Could I have, a glass of water?",
+      "japanese": "お水を一杯いただけますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966270"
+    },
+    {
+      "english": "Is it possible, to share dishes?",
+      "japanese": "料理をシェアすることは可能ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966272"
+    },
+    {
+      "english": "What's the busiest, time here?",
+      "japanese": "ここはいつが一番混みますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966273"
+    },
+    {
+      "english": "Can I get, some chopsticks?",
+      "japanese": "お箸をもらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966274"
+    },
+    {
+      "english": "Do you have, gluten-free options?",
+      "japanese": "グルテンフリーの選択肢はありますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966276"
+    },
+    {
+      "english": "This looks, interesting, what is it?",
+      "japanese": "これは面白そうですが、何ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966277"
+    },
+    {
+      "english": "Could I have, the bill, please?",
+      "japanese": "お会計をお願いできますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966279"
+    },
+    {
+      "english": "What size, is this portion?",
+      "japanese": "このポーションのサイズはどのくらいですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966280"
+    },
+    {
+      "english": "Is there, a kid's menu?",
+      "japanese": "子供用メニューはありますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966282"
+    },
+    {
+      "english": "Could you make it, less salty?",
+      "japanese": "もっと塩分控えめにしてもらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966284"
+    },
+    {
+      "english": "What time, do you close?",
+      "japanese": "何時に閉店しますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966285"
+    },
+    {
+      "english": "Can I have, a doggy bag?",
+      "japanese": "持ち帰り用の袋をもらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966288"
+    },
+    {
+      "english": "Is this, spicy, at all?",
+      "japanese": "これは少しでも辛いですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966289"
+    },
+    {
+      "english": "What kind, of drinks, do you offer?",
+      "japanese": "どのような飲み物がありますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966291"
+    },
+    {
+      "english": "I'd like to, try something, new.",
+      "japanese": "何か新しいものを試したいです。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966292"
+    },
+    {
+      "english": "Are these, ingredients, fresh?",
+      "japanese": "これらの食材は新鮮ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966294"
+    },
+    {
+      "english": "Could you warm, this up, please?",
+      "japanese": "これを温め直してもらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966295"
+    },
+    {
+      "english": "What’s the most, popular dish?",
+      "japanese": "一番人気の料理は何ですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966297"
+    },
+    {
+      "english": "Can I get, a recommendation, for wine?",
+      "japanese": "ワインのおすすめをいただけますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966299"
+    },
+    {
+      "english": "Let's try, something different!",
+      "japanese": "いつもと違うの、試してみよう！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966302"
+    },
+    {
+      "english": "I'm brave, today!",
+      "japanese": "今日は、勇気を出してみる！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966304"
+    },
+    {
+      "english": "This looks, amazing!",
+      "japanese": "これ、すごい美味しそう！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966306"
+    },
+    {
+      "english": "Wow, what a find!",
+      "japanese": "わー、いいお店、見つけた！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966307"
+    },
+    {
+      "english": "Don't be afraid, to ask!",
+      "japanese": "遠慮なく、聞いてみよう！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966309"
+    },
+    {
+      "english": "Every meal, is a new adventure.",
+      "japanese": "毎回の食事が、新しい冒険だ。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966311"
+    },
+    {
+      "english": "You can do it, too!",
+      "japanese": "あなたにも、できるよ！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966312"
+    },
+    {
+      "english": "Trust your gut feeling.",
+      "japanese": "自分の勘を、信じてみよう。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966313"
+    },
+    {
+      "english": "This is, a great choice!",
+      "japanese": "これは、いい選択だね！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966315"
+    },
+    {
+      "english": "Learning is, delicious!",
+      "japanese": "学ぶことは、美味しい！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966316"
+    },
+    {
+      "english": "Keep trying, new things.",
+      "japanese": "新しいもの、どんどん試そう。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966319"
+    },
+    {
+      "english": "This is, a hidden gem!",
+      "japanese": "これぞ、隠れた名店！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966321"
+    },
+    {
+      "english": "Enjoy the process, of discovery.",
+      "japanese": "発見のプロセスを、楽しもう。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966322"
+    },
+    {
+      "english": "Let's conquer, the menu!",
+      "japanese": "メニューを、制覇しよう！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966324"
+    },
+    {
+      "english": "That was, a bold move!",
+      "japanese": "それは、思い切ったね！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966326"
+    },
+    {
+      "english": "Experience is, the best teacher.",
+      "japanese": "経験こそが、最高の先生。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966327"
+    },
+    {
+      "english": "What a good decision!",
+      "japanese": "なんて、いい決断！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966329"
+    },
+    {
+      "english": "Don't overthink, just order!",
+      "japanese": "考えすぎずに、注文しよう！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966331"
+    },
+    {
+      "english": "This place, is a treasure.",
+      "japanese": "この店、宝物だね。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966332"
+    },
+    {
+      "english": "Embrace the new flavors.",
+      "japanese": "新しい味を、受け入れよう。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966335"
+    },
+    {
+      "english": "This is, a culinary triumph!",
+      "japanese": "これは、食の快挙だ！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966389"
+    },
+    {
+      "english": "Adventure awaits, on the menu.",
+      "japanese": "メニューに、冒険が待ってる。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966391"
+    },
+    {
+      "english": "That's a smart pick!",
+      "japanese": "それは、賢い選択！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966392"
+    },
+    {
+      "english": "Enjoy this, moment!",
+      "japanese": "この瞬間を、楽しんで！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966394"
+    },
+    {
+      "english": "You're becoming, a pro!",
+      "japanese": "プロみたいになってきたね！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966395"
+    },
+    {
+      "english": "What an excellent find!",
+      "japanese": "なんて、素晴らしい発見！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966396"
+    },
+    {
+      "english": "Let your taste buds, guide you.",
+      "japanese": "舌の感覚に、任せてみよう。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966398"
+    },
+    {
+      "english": "This dish, truly surprised me.",
+      "japanese": "この料理、本当に驚きました。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966400"
+    },
+    {
+      "english": "I feel quite content, right now.",
+      "japanese": "今、かなり満ち足りた気分です。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966401"
+    },
+    {
+      "english": "It's worth the wait, I think.",
+      "japanese": "待った甲斐がありました、と思います。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966403"
+    },
+    {
+      "english": "This taste, evokes good memories.",
+      "japanese": "この味、良い思い出を呼び起こします。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966404"
+    },
+    {
+      "english": "I'm genuinely happy, with this choice.",
+      "japanese": "この選択に、心から満足しています。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966406"
+    },
+    {
+      "english": "This meal, feels like a hug.",
+      "japanese": "この食事、抱きしめられているようです。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966408"
+    },
+    {
+      "english": "I appreciate, the chef's effort.",
+      "japanese": "シェフの努力に、感謝します。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966409"
+    },
+    {
+      "english": "It’s nice to slow down, and savor.",
+      "japanese": "ゆっくり味わうのは、良いですね。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966411"
+    },
+    {
+      "english": "This setting, is wonderfully peaceful.",
+      "japanese": "この雰囲気、素晴らしいほど穏やかです。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966413"
+    },
+    {
+      "english": "I felt a real connection, here.",
+      "japanese": "ここで、本当の繋がりを感じました。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966415"
+    },
+    {
+      "english": "This experience, enriched my day.",
+      "japanese": "この体験、一日を豊かにしてくれました。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966416"
+    },
+    {
+      "english": "I'm feeling very relaxed, now.",
+      "japanese": "今、とてもリラックスしています。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966418"
+    },
+    {
+      "english": "This is more than food, it's art.",
+      "japanese": "これは単なる食事ではなく、芸術です。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966419"
+    },
+    {
+      "english": "I'm glad I took, the chance.",
+      "japanese": "このチャンスを掴んで、良かったです。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966421"
+    },
+    {
+      "english": "This flavor profile, is so unique.",
+      "japanese": "この風味の構成、とてもユニークです。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966423"
+    },
+    {
+      "english": "I could eat this, every day.",
+      "japanese": "これを毎日でも食べられます。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966425"
+    },
+    {
+      "english": "My expectations, were exceeded.",
+      "japanese": "私の期待は、超えられました。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966427"
+    },
+    {
+      "english": "This truly, hit the spot.",
+      "japanese": "これは本当に、ぴったりでした。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966428"
+    },
+    {
+      "english": "This feels so authentic, and real.",
+      "japanese": "これはとても本格的で、リアルに感じます。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966430"
+    },
+    {
+      "english": "I’m reflecting, on this great meal.",
+      "japanese": "この素晴らしい食事について、考えています。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966432"
+    },
+    {
+      "english": "This dish, tells a story.",
+      "japanese": "この料理は、物語を語ります。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966435"
+    },
+    {
+      "english": "I'm truly moved, by the taste.",
+      "japanese": "味に、本当に感動しています。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966436"
+    },
+    {
+      "english": "This is, a deeply satisfying meal.",
+      "japanese": "これは、非常に満足のいく食事です。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966438"
+    },
+    {
+      "english": "I feel a sense, of gratitude.",
+      "japanese": "感謝の気持ちが、湧いてきます。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966439"
+    },
+    {
+      "english": "This moment, is special to me.",
+      "japanese": "この瞬間は、私にとって特別です。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966441"
+    },
+    {
+      "english": "I’m so glad, we came here.",
+      "japanese": "ここに来て、本当に良かったです。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966443"
+    },
+    {
+      "english": "This has been, an eye-opener.",
+      "japanese": "これは、目から鱗でした。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966444"
+    },
+    {
+      "english": "I'm enjoying, this quiet moment.",
+      "japanese": "この静かな時間を、楽しんでいます。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966446"
+    },
+    {
+      "english": "Let's try, something local.",
+      "japanese": "地元のもの、試してみましょう。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966448"
+    },
+    {
+      "english": "Do you recommend, this dish?",
+      "japanese": "この料理、おすすめですか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966449"
+    },
+    {
+      "english": "It's a bit spicy, for me.",
+      "japanese": "私には、少し辛すぎます。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966451"
+    },
+    {
+      "english": "Is this, made to order?",
+      "japanese": "これって、注文を受けてから作りますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966452"
+    },
+    {
+      "english": "Could I get, some water, please?",
+      "japanese": "お水、いただけますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966454"
+    },
+    {
+      "english": "This is, very filling.",
+      "japanese": "これ、すごくお腹いっぱいになりますね。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966456"
+    },
+    {
+      "english": "Excuse me, waiter!",
+      "japanese": "すみません、店員さん！",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966457"
+    },
+    {
+      "english": "Can I get, a doggy bag?",
+      "japanese": "持ち帰り用の袋、もらえますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966460"
+    },
+    {
+      "english": "Are there, any vegetarian options?",
+      "japanese": "ベジタリアン向けのメニューはありますか？",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966462"
+    },
+    {
+      "english": "The portion size, is generous.",
+      "japanese": "量が多いですね、満足です。",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-28T06:39:46.966464"
     }
   ],
-  "last_updated": "2026-10-27T06:01:30.194210"
+  "last_updated": "2026-10-28T06:39:46.966465"
 }
