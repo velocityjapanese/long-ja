@@ -14669,7 +14669,727 @@
       "japanese": "量が多いですね、満足です。",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-10-28T06:39:46.966464"
+    },
+    {
+      "english": "Hello, is this Tanaka's place?",
+      "japanese": "もしもし、田中さんのお宅ですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132205"
+    },
+    {
+      "english": "Yes, it is. Who's calling?",
+      "japanese": "はい、そうです。どちら様ですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132221"
+    },
+    {
+      "english": "It's Sato from the office.",
+      "japanese": "オフィスから佐藤ですが。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132224"
+    },
+    {
+      "english": "Ah, Sato-san, hello!",
+      "japanese": "あ、佐藤さん、こんにちは！",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132226"
+    },
+    {
+      "english": "Is Tanaka there, please?",
+      "japanese": "田中さん、いらっしゃいますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132228"
+    },
+    {
+      "english": "One moment, please.",
+      "japanese": "少々お待ちください。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132230"
+    },
+    {
+      "english": "I'm sorry, he's out now.",
+      "japanese": "すみません、今、留守なんです。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132231"
+    },
+    {
+      "english": "When will he be back?",
+      "japanese": "いつ頃、戻られますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132235"
+    },
+    {
+      "english": "Around six, I think.",
+      "japanese": "６時頃だと思います。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132238"
+    },
+    {
+      "english": "Okay, I'll call again.",
+      "japanese": "わかりました、またかけ直します。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132240"
+    },
+    {
+      "english": "Can I leave a message?",
+      "japanese": "伝言をお願いしてもいいですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132241"
+    },
+    {
+      "english": "Yes, please tell him.",
+      "japanese": "ええ、伝えておきます。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132243"
+    },
+    {
+      "english": "Tell him that I called.",
+      "japanese": "私が電話したことを伝えてください。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132245"
+    },
+    {
+      "english": "Got it. Will do.",
+      "japanese": "承知しました。そうします。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132246"
+    },
+    {
+      "english": "Thank you for your help.",
+      "japanese": "お手数おかけしました。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132248"
+    },
+    {
+      "english": "What is your number?",
+      "japanese": "お電話番号は何番ですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132250"
+    },
+    {
+      "english": "It's 090-1234-5678.",
+      "japanese": "０９０の１２３４の５６７８です。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132252"
+    },
+    {
+      "english": "I can't hear you well.",
+      "japanese": "よく聞こえないのですが。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132253"
+    },
+    {
+      "english": "Please speak up a little.",
+      "japanese": "もう少し、大きな声で。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132255"
+    },
+    {
+      "english": "Is this line free?",
+      "japanese": "この回線、空いていますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132256"
+    },
+    {
+      "english": "I'm calling to confirm.",
+      "japanese": "確認のために電話しています。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132265"
+    },
+    {
+      "english": "Is this a wrong number?",
+      "japanese": "間違い電話でしょうか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132268"
+    },
+    {
+      "english": "I'll send you a text.",
+      "japanese": "メッセージを送りますね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132270"
+    },
+    {
+      "english": "Did you get my message?",
+      "japanese": "私のメッセージ、届きましたか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132271"
+    },
+    {
+      "english": "I'm on my way now.",
+      "japanese": "今、向かっています。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132275"
+    },
+    {
+      "english": "See you soon, bye.",
+      "japanese": "また後で、さよなら。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132277"
+    },
+    {
+      "english": "Call me when you can.",
+      "japanese": "都合の良い時に、電話して。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132278"
+    },
+    {
+      "english": "Is anyone there?",
+      "japanese": "どなたかいらっしゃいますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132280"
+    },
+    {
+      "english": "May I ask, who is this?",
+      "japanese": "すみません、どなた様でしょうか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132282"
+    },
+    {
+      "english": "Is it okay, to ask a question?",
+      "japanese": "ちょっと, 質問してもいいですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132284"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "japanese": "もう一度, 言っていただけますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132286"
+    },
+    {
+      "english": "Can I ask for your advice?",
+      "japanese": "相談, 乗ってもらえませんか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132287"
+    },
+    {
+      "english": "Is this the right place, for X?",
+      "japanese": "ここは, X で合っていますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132289"
+    },
+    {
+      "english": "Could you explain, a bit more?",
+      "japanese": "もう少し, 説明してもらえますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132291"
+    },
+    {
+      "english": "Do you understand, what I'm saying?",
+      "japanese": "私の言っていること, 分かりますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132294"
+    },
+    {
+      "english": "Where is the best place, to go?",
+      "japanese": "どこか, おすすめの場所はありますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132296"
+    },
+    {
+      "english": "How should I, proceed with this?",
+      "japanese": "これ, どう進めたらいいですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132298"
+    },
+    {
+      "english": "What time, does it start?",
+      "japanese": "何時に, 始まりますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132300"
+    },
+    {
+      "english": "Are you free, this weekend?",
+      "japanese": "今週末, 空いていますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132302"
+    },
+    {
+      "english": "Did you already, eat lunch?",
+      "japanese": "もう, お昼は食べましたか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132304"
+    },
+    {
+      "english": "Is this the correct, phone number?",
+      "japanese": "この電話番号, 正しいですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132306"
+    },
+    {
+      "english": "What's the situation, there?",
+      "japanese": "そちらの状況, どうなっていますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132308"
+    },
+    {
+      "english": "Can you hear me, okay?",
+      "japanese": "私の声, 聞こえていますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132309"
+    },
+    {
+      "english": "Should I wait, on the line?",
+      "japanese": "このまま, お待ちすればいいですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132311"
+    },
+    {
+      "english": "When would be, a good time?",
+      "japanese": "いつ頃が, 都合がいいですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132313"
+    },
+    {
+      "english": "What should I, prepare first?",
+      "japanese": "まず, 何を準備すればいいですか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132314"
+    },
+    {
+      "english": "Is the meeting, still on?",
+      "japanese": "会議は, まだありますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132316"
+    },
+    {
+      "english": "Did something happen, recently?",
+      "japanese": "最近, 何かありましたか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132318"
+    },
+    {
+      "english": "Can you give me, an example?",
+      "japanese": "具体例を, いただけますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132321"
+    },
+    {
+      "english": "How long will it take, roughly?",
+      "japanese": "大体, どれくらいかかりますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132323"
+    },
+    {
+      "english": "Is there any news, yet?",
+      "japanese": "何か, 進展はありましたか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132324"
+    },
+    {
+      "english": "Can we talk, later tonight?",
+      "japanese": "今夜, 改めて話せますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132328"
+    },
+    {
+      "english": "Don't give up, try again.",
+      "japanese": "諦めないで、もう一度。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132330"
+    },
+    {
+      "english": "That's a great idea, really!",
+      "japanese": "それは素晴らしい考え、本当に！",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132332"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "japanese": "ゆっくりでいいよ、急がなくて。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132334"
+    },
+    {
+      "english": "That's awesome, I'm happy for you.",
+      "japanese": "すごいね、私も嬉しいよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132336"
+    },
+    {
+      "english": "You've got this, I know it.",
+      "japanese": "きっとできる、私なら知ってる。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132338"
+    },
+    {
+      "english": "You're amazing, truly.",
+      "japanese": "あなたは素晴らしい、本当に。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132340"
+    },
+    {
+      "english": "Keep shining, your light.",
+      "japanese": "輝き続けてね、あなたの光。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132342"
+    },
+    {
+      "english": "This is a good start, definitely.",
+      "japanese": "これは良いスタート、間違いなく。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132344"
+    },
+    {
+      "english": "Let's try our best, always.",
+      "japanese": "いつも、ベストを尽くそう。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132346"
+    },
+    {
+      "english": "Positive thoughts, attract good things.",
+      "japanese": "前向きな考え、良いものを引き寄せる。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132348"
+    },
+    {
+      "english": "You inspire me, a lot.",
+      "japanese": "あなたに、すごく刺激を受けてる。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132350"
+    },
+    {
+      "english": "This challenge, makes you grow.",
+      "japanese": "この挑戦、あなたを成長させるよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132352"
+    },
+    {
+      "english": "You have potential, unlimited.",
+      "japanese": "君には可能性がある、無限に。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132354"
+    },
+    {
+      "english": "Let's celebrate, small wins.",
+      "japanese": "小さな成功を、祝おう。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132356"
+    },
+    {
+      "english": "Your passion, is admirable.",
+      "japanese": "あなたの情熱、称賛に値する。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132358"
+    },
+    {
+      "english": "Stay strong, always.",
+      "japanese": "強くいてね、いつも。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132359"
+    },
+    {
+      "english": "You're doing great, fantastic!",
+      "japanese": "すごくできてる、素晴らしい！",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132362"
+    },
+    {
+      "english": "You're capable, of anything.",
+      "japanese": "あなたなら、何でもできる。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132363"
+    },
+    {
+      "english": "Let's create, a bright future.",
+      "japanese": "明るい未来を、作ろう。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132365"
+    },
+    {
+      "english": "Hang on, I'll call back soon.",
+      "japanese": "ちょっと待って、すぐかけ直すね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132367"
+    },
+    {
+      "english": "Can you send me, the details?",
+      "japanese": "詳細を、送ってもらえますか？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132369"
+    },
+    {
+      "english": "I missed your call, sorry.",
+      "japanese": "電話、出られなくてごめん。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132371"
+    },
+    {
+      "english": "My phone died, unfortunately.",
+      "japanese": "残念だけど、携帯が電池切れちゃった。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132374"
+    },
+    {
+      "english": "Is this a bad time, to chat?",
+      "japanese": "今、話すの、まずい時間？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132376"
+    },
+    {
+      "english": "I'll text you, later tonight.",
+      "japanese": "今夜、また連絡するね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132377"
+    },
+    {
+      "english": "Don't hesitate, to call me.",
+      "japanese": "遠慮なく、電話してきてね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132379"
+    },
+    {
+      "english": "What's your line, ID by the way?",
+      "japanese": "ちなみに、LINE教えてくれる？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132381"
+    },
+    {
+      "english": "I'm looking forward, to your reply.",
+      "japanese": "返信、楽しみにしてるね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132383"
+    },
+    {
+      "english": "This is a bit urgent, you see.",
+      "japanese": "ちょっと、急ぎの話なんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132384"
+    },
+    {
+      "english": "Could you repeat, that last part?",
+      "japanese": "最後の部分、もう一度言って？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132386"
+    },
+    {
+      "english": "Just checking, if you're home.",
+      "japanese": "家にいるか、気になって。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132390"
+    },
+    {
+      "english": "I'll be there, in five minutes.",
+      "japanese": "５分で、そっち着くよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132394"
+    },
+    {
+      "english": "No signal, out here, sadly.",
+      "japanese": "ここ、電波が悪くてね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132396"
+    },
+    {
+      "english": "It's ringing, answer it quickly!",
+      "japanese": "鳴ってるよ、すぐ出て！",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132397"
+    },
+    {
+      "english": "I'll send a map, to your phone.",
+      "japanese": "地図、携帯に送るね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132399"
+    },
+    {
+      "english": "My hands are full, right now.",
+      "japanese": "今、手が離せないんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132401"
+    },
+    {
+      "english": "Leave a message, after the beep.",
+      "japanese": "ピーッて言ったら、伝言残して。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132403"
+    },
+    {
+      "english": "What's your vibe, on this?",
+      "japanese": "この件、どういう感じ？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132405"
+    },
+    {
+      "english": "Let's sync up, later today.",
+      "japanese": "今日、また連絡しよう。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132406"
+    },
+    {
+      "english": "Is this number, still active?",
+      "japanese": "この番号、まだ使える？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132408"
+    },
+    {
+      "english": "I'm feeling, a bit down today.",
+      "japanese": "今日、ちょっと元気ないんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132410"
+    },
+    {
+      "english": "Talk soon, on the phone then.",
+      "japanese": "じゃあ、また電話で話そう。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132412"
+    },
+    {
+      "english": "Hold on, let me check my mail.",
+      "japanese": "ちょっと待って、メール確認する。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132414"
+    },
+    {
+      "english": "I'll forward, the call to you.",
+      "japanese": "電話、そっちに転送するね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132416"
+    },
+    {
+      "english": "What's the scoop, on that?",
+      "japanese": "その件、どうなってる？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132419"
+    },
+    {
+      "english": "My phone is, acting up again.",
+      "japanese": "また携帯、調子悪いんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132421"
+    },
+    {
+      "english": "Send a quick text, when you can.",
+      "japanese": "暇な時、軽くテキスト送って。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132423"
+    },
+    {
+      "english": "I'm thinking, about our chat.",
+      "japanese": "私たちの会話、考えてるよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132424"
+    },
+    {
+      "english": "Your message, made me smile.",
+      "japanese": "君のメッセージで、笑顔になったよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132426"
+    },
+    {
+      "english": "This feels, different, you know?",
+      "japanese": "これって、なんか違う感じ、わかる？",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132430"
+    },
+    {
+      "english": "I often, re-read your texts.",
+      "japanese": "君のメッセージ、よく読み返すんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132432"
+    },
+    {
+      "english": "It makes me, happy, to hear from you.",
+      "japanese": "連絡くれると、嬉しいんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132434"
+    },
+    {
+      "english": "I'm taking, this moment in.",
+      "japanese": "この瞬間を、噛みしめてる。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132435"
+    },
+    {
+      "english": "It's a good feeling, really.",
+      "japanese": "すごく、良い気分だよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132437"
+    },
+    {
+      "english": "I wonder, what you're doing now.",
+      "japanese": "今、何してるかなって、思っちゃう。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132439"
+    },
+    {
+      "english": "This connection, feels genuine.",
+      "japanese": "この繋がり、本物だって感じる。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132441"
+    },
+    {
+      "english": "I'm not, rushing anything.",
+      "japanese": "何も、急かしてないよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132444"
+    },
+    {
+      "english": "Let's just, see where this goes.",
+      "japanese": "このまま、どうなるか見てみようよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132446"
+    },
+    {
+      "english": "Your words, stuck with me.",
+      "japanese": "君の言葉、心に残ってるんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132447"
+    },
+    {
+      "english": "I'm reflecting, a lot lately.",
+      "japanese": "最近、色々考えてるんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132449"
+    },
+    {
+      "english": "That thought, really resonated.",
+      "japanese": "その考え、すごく響いたよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132451"
+    },
+    {
+      "english": "I appreciate, your honesty.",
+      "japanese": "君の正直さ、感謝してるよ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132453"
+    },
+    {
+      "english": "This is, quite meaningful.",
+      "japanese": "これって、かなり意味深いね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132455"
+    },
+    {
+      "english": "I’m glad, we connected.",
+      "japanese": "繋がれて、本当に良かった。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132459"
+    },
+    {
+      "english": "It’s nice, to share thoughts.",
+      "japanese": "考えを共有するのって、いいね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132462"
+    },
+    {
+      "english": "I feel, a certain calm.",
+      "japanese": "なんか、落ち着くんだ。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132464"
+    },
+    {
+      "english": "It’s important, to be real.",
+      "japanese": "正直でいることって、大事だね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132467"
+    },
+    {
+      "english": "This has, a gentle pace.",
+      "japanese": "ゆったりとした、ペースだね。",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-29T06:47:13.132469"
     }
   ],
-  "last_updated": "2026-10-28T06:39:46.966465"
+  "last_updated": "2026-10-29T06:47:13.132470"
 }
