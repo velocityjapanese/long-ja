@@ -16109,7 +16109,727 @@
       "japanese": "この経験は、深くやりがいがある。",
       "category": "Motivation",
       "generated_at": "2026-10-30T06:50:16.191802"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "japanese": "ようこそ、どうぞお入りください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847713"
+    },
+    {
+      "english": "Excuse me, where is the restroom?",
+      "japanese": "すみません、お手洗いはどこですか？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847728"
+    },
+    {
+      "english": "Please, have a seat.",
+      "japanese": "どうぞ、お座りください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847732"
+    },
+    {
+      "english": "I'm sorry, I don't understand.",
+      "japanese": "ごめんなさい、分かりません。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847736"
+    },
+    {
+      "english": "This is a gift for you.",
+      "japanese": "これはあなたへのプレゼントです。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847738"
+    },
+    {
+      "english": "Please enjoy your stay.",
+      "japanese": "どうぞ、ごゆっくり。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847741"
+    },
+    {
+      "english": "What a lovely surprise!",
+      "japanese": "なんて素敵なサプライズ！",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847744"
+    },
+    {
+      "english": "Let's go together.",
+      "japanese": "一緒に行きましょう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847749"
+    },
+    {
+      "english": "Please take care.",
+      "japanese": "お気をつけて。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847752"
+    },
+    {
+      "english": "See you later.",
+      "japanese": "また後で。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847755"
+    },
+    {
+      "english": "Have a good night.",
+      "japanese": "おやすみなさい。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847758"
+    },
+    {
+      "english": "Let me help you.",
+      "japanese": "お手伝いしましょうか。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847761"
+    },
+    {
+      "english": "That's a good idea.",
+      "japanese": "それは良い考えですね。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847763"
+    },
+    {
+      "english": "Please be careful.",
+      "japanese": "気をつけてくださいね。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847765"
+    },
+    {
+      "english": "It's my pleasure.",
+      "japanese": "どういたしまして。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847768"
+    },
+    {
+      "english": "Could you lend me your pen?",
+      "japanese": "ペンを貸していただけますか？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847770"
+    },
+    {
+      "english": "I'm so happy to see you.",
+      "japanese": "お会いできて嬉しいです。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847773"
+    },
+    {
+      "english": "Don't push yourself too hard.",
+      "japanese": "無理しないでくださいね。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847778"
+    },
+    {
+      "english": "This is for you, please accept it.",
+      "japanese": "どうぞ、お納めください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847783"
+    },
+    {
+      "english": "It's a small gift, but please take it.",
+      "japanese": "つまらないものですが、どうぞ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847786"
+    },
+    {
+      "english": "Please let me know if anything comes up.",
+      "japanese": "何かありましたら、ご連絡ください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847788"
+    },
+    {
+      "english": "Is this the correct way?",
+      "japanese": "こちらで合っていますか？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847791"
+    },
+    {
+      "english": "I'm sorry to trouble you.",
+      "japanese": "お手数をおかけします。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847794"
+    },
+    {
+      "english": "This is very interesting, isn't it?",
+      "japanese": "これはとても面白いですね。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847796"
+    },
+    {
+      "english": "Let's do it this way, shall we?",
+      "japanese": "こうしましょうか？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847801"
+    },
+    {
+      "english": "That's a great honor, thank you.",
+      "japanese": "大変光栄です、ありがとうございます。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847804"
+    },
+    {
+      "english": "Please be quiet here.",
+      "japanese": "ここは静かにしてください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847807"
+    },
+    {
+      "english": "I'm grateful for your kindness.",
+      "japanese": "ご親切に感謝します。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847809"
+    },
+    {
+      "english": "Could you explain this one more time?",
+      "japanese": "これをもう一度説明してもらえますか？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847812"
+    },
+    {
+      "english": "This is a special occasion, isn't it?",
+      "japanese": "これは特別な機会ですね。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847815"
+    },
+    {
+      "english": "I'm honored to be invited.",
+      "japanese": "お招きいただき光栄です。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847819"
+    },
+    {
+      "english": "Please take your shoes off here.",
+      "japanese": "ここで靴を脱いでください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847821"
+    },
+    {
+      "english": "This is a Japanese custom.",
+      "japanese": "これは日本の習慣です。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847824"
+    },
+    {
+      "english": "It's good to be on time.",
+      "japanese": "時間通りに来るのは良いことです。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847826"
+    },
+    {
+      "english": "Please be mindful of your manners.",
+      "japanese": "マナーに気をつけてください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847829"
+    },
+    {
+      "english": "How do you usually do this?",
+      "japanese": "普段はどうやってこれをしますか？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847831"
+    },
+    {
+      "english": "I'm learning Japanese culture.",
+      "japanese": "日本の文化を学んでいます。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847834"
+    },
+    {
+      "english": "This is quite different, isn't it?",
+      "japanese": "これはかなり違いますね。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847836"
+    },
+    {
+      "english": "I'm very impressed, truly.",
+      "japanese": "とても感動しました、本当に。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847839"
+    },
+    {
+      "english": "Please follow the rules.",
+      "japanese": "規則に従ってください。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847841"
+    },
+    {
+      "english": "This is a sign of respect.",
+      "japanese": "これは敬意の表れです。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847844"
+    },
+    {
+      "english": "Thank you for your understanding.",
+      "japanese": "ご理解いただき、ありがとうございます。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847846"
+    },
+    {
+      "english": "What does this gesture mean?",
+      "japanese": "このジェスチャーはどういう意味ですか？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847848"
+    },
+    {
+      "english": "It's important to be polite.",
+      "japanese": "丁寧であることは大切です。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847851"
+    },
+    {
+      "english": "I'm happy to experience this.",
+      "japanese": "これを体験できて嬉しいです。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847853"
+    },
+    {
+      "english": "Aim high, then start.",
+      "japanese": "高みを目指し、それから始めよう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847856"
+    },
+    {
+      "english": "Slow and steady, wins.",
+      "japanese": "ゆっくり着実に、勝つ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847858"
+    },
+    {
+      "english": "Persistence, is key.",
+      "japanese": "粘り強さが、鍵だ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847861"
+    },
+    {
+      "english": "Do your best, always.",
+      "japanese": "常に、最善を尽くして。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847864"
+    },
+    {
+      "english": "Effort, will be rewarded.",
+      "japanese": "努力は、報われる。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847866"
+    },
+    {
+      "english": "Believe in yourself, first.",
+      "japanese": "まず、自分を信じよう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847868"
+    },
+    {
+      "english": "Never give up, okay?",
+      "japanese": "決して諦めないで、いい？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847871"
+    },
+    {
+      "english": "You can do it, really.",
+      "japanese": "君ならできる、本当に。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847873"
+    },
+    {
+      "english": "What a great effort!",
+      "japanese": "すごい努力だね！",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847876"
+    },
+    {
+      "english": "That was skillful, wow.",
+      "japanese": "あれは巧みだった、すごい。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847879"
+    },
+    {
+      "english": "Excellent work, truly.",
+      "japanese": "見事な仕事だよ、本当に。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847883"
+    },
+    {
+      "english": "That's wonderful, thank you.",
+      "japanese": "それは素晴らしい、ありがとう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847886"
+    },
+    {
+      "english": "I admire your spirit.",
+      "japanese": "君の精神を尊敬するよ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847890"
+    },
+    {
+      "english": "This is progress, right?",
+      "japanese": "これは進歩だよね？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847893"
+    },
+    {
+      "english": "Keep that positive mind.",
+      "japanese": "その前向きな気持ちを、保って。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847895"
+    },
+    {
+      "english": "Focus on the goal.",
+      "japanese": "目標に集中しよう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847898"
+    },
+    {
+      "english": "Your attitude, is great.",
+      "japanese": "君の姿勢は、素晴らしい。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847900"
+    },
+    {
+      "english": "Let's strive together.",
+      "japanese": "共に努力しよう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847903"
+    },
+    {
+      "english": "This learning, is fun.",
+      "japanese": "この学びは、楽しい。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847905"
+    },
+    {
+      "english": "Growth happens, slowly.",
+      "japanese": "成長は、ゆっくり起こる。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847908"
+    },
+    {
+      "english": "That's a good outcome.",
+      "japanese": "それは良い結果だ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847910"
+    },
+    {
+      "english": "Your dedication, shines.",
+      "japanese": "君の献身が、輝いている。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847913"
+    },
+    {
+      "english": "You've learned so much.",
+      "japanese": "たくさん学んだね。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847915"
+    },
+    {
+      "english": "Proud of your journey.",
+      "japanese": "君の旅路を、誇りに思う。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847917"
+    },
+    {
+      "english": "The nail that sticks out, gets hammered.",
+      "japanese": "出過ぎた釘は、打たれる。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847920"
+    },
+    {
+      "english": "Before you speak, listen well.",
+      "japanese": "話す前に、よく聞く。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847923"
+    },
+    {
+      "english": "Borrowing courtesy, is key.",
+      "japanese": "礼儀を借りる、が肝心。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847925"
+    },
+    {
+      "english": "This season, has its own charm.",
+      "japanese": "この季節、独特の風情がある。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847928"
+    },
+    {
+      "english": "A moment's silence, is golden.",
+      "japanese": "一瞬の静寂、金なり。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847931"
+    },
+    {
+      "english": "Harmony, over discord.",
+      "japanese": "不和より、調和。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847933"
+    },
+    {
+      "english": "Mind the details, always.",
+      "japanese": "細部に注意、常に。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847936"
+    },
+    {
+      "english": "The old ways, have wisdom.",
+      "japanese": "古き良き、知恵がある。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847939"
+    },
+    {
+      "english": "Offer, then receive.",
+      "japanese": "与えて、それから受け取る。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847941"
+    },
+    {
+      "english": "This is, a ritual.",
+      "japanese": "これは、儀式です。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847944"
+    },
+    {
+      "english": "Respect the elders, always.",
+      "japanese": "目上を敬う、常に。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847946"
+    },
+    {
+      "english": "Taste the moment, deeply.",
+      "japanese": "瞬間を味わう、深く。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847951"
+    },
+    {
+      "english": "Cleanliness, is next to godliness.",
+      "japanese": "清潔さは、神聖さに次ぐ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847953"
+    },
+    {
+      "english": "Shared joy, doubles.",
+      "japanese": "分かち合う喜び、倍増。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847956"
+    },
+    {
+      "english": "Nature's rhythm, we follow.",
+      "japanese": "自然のリズム、我らは従う。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847960"
+    },
+    {
+      "english": "A bow, shows deference.",
+      "japanese": "お辞儀は、敬意を示す。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847963"
+    },
+    {
+      "english": "Gratitude, is a virtue.",
+      "japanese": "感謝、は美徳。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847965"
+    },
+    {
+      "english": "Silence, can speak volumes.",
+      "japanese": "沈黙は、雄弁に語る。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847968"
+    },
+    {
+      "english": "Patience, yields results.",
+      "japanese": "忍耐、は結果を生む。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847972"
+    },
+    {
+      "english": "The spirit, is unseen.",
+      "japanese": "精神は、見えない。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847975"
+    },
+    {
+      "english": "Rituals, bind us together.",
+      "japanese": "儀式は、私たちを繋ぐ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847978"
+    },
+    {
+      "english": "Small acts, make big waves.",
+      "japanese": "小さな行動、大きな波を作る。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847980"
+    },
+    {
+      "english": "Receive, with both hands.",
+      "japanese": "両手で、受け取る。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847983"
+    },
+    {
+      "english": "This tradition, we uphold.",
+      "japanese": "この伝統、我らは守る。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847985"
+    },
+    {
+      "english": "Let feelings, be conveyed.",
+      "japanese": "気持ちを、伝える。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847987"
+    },
+    {
+      "english": "A quiet mind, is wise.",
+      "japanese": "静かな心、賢い。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847990"
+    },
+    {
+      "english": "Appreciate, the simple things.",
+      "japanese": "シンプルなものを、 appreciate。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847992"
+    },
+    {
+      "english": "Humility, opens doors.",
+      "japanese": "謙虚さ、扉を開く。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847995"
+    },
+    {
+      "english": "Reflect on your effort, slowly.",
+      "japanese": "自分の努力を、ゆっくり振り返ろう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.847997"
+    },
+    {
+      "english": "Understand the heart, behind this.",
+      "japanese": "これに込められた、心を理解して。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848000"
+    },
+    {
+      "english": "What do you truly feel, inside?",
+      "japanese": "本当は何を感じる？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848002"
+    },
+    {
+      "english": "Let your honest thoughts flow.",
+      "japanese": "正直な気持ちを、流してみよう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848005"
+    },
+    {
+      "english": "This practice, brings peace.",
+      "japanese": "この練習は、安らぎをもたらす。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848007"
+    },
+    {
+      "english": "Trust your inner voice, always.",
+      "japanese": "自分の内なる声、いつも信じて。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848010"
+    },
+    {
+      "english": "Deeper meaning, is found within.",
+      "japanese": "深い意味は、内側にある。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848013"
+    },
+    {
+      "english": "Take your time, to absorb.",
+      "japanese": "吸収する時間を、取ろう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848015"
+    },
+    {
+      "english": "Feel the connection, profoundly.",
+      "japanese": "繋がりを、深く感じて。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848018"
+    },
+    {
+      "english": "Your sincerity, is valued.",
+      "japanese": "あなたの誠実さ、大切だよ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848020"
+    },
+    {
+      "english": "Contemplate the past, with care.",
+      "japanese": "過去を、丁寧に思い描こう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848023"
+    },
+    {
+      "english": "Express your true emotions, freely.",
+      "japanese": "本当の感情を、自由に表現して。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848025"
+    },
+    {
+      "english": "This moment, holds reflection.",
+      "japanese": "この瞬間は、内省を含んでいる。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848028"
+    },
+    {
+      "english": "What wisdom does this teach?",
+      "japanese": "これはどんな知恵を教えてくれる？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848032"
+    },
+    {
+      "english": "Let understanding grow, gradually.",
+      "japanese": "理解が、徐々に育つように。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848035"
+    },
+    {
+      "english": "Share your heart, openly.",
+      "japanese": "心を、開いて共有しよう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848038"
+    },
+    {
+      "english": "Inner peace, is cultivated.",
+      "japanese": "心の平和は、育まれるもの。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848040"
+    },
+    {
+      "english": "Your journey, holds deep lessons.",
+      "japanese": "あなたの旅は、深い教訓を持つ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848043"
+    },
+    {
+      "english": "Feel the resonance, within you.",
+      "japanese": "あなたの中の共鳴を、感じて。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848046"
+    },
+    {
+      "english": "What moves your spirit now?",
+      "japanese": "今、あなたの魂を動かすものは？",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848048"
+    },
+    {
+      "english": "Be honest with yourself, first.",
+      "japanese": "まず、自分自身に正直になろう。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848050"
+    },
+    {
+      "english": "Allow feelings, to surface.",
+      "japanese": "感情が、表面化するのを許して。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848053"
+    },
+    {
+      "english": "This tradition, requires patience.",
+      "japanese": "この伝統には、忍耐が必要だ。",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-01T07:09:43.848057"
     }
   ],
-  "last_updated": "2026-10-30T06:50:16.191803"
+  "last_updated": "2026-11-01T07:09:43.848059"
 }
