@@ -16829,7 +16829,727 @@
       "japanese": "この伝統には、忍耐が必要だ。",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-01T07:09:43.848057"
+    },
+    {
+      "english": "Great job, keep it up!",
+      "japanese": "よくやった、そのまま頑張れ！",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678688"
+    },
+    {
+      "english": "That's exactly right, well done.",
+      "japanese": "その通り、よくできました。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678704"
+    },
+    {
+      "english": "Awesome effort, truly amazing.",
+      "japanese": "素晴らしい努力、本当にすごい。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678710"
+    },
+    {
+      "english": "Excellent progress, keep shining.",
+      "japanese": "優れた進歩、輝き続けて。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678713"
+    },
+    {
+      "english": "That's the spirit, go for it!",
+      "japanese": "その意気だ、挑戦しよう！",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678716"
+    },
+    {
+      "english": "You nailed it, perfect score.",
+      "japanese": "完璧にやったね、満点だよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678719"
+    },
+    {
+      "english": "Fantastic work, so inspired.",
+      "japanese": "素晴らしい仕事、とても刺激になる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678722"
+    },
+    {
+      "english": "Keep pushing forward, you're strong.",
+      "japanese": "前進し続けて、君は強い。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678728"
+    },
+    {
+      "english": "You're doing great, I see it.",
+      "japanese": "君はうまくやっている、見えているよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678732"
+    },
+    {
+      "english": "Well done, a true achievement.",
+      "japanese": "よくやった、真の達成だ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678735"
+    },
+    {
+      "english": "You exceeded expectations, wow.",
+      "japanese": "期待を超えたね、わあ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678740"
+    },
+    {
+      "english": "That's a big win, congrats.",
+      "japanese": "それは大きな勝利だ、おめでとう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678743"
+    },
+    {
+      "english": "You're becoming fluent, amazing.",
+      "japanese": "流暢になってきている、すごい。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678745"
+    },
+    {
+      "english": "Keep this momentum going, yes.",
+      "japanese": "この勢いを維持して、いいね。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678748"
+    },
+    {
+      "english": "You solved it, fantastic job.",
+      "japanese": "解決したね、素晴らしい仕事。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678751"
+    },
+    {
+      "english": "That's very insightful, thank you.",
+      "japanese": "それは非常に洞察力がある、ありがとう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678753"
+    },
+    {
+      "english": "You're improving daily, I notice.",
+      "japanese": "日々向上しているよ、気づいている。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678756"
+    },
+    {
+      "english": "That's a great start, bravo.",
+      "japanese": "それは素晴らしい始まりだ、ブラボー。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678759"
+    },
+    {
+      "english": "You're truly dedicated, impressive.",
+      "japanese": "本当に熱心だね、印象的。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678762"
+    },
+    {
+      "english": "You understood perfectly, nice.",
+      "japanese": "完璧に理解したね、いいね。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678764"
+    },
+    {
+      "english": "What a breakthrough, you did it.",
+      "japanese": "なんて画期的なんだ、やったね。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678767"
+    },
+    {
+      "english": "You mastered it, congratulations.",
+      "japanese": "習得したね、おめでとう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678769"
+    },
+    {
+      "english": "This is excellent, keep going.",
+      "japanese": "これは素晴らしい、続けて。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678772"
+    },
+    {
+      "english": "You're a natural learner, wow.",
+      "japanese": "あなたは自然な学習者だ、すごい。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678774"
+    },
+    {
+      "english": "That made sense, thank you.",
+      "japanese": "それは理にかなっていた、ありがとう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678777"
+    },
+    {
+      "english": "You're getting smarter, I think.",
+      "japanese": "賢くなっていると思うよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678780"
+    },
+    {
+      "english": "Another success, well earned.",
+      "japanese": "また成功だ、よくやった。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678782"
+    },
+    {
+      "english": "What's your next goal, hmm?",
+      "japanese": "次は何を目指しますか、ね？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678787"
+    },
+    {
+      "english": "Can you help me understand this part?",
+      "japanese": "ここの部分、理解するのを手伝ってもらえますか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678790"
+    },
+    {
+      "english": "Is this the right way to say it?",
+      "japanese": "これは、そう言うのが正しいですか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678793"
+    },
+    {
+      "english": "Where can I learn more about this topic?",
+      "japanese": "このトピックについて、もっとどこで学べますか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678795"
+    },
+    {
+      "english": "What's the biggest challenge you faced?",
+      "japanese": "あなたが直面した一番の困難は何でしたか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678798"
+    },
+    {
+      "english": "What's your secret for success?",
+      "japanese": "あなたの成功の秘訣は何ですか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678801"
+    },
+    {
+      "english": "Do you have any questions for me?",
+      "japanese": "私に何か質問はありますか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678804"
+    },
+    {
+      "english": "What is this word, exactly?",
+      "japanese": "この単語は、一体何ですか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678807"
+    },
+    {
+      "english": "How do you practice speaking daily?",
+      "japanese": "毎日どうやって話す練習をしますか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678809"
+    },
+    {
+      "english": "What are your thoughts on this method?",
+      "japanese": "この方法について、あなたの考えは何ですか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678812"
+    },
+    {
+      "english": "What did you learn from that mistake?",
+      "japanese": "その間違いから何を学びましたか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678815"
+    },
+    {
+      "english": "What's the best way to remember kanji?",
+      "japanese": "漢字を覚える一番良い方法は？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678817"
+    },
+    {
+      "english": "Are you busy today, perhaps?",
+      "japanese": "今日は、お忙しいですか、もしかして？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678820"
+    },
+    {
+      "english": "What do you recommend I study next?",
+      "japanese": "次に何を勉強するか、おすすめは？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678822"
+    },
+    {
+      "english": "Did you understand what I said?",
+      "japanese": "私の言ったこと、理解できましたか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678825"
+    },
+    {
+      "english": "What's a common mistake for learners?",
+      "japanese": "学習者がよくする間違いは何ですか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678829"
+    },
+    {
+      "english": "How do you use this grammar point?",
+      "japanese": "この文法は、どうやって使いますか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678832"
+    },
+    {
+      "english": "What's your favorite Japanese word?",
+      "japanese": "あなたのお気に入りの日本語の単語は？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678835"
+    },
+    {
+      "english": "How long have you been learning?",
+      "japanese": "どれくらい学習を続けていますか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678837"
+    },
+    {
+      "english": "Shall we practice together sometime?",
+      "japanese": "いつか一緒に練習しませんか？",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678839"
+    },
+    {
+      "english": "This feeling is progress.",
+      "japanese": "この感覚が、進歩。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678842"
+    },
+    {
+      "english": "Focus on your own pace.",
+      "japanese": "自分のペースで、集中。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678845"
+    },
+    {
+      "english": "That insight is valuable.",
+      "japanese": "その視点、価値がある。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678847"
+    },
+    {
+      "english": "Learning is a journey, enjoy.",
+      "japanese": "学びは旅、楽しんで。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678850"
+    },
+    {
+      "english": "Celebrate your small wins.",
+      "japanese": "小さな勝利も、祝おう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678853"
+    },
+    {
+      "english": "This will lead to success.",
+      "japanese": "これは成功につながる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678856"
+    },
+    {
+      "english": "Keep that positive energy.",
+      "japanese": "そのプラスの気を、保って。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678858"
+    },
+    {
+      "english": "Your persistence pays off.",
+      "japanese": "君の粘り強さ、報われる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678861"
+    },
+    {
+      "english": "Your hard work matters.",
+      "japanese": "君の頑張りは、重要。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678864"
+    },
+    {
+      "english": "Don't doubt your progress.",
+      "japanese": "自分の進歩を、疑わないで。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678866"
+    },
+    {
+      "english": "You're creating your future.",
+      "japanese": "君は未来を、作っている。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678869"
+    },
+    {
+      "english": "Keep that curious spirit.",
+      "japanese": "その探求心を、忘れずに。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678871"
+    },
+    {
+      "english": "You're reaching your goals.",
+      "japanese": "目標に、到達してる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678876"
+    },
+    {
+      "english": "This journey is rewarding.",
+      "japanese": "この旅は、やりがいがある。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678879"
+    },
+    {
+      "english": "You're becoming a new you.",
+      "japanese": "新しい君に、なってる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678881"
+    },
+    {
+      "english": "Success is within your reach.",
+      "japanese": "成功は、君のすぐそこに。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678884"
+    },
+    {
+      "english": "Aim high, start small.",
+      "japanese": "大志を抱け、小さく始めよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678886"
+    },
+    {
+      "english": "Effort without complaint, that's key.",
+      "japanese": "文句なく努力、それが肝心。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678890"
+    },
+    {
+      "english": "Every drop fills a bucket.",
+      "japanese": "滴も積もれば山となる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678892"
+    },
+    {
+      "english": "Patience, it bears good fruit.",
+      "japanese": "辛抱強く、良い実を結ぶ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678894"
+    },
+    {
+      "english": "Don't rush, be steady.",
+      "japanese": "急がず、着実に。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678899"
+    },
+    {
+      "english": "Learn from yesterday, live today.",
+      "japanese": "昨日から学び、今日を生きよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678902"
+    },
+    {
+      "english": "Failure is a stepping stone.",
+      "japanese": "失敗は、成功への足がかり。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678904"
+    },
+    {
+      "english": "A steady hand, wins the race.",
+      "japanese": "着実な手際が、勝利を掴む。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678907"
+    },
+    {
+      "english": "Wisdom grows with experience.",
+      "japanese": "経験と共に、知恵は育つ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678910"
+    },
+    {
+      "english": "Keep your goals in sight.",
+      "japanese": "目標を、見失わないで。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678912"
+    },
+    {
+      "english": "Never give up, keep going.",
+      "japanese": "諦めずに、進み続けよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678916"
+    },
+    {
+      "english": "Repetition builds mastery.",
+      "japanese": "反復が、習熟を築く。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678919"
+    },
+    {
+      "english": "Dig deep, find your strength.",
+      "japanese": "深く掘り下げ、強さを見つけよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678921"
+    },
+    {
+      "english": "What you practice, you become.",
+      "japanese": "練習したことが、あなたになる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678924"
+    },
+    {
+      "english": "Take one step at a time.",
+      "japanese": "一度に、一歩ずつ進め。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678927"
+    },
+    {
+      "english": "Focus, and you will succeed.",
+      "japanese": "集中すれば、成功する。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678929"
+    },
+    {
+      "english": "Good habits, lead to greatness.",
+      "japanese": "良い習慣が、偉大さへ導く。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678932"
+    },
+    {
+      "english": "Make every day count.",
+      "japanese": "毎日を、大切に過ごせ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678935"
+    },
+    {
+      "english": "Skill comes from practice.",
+      "japanese": "技術は、練習から生まれる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678937"
+    },
+    {
+      "english": "Persistence conquers all.",
+      "japanese": "忍耐は、万事を克服する。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678939"
+    },
+    {
+      "english": "Invest in your learning.",
+      "japanese": "自分の学びへ、投資せよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678942"
+    },
+    {
+      "english": "Growth is a slow process.",
+      "japanese": "成長は、ゆっくりな過程。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678944"
+    },
+    {
+      "english": "Dedication brings results.",
+      "japanese": "献身が、結果をもたらす。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678949"
+    },
+    {
+      "english": "Master the basics first.",
+      "japanese": "まず、基本をマスターせよ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678951"
+    },
+    {
+      "english": "Inner peace, brings true success.",
+      "japanese": "心の平穏が、真の成功をもたらす。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678954"
+    },
+    {
+      "english": "Mistakes, are lessons in disguise.",
+      "japanese": "間違いは、隠れた学びだ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678956"
+    },
+    {
+      "english": "Deep breaths, help focus thoughts.",
+      "japanese": "深呼吸は、思考を集中させる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678959"
+    },
+    {
+      "english": "Self-belief, is the first step.",
+      "japanese": "自分を信じること、それが第一歩。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678962"
+    },
+    {
+      "english": "Honest effort, builds character.",
+      "japanese": "誠実な努力は、人格を築く。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678965"
+    },
+    {
+      "english": "Reflect often, learn more.",
+      "japanese": "よく振り返り、もっと学ぼう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678967"
+    },
+    {
+      "english": "Vulnerability, can be a superpower.",
+      "japanese": "弱さをさらけ出すこと、力になり得る。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678970"
+    },
+    {
+      "english": "Acceptance, unlocks peace.",
+      "japanese": "受け入れることで、心の平穏が開く。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678972"
+    },
+    {
+      "english": "Quiet persistence, wins.",
+      "japanese": "静かな粘り強さ、勝つ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678975"
+    },
+    {
+      "english": "Your inner voice, knows best.",
+      "japanese": "君の内なる声が、一番知っている。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678978"
+    },
+    {
+      "english": "Gratitude, fuels motivation.",
+      "japanese": "感謝の気持ち、やる気を高める。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678981"
+    },
+    {
+      "english": "Embrace the struggle, grow.",
+      "japanese": "苦労を受け入れて、成長しよう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678983"
+    },
+    {
+      "english": "Humility, is a great virtue.",
+      "japanese": "謙虚さ、それは素晴らしい美徳だ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678985"
+    },
+    {
+      "english": "The quiet moments, hold wisdom.",
+      "japanese": "静かな瞬間、知恵を秘めている。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678988"
+    },
+    {
+      "english": "Authenticity, attracts true connections.",
+      "japanese": "ありのままでいること、本当の繋がりを呼ぶ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678991"
+    },
+    {
+      "english": "Self-compassion, is essential.",
+      "japanese": "自分への思いやり、不可欠だ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678994"
+    },
+    {
+      "english": "Listen to your heart, always.",
+      "japanese": "常に、自分の心に耳を傾けよう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678996"
+    },
+    {
+      "english": "Forgiveness, liberates the soul.",
+      "japanese": "許しは、魂を解放する。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.678999"
+    },
+    {
+      "english": "Understand yourself, first.",
+      "japanese": "まず、自分自身を理解しよう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679003"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "japanese": "優しさ、何も費用はかからない。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679006"
+    },
+    {
+      "english": "Empathy, bridges divides.",
+      "japanese": "共感は、隔たりを埋める。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679008"
+    },
+    {
+      "english": "Inner calm, guides decisions.",
+      "japanese": "内なる平静が、決断を導く。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679011"
+    },
+    {
+      "english": "Honesty, builds trust.",
+      "japanese": "正直さ、信頼を築く。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679013"
+    },
+    {
+      "english": "Accepting flaws, is strength.",
+      "japanese": "欠点を受け入れること、それが強さだ。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679016"
+    },
+    {
+      "english": "Deep reflection, leads to clarity.",
+      "japanese": "深い内省、明確さにつながる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679019"
+    },
+    {
+      "english": "Gentle persistence, achieves much.",
+      "japanese": "穏やかな粘り強さ、多くを成し遂げる。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679021"
+    },
+    {
+      "english": "Peaceful mind, productive work.",
+      "japanese": "穏やかな心、生産的な仕事。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679024"
+    },
+    {
+      "english": "True connection, requires sincerity.",
+      "japanese": "真の繋がり、誠実さを必要とする。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679027"
+    },
+    {
+      "english": "Ask questions, when in doubt.",
+      "japanese": "わからない時, 質問しましょう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679032"
+    },
+    {
+      "english": "Small talk, builds connections.",
+      "japanese": "雑談は, 関係を築く。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679034"
+    },
+    {
+      "english": "Observe others, learn their ways.",
+      "japanese": "人を観察して, 学びましょう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679037"
+    },
+    {
+      "english": "Be polite, always.",
+      "japanese": "常に, 丁寧でいましょう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679039"
+    },
+    {
+      "english": "If lost, ask for directions.",
+      "japanese": "道に迷ったら, 聞きましょう。",
+      "category": "Success",
+      "generated_at": "2026-11-02T07:16:42.679042"
     }
   ],
-  "last_updated": "2026-11-01T07:09:43.848059"
+  "last_updated": "2026-11-02T07:16:42.679044"
 }
