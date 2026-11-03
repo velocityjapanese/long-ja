@@ -17549,7 +17549,727 @@
       "japanese": "道に迷ったら, 聞きましょう。",
       "category": "Success",
       "generated_at": "2026-11-02T07:16:42.679042"
+    },
+    {
+      "english": "Hey, want to hang out later?",
+      "japanese": "ねえ、あとで一緒に遊ばない？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091243"
+    },
+    {
+      "english": "Thanks for being here, seriously.",
+      "japanese": "来てくれてありがとう、ほんとに。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091259"
+    },
+    {
+      "english": "No worries, we’ve got time.",
+      "japanese": "大丈夫、時間あるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091262"
+    },
+    {
+      "english": "Send it, I’m ready to hear.",
+      "japanese": "言って、聞く準備できてる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091264"
+    },
+    {
+      "english": "That’s my favorite kind of drama.",
+      "japanese": "それ、いちばん好きな揉め事だわ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091266"
+    },
+    {
+      "english": "Wait, tell me the whole story.",
+      "japanese": "ちょっと、全部話してよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091268"
+    },
+    {
+      "english": "You always make me laugh, wow.",
+      "japanese": "あなたってほんと笑わせるなあ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091270"
+    },
+    {
+      "english": "I’m down, let’s do it right now.",
+      "japanese": "いいね、今すぐやろう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091275"
+    },
+    {
+      "english": "Seriously, you’re the best friend.",
+      "japanese": "マジで、あなた最高の友だち。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091278"
+    },
+    {
+      "english": "Come on, don’t overthink it.",
+      "japanese": "ねえ、考えすぎないで。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091280"
+    },
+    {
+      "english": "Want snacks? I got you covered.",
+      "japanese": "お菓子いる？任せて。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091283"
+    },
+    {
+      "english": "That’s hilarious, I’m crying.",
+      "japanese": "それ笑える、泣きそう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091285"
+    },
+    {
+      "english": "I’m proud of you, for real.",
+      "japanese": "ほんとに、あなたを誇りに思う。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091287"
+    },
+    {
+      "english": "Let’s celebrate, even if it’s small.",
+      "japanese": "小さくても、祝おう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091291"
+    },
+    {
+      "english": "If you need me, text me.",
+      "japanese": "困ったら、連絡してね。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091293"
+    },
+    {
+      "english": "We’ll figure it out, together.",
+      "japanese": "なんとかなるよ、一緒に。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091295"
+    },
+    {
+      "english": "Your taste is elite, no joke.",
+      "japanese": "センス最高、マジで。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091296"
+    },
+    {
+      "english": "Stop, that’s too cute to handle.",
+      "japanese": "やめて、かわいすぎるって。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091298"
+    },
+    {
+      "english": "I’m listening, go ahead.",
+      "japanese": "聞いてるよ、続けて。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091300"
+    },
+    {
+      "english": "We’re the same type of chaos, lol.",
+      "japanese": "私たち同じタイプのカオスだね、笑。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091302"
+    },
+    {
+      "english": "Today felt weird, thanks for checking.",
+      "japanese": "今日は変だった、気にかけてくれてありがとう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091303"
+    },
+    {
+      "english": "You got me, I trust you.",
+      "japanese": "わかってる、あなたを信じてる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091305"
+    },
+    {
+      "english": "Let’s match outfits, please.",
+      "japanese": "服、合わせよ？お願い。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091307"
+    },
+    {
+      "english": "That advice was, wow, perfect.",
+      "japanese": "そのアドバイス、最高だった。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091309"
+    },
+    {
+      "english": "I won’t judge, promise.",
+      "japanese": "決めつけないよ、約束。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091313"
+    },
+    {
+      "english": "Friends do weird things, it’s fine.",
+      "japanese": "友だちって変なことするよね、いいよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091315"
+    },
+    {
+      "english": "You’re my go-to person, always.",
+      "japanese": "あなたが一番頼りになる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091317"
+    },
+    {
+      "english": "When I’m down, you show up.",
+      "japanese": "落ち込むと、あなたが来てくれる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091319"
+    },
+    {
+      "english": "Let’s keep it real, no stress.",
+      "japanese": "ありのままでいこう、気にしない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091320"
+    },
+    {
+      "english": "Thanks for your patience, seriously.",
+      "japanese": "待ってくれてありがとう、ほんとに。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091322"
+    },
+    {
+      "english": "How’s your week going, really?",
+      "japanese": "今週、どう？本音で教えて。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091324"
+    },
+    {
+      "english": "Can I ask you something, quick?",
+      "japanese": "ちょっと聞いていい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091326"
+    },
+    {
+      "english": "Do you have time to talk today?",
+      "japanese": "今日、ちょっと話せる？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091328"
+    },
+    {
+      "english": "What should I do in this situation?",
+      "japanese": "この状況、どうしたらいい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091330"
+    },
+    {
+      "english": "Are you okay, or should I worry?",
+      "japanese": "大丈夫？それとも心配かな。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091331"
+    },
+    {
+      "english": "Which plan sounds better to you?",
+      "japanese": "どっちの予定がいい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091333"
+    },
+    {
+      "english": "How do you usually handle stress?",
+      "japanese": "ストレスって、どうやって解消する？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091335"
+    },
+    {
+      "english": "What’s been on your mind lately?",
+      "japanese": "最近、なに考えてる？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091336"
+    },
+    {
+      "english": "Can you help me choose, please?",
+      "japanese": "選ぶの、手伝ってくれる？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091338"
+    },
+    {
+      "english": "Do you want to talk, or rest?",
+      "japanese": "話したい？それとも休みたい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091341"
+    },
+    {
+      "english": "What would you recommend for me?",
+      "japanese": "私におすすめって、なにある？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091342"
+    },
+    {
+      "english": "How’s it going, compared to last week?",
+      "japanese": "先週より、どう？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091345"
+    },
+    {
+      "english": "Should we text, or call instead?",
+      "japanese": "連絡は、電話？それともLINE？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091346"
+    },
+    {
+      "english": "I’m curious, what’s your take?",
+      "japanese": "気になるんだけど、どう思う？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091348"
+    },
+    {
+      "english": "Can I get your honest opinion?",
+      "japanese": "正直な意見、聞いていい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091350"
+    },
+    {
+      "english": "What’s your next plan after this?",
+      "japanese": "これ終わったら、次なにする？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091352"
+    },
+    {
+      "english": "Do you want advice, or just listen?",
+      "japanese": "アドバイスいる？それとも聞くだけでいい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091353"
+    },
+    {
+      "english": "How can I support you right now?",
+      "japanese": "今なに手伝える？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091355"
+    },
+    {
+      "english": "What helped you get through it?",
+      "japanese": "どうやって乗り切ったの？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091356"
+    },
+    {
+      "english": "Would you feel better if we met?",
+      "japanese": "会ったら、少し楽になる？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091358"
+    },
+    {
+      "english": "Which friend advice do you trust most?",
+      "japanese": "友達のアドバイス、何を信じる？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091359"
+    },
+    {
+      "english": "What’s something small you want today?",
+      "japanese": "今日、ちょっとしたいことある？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091361"
+    },
+    {
+      "english": "Can we talk about what happened?",
+      "japanese": "さっきのこと、話してもいい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091362"
+    },
+    {
+      "english": "Do you mind if I join you?",
+      "japanese": "一緒に行ってもいい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091364"
+    },
+    {
+      "english": "What’s the vibe today, calm or busy?",
+      "japanese": "今日はのんびり？それとも忙しい？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091366"
+    },
+    {
+      "english": "I heard that, tell me more.",
+      "japanese": "それ聞いたけど、詳しく教えて。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091367"
+    },
+    {
+      "english": "Should we make a plan for tomorrow?",
+      "japanese": "明日、予定立てる？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091371"
+    },
+    {
+      "english": "What’s one thing you need from me?",
+      "japanese": "私に必要なこと、何かある？",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091373"
+    },
+    {
+      "english": "If you want, we can brainstorm together.",
+      "japanese": "よかったら、一緒に考えよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091374"
+    },
+    {
+      "english": "Small wins count, we notice together.",
+      "japanese": "小さな勝ちも大事, みんなで見よう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091376"
+    },
+    {
+      "english": "Hey, breathe, you’ve got this.",
+      "japanese": "ねえ、深呼吸して, できるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091378"
+    },
+    {
+      "english": "Call me, I’ll hype you up.",
+      "japanese": "電話して, ちゃんと元気出すよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091381"
+    },
+    {
+      "english": "Let’s be kind, it changes everything.",
+      "japanese": "やさしくしよう, それで全部変わる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091383"
+    },
+    {
+      "english": "Good friends, good vibes, right?",
+      "japanese": "いい友だち, いい気分だよね。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091385"
+    },
+    {
+      "english": "No pressure, we’ll figure it out.",
+      "japanese": "気にしないで, なんとかなる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091387"
+    },
+    {
+      "english": "Your effort shows, even when nobody does.",
+      "japanese": "がんばりは伝わる, 誰も見てなくても。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091389"
+    },
+    {
+      "english": "We can start over, anytime.",
+      "japanese": "いつでもやり直せる, だから大丈夫。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091391"
+    },
+    {
+      "english": "Trust your pace, you’re not behind.",
+      "japanese": "自分のペース信じて, 置いていかれてない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091393"
+    },
+    {
+      "english": "Today’s hard, tomorrow can be better.",
+      "japanese": "今日はつらい, 明日は良くなるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091395"
+    },
+    {
+      "english": "You don’t have to do it alone.",
+      "japanese": "一人で抱えなくていいよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091397"
+    },
+    {
+      "english": "Your feelings make sense, okay?",
+      "japanese": "気持ち, ちゃんと分かるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091398"
+    },
+    {
+      "english": "Let’s celebrate the try, not perfection.",
+      "japanese": "完璧じゃなくて, 挑戦を祝おう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091400"
+    },
+    {
+      "english": "I’m here, steady, no drama.",
+      "japanese": "ここにいるよ, 落ち着いて, 大丈夫。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091404"
+    },
+    {
+      "english": "You’re stronger than your thoughts.",
+      "japanese": "考えより, あなたのほうが強い。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091406"
+    },
+    {
+      "english": "Small steps, big friend energy.",
+      "japanese": "一歩ずつ, 友だちパワーでいこう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091407"
+    },
+    {
+      "english": "We’ve got each other, that’s it.",
+      "japanese": "お互いにいる, それだけでいい。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091410"
+    },
+    {
+      "english": "Say it, you matter to me.",
+      "japanese": "言っていいよ, あなたは大事。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091411"
+    },
+    {
+      "english": "Even quiet support counts, a lot.",
+      "japanese": "黙って支えるのも, すごく大きい。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091413"
+    },
+    {
+      "english": "Keep going, I’ll cheer on you.",
+      "japanese": "続けて, 応援してるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091416"
+    },
+    {
+      "english": "You’re learning, that’s the win.",
+      "japanese": "学んでる, それが勝ちだよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091418"
+    },
+    {
+      "english": "Let’s reset, fresh start, same us.",
+      "japanese": "リセットしよ, 新しいスタートでいこう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091420"
+    },
+    {
+      "english": "You bring light, even on tough days.",
+      "japanese": "大変な日でも, あなたは光になる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091422"
+    },
+    {
+      "english": "Friendship grows, when we show up.",
+      "japanese": "友情は, 出会ってだけじゃなくて来ることで育つ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091424"
+    },
+    {
+      "english": "It’s okay to rest, we’re okay.",
+      "japanese": "休んでいいよ, 私たちは大丈夫。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091426"
+    },
+    {
+      "english": "You’re not a burden, ever.",
+      "japanese": "負担じゃないよ, 絶対に。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091428"
+    },
+    {
+      "english": "I’ve got your back, one hundred percent.",
+      "japanese": "味方だよ, ちゃんと百パーセント。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091430"
+    },
+    {
+      "english": "Let’s talk, then take one step.",
+      "japanese": "話そう, それから一歩進もう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091431"
+    },
+    {
+      "english": "I’m proud you said the real thing, today.",
+      "japanese": "今日、ほんとのことを言えてるのが誇らしい。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091434"
+    },
+    {
+      "english": "When you’re quiet, I still understand you.",
+      "japanese": "あなたが黙ってても、私はちゃんとわかる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091437"
+    },
+    {
+      "english": "You don’t need to be okay, all the time.",
+      "japanese": "ずっと大丈夫じゃなくていいよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091439"
+    },
+    {
+      "english": "I’m learning how to listen better, with time.",
+      "japanese": "時間が経つほど、もっと聴けるようになるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091443"
+    },
+    {
+      "english": "Your feelings are facts, not problems.",
+      "japanese": "あなたの気持ちは、問題じゃなくて事実だよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091445"
+    },
+    {
+      "english": "I get it, you’re tired, not lazy.",
+      "japanese": "わかるよ、怠けてるんじゃなくて疲れてる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091447"
+    },
+    {
+      "english": "Let’s take it slow, and stay honest.",
+      "japanese": "ゆっくり行こう、正直にいこう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091449"
+    },
+    {
+      "english": "You can be messy, I won’t judge.",
+      "japanese": "ぐちゃぐちゃでも大丈夫、私は判断しない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091453"
+    },
+    {
+      "english": "I trust you, even when you doubt yourself.",
+      "japanese": "あなたが自分を疑っても、私は信じてる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091455"
+    },
+    {
+      "english": "Sometimes the best comfort is just staying.",
+      "japanese": "慰めって、たまにただ一緒にいること。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091456"
+    },
+    {
+      "english": "Thanks for letting me be close to you.",
+      "japanese": "近くにいさせてくれて、ありがとう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091457"
+    },
+    {
+      "english": "Even laughs can hide real worries, right?",
+      "japanese": "笑いの裏に、本当の不安があるよね。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091459"
+    },
+    {
+      "english": "I don’t need perfect stories, just truth.",
+      "japanese": "完璧な話じゃなくていい、ほんとでいい。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091461"
+    },
+    {
+      "english": "We’ve grown, but I’m still on your side.",
+      "japanese": "私たち成長したね、でも味方は変わらない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091464"
+    },
+    {
+      "english": "If you drift, I’ll notice and follow.",
+      "japanese": "もし離れても、気づいてついていくよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091465"
+    },
+    {
+      "english": "I respect your space, and I care too.",
+      "japanese": "距離は尊重する、でも気持ちはちゃんとある。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091467"
+    },
+    {
+      "english": "We don’t fix you, we stand with you.",
+      "japanese": "あなたを直すんじゃなくて、そばにいる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091469"
+    },
+    {
+      "english": "That pause you take, I won’t rush you.",
+      "japanese": "あなたの間を、急かしたりしない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091471"
+    },
+    {
+      "english": "I’m okay admitting I’m scared sometimes.",
+      "japanese": "私もこわいって言うこと、ちゃんとできるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091473"
+    },
+    {
+      "english": "Your progress counts, even if it’s slow.",
+      "japanese": "ゆっくりでも進んでる、それで十分だよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091475"
+    },
+    {
+      "english": "I won’t ghost you when things get heavy.",
+      "japanese": "しんどい時に、私は放っておかない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091477"
+    },
+    {
+      "english": "Let’s be real, not just polite today.",
+      "japanese": "今日は丁寧だけじゃなく、正直にいこう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091479"
+    },
+    {
+      "english": "I can hold your story with care.",
+      "japanese": "あなたの話、やさしく受け止めるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091482"
+    },
+    {
+      "english": "Sometimes I need you, too, you know.",
+      "japanese": "実は私も、あなたに助けてもらう時ある。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091484"
+    },
+    {
+      "english": "Your honesty makes our friendship deeper.",
+      "japanese": "本音があると、友情がもっと深くなる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091486"
+    },
+    {
+      "english": "I’ll stay steady, even when you waver.",
+      "japanese": "あなたが揺れても、私は落ち着いてる。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091488"
+    },
+    {
+      "english": "We can remember the good, then breathe.",
+      "japanese": "いいことを思い出して、それから深呼吸しよう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091490"
+    },
+    {
+      "english": "You don’t have to earn my love.",
+      "japanese": "私の気持ちは、頑張って取りに行くものじゃない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091491"
+    },
+    {
+      "english": "I’ll say it kindly, not sugarcoat it.",
+      "japanese": "優しく言うよ、でもごまかさない。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091493"
+    },
+    {
+      "english": "Let’s reflect, and choose what helps you.",
+      "japanese": "振り返って、あなたに合う道を選ぼう。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091495"
+    },
+    {
+      "english": "Text me later, when you’re free.",
+      "japanese": "あとで暇なら、連絡してね。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091497"
+    },
+    {
+      "english": "No worries, I’ll match your pace.",
+      "japanese": "大丈夫、あなたのペースに合わせるよ。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091499"
+    },
+    {
+      "english": "Let’s grab coffee, quick check-in first.",
+      "japanese": "コーヒーでも行こ、まず近況聞かせて。",
+      "category": "Friendship",
+      "generated_at": "2026-11-03T07:37:19.091501"
     }
   ],
-  "last_updated": "2026-11-02T07:16:42.679044"
+  "last_updated": "2026-11-03T07:37:19.091504"
 }
