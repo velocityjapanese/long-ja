@@ -18269,7 +18269,727 @@
       "japanese": "コーヒーでも行こ、まず近況聞かせて。",
       "category": "Friendship",
       "generated_at": "2026-11-03T07:37:19.091501"
+    },
+    {
+      "english": "How much is this, in yen?",
+      "japanese": "これ、円でいくらですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047130"
+    },
+    {
+      "english": "Do you take card, or cash?",
+      "japanese": "カードで払えますか、それとも現金ですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047147"
+    },
+    {
+      "english": "Can I pay by phone, please?",
+      "japanese": "スマホ決済できますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047149"
+    },
+    {
+      "english": "I need to withdraw cash, please.",
+      "japanese": "現金を引き出したいです。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047151"
+    },
+    {
+      "english": "Where is the ATM, around here?",
+      "japanese": "このへんにATMはありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047152"
+    },
+    {
+      "english": "Is there a fee, for withdrawal?",
+      "japanese": "引き出す手数料はかかりますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047154"
+    },
+    {
+      "english": "I’m checking my balance, quick.",
+      "japanese": "残高を確認します、すぐに。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047157"
+    },
+    {
+      "english": "My card isn’t working, help!",
+      "japanese": "カードが使えないんですが。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047162"
+    },
+    {
+      "english": "Do I need my PIN, right?",
+      "japanese": "暗証番号が必要ですよね？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047165"
+    },
+    {
+      "english": "I forgot my PIN, what now?",
+      "japanese": "暗証番号を忘れちゃいました。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047167"
+    },
+    {
+      "english": "Can you refund it, please?",
+      "japanese": "返金できますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047169"
+    },
+    {
+      "english": "Is this charge correct, or not?",
+      "japanese": "この請求は合ってますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047171"
+    },
+    {
+      "english": "I think I got charged twice.",
+      "japanese": "二重に引き落とされたみたいです。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047172"
+    },
+    {
+      "english": "Wait, what’s the exchange rate?",
+      "japanese": "ちょっと、為替レートはどれですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047175"
+    },
+    {
+      "english": "Where do I change money safely?",
+      "japanese": "安全に両替できる場所はどこですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047176"
+    },
+    {
+      "english": "What’s the best rate today?",
+      "japanese": "今日いちばんレートいいのはどこですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047178"
+    },
+    {
+      "english": "Do you have no-commission exchange?",
+      "japanese": "手数料なしの両替はありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047180"
+    },
+    {
+      "english": "I’ll pay later, okay?",
+      "japanese": "あとで払います、いいですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047182"
+    },
+    {
+      "english": "Can I split the bill, please?",
+      "japanese": "支払いを分けられますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047184"
+    },
+    {
+      "english": "Do you accept international transfers?",
+      "japanese": "海外送金はできますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047185"
+    },
+    {
+      "english": "What’s my account number again?",
+      "japanese": "口座番号ってどれでしたっけ？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047188"
+    },
+    {
+      "english": "Is there a limit per day?",
+      "japanese": "1日あたりの上限はありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047190"
+    },
+    {
+      "english": "My transaction is pending, right now.",
+      "japanese": "今、取引が保留中です。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047192"
+    },
+    {
+      "english": "Any discounts with this card?",
+      "japanese": "このカードで割引ありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047193"
+    },
+    {
+      "english": "I just need a simple receipt.",
+      "japanese": "領収書だけください。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047194"
+    },
+    {
+      "english": "Where can I top up my card?",
+      "japanese": "このカード、チャージできるのはどこですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047196"
+    },
+    {
+      "english": "I’ll check my expenses, quickly.",
+      "japanese": "支出をすぐ確認します。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047198"
+    },
+    {
+      "english": "Don’t worry, it’s covered here.",
+      "japanese": "大丈夫、ここで負担します。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047200"
+    },
+    {
+      "english": "Sorry, I don’t have enough cash.",
+      "japanese": "すみません、現金が足りません。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047202"
+    },
+    {
+      "english": "Which bank apps are useful here?",
+      "japanese": "ここで役立つ銀行アプリはどれですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047205"
+    },
+    {
+      "english": "Is there a cheaper option, for fees?",
+      "japanese": "手数料が安い方法はありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047207"
+    },
+    {
+      "english": "Can I ask about transfer timing?",
+      "japanese": "送金の時間について聞いてもいいですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047209"
+    },
+    {
+      "english": "What do you recommend for first-timers?",
+      "japanese": "初めてなら何がおすすめですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047211"
+    },
+    {
+      "english": "Do I need an appointment, here?",
+      "japanese": "ここは予約が必要ですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047212"
+    },
+    {
+      "english": "Could you explain the steps, please?",
+      "japanese": "手順を教えてもらえますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047214"
+    },
+    {
+      "english": "How long does verification take, usually?",
+      "japanese": "本人確認って、だいたい何分かかりますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047216"
+    },
+    {
+      "english": "What should I prepare for this?",
+      "japanese": "これには何を用意すればいいですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047218"
+    },
+    {
+      "english": "Is this a secure, legit service?",
+      "japanese": "これは安全で正規のサービスですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047219"
+    },
+    {
+      "english": "Can you help me set up autopay?",
+      "japanese": "オートペイの設定を手伝ってもらえますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047222"
+    },
+    {
+      "english": "Do I need to activate my new card?",
+      "japanese": "新しいカードは有効化が必要ですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047223"
+    },
+    {
+      "english": "How do I update my phone number?",
+      "japanese": "電話番号の変更はどうすればいいですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047225"
+    },
+    {
+      "english": "Is there a limit for international use?",
+      "japanese": "海外利用の上限はありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047227"
+    },
+    {
+      "english": "What’s the difference, between these accounts?",
+      "japanese": "この口座の違いは何ですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047229"
+    },
+    {
+      "english": "Can I lock my card in the app?",
+      "japanese": "アプリでカードを一時停止できますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047230"
+    },
+    {
+      "english": "If I lose it, what should I do?",
+      "japanese": "もしなくしたら、どうすればいいですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047232"
+    },
+    {
+      "english": "Does this include insurance, or not?",
+      "japanese": "これは保険がついていますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047234"
+    },
+    {
+      "english": "Is there a minimum balance requirement?",
+      "japanese": "最低残高の条件はありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047235"
+    },
+    {
+      "english": "How do I download statements, please?",
+      "japanese": "明細のダウンロード方法はどれですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047237"
+    },
+    {
+      "english": "What’s the fastest way to top up?",
+      "japanese": "チャージは一番早く何でできますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047238"
+    },
+    {
+      "english": "Can I pay in installments, maybe?",
+      "japanese": "分割払いはできますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047240"
+    },
+    {
+      "english": "Which option saves the most time?",
+      "japanese": "時間を一番節約できる方法はどれですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047242"
+    },
+    {
+      "english": "Would you check my receipt for me?",
+      "japanese": "レシート、確認してもらえますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047243"
+    },
+    {
+      "english": "Is cashback available with this card?",
+      "japanese": "このカードでキャッシュバックはありますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047245"
+    },
+    {
+      "english": "How do I report suspicious charges?",
+      "japanese": "怪しい請求はどうやって報告しますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047246"
+    },
+    {
+      "english": "Can I change my withdrawal method?",
+      "japanese": "引き出し方法は変更できますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047248"
+    },
+    {
+      "english": "Do you support foreign ID for verification?",
+      "japanese": "外国の身分証でも確認できますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047249"
+    },
+    {
+      "english": "What documents do I need for opening?",
+      "japanese": "口座開設に必要な書類は何ですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047251"
+    },
+    {
+      "english": "If something fails, who helps us?",
+      "japanese": "うまくいかなかったら、誰に連絡しますか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047252"
+    },
+    {
+      "english": "Thanks, so I should do this now?",
+      "japanese": "ありがとうございます、じゃあ今これをやればいいですか？",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047254"
+    },
+    {
+      "english": "You’ve got this, money follows your plan.",
+      "japanese": "大丈夫、あなたの計画にお金はついてくる。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047256"
+    },
+    {
+      "english": "Small wins today, bigger savings tomorrow.",
+      "japanese": "今日の小さな勝ち, 明日の大きな貯金。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047258"
+    },
+    {
+      "english": "Set the goal, keep it simple.",
+      "japanese": "目標を決めて, シンプルに続けよう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047261"
+    },
+    {
+      "english": "Track it, trust yourself, stay consistent.",
+      "japanese": "記録して, 自分を信じて, 続けよう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047263"
+    },
+    {
+      "english": "Every deposit is a step closer.",
+      "japanese": "入金ひとつ, 夢に一歩ずつ近づく。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047265"
+    },
+    {
+      "english": "Breathe, calm down, choose wisely.",
+      "japanese": "落ち着いて, 深呼吸して, 慎重に選ぼう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047267"
+    },
+    {
+      "english": "Spend with care, you’ll feel better.",
+      "japanese": "大事に使えば, 気持ちが楽になる。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047269"
+    },
+    {
+      "english": "Check the numbers, don’t overthink.",
+      "japanese": "数字を見て, 考えすぎないで。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047271"
+    },
+    {
+      "english": "Your future self is cheering you on.",
+      "japanese": "未来の自分が, 応援してるよ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047272"
+    },
+    {
+      "english": "Let’s turn stress into smart choices.",
+      "japanese": "不安を賢い選択に変えよう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047274"
+    },
+    {
+      "english": "You’re not behind, you’re building.",
+      "japanese": "遅れてないよ, ちゃんと積み上げてる。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047277"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "japanese": "完璧より, 進歩に集中しよう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047278"
+    },
+    {
+      "english": "Make today count, save on purpose.",
+      "japanese": "今日を大事に, 意識して貯めよう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047280"
+    },
+    {
+      "english": "One habit, steady money momentum.",
+      "japanese": "習慣ひとつで, お金の流れが安定する。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047281"
+    },
+    {
+      "english": "Be proud, you handled that well.",
+      "japanese": "えらいね, うまくやれたよ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047283"
+    },
+    {
+      "english": "Plan first, then relax, you’ll be fine.",
+      "japanese": "先に計画して, そのあと落ち着いて, 大丈夫。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047285"
+    },
+    {
+      "english": "Treat your budget like a friend.",
+      "japanese": "予算を, 親友みたいに扱おう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047288"
+    },
+    {
+      "english": "Ask, learn, adjust, then keep going.",
+      "japanese": "聞いて, 学んで, 調整して, 進もう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047290"
+    },
+    {
+      "english": "You don’t need luck, just routine.",
+      "japanese": "運はいらない, ただ習慣だけ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047292"
+    },
+    {
+      "english": "This is your comeback, one transfer at a time.",
+      "japanese": "これが逆転の始まり, 振り込みひとつずつ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047294"
+    },
+    {
+      "english": "Keep it moving, your money story grows.",
+      "japanese": "動き続けて, お金の物語が育つ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047296"
+    },
+    {
+      "english": "Celebrate small changes, they matter a lot.",
+      "japanese": "小さな変化を祝って, それが大きいよ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047297"
+    },
+    {
+      "english": "Choose value over impulse, always.",
+      "japanese": "衝動より価値を選んで, いつも。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047299"
+    },
+    {
+      "english": "You’re building safety, one decision at once.",
+      "japanese": "安心を積み上げてる, 決断ひとつずつ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047303"
+    },
+    {
+      "english": "Trust your budget, it won’t betray you.",
+      "japanese": "予算を信じて, 裏切らないよ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047305"
+    },
+    {
+      "english": "Focus on earning, then protect it.",
+      "japanese": "稼ぐことに集中して, そのあと守ろう。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047307"
+    },
+    {
+      "english": "New month, new mindset, same you.",
+      "japanese": "新しい月, 新しい気持ち, あなたはあなた。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047309"
+    },
+    {
+      "english": "Say yes to savings, gently, daily.",
+      "japanese": "貯金に「はい」しよう, ゆっくり毎日。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047311"
+    },
+    {
+      "english": "I feel better after I review my spending.",
+      "japanese": "使い道を見直すと、気持ちが落ち着く。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047312"
+    },
+    {
+      "english": "Honestly, I’m nervous about big transfers.",
+      "japanese": "正直、大きい振り込みが怖い。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047315"
+    },
+    {
+      "english": "I want to be patient, not rush payments.",
+      "japanese": "焦らず、支払いは待ちたい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047316"
+    },
+    {
+      "english": "I’m learning to save without feeling guilty.",
+      "japanese": "罪悪感なく、貯金できるようになりたい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047319"
+    },
+    {
+      "english": "When I’m calm, budgeting feels easier.",
+      "japanese": "落ち着いていると、家計が楽になる。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047321"
+    },
+    {
+      "english": "I didn’t expect interest to matter so much.",
+      "japanese": "利息がこんなに大事だとは思わなかった。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047323"
+    },
+    {
+      "english": "I’m not chasing quick wins, I’m steadying myself.",
+      "japanese": "すぐ稼ぐより、自分を整えたい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047326"
+    },
+    {
+      "english": "I feel proud, even small amounts add up.",
+      "japanese": "少しずつでも、積み上がって嬉しい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047328"
+    },
+    {
+      "english": "I’m choosing honesty over perfect plans.",
+      "japanese": "完璧な計画より、正直でいたい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047330"
+    },
+    {
+      "english": "Sometimes I overspend, then I forgive myself.",
+      "japanese": "つい使いすぎても、ちゃんと許す。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047332"
+    },
+    {
+      "english": "I’m scared of fees, so I read everything.",
+      "japanese": "手数料が怖いから、全部読んでる。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047334"
+    },
+    {
+      "english": "I want my money to feel safe, inside me.",
+      "japanese": "お金が安心できる場所になってほしい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047335"
+    },
+    {
+      "english": "I’m taking it slow, because trust takes time.",
+      "japanese": "信頼は時間がかかるから、ゆっくりやる。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047337"
+    },
+    {
+      "english": "I hate surprises, so I check balances daily.",
+      "japanese": "びっくりは嫌だから、毎日残高を見る。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047339"
+    },
+    {
+      "english": "I’ve learned to pause before tapping “buy.”",
+      "japanese": "買う前に、一回止まるって学んだ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047342"
+    },
+    {
+      "english": "Honestly, I want more room to breathe.",
+      "japanese": "正直、もっと余裕がほしい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047343"
+    },
+    {
+      "english": "I’m trying to be kind with my budget.",
+      "japanese": "家計にやさしくする練習をしてる。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047345"
+    },
+    {
+      "english": "Even one transfer, I feel more in control.",
+      "japanese": "たった一回でも、コントロールできて嬉しい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047347"
+    },
+    {
+      "english": "I don’t need perfection, I need direction.",
+      "japanese": "完璧じゃなくていい、方向がほしい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047349"
+    },
+    {
+      "english": "I admit I worry, but I keep going.",
+      "japanese": "不安はあるけど、続ける。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047351"
+    },
+    {
+      "english": "When I write goals, my spending calms down.",
+      "japanese": "目標を書いたら、買い物が落ち着く。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047353"
+    },
+    {
+      "english": "I’m focusing on money habits, not money luck.",
+      "japanese": "運じゃなくて、お金の習慣を見直す。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047355"
+    },
+    {
+      "english": "I used to panic, now I check quietly.",
+      "japanese": "前は焦ってたけど、今は静かに確認する。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047356"
+    },
+    {
+      "english": "I’m proud I waited, instead of spending.",
+      "japanese": "待てた自分が誇らしい、無駄遣いしなかった。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047358"
+    },
+    {
+      "english": "It’s okay if my plan changes, I adjust.",
+      "japanese": "計画が変わっても大丈夫、調整すればいい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047361"
+    },
+    {
+      "english": "I don’t want debt to define my mood.",
+      "japanese": "借金に気分を決められたくない。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047362"
+    },
+    {
+      "english": "I’m grateful I can start small today.",
+      "japanese": "今日から小さく始められるのがありがたい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047364"
+    },
+    {
+      "english": "I take notes, because memories fade fast.",
+      "japanese": "メモしてる、記憶はすぐ薄れるから。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047366"
+    },
+    {
+      "english": "I’m learning to feel calm about money.",
+      "japanese": "お金のことで落ち着ける自分になりたい。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047368"
+    },
+    {
+      "english": "Right now, I choose stability, not excitement.",
+      "japanese": "今は、ワクワクより安定を選ぶ。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047370"
+    },
+    {
+      "english": "Before paying, double-check the account number.",
+      "japanese": "支払う前に、口座番号をもう一度確認。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047372"
+    },
+    {
+      "english": "Set alerts, so you notice spending fast.",
+      "japanese": "通知を設定して、使ったらすぐ気づく。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047373"
+    },
+    {
+      "english": "If it seems off, pause and verify.",
+      "japanese": "変だと思ったら、一回止めて確認して。",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-04T07:16:57.047375"
     }
   ],
-  "last_updated": "2026-11-03T07:37:19.091504"
+  "last_updated": "2026-11-04T07:16:57.047377"
 }
