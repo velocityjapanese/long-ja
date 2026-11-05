@@ -18989,7 +18989,727 @@
       "japanese": "変だと思ったら、一回止めて確認して。",
       "category": "Banking & Money",
       "generated_at": "2026-11-04T07:16:57.047375"
+    },
+    {
+      "english": "Hi, nice to meet you, I’m 〜",
+      "japanese": "こんにちは、はじめまして、〜です",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584379"
+    },
+    {
+      "english": "Nice to meet you, how’s it going?",
+      "japanese": "はじめまして、元気？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584394"
+    },
+    {
+      "english": "Hey, good timing, let’s talk",
+      "japanese": "お、いいタイミング、話そう",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584398"
+    },
+    {
+      "english": "Thanks for coming, I’m really glad",
+      "japanese": "来てくれてありがとう、すごくうれしい",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584402"
+    },
+    {
+      "english": "Hi hi, long time no see, you’re back!",
+      "japanese": "久しぶり、戻ってきたんだね！",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584405"
+    },
+    {
+      "english": "Oh, you’re here, come on in",
+      "japanese": "あ、来たんだね、入って",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584408"
+    },
+    {
+      "english": "Welcome! Sorry to keep you waiting",
+      "japanese": "いらっしゃい、待たせてごめんね",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584412"
+    },
+    {
+      "english": "Good morning, how was your day?",
+      "japanese": "おはよう、今日どうだった？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584417"
+    },
+    {
+      "english": "Good evening, thanks for making time",
+      "japanese": "こんばんは、時間作ってくれてありがとう",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584421"
+    },
+    {
+      "english": "Sorry, I’m late, thanks for waiting",
+      "japanese": "遅れてごめんね、待ってくれてありがとう",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584425"
+    },
+    {
+      "english": "Can I introduce myself real quick?",
+      "japanese": "自己紹介してもいい？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584428"
+    },
+    {
+      "english": "What should I call you, your name?",
+      "japanese": "名前なんて呼べばいい？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584430"
+    },
+    {
+      "english": "Great, let’s get started, shall we?",
+      "japanese": "よし、始めようか",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584434"
+    },
+    {
+      "english": "No worries, it’s totally fine",
+      "japanese": "大丈夫、大丈夫だよ",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584437"
+    },
+    {
+      "english": "Really? Wow, that’s awesome!",
+      "japanese": "えっ、マジ？すごいね！",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584440"
+    },
+    {
+      "english": "Oh wow, nice, I love that!",
+      "japanese": "うわ、いいね、それ最高！",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584443"
+    },
+    {
+      "english": "Cool, let’s do it together",
+      "japanese": "いいね、一緒にやろう",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584446"
+    },
+    {
+      "english": "Sorry, I didn’t catch your name",
+      "japanese": "ごめん、名前聞き取れなかった",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584449"
+    },
+    {
+      "english": "Say it again, please, slowly",
+      "japanese": "もう一回、ゆっくりお願い",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584452"
+    },
+    {
+      "english": "That’s right, nice to see you again",
+      "japanese": "そうそう、また会えてうれしい",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584455"
+    },
+    {
+      "english": "How are you doing these days?",
+      "japanese": "最近どう？元気？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584458"
+    },
+    {
+      "english": "Pleased to meet you,よろしくお願いします",
+      "japanese": "よろしくお願いします",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584462"
+    },
+    {
+      "english": "Nice meeting you, see you later",
+      "japanese": "またね、会えてよかった",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584464"
+    },
+    {
+      "english": "Excuse me, are you 〜?",
+      "japanese": "すみません、あなた〜？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584467"
+    },
+    {
+      "english": "You’re 〜, right? Nice to meet you",
+      "japanese": "あなた〜だよね、はじめまして",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584471"
+    },
+    {
+      "english": "Wow, you’re friendly, thanks!",
+      "japanese": "感じいいね、ありがとう",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584474"
+    },
+    {
+      "english": "Let me shake hands, nice to meet you",
+      "japanese": "握手しよ、はじめまして",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584477"
+    },
+    {
+      "english": "Please take care of me, from now on",
+      "japanese": "これからよろしくお願いします",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584479"
+    },
+    {
+      "english": "I’m happy to meet you today",
+      "japanese": "今日会えてうれしいです",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584484"
+    },
+    {
+      "english": "What brings you here today, by the way?",
+      "japanese": "ところで、今日は何の用で来たの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584487"
+    },
+    {
+      "english": "Are you new here, or returning?",
+      "japanese": "初めてですか、それともまた来たの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584492"
+    },
+    {
+      "english": "Do you know where the station is?",
+      "japanese": "駅はどこか分かりますか？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584500"
+    },
+    {
+      "english": "Which area are you staying in?",
+      "japanese": "どのへんに泊まってるの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584503"
+    },
+    {
+      "english": "What do you like to do on weekends?",
+      "japanese": "週末は何してるの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584505"
+    },
+    {
+      "english": "How long have you been studying Japanese?",
+      "japanese": "日本語はどれくらい勉強してるの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584508"
+    },
+    {
+      "english": "Is it your first time in this city?",
+      "japanese": "この町は初めて？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584510"
+    },
+    {
+      "english": "What language do you speak at home?",
+      "japanese": "家では何語を話すの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584513"
+    },
+    {
+      "english": "Do you have any tips for beginners?",
+      "japanese": "初心者向けのコツ、ありますか？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584515"
+    },
+    {
+      "english": "What’s your plan for the rest of today?",
+      "japanese": "今日のあとは、何する予定？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584518"
+    },
+    {
+      "english": "Can I ask, what’s your job?",
+      "japanese": "お仕事って、何してるの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584522"
+    },
+    {
+      "english": "Where did you learn Japanese, by chance?",
+      "japanese": "日本語はどこで習ったの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584524"
+    },
+    {
+      "english": "Is it okay to take photos here?",
+      "japanese": "ここで写真撮っても大丈夫？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584526"
+    },
+    {
+      "english": "What time do you usually meet people?",
+      "japanese": "人と会うのは、いつが多いの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584529"
+    },
+    {
+      "english": "Which route should I take to get there?",
+      "japanese": "そこへは、どの道がいい？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584531"
+    },
+    {
+      "english": "Do you prefer trains or buses today?",
+      "japanese": "今日は電車とバス、どっちがいい？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584534"
+    },
+    {
+      "english": "Have you tried this place yet?",
+      "japanese": "もうここ来たことある？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584536"
+    },
+    {
+      "english": "What’s something I shouldn’t miss?",
+      "japanese": "絶対に外せない所ってどこ？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584540"
+    },
+    {
+      "english": "Would you like to join us later?",
+      "japanese": "あとで一緒に行かない？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584542"
+    },
+    {
+      "english": "How do you say this word in Japanese?",
+      "japanese": "これ、どうやって日本語で言うの？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584544"
+    },
+    {
+      "english": "Can you write it in hiragana?",
+      "japanese": "ひらがなで書いてくれる？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584547"
+    },
+    {
+      "english": "Do you have a favorite snack to share?",
+      "japanese": "好きなお菓子、ある？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584549"
+    },
+    {
+      "english": "What’s the vibe here, friendly or quiet?",
+      "japanese": "ここって、雰囲気はどんな感じ？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584554"
+    },
+    {
+      "english": "Can we swap contact information, maybe?",
+      "japanese": "連絡先、交換してもいい？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584557"
+    },
+    {
+      "english": "Which apps do you use for directions?",
+      "japanese": "道案内は、何のアプリ使ってる？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584560"
+    },
+    {
+      "english": "What do you recommend for today’s weather?",
+      "japanese": "今日の天気なら、何着るといい？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584563"
+    },
+    {
+      "english": "How can I make this conversation easier?",
+      "japanese": "会話をスムーズにするコツある？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584565"
+    },
+    {
+      "english": "Any advice for me, before I go?",
+      "japanese": "行く前に、何かアドバイスある？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584568"
+    },
+    {
+      "english": "You’ve got this, let’s start simple, okay?",
+      "japanese": "大丈夫、まずはシンプルに始めよう、ね。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584572"
+    },
+    {
+      "english": "Great timing, you’re showing real confidence today.",
+      "japanese": "いいタイミングだね、今日は自信が伝わってくる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584575"
+    },
+    {
+      "english": "Relax, small talk is just warm-up.",
+      "japanese": "肩の力を抜いて、雑談はウォームアップだよ。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584578"
+    },
+    {
+      "english": "Good job, asking first breaks the ice.",
+      "japanese": "いいね、先に聞くと緊張がほどける。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584583"
+    },
+    {
+      "english": "Believe it, your questions make things easier.",
+      "japanese": "信じて、質問が空気をやわらげる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584586"
+    },
+    {
+      "english": "You’re doing better than you think, seriously.",
+      "japanese": "自分が思うより、ちゃんとできてるよ。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584589"
+    },
+    {
+      "english": "Nice effort, let’s keep the vibe positive.",
+      "japanese": "いい努力だね、気分は明るくいこう。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584592"
+    },
+    {
+      "english": "Every hello counts, you’re building momentum.",
+      "japanese": "挨拶は全部積み重なる、流れが来てる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584596"
+    },
+    {
+      "english": "Thanks for being open, it helps a lot.",
+      "japanese": "心を開いてくれてありがとう、すごく助かる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584598"
+    },
+    {
+      "english": "Stay curious, it turns strangers into friends.",
+      "japanese": "好奇心を持って、知らない人も友だちになる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584601"
+    },
+    {
+      "english": "No pressure, just enjoy the moment together.",
+      "japanese": "気楽にいこう、一緒に今を楽しもう。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584604"
+    },
+    {
+      "english": "You’re making it easy, I really appreciate it.",
+      "japanese": "やりやすいよ、ほんとに助かってる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584607"
+    },
+    {
+      "english": "Small wins matter, your smile does the work.",
+      "japanese": "小さな勝ちが大事だよ、その笑顔が効く。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584610"
+    },
+    {
+      "english": "It’s okay to stumble, growth sounds like that.",
+      "japanese": "たどたどしくて大丈夫、成長ってそういうこと。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584615"
+    },
+    {
+      "english": "I like your energy, it makes this calm.",
+      "japanese": "その雰囲気いいね、空気が落ち着く。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584618"
+    },
+    {
+      "english": "Keep going, you’re already on the right track.",
+      "japanese": "そのまま進もう、もう正しい道にいる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584621"
+    },
+    {
+      "english": "Thanks for the honesty, that trust feels good.",
+      "japanese": "正直に言ってくれてありがとう、その信頼が嬉しい。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584624"
+    },
+    {
+      "english": "You’re stronger than your nerves, don’t forget.",
+      "japanese": "緊張より強いよ、忘れないで。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584627"
+    },
+    {
+      "english": "Let’s make today easy, one step at a time.",
+      "japanese": "今日を楽にしよう、一歩ずつで大丈夫。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584631"
+    },
+    {
+      "english": "Great question, you’re opening the door.",
+      "japanese": "いい質問だね、ドアを開けてくれてる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584634"
+    },
+    {
+      "english": "You’re not alone, people love kind effort here.",
+      "japanese": "一人じゃないよ、ここは親切な努力が伝わる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584638"
+    },
+    {
+      "english": "Go ahead, your timing is actually perfect.",
+      "japanese": "どうぞ、今のタイミング本当にいいよ。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584640"
+    },
+    {
+      "english": "Stay positive, small smiles change everything.",
+      "japanese": "前向きに、ちょっとした笑顔で全部変わる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584643"
+    },
+    {
+      "english": "I’m impressed, you speak with clear confidence.",
+      "japanese": "すごい、はっきり自信を持って話してるね。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584646"
+    },
+    {
+      "english": "Thanks for meeting me, it brightens my day.",
+      "japanese": "会ってくれてありがとう、気持ちが明るくなる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584662"
+    },
+    {
+      "english": "Be brave, your first hello is the hardest.",
+      "japanese": "勇気出して、最初の一言が一番大変。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584666"
+    },
+    {
+      "english": "You’re doing great, let’s keep this friendly.",
+      "japanese": "ほんとに上手だよ、このまま感じよくいこう。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584670"
+    },
+    {
+      "english": "Good vibes only, we’re here to connect, right?",
+      "japanese": "いい感じだけね、つながりに来たんだよね？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584674"
+    },
+    {
+      "english": "Trust the process, speaking gets easier fast.",
+      "japanese": "流れを信じて、話すほど早く楽になる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584678"
+    },
+    {
+      "english": "You handled that well, proud of your effort.",
+      "japanese": "うまく対応できてるよ、努力がすごいね。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584681"
+    },
+    {
+      "english": "I’m a little nervous, but I’m here.",
+      "japanese": "少し緊張してるけど、来ました。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584684"
+    },
+    {
+      "english": "Thanks, I really needed a calm moment.",
+      "japanese": "ありがとう、落ち着ける時間がほしかった。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584687"
+    },
+    {
+      "english": "Today I want to be honest, not perfect.",
+      "japanese": "今日は、完璧じゃなくて正直でいたい。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584690"
+    },
+    {
+      "english": "I’m trying to slow down, listen first.",
+      "japanese": "急がずに、まず聞くようにしてる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584693"
+    },
+    {
+      "english": "Meeting people feels easier when I’m patient.",
+      "japanese": "人と会うのは、待てると楽になる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584696"
+    },
+    {
+      "english": "If it’s awkward, we can take it slow.",
+      "japanese": "気まずくても、ゆっくりで大丈夫。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584701"
+    },
+    {
+      "english": "I appreciate your kindness, it means a lot.",
+      "japanese": "やさしさが伝わって、すごく嬉しい。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584704"
+    },
+    {
+      "english": "I’m not rushing, I want real connection.",
+      "japanese": "急がないで、ちゃんと繋がりたい。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584707"
+    },
+    {
+      "english": "Honestly, I’ve been thinking about this.",
+      "japanese": "正直、ずっと考えてた。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584710"
+    },
+    {
+      "english": "Your smile makes me feel safe, really.",
+      "japanese": "その笑顔で安心する、ほんとに。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584713"
+    },
+    {
+      "english": "I’m learning, so please be patient with me.",
+      "japanese": "勉強中だから、ゆっくりお願いします。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584716"
+    },
+    {
+      "english": "I’ll be quiet for a second, then join in.",
+      "japanese": "ちょっと静かにして、あとで入る。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584719"
+    },
+    {
+      "english": "I’m glad we met, it feels meaningful.",
+      "japanese": "出会えてよかった、すごく意味がある。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584722"
+    },
+    {
+      "english": "Let’s talk when it feels comfortable for you.",
+      "japanese": "あなたが楽な時に話そう。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584725"
+    },
+    {
+      "english": "I don’t want to force anything, just connect.",
+      "japanese": "無理はしたくない、ただ繋がりたい。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584728"
+    },
+    {
+      "english": "I’m trying to speak slower, so I’m clear.",
+      "japanese": "ゆっくり話すようにして、伝わるように。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584731"
+    },
+    {
+      "english": "I feel better when we’re respectful and calm.",
+      "japanese": "丁寧で落ち着いてると、安心する。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584734"
+    },
+    {
+      "english": "I’m grateful you’re listening, it helps a lot.",
+      "japanese": "聞いてくれてありがとう、すごく助かる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584737"
+    },
+    {
+      "english": "If I pause, I’m thinking, please wait.",
+      "japanese": "黙ってる時は考えてる、待ってて。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584740"
+    },
+    {
+      "english": "I want to say this carefully, with respect.",
+      "japanese": "丁寧に、でもちゃんと言いたい。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584743"
+    },
+    {
+      "english": "Sometimes my words come late, that’s okay.",
+      "japanese": "言葉が遅れる時もある、でも大丈夫。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584746"
+    },
+    {
+      "english": "You seem patient, that makes me relax.",
+      "japanese": "落ち着いてる感じで、安心する。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584749"
+    },
+    {
+      "english": "I’m not sure yet, but I’m open.",
+      "japanese": "まだ分からないけど、心は開いてる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584752"
+    },
+    {
+      "english": "I’m realizing, small honesty builds trust.",
+      "japanese": "小さな正直さが信頼になるって分かった。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584755"
+    },
+    {
+      "english": "Thanks for the space, I’ll catch up.",
+      "japanese": "気を使ってくれてありがとう、追いつく。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584758"
+    },
+    {
+      "english": "I’m proud I showed up, even nervous.",
+      "japanese": "緊張してても来た自分、えらいと思う。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584761"
+    },
+    {
+      "english": "I want to remember names, so I try.",
+      "japanese": "名前は覚えたいから、頑張る。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584763"
+    },
+    {
+      "english": "Let’s keep it real, no pretending today.",
+      "japanese": "今日は、無理せず本音で話そう。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584768"
+    },
+    {
+      "english": "I might be awkward, but I’m sincere.",
+      "japanese": "ぎこちなくても、気持ちは本物。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584772"
+    },
+    {
+      "english": "Meeting you, I feel hopeful about today.",
+      "japanese": "あなたに会えて、今日が明るく感じる。",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584774"
+    },
+    {
+      "english": "Nice to see you again, how have you been?",
+      "japanese": "また会えて嬉しいです、最近どうですか？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584777"
+    },
+    {
+      "english": "First time here, may I ask your name?",
+      "japanese": "初めてです、お名前を教えてもらえますか？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584780"
+    },
+    {
+      "english": "Thanks, I’m doing okay, how about you?",
+      "japanese": "ありがとう、大丈夫です、あなたはどうですか？",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:44:47.584783"
     }
   ],
-  "last_updated": "2026-11-04T07:16:57.047377"
+  "last_updated": "2026-11-05T07:44:47.584785"
 }
