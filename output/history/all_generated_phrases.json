@@ -19709,7 +19709,727 @@
       "japanese": "ありがとう、大丈夫です、あなたはどうですか？",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-05T07:44:47.584783"
+    },
+    {
+      "english": "Okay, I’ll try, right now.",
+      "japanese": "よし、いまからやってみる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987092"
+    },
+    {
+      "english": "Wait, I didn’t get it.",
+      "japanese": "ちょっと、わからなかった。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987117"
+    },
+    {
+      "english": "No worries, it happens.",
+      "japanese": "大丈夫、よくあること。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987123"
+    },
+    {
+      "english": "Sorry, let me rephrase.",
+      "japanese": "ごめん、言い直すね。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987128"
+    },
+    {
+      "english": "Hold on, where exactly?",
+      "japanese": "待って、どこが正確に？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987133"
+    },
+    {
+      "english": "That makes sense, now.",
+      "japanese": "なるほど、今わかった。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987138"
+    },
+    {
+      "english": "Seriously, how do I say this?",
+      "japanese": "まじで、これ何て言うの？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987143"
+    },
+    {
+      "english": "Slow down, please, for me.",
+      "japanese": "ゆっくり話して、お願い。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987151"
+    },
+    {
+      "english": "I’m learning, step by step.",
+      "japanese": "勉強してる、少しずつ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987158"
+    },
+    {
+      "english": "Got it, thanks for that.",
+      "japanese": "わかった、ありがとう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987168"
+    },
+    {
+      "english": "Really? Tell me more, please.",
+      "japanese": "ほんと？もう少し教えて。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987172"
+    },
+    {
+      "english": "I’ll check later, okay?",
+      "japanese": "あとで確認するね、いい？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987175"
+    },
+    {
+      "english": "Let’s go, we’re almost there.",
+      "japanese": "行こう、もうすぐだよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987179"
+    },
+    {
+      "english": "I need it for today’s plan.",
+      "japanese": "今日の予定に必要なんだ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987182"
+    },
+    {
+      "english": "Just a moment, I’m busy.",
+      "japanese": "ちょっと待って、今手が離せない。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987185"
+    },
+    {
+      "english": "Maybe tomorrow, I can do it.",
+      "japanese": "明日ならできるかも。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987188"
+    },
+    {
+      "english": "That’s helpful, thanks again.",
+      "japanese": "助かる、もう一回ありがとう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987191"
+    },
+    {
+      "english": "I’ll be ready, don’t worry.",
+      "japanese": "準備できる、安心して。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987194"
+    },
+    {
+      "english": "Quick question, are you free?",
+      "japanese": "ちょっと聞いていい？空いてる？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987197"
+    },
+    {
+      "english": "Thanks, that’s exactly what I needed.",
+      "japanese": "ありがとう、それそれ！助かった。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987201"
+    },
+    {
+      "english": "I’m stuck, what’s the word?",
+      "japanese": "詰まった、単語どれ？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987204"
+    },
+    {
+      "english": "Wait, that sounds different.",
+      "japanese": "待って、それちょっと違うかも。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987207"
+    },
+    {
+      "english": "I get it, but I’m still unsure.",
+      "japanese": "わかるけど、まだ不安。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987211"
+    },
+    {
+      "english": "Please, write it in simple Japanese.",
+      "japanese": "簡単な日本語で書いて。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987213"
+    },
+    {
+      "english": "I’ll answer, give me a second.",
+      "japanese": "答えるね、ちょっと待って。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987216"
+    },
+    {
+      "english": "Nice, that’s the vibe I want.",
+      "japanese": "いいね、そういう感じが欲しい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987219"
+    },
+    {
+      "english": "Don’t rush, we’ll figure it out.",
+      "japanese": "急がなくていい、なんとかなる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987223"
+    },
+    {
+      "english": "I’m good, thanks for asking.",
+      "japanese": "大丈夫、聞いてくれてありがとう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987226"
+    },
+    {
+      "english": "Last try, then I’ll move on.",
+      "japanese": "最後にもう一回、それで終わり。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987229"
+    },
+    {
+      "english": "How do you ask politely, here?",
+      "japanese": "ここで丁寧にどう聞くの？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987232"
+    },
+    {
+      "english": "What should I say to start?",
+      "japanese": "最初は何て言えばいい？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987235"
+    },
+    {
+      "english": "Could you give me a quick example?",
+      "japanese": "例を少しだけ教えてくれる？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987237"
+    },
+    {
+      "english": "Is this sentence too casual?",
+      "japanese": "この文、カジュアルすぎる？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987240"
+    },
+    {
+      "english": "When should I use です instead?",
+      "japanese": "いつ です を使うべき？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987244"
+    },
+    {
+      "english": "What’s the best way to ask for help?",
+      "japanese": "助けてって何て言うのが自然？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987247"
+    },
+    {
+      "english": "Do you think this purpose is clear?",
+      "japanese": "この目的、伝わってる？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987252"
+    },
+    {
+      "english": "Could I ask why, in simpler words?",
+      "japanese": "もう少し簡単に、理由を聞いてもいい？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987255"
+    },
+    {
+      "english": "Which wording sounds more natural, please?",
+      "japanese": "どっちの言い方が自然？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987257"
+    },
+    {
+      "english": "Do I need to add any particles?",
+      "japanese": "助詞、何か足す必要ある？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987262"
+    },
+    {
+      "english": "Where can I use this in daily life?",
+      "japanese": "日常でこれはどこに使える？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987265"
+    },
+    {
+      "english": "What’s a polite reply I can use?",
+      "japanese": "丁寧な返事、何がいい？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987268"
+    },
+    {
+      "english": "Should I shorten it, or keep it?",
+      "japanese": "短くする？それともそのまま？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987271"
+    },
+    {
+      "english": "Can you correct my sentence, please?",
+      "japanese": "私の文、直してくれる？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987273"
+    },
+    {
+      "english": "What tone fits this situation best?",
+      "japanese": "この場面は、どんな口調が合う？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987276"
+    },
+    {
+      "english": "Would you say it like this, too?",
+      "japanese": "あなたも、こう言う？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987279"
+    },
+    {
+      "english": "How can I ask for permission politely?",
+      "japanese": "丁寧に許可をもらうには？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987281"
+    },
+    {
+      "english": "What’s a natural follow-up question?",
+      "japanese": "次に聞くなら、何が自然？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987286"
+    },
+    {
+      "english": "If I’m late, what should I say?",
+      "japanese": "遅れそうなとき、何て言う？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987289"
+    },
+    {
+      "english": "Is it okay to ask directly, or not?",
+      "japanese": "直接聞いてもいい？それとも避ける？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987292"
+    },
+    {
+      "english": "How do I sound more respectful here?",
+      "japanese": "ここでは、もっと丁寧に言うには？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987295"
+    },
+    {
+      "english": "What purpose does this sentence show?",
+      "japanese": "この文は、どんな目的を表す？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987297"
+    },
+    {
+      "english": "Could you help me choose the right phrase?",
+      "japanese": "この言い方、どれが正しい？選んで！",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987300"
+    },
+    {
+      "english": "Do you mean now, or later?",
+      "japanese": "今？それとも後で？どういう意味？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987302"
+    },
+    {
+      "english": "Can I confirm, this is the goal?",
+      "japanese": "確認していい？これが目的で合ってる？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987305"
+    },
+    {
+      "english": "What should I say when I agree?",
+      "japanese": "同意するとき、何て言えばいい？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987307"
+    },
+    {
+      "english": "If I disagree politely, how do I say it?",
+      "japanese": "丁寧に反対するなら、どう言う？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987310"
+    },
+    {
+      "english": "Which part should I emphasize, for purpose?",
+      "japanese": "目的なら、どこを強調する？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987314"
+    },
+    {
+      "english": "Can we practice, with short question sets?",
+      "japanese": "短い質問で練習できる？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987317"
+    },
+    {
+      "english": "What’s your suggestion for next conversation?",
+      "japanese": "次の会話、どんな提案する？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987321"
+    },
+    {
+      "english": "Keep going, small steps build momentum.",
+      "japanese": "続けて、少しずつが勢いになるよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987323"
+    },
+    {
+      "english": "Today’s practice counts, even if it’s messy.",
+      "japanese": "今日の練習は大事、ぐちゃぐちゃでもね。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987327"
+    },
+    {
+      "english": "You’re learning, that effort shows.",
+      "japanese": "学んでるんだ、その頑張りが伝わるよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987331"
+    },
+    {
+      "english": "Say it again, your brain updates fast.",
+      "japanese": "もう一回言って、脳はすぐ変わる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987333"
+    },
+    {
+      "english": "Mistakes are fuel, keep your pace.",
+      "japanese": "失敗は燃料、ペースを守ろう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987336"
+    },
+    {
+      "english": "Don’t quit, you’re closer than you think.",
+      "japanese": "やめないで、思ったより近いよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987340"
+    },
+    {
+      "english": "Trust the process, one word at a time.",
+      "japanese": "プロセスを信じて、一語ずつでOK。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987343"
+    },
+    {
+      "english": "Breathe, relax, then speak your next sentence.",
+      "japanese": "深呼吸して、落ち着いてから次言って。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987346"
+    },
+    {
+      "english": "Small win today, big change later.",
+      "japanese": "今日の小さな勝ち、あとで大きくなる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987351"
+    },
+    {
+      "english": "You can do this, keep it simple.",
+      "japanese": "できるよ、シンプルにいこう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987354"
+    },
+    {
+      "english": "Practice like a traveler, just enjoy it.",
+      "japanese": "旅人みたいに練習して、楽しもう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987357"
+    },
+    {
+      "english": "When you freeze, switch to short answers.",
+      "japanese": "固まったら、短い答えに切り替えて。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987359"
+    },
+    {
+      "english": "Your effort matters, even without perfect grammar.",
+      "japanese": "文法が完璧じゃなくても、頑張りは価値ある。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987368"
+    },
+    {
+      "english": "Celebrate progress, even one sentence is enough.",
+      "japanese": "進歩を喜ぼう、1文でも十分だよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987371"
+    },
+    {
+      "english": "Let curiosity drive you, ask and try.",
+      "japanese": "好奇心に任せて、聞いて試そう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987374"
+    },
+    {
+      "english": "Start where you are, don’t wait.",
+      "japanese": "今の場所から始めて、待たないで。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987377"
+    },
+    {
+      "english": "You’re building confidence, keep speaking out loud.",
+      "japanese": "自信が育ってる、声に出してね。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987381"
+    },
+    {
+      "english": "Be brave, one awkward moment is okay.",
+      "japanese": "勇気出して、一瞬のぎこちなさは平気。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987383"
+    },
+    {
+      "english": "Focus on meaning, the words will follow.",
+      "japanese": "意味を大事にして、言葉は後から来る。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987386"
+    },
+    {
+      "english": "You’re not behind, you’re training.",
+      "japanese": "遅れてないよ、ただ練習中。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987391"
+    },
+    {
+      "english": "Small routines win, study five minutes daily.",
+      "japanese": "習慣が勝つよ、毎日5分でいい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987395"
+    },
+    {
+      "english": "Keep your “why,” it powers everything.",
+      "japanese": "「なぜ」を持ってて、それが全部の力になる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987398"
+    },
+    {
+      "english": "Say it with a smile, it helps.",
+      "japanese": "笑顔で言って、助けになるよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987401"
+    },
+    {
+      "english": "Even one new phrase changes your day.",
+      "japanese": "新しいフレーズが一つでも、今日が変わる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987404"
+    },
+    {
+      "english": "Stop overthinking, start speaking right now.",
+      "japanese": "考えすぎないで、今すぐ話そう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987406"
+    },
+    {
+      "english": "Give yourself credit, you showed up.",
+      "japanese": "自分を褒めて、来ただけで偉い。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987409"
+    },
+    {
+      "english": "Ask for feedback, then adjust calmly.",
+      "japanese": "フィードバックを聞いて、落ち着いて直そう。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987412"
+    },
+    {
+      "english": "Keep learning joyfully, travel in your mind.",
+      "japanese": "楽しく学ぼう、心の中で旅するよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987415"
+    },
+    {
+      "english": "You’ve got this, tomorrow will be easier.",
+      "japanese": "大丈夫、明日はもっと楽になるよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987418"
+    },
+    {
+      "english": "I’m nervous, but I’ll try anyway.",
+      "japanese": "緊張してるけど, とりあえずやってみる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987421"
+    },
+    {
+      "english": "Honestly, I want to be more patient.",
+      "japanese": "正直, もっと待てる自分になりたい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987424"
+    },
+    {
+      "english": "I realize my feelings come first.",
+      "japanese": "気持ちは, まず自分で受け止める。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987427"
+    },
+    {
+      "english": "I’m learning, and that’s enough for now.",
+      "japanese": "勉強してる, それで今は十分。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987430"
+    },
+    {
+      "english": "When I get stuck, I slow down.",
+      "japanese": "詰まったら, いったんゆっくりする。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987433"
+    },
+    {
+      "english": "I don’t need perfection, just honesty.",
+      "japanese": "完璧じゃなくていい, 本音で話す。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987436"
+    },
+    {
+      "english": "I’m proud I kept going.",
+      "japanese": "続けられたこと, ちょっと誇らしい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987439"
+    },
+    {
+      "english": "I want to understand, not just react.",
+      "japanese": "反応するだけじゃなく, 理解したい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987442"
+    },
+    {
+      "english": "I’m okay with taking one more breath.",
+      "japanese": "もう一回, 深呼吸してもいい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987445"
+    },
+    {
+      "english": "I’m trying to be gentle with myself.",
+      "japanese": "自分には, ちょっと優しくしたい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987448"
+    },
+    {
+      "english": "Sometimes I doubt, but I keep speaking.",
+      "japanese": "不安になることもあるけど, 話し続ける。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987453"
+    },
+    {
+      "english": "I’m choosing calm, even if it’s hard.",
+      "japanese": "大変でも, 落ち着きを選ぶ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987457"
+    },
+    {
+      "english": "My goal is steady progress, not speed.",
+      "japanese": "目標は, 速さじゃなくて安定した進歩。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987459"
+    },
+    {
+      "english": "I’m not perfect, I’m sincerely improving.",
+      "japanese": "完璧じゃないけど, ちゃんと良くなってる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987463"
+    },
+    {
+      "english": "I’ll admit it, I need time.",
+      "japanese": "正直に言うと, 時間が必要。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987466"
+    },
+    {
+      "english": "I reflect, then I adjust my next words.",
+      "japanese": "振り返って, 次の言葉を直す。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987469"
+    },
+    {
+      "english": "My honest feeling is, I’m getting better.",
+      "japanese": "本音では, ちゃんと良くなってる気がする。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987472"
+    },
+    {
+      "english": "I’m okay being awkward, it means growth.",
+      "japanese": "ぎこちなくてもいい, 成長のサインだよ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987476"
+    },
+    {
+      "english": "I’ll pause, so my thoughts catch up.",
+      "japanese": "一回止まる, ちゃんと考えが追いつく。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987479"
+    },
+    {
+      "english": "I keep my purpose, even when tired.",
+      "japanese": "疲れても, 目的は手放さない。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987481"
+    },
+    {
+      "english": "I care about how I speak, truly.",
+      "japanese": "どう話すか, ちゃんと大事にしてる。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987484"
+    },
+    {
+      "english": "I’m listening for feelings, not only grammar.",
+      "japanese": "文法だけじゃなく, 気持ちを聞く。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987487"
+    },
+    {
+      "english": "I’m grateful, even for small progress.",
+      "japanese": "小さくても進めたら, ありがたい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987494"
+    },
+    {
+      "english": "I want to speak from real experience.",
+      "japanese": "本当の経験から, 話したい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987497"
+    },
+    {
+      "english": "I won’t hide my struggle, it’s part of me.",
+      "japanese": "苦しさを隠さない, それも自分。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987501"
+    },
+    {
+      "english": "Right now, I choose honesty over speed.",
+      "japanese": "今は, はやさより本音を選ぶ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987503"
+    },
+    {
+      "english": "I’m proud I stayed, even quietly.",
+      "japanese": "静かでも, 続けた自分を褒めたい。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987506"
+    },
+    {
+      "english": "I take it personally, then let it go.",
+      "japanese": "個人的に受け取る, でも手放す。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987509"
+    },
+    {
+      "english": "My reflection says, keep showing up.",
+      "japanese": "振り返ると, 出ていくことが大事だ。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987512"
+    },
+    {
+      "english": "Morning check-in, what matters today?",
+      "japanese": "朝の確認, 今日いちばん大事なことは何？",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987515"
+    },
+    {
+      "english": "Before speaking, breathe once, then answer.",
+      "japanese": "話す前に, 一回深呼吸してから答える。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987518"
+    },
+    {
+      "english": "If you mess up, just apologize quickly.",
+      "japanese": "ミスしたら, すぐ謝って大丈夫。",
+      "category": "Purpose",
+      "generated_at": "2026-11-06T07:41:45.987521"
     }
   ],
-  "last_updated": "2026-11-05T07:44:47.584785"
+  "last_updated": "2026-11-06T07:41:45.987523"
 }
