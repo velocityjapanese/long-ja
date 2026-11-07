@@ -20429,7 +20429,727 @@
       "japanese": "ミスしたら, すぐ謝って大丈夫。",
       "category": "Purpose",
       "generated_at": "2026-11-06T07:41:45.987521"
+    },
+    {
+      "english": "Great ideas, keep moving forward",
+      "japanese": "いいアイデア, とにかく進もう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810001"
+    },
+    {
+      "english": "Not bad, try again tomorrow",
+      "japanese": "わるくない, 明日またやろう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810016"
+    },
+    {
+      "english": "Wait, that could work too",
+      "japanese": "ちょっと待って, それもいけるかも",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810020"
+    },
+    {
+      "english": "Hold on, I have a new thought",
+      "japanese": "待って, 新しい考えが浮かんだ",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810023"
+    },
+    {
+      "english": "Let’s brainstorm, no judging, just ideas",
+      "japanese": "ブレストしよう, まずは否定なし",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810027"
+    },
+    {
+      "english": "Nice, that’s a strong direction",
+      "japanese": "いいね, それは方向性が強い",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810030"
+    },
+    {
+      "english": "Hmm, what if we remix it?",
+      "japanese": "うーん, それアレンジしてみるのはどう？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810036"
+    },
+    {
+      "english": "Good start, now add one more twist",
+      "japanese": "いいスタート, もう一工夫しよう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810041"
+    },
+    {
+      "english": "Cool, I’ll build on that",
+      "japanese": "いいね, それを土台にするよ",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810046"
+    },
+    {
+      "english": "Wait, reverse the order, maybe",
+      "japanese": "待って, 順番を逆にしてみようか",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810049"
+    },
+    {
+      "english": "I’m stuck, give me a hint",
+      "japanese": "詰まった, ヒントちょうだい",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810052"
+    },
+    {
+      "english": "Try this trick, it’s simple",
+      "japanese": "このコツ試して, けっこう簡単",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810055"
+    },
+    {
+      "english": "That’s different, I like it",
+      "japanese": "それは新しいね, いい感じ",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810058"
+    },
+    {
+      "english": "Oops, that’s not it, yet",
+      "japanese": "おっと, まだ違うかも",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810061"
+    },
+    {
+      "english": "Okay, let’s keep it practical",
+      "japanese": "よし, まずは現実的にいこう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810064"
+    },
+    {
+      "english": "Quick question, what’s the goal?",
+      "japanese": "質問, 目的は何？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810067"
+    },
+    {
+      "english": "Great, make it clearer, please",
+      "japanese": "いいね, もっとわかりやすくして",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810070"
+    },
+    {
+      "english": "Hmm, I don’t buy it, change it",
+      "japanese": "うーん, それは納得できない, 変えよう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810073"
+    },
+    {
+      "english": "Yes, that’s the vibe I need",
+      "japanese": "うん, まさに欲しかった感じ",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810076"
+    },
+    {
+      "english": "Stop overthinking, just start",
+      "japanese": "考えすぎないで, とにかく始めて",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810079"
+    },
+    {
+      "english": "Keep it short, then test it",
+      "japanese": "短くして, まず試そう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810081"
+    },
+    {
+      "english": "Nice catch, that’s a good clue",
+      "japanese": "ナイス, それいいヒントだね",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810084"
+    },
+    {
+      "english": "I’ll try a different angle, now",
+      "japanese": "今度は別の角度でやってみる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810087"
+    },
+    {
+      "english": "Let’s make it fun, not perfect",
+      "japanese": "完璧より楽しく, いこう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810090"
+    },
+    {
+      "english": "That’s it, I’ve got it",
+      "japanese": "そうだ, いけるぞ",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810093"
+    },
+    {
+      "english": "Who knew, this idea is solid",
+      "japanese": "まさか, これ案外いける",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810096"
+    },
+    {
+      "english": "Save it, we’ll reuse this later",
+      "japanese": "とりあえず保存, 後で使おう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810099"
+    },
+    {
+      "english": "Share it, I want to see your take",
+      "japanese": "見せて, あなたの意見が聞きたい",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810101"
+    },
+    {
+      "english": "Wait for it, the best part comes",
+      "japanese": "待って, いいところはこれから",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810104"
+    },
+    {
+      "english": "Okay, let’s turn this into a story",
+      "japanese": "よし, これを物語にしよう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810107"
+    },
+    {
+      "english": "Quick question, what should we ask first?",
+      "japanese": "ねえ、質問から先に何にする？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810110"
+    },
+    {
+      "english": "Can you tell me your idea in one sentence?",
+      "japanese": "あなたのアイデア、ひとことで言うと何？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810113"
+    },
+    {
+      "english": "What do you think, is this too random?",
+      "japanese": "これ、ちょっと無茶じゃない？どう思う？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810118"
+    },
+    {
+      "english": "How about we ask, why this works?",
+      "japanese": "なんで効くのか、聞いてみない？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810121"
+    },
+    {
+      "english": "Want feedback, or should we refine it quietly?",
+      "japanese": "フィードバックいる？それとも静かに直す？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810126"
+    },
+    {
+      "english": "Where would you start if you had ten minutes?",
+      "japanese": "十分でやるなら、どこから始める？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810129"
+    },
+    {
+      "english": "Which part do you love most, honestly?",
+      "japanese": "正直、一番好きなのはどこ？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810132"
+    },
+    {
+      "english": "Can I borrow your question, it’s smart.",
+      "japanese": "その質問、借りていい？めっちゃ良い。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810135"
+    },
+    {
+      "english": "What’s the simplest twist we can try?",
+      "japanese": "いちばん簡単なひねり、何ができる？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810138"
+    },
+    {
+      "english": "Do you want funny, serious, or both?",
+      "japanese": "おもしろ系？まじめ系？両方いく？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810141"
+    },
+    {
+      "english": "If this fails, what’s our Plan B?",
+      "japanese": "ダメだったら、次の作戦は？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810144"
+    },
+    {
+      "english": "How specific should we be, like, really?",
+      "japanese": "どこまで具体的にする？本気で？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810147"
+    },
+    {
+      "english": "What’s one detail that makes it click?",
+      "japanese": "ハマる一個の要素って何？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810150"
+    },
+    {
+      "english": "Should we keep it short, or go wild?",
+      "japanese": "短くする？それとも攻める？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810153"
+    },
+    {
+      "english": "Which example helps you understand fastest?",
+      "japanese": "一番わかりやすい例ってどれ？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810158"
+    },
+    {
+      "english": "What’s missing right now, be honest?",
+      "japanese": "今足りないのって何？正直に言って。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810161"
+    },
+    {
+      "english": "Can we turn that problem into a prompt?",
+      "japanese": "その悩み、質問に変えられる？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810163"
+    },
+    {
+      "english": "How do you want it to feel?",
+      "japanese": "どんな気分にしたい？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810166"
+    },
+    {
+      "english": "Try this, what would your future self ask?",
+      "japanese": "これ聞いて、未来の自分なら何て聞く？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810169"
+    },
+    {
+      "english": "Do we need references, or just opinions?",
+      "japanese": "参考いる？それとも意見だけでいい？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810172"
+    },
+    {
+      "english": "Who’s the audience, and why would they care?",
+      "japanese": "相手は誰？なんで気になるの？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810175"
+    },
+    {
+      "english": "What question should I ask you right now?",
+      "japanese": "今、私が聞くなら何？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810178"
+    },
+    {
+      "english": "Want to swap roles, you question me?",
+      "japanese": "役変えよ、あなたが私に質問して。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810180"
+    },
+    {
+      "english": "Can you sum up the vibe, one word?",
+      "japanese": "雰囲気を一言で言うと何？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810183"
+    },
+    {
+      "english": "What’s your best guess, even if unsure?",
+      "japanese": "自信なくても、いちばんの予想は？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810186"
+    },
+    {
+      "english": "Should we test it now, or later?",
+      "japanese": "今試す？それともあと？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810189"
+    },
+    {
+      "english": "What’s the rule we’re breaking on purpose?",
+      "japanese": "わざと破るルールって何？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810192"
+    },
+    {
+      "english": "How can we make this clearer, fast?",
+      "japanese": "これ、すぐわかりやすくするならどうする？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810195"
+    },
+    {
+      "english": "If you had to cut one thing, what?",
+      "japanese": "ひとつ削るなら、どれ？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810198"
+    },
+    {
+      "english": "Any final question before we ship it?",
+      "japanese": "出す前に最後の質問ある？",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810200"
+    },
+    {
+      "english": "Try small first, then keep going",
+      "japanese": "まず小さくやって、あとは続けるだけ",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810203"
+    },
+    {
+      "english": "Steal ideas, but make them yours",
+      "japanese": "アイデアは拝借して、自分の形にする",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810206"
+    },
+    {
+      "english": "Good enough, then fix after",
+      "japanese": "とりあえず形にして、あとで直す",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810208"
+    },
+    {
+      "english": "One step at a time, don’t rush",
+      "japanese": "焦らず、一歩ずつ進めばいい",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810214"
+    },
+    {
+      "english": "Practice makes ideas show up faster",
+      "japanese": "練習すれば、ひらめきも出やすい",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810216"
+    },
+    {
+      "english": "If it’s stuck, change the angle",
+      "japanese": "詰まったら、視点を変えてみる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810220"
+    },
+    {
+      "english": "Don’t wait for perfect timing",
+      "japanese": "いいタイミングを待つな、動け",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810222"
+    },
+    {
+      "english": "Start messy, clean it later",
+      "japanese": "最初はぐちゃぐちゃでいい、あとで整える",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810225"
+    },
+    {
+      "english": "Borrow basics, then improvise",
+      "japanese": "型を借りて、あとは工夫する",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810228"
+    },
+    {
+      "english": "Make it, even if it’s rough",
+      "japanese": "雑でもいいから、まず作ってみよう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810233"
+    },
+    {
+      "english": "Try things, you’ll find your way",
+      "japanese": "やってみれば、道は見えてくる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810236"
+    },
+    {
+      "english": "A little effort beats empty talk",
+      "japanese": "口だけより、ちょっと手を動かそう",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810239"
+    },
+    {
+      "english": "Small tweaks, big improvement",
+      "japanese": "ちょっと直すだけで、かなり変わる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810243"
+    },
+    {
+      "english": "Don’t overthink, just test it",
+      "japanese": "考えすぎず、まず試してみて",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810247"
+    },
+    {
+      "english": "Let the draft breathe, then refine",
+      "japanese": "下書きは呼吸させて、あとで磨く",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810249"
+    },
+    {
+      "english": "Even failures teach you something",
+      "japanese": "失敗しても、学びは残る",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810252"
+    },
+    {
+      "english": "More practice, less luck needed",
+      "japanese": "努力すれば、運じゃなくなる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810254"
+    },
+    {
+      "english": "Improvise, don’t freeze up",
+      "japanese": "固まらず、適当に動かしてみる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810258"
+    },
+    {
+      "english": "Creativity starts with curiosity",
+      "japanese": "創造は、好奇心から始まる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810260"
+    },
+    {
+      "english": "When in doubt, go with simple",
+      "japanese": "迷ったら、シンプルにする",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810262"
+    },
+    {
+      "english": "Make it clear, or it won’t land",
+      "japanese": "わかりやすくしないと、伝わらない",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810266"
+    },
+    {
+      "english": "The idea is there, shape it",
+      "japanese": "ひらめきはある、あとは形にするだけ",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810269"
+    },
+    {
+      "english": "Wrong turns are still progress",
+      "japanese": "遠回りでも、前に進んでる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810271"
+    },
+    {
+      "english": "Use feedback, don’t take it personally",
+      "japanese": "反省はするけど、落ち込むな",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810274"
+    },
+    {
+      "english": "Trust your gut, then check facts",
+      "japanese": "勘を信じつつ、確認は忘れずに",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810277"
+    },
+    {
+      "english": "One crazy idea can spark everything",
+      "japanese": "変なアイデアでも、きっかけになる",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810279"
+    },
+    {
+      "english": "Don’t chase trends, chase fit",
+      "japanese": "流行を追うより、自分に合うもの",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810282"
+    },
+    {
+      "english": "Keep improving, like a never-ending loop",
+      "japanese": "ずっと磨いて、終わりは決めない",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810285"
+    },
+    {
+      "english": "When it clicks, go for the detail",
+      "japanese": "刺さったら、細部まで詰める",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810288"
+    },
+    {
+      "english": "If you can’t explain, refine it",
+      "japanese": "説明できないなら、まだ足りない",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810291"
+    },
+    {
+      "english": "I feel calm, when I create slowly.",
+      "japanese": "ゆっくり作ると、心が落ち着く。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810294"
+    },
+    {
+      "english": "Honestly, I need space to think.",
+      "japanese": "正直、考える時間が必要だ。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810297"
+    },
+    {
+      "english": "I’m learning patience, with every draft.",
+      "japanese": "毎回の下書きで、忍耐を学んでる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810300"
+    },
+    {
+      "english": "Sometimes I’m scared, but I still try.",
+      "japanese": "怖いときもあるけど、やっぱり挑戦する。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810304"
+    },
+    {
+      "english": "When it hurts, I write it down.",
+      "japanese": "しんどいときは、言葉にして書く。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810306"
+    },
+    {
+      "english": "I don’t force it, I just listen.",
+      "japanese": "無理に出そうとせず、ちゃんと聞く。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810312"
+    },
+    {
+      "english": "My best ideas come from quiet moments.",
+      "japanese": "いいアイデアは、静かな時間から来る。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810315"
+    },
+    {
+      "english": "I reflect, then I adjust my direction.",
+      "japanese": "振り返ってから、進む方向を直す。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810318"
+    },
+    {
+      "english": "I admit it, I’m not always confident.",
+      "japanese": "正直言うと、いつも自信があるわけじゃない。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810321"
+    },
+    {
+      "english": "It’s okay to feel stuck, for now.",
+      "japanese": "今は動けなくても、大丈夫だよ。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810324"
+    },
+    {
+      "english": "I trust the process, even when slow.",
+      "japanese": "遅くても、プロセスを信じる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810327"
+    },
+    {
+      "english": "I’m honest about what I truly want.",
+      "japanese": "本当に欲しいものは、ちゃんと認める。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810331"
+    },
+    {
+      "english": "I pause, then choose kinder words.",
+      "japanese": "いったん止まって、やさしい言葉を選ぶ。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810333"
+    },
+    {
+      "english": "My heart guides me, then I refine.",
+      "japanese": "気持ちが先に動いて、あとで整える。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810336"
+    },
+    {
+      "english": "I let doubt pass, without fighting it.",
+      "japanese": "不安は不安のまま、受け流す。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810339"
+    },
+    {
+      "english": "I notice patterns, and that helps me.",
+      "japanese": "自分の流れに気づくと、楽になる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810341"
+    },
+    {
+      "english": "Creativity feels personal, not just skill.",
+      "japanese": "創作って、ただの技じゃなくて個人的なもの。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810344"
+    },
+    {
+      "english": "I’m grateful for small improvements, today.",
+      "japanese": "今日の小さな進歩に、感謝してる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810348"
+    },
+    {
+      "english": "I change my mindset, before changing ideas.",
+      "japanese": "考えを変える前に、気持ちを変える。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810353"
+    },
+    {
+      "english": "Even silence can spark real thoughts.",
+      "japanese": "沈黙だって、本当の考えを生む。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810355"
+    },
+    {
+      "english": "I keep going, because I still care.",
+      "japanese": "まだ気持ちがあるから、続ける。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810358"
+    },
+    {
+      "english": "I’m learning to be kinder to myself.",
+      "japanese": "自分にやさしくする練習をしてる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810361"
+    },
+    {
+      "english": "What I feel matters, even in art.",
+      "japanese": "気持ちはアートでも大事だ。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810363"
+    },
+    {
+      "english": "I don’t need answers today, just progress.",
+      "japanese": "今日は答えはいらない、進めればいい。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810366"
+    },
+    {
+      "english": "I take notes on my emotions, too.",
+      "japanese": "感情のメモも、ちゃんと取る。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810369"
+    },
+    {
+      "english": "I let mistakes teach me, quietly.",
+      "japanese": "間違いから学ぶことを、静かに許す。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810371"
+    },
+    {
+      "english": "I’m not perfect, but I’m moving forward.",
+      "japanese": "完璧じゃないけど、前に進んでる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810375"
+    },
+    {
+      "english": "When I’m ready, I’ll share it.",
+      "japanese": "準備できたら、ちゃんと見せる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810378"
+    },
+    {
+      "english": "I respect my pace, and I stay steady.",
+      "japanese": "自分のペースを尊重して、落ち着いて進む。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810381"
+    },
+    {
+      "english": "I choose honesty, because it creates trust.",
+      "japanese": "本音で話すと、信頼が生まれる。",
+      "category": "Creativity",
+      "generated_at": "2026-11-07T06:52:09.810386"
     }
   ],
-  "last_updated": "2026-11-06T07:41:45.987523"
+  "last_updated": "2026-11-07T06:52:09.810388"
 }
