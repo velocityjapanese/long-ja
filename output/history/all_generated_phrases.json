@@ -21149,7 +21149,727 @@
       "japanese": "本音で話すと、信頼が生まれる。",
       "category": "Creativity",
       "generated_at": "2026-11-07T06:52:09.810386"
+    },
+    {
+      "english": "Here you go, take your time.",
+      "japanese": "どうぞ、ゆっくりでいいですよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768910"
+    },
+    {
+      "english": "That’s fine, no need to rush.",
+      "japanese": "大丈夫です、急がなくていいですよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768928"
+    },
+    {
+      "english": "Thanks, I really appreciate it.",
+      "japanese": "ありがとう、本当に助かりました。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768931"
+    },
+    {
+      "english": "Can I help you with that?",
+      "japanese": "それ、手伝いましょうか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768933"
+    },
+    {
+      "english": "No worries, we can figure it out.",
+      "japanese": "大丈夫、なんとかなるよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768935"
+    },
+    {
+      "english": "Please, take care of yourself today.",
+      "japanese": "今日は無理しないでね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768937"
+    },
+    {
+      "english": "I’m sorry, that must be tough.",
+      "japanese": "ごめんなさい、それは大変ですね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768940"
+    },
+    {
+      "english": "Mind if I sit here?",
+      "japanese": "ここに座ってもいいですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768945"
+    },
+    {
+      "english": "Good job, you handled it well.",
+      "japanese": "よくできましたね、うまくやった。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768948"
+    },
+    {
+      "english": "Let me check real quick for you.",
+      "japanese": "ちょっと確認してもいいですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768951"
+    },
+    {
+      "english": "I got you, don’t stress.",
+      "japanese": "任せて、あんまり悩まないで。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768954"
+    },
+    {
+      "english": "Slow down, I’ll match your pace.",
+      "japanese": "ゆっくりでいいよ、同じペースで行く。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768957"
+    },
+    {
+      "english": "Thanks for waiting, that’s kind.",
+      "japanese": "待ってくれてありがとう、優しいね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768959"
+    },
+    {
+      "english": "I’ll take a look, be right back.",
+      "japanese": "ちょっと見てくるね、すぐ戻るよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768961"
+    },
+    {
+      "english": "You’re not alone, I’m here.",
+      "japanese": "一人じゃないよ、そばにいる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768964"
+    },
+    {
+      "english": "Nice try, progress is still progress.",
+      "japanese": "いい挑戦だよ、ちゃんと進んでる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768967"
+    },
+    {
+      "english": "It happens, don’t blame yourself.",
+      "japanese": "しょうがないよ、自分を責めないで。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768969"
+    },
+    {
+      "english": "Could you show me one more time?",
+      "japanese": "もう一回教えてもらえますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768971"
+    },
+    {
+      "english": "That sounds hard, I understand.",
+      "japanese": "大変そうだね、分かるよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768974"
+    },
+    {
+      "english": "Let’s be patient, it’ll work out.",
+      "japanese": "焦らなくて大丈夫、うまくいくよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768978"
+    },
+    {
+      "english": "You look tired, want to rest?",
+      "japanese": "疲れてない？少し休む？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768980"
+    },
+    {
+      "english": "I’ll clean up, you relax.",
+      "japanese": "片づけるね、あなたは休んで。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768982"
+    },
+    {
+      "english": "Great choice, that’s actually helpful.",
+      "japanese": "いい選択だね、役に立つよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768985"
+    },
+    {
+      "english": "Sorry to bother you, thanks.",
+      "japanese": "お忙しいのにすみません、ありがとう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768988"
+    },
+    {
+      "english": "Take this, it might help you.",
+      "japanese": "これあげるね、役に立つかも。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768990"
+    },
+    {
+      "english": "I’m listening, tell me what happened.",
+      "japanese": "聞いてるよ、何があったの？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768992"
+    },
+    {
+      "english": "We’ll handle it together, step by step.",
+      "japanese": "一緒にやろう、ゆっくりでいい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768995"
+    },
+    {
+      "english": "How can I help, today?",
+      "japanese": "今日、どう手伝えますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.768997"
+    },
+    {
+      "english": "What would you like me to do?",
+      "japanese": "あなたは、何をしてほしいですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769000"
+    },
+    {
+      "english": "Is it okay if I ask?",
+      "japanese": "聞いても大丈夫ですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769002"
+    },
+    {
+      "english": "Could you show me the way, please?",
+      "japanese": "行き方を教えてもらえますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769005"
+    },
+    {
+      "english": "Do you need anything else right now?",
+      "japanese": "今、ほかに何か必要ですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769007"
+    },
+    {
+      "english": "Can I take a look, really quick?",
+      "japanese": "ちょっと見てもいいですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769009"
+    },
+    {
+      "english": "What’s the best way to do this?",
+      "japanese": "これ、いちばんいいやり方は？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769012"
+    },
+    {
+      "english": "May I confirm, just to be sure?",
+      "japanese": "確認してもいいですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769014"
+    },
+    {
+      "english": "How are you feeling right now?",
+      "japanese": "いま、どう感じていますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769016"
+    },
+    {
+      "english": "What do you think we should do?",
+      "japanese": "どうしたらいいと思いますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769018"
+    },
+    {
+      "english": "Would you prefer help or quiet time?",
+      "japanese": "手伝いがいいですか、少し休みますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769020"
+    },
+    {
+      "english": "Can you tell me what happened?",
+      "japanese": "何があったのか教えてください。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769022"
+    },
+    {
+      "english": "Is there anything you’re worried about?",
+      "japanese": "心配なことはありますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769025"
+    },
+    {
+      "english": "Would you like to talk about it?",
+      "japanese": "それ、話してみますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769027"
+    },
+    {
+      "english": "How can we make this easier for you?",
+      "japanese": "あなたが楽になるように、どうしたらいい？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769029"
+    },
+    {
+      "english": "What’s your plan from here?",
+      "japanese": "これからどうする予定ですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769031"
+    },
+    {
+      "english": "Should we slow down a bit?",
+      "japanese": "少しゆっくりにしますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769033"
+    },
+    {
+      "english": "Can I ask, what you need most?",
+      "japanese": "一番必要なこと、何ですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769035"
+    },
+    {
+      "english": "Do you want me to stay with you?",
+      "japanese": "一緒にいてほしいですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769037"
+    },
+    {
+      "english": "What’s one thing I can do today?",
+      "japanese": "今日、私にできることは何ですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769040"
+    },
+    {
+      "english": "Would you like my honest opinion?",
+      "japanese": "正直な意見、聞きたいですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769042"
+    },
+    {
+      "english": "Is this the right way, in your view?",
+      "japanese": "あなたの考えだと、これで合ってますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769044"
+    },
+    {
+      "english": "What’s the timeline, roughly?",
+      "japanese": "だいたい、いつまでですか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769047"
+    },
+    {
+      "english": "Should I write it down for you?",
+      "japanese": "書いておきましょうか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769050"
+    },
+    {
+      "english": "Do you want to try again later?",
+      "japanese": "また後でやり直しますか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769052"
+    },
+    {
+      "english": "What helped you last time, honestly?",
+      "japanese": "前に何が役に立ちましたか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769054"
+    },
+    {
+      "english": "How about we decide together, now?",
+      "japanese": "今、一緒に決めませんか？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769056"
+    },
+    {
+      "english": "You’re doing your best, keep going.",
+      "japanese": "あなたはベストを尽くしてる, そのまま進もう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769060"
+    },
+    {
+      "english": "Small kindness counts, even today.",
+      "japanese": "小さなやさしさも, 今日でもちゃんと数える。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769062"
+    },
+    {
+      "english": "Say it kindly, it changes everything.",
+      "japanese": "やさしく言えば, ぜんぶ変わる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769064"
+    },
+    {
+      "english": "Breathe first, then help.",
+      "japanese": "まず深呼吸, それから助ける。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769067"
+    },
+    {
+      "english": "Your effort is already kindness.",
+      "japanese": "その努力, もうやさしさだよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769069"
+    },
+    {
+      "english": "You can start simple, just one step.",
+      "japanese": "まずはシンプルでいい, ひとつだけね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769072"
+    },
+    {
+      "english": "Keep your words soft, not sharp.",
+      "japanese": "言葉はやわらかく, トゲをなくそう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769073"
+    },
+    {
+      "english": "Thank you, that’s a big deal.",
+      "japanese": "ありがとう, それすごく助かる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769076"
+    },
+    {
+      "english": "You’re learning, kindness starts there.",
+      "japanese": "学んでるんだ, やさしさはそこから。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769078"
+    },
+    {
+      "english": "Be brave, kindness is power.",
+      "japanese": "勇気出して, やさしさは力だよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769081"
+    },
+    {
+      "english": "It’s okay to be gentle.",
+      "japanese": "やさしくしていいんだよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769083"
+    },
+    {
+      "english": "Don’t rush, kindness takes time.",
+      "japanese": "焦らなくていい, やさしさは時間が必要。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769086"
+    },
+    {
+      "english": "Your heart matters, be kind.",
+      "japanese": "気持ちが大事, だからやさしくね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769088"
+    },
+    {
+      "english": "You noticed, that’s already empathy.",
+      "japanese": "気づけた, それもう共感だよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769090"
+    },
+    {
+      "english": "Try again with kindness, not pressure.",
+      "japanese": "やさしくもう一回, プレッシャーはなしで。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769093"
+    },
+    {
+      "english": "I’m proud of you, seriously.",
+      "japanese": "ほんとに誇らしい, がんばったね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769095"
+    },
+    {
+      "english": "Offer help, even a little bit.",
+      "japanese": "ちょっとでも助けよう, それで十分。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769098"
+    },
+    {
+      "english": "Let it go, kindness stays.",
+      "japanese": "気にしすぎない, やさしさは残る。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769101"
+    },
+    {
+      "english": "Your patience is a gift.",
+      "japanese": "その忍耐, 贈り物だよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769103"
+    },
+    {
+      "english": "Kind words today, brighter tomorrow.",
+      "japanese": "今日のやさしい言葉, 明日の光になる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769105"
+    },
+    {
+      "english": "Small steps, kind heart, big change.",
+      "japanese": "小さく進んで, やさしい気持ちで, 大きく変わる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769107"
+    },
+    {
+      "english": "Choose understanding, it’s worth it.",
+      "japanese": "理解を選ぼう, それが一番。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769110"
+    },
+    {
+      "english": "Let me cheer you on, okay?",
+      "japanese": "応援させて, いい？",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769112"
+    },
+    {
+      "english": "You’re improving, keep that mindset.",
+      "japanese": "ちゃんと良くなってる, その考え方でね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769114"
+    },
+    {
+      "english": "No blame, just support and care.",
+      "japanese": "責めないで, 支える気持ちでいこう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769117"
+    },
+    {
+      "english": "Gentle is strong, remember that.",
+      "japanese": "やさしさは強い, それ忘れないで。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769118"
+    },
+    {
+      "english": "You make the room feel safer.",
+      "japanese": "あなたがいると, 空気が安心する。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769126"
+    },
+    {
+      "english": "Keep going, kindness will come back.",
+      "japanese": "続けて, やさしさは必ず返ってくる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769128"
+    },
+    {
+      "english": "I get it, your feelings make sense.",
+      "japanese": "わかるよ、あなたの気持ち、ちゃんと分かる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769132"
+    },
+    {
+      "english": "I’m here, no fixing needed right now.",
+      "japanese": "いるよ、今は直さなくていい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769134"
+    },
+    {
+      "english": "Thanks for being honest, I appreciate it.",
+      "japanese": "正直に言ってくれて、ありがとう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769136"
+    },
+    {
+      "english": "Take your time, I won’t push you.",
+      "japanese": "ゆっくりでいいよ、急かさない。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769139"
+    },
+    {
+      "english": "I’m learning, kindness means listening first.",
+      "japanese": "勉強中だよ、優しさはまず聞くこと。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769142"
+    },
+    {
+      "english": "That’s a lot, you don’t have to carry.",
+      "japanese": "それは大変だよ、ひとりで抱えなくていい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769144"
+    },
+    {
+      "english": "Even small patience changes the mood.",
+      "japanese": "少しの忍耐で空気が変わる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769147"
+    },
+    {
+      "english": "I’ll wait, your pace is okay.",
+      "japanese": "待つよ、あなたのペースで大丈夫。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769150"
+    },
+    {
+      "english": "I respect your silence, it’s okay.",
+      "japanese": "黙っててもいいよ、尊重する。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769152"
+    },
+    {
+      "english": "Let’s be kinder to ourselves too.",
+      "japanese": "自分にも、やさしくしよう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769154"
+    },
+    {
+      "english": "I noticed, you’re trying, that matters.",
+      "japanese": "気づいたよ、頑張ってる、それが大事。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769157"
+    },
+    {
+      "english": "If it hurts, you’re allowed to pause.",
+      "japanese": "つらいなら、止まっていい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769159"
+    },
+    {
+      "english": "I don’t judge you, not even a little.",
+      "japanese": "私は判断しないよ、少しも。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769161"
+    },
+    {
+      "english": "I believe you can handle this, slowly.",
+      "japanese": "できるって思うよ、ゆっくりでいい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769163"
+    },
+    {
+      "english": "Your pace teaches me how to care.",
+      "japanese": "あなたのペースが、思いやりを教えてくれる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769165"
+    },
+    {
+      "english": "Some days, gentle words are enough.",
+      "japanese": "日はあるよ、やさしい言葉で十分。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769167"
+    },
+    {
+      "english": "I’ll match your energy, not pressure.",
+      "japanese": "同じ温度でいくよ、無理はさせない。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769169"
+    },
+    {
+      "english": "I’m glad you told me the truth.",
+      "japanese": "本当のことを言ってくれて、よかった。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769172"
+    },
+    {
+      "english": "You don’t need perfect, just honest.",
+      "japanese": "完璧じゃなくていい、正直でいい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769174"
+    },
+    {
+      "english": "We can talk again when you’re ready.",
+      "japanese": "準備できたら、また話そう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769176"
+    },
+    {
+      "english": "My job is support, not solutions.",
+      "japanese": "役目は支えること、答えじゃない。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769178"
+    },
+    {
+      "english": "I’m proud you chose patience over anger.",
+      "japanese": "怒りより我慢を選んだんだね、すごい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769180"
+    },
+    {
+      "english": "Let’s slow down, feelings first, always.",
+      "japanese": "少し落ち着こう、気持ちを最優先に。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769183"
+    },
+    {
+      "english": "I’m learning your triggers, so I care.",
+      "japanese": "あなたの引き金を学んでる、だから大事にする。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769185"
+    },
+    {
+      "english": "Kindness is courage, especially when you feel stuck.",
+      "japanese": "やさしさは勇気だよ、動けない時ほど。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769187"
+    },
+    {
+      "english": "I hear you, and I’m staying steady.",
+      "japanese": "ちゃんと聞いてるよ、私は落ち着いてる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769189"
+    },
+    {
+      "english": "If you need space, say it plainly.",
+      "japanese": "距離が必要なら、はっきり言ってね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769191"
+    },
+    {
+      "english": "I’m okay with imperfect timing, really.",
+      "japanese": "タイミングが不完全でも大丈夫、ほんとに。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769193"
+    },
+    {
+      "english": "I won’t forget your kindness, ever.",
+      "japanese": "あなたのやさしさ、忘れないよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769196"
+    },
+    {
+      "english": "Today I choose calm, that’s also kindness.",
+      "japanese": "今日は落ち着きを選ぶ、これもやさしさ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769198"
+    },
+    {
+      "english": "Excuse me, I’ll make room for you.",
+      "japanese": "すみません、あなたのために場所を空けます。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769201"
+    },
+    {
+      "english": "Here, take my seat, you look tired.",
+      "japanese": "どうぞ、席どうぞ、疲れてるみたい。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769203"
+    },
+    {
+      "english": "No worries, we can do it together.",
+      "japanese": "大丈夫、一緒にやろう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769207"
+    },
+    {
+      "english": "Thanks for helping, that really made my day.",
+      "japanese": "手伝ってくれてありがとう、本当に助かった。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769210"
+    },
+    {
+      "english": "Take your time, I can pause too.",
+      "japanese": "急がなくていいよ、私も止まれる。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769212"
+    },
+    {
+      "english": "If it’s too much, tell me honestly.",
+      "japanese": "大変なら、正直に言ってね。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769214"
+    },
+    {
+      "english": "Let’s keep it light, small joke is okay.",
+      "japanese": "気楽にいこう、小さな冗談でもいいよ。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769217"
+    },
+    {
+      "english": "I’ll listen first, then we figure it out.",
+      "japanese": "まず聞くね、それから一緒に考えよう。",
+      "category": "Kindness",
+      "generated_at": "2026-11-08T06:58:01.769219"
     }
   ],
-  "last_updated": "2026-11-07T06:52:09.810388"
+  "last_updated": "2026-11-08T06:58:01.769220"
 }
