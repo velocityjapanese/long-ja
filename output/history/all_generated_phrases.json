@@ -22589,7 +22589,727 @@
       "japanese": "ありがとう、その一言で助かった。",
       "category": "Gratitude",
       "generated_at": "2026-11-09T07:42:05.391579"
+    },
+    {
+      "english": "I need to see a doctor, today.",
+      "japanese": "今日、先生に診てもらいたいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685077"
+    },
+    {
+      "english": "Where is the nearest clinic, please?",
+      "japanese": "一番近いクリニックはどこですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685094"
+    },
+    {
+      "english": "My stomach hurts, really badly.",
+      "japanese": "お腹がすごく痛いです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685096"
+    },
+    {
+      "english": "I have a fever, since last night.",
+      "japanese": "昨夜から熱があります。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685099"
+    },
+    {
+      "english": "Can you check my symptoms, please?",
+      "japanese": "症状を見てもらえますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685100"
+    },
+    {
+      "english": "It started this morning, suddenly.",
+      "japanese": "今朝、急に始まりました。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685102"
+    },
+    {
+      "english": "I feel dizzy, I might faint.",
+      "japanese": "めまいがして、気を失いそうです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685104"
+    },
+    {
+      "english": "How long will it take to get better?",
+      "japanese": "治るまで、どれくらいかかりますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685108"
+    },
+    {
+      "english": "Do I need tests, or just medicine?",
+      "japanese": "検査が必要ですか、薬だけでいいですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685110"
+    },
+    {
+      "english": "Is this medicine safe for me?",
+      "japanese": "この薬は私に大丈夫ですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685113"
+    },
+    {
+      "english": "Where do I take the prescription?",
+      "japanese": "処方箋はどこで出しますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685115"
+    },
+    {
+      "english": "I’m looking for a pharmacy, nearby.",
+      "japanese": "近くの薬局はありますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685117"
+    },
+    {
+      "english": "Do you have this medicine in stock?",
+      "japanese": "この薬、在庫ありますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685119"
+    },
+    {
+      "english": "I need allergy medicine, please.",
+      "japanese": "アレルギーの薬をください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685121"
+    },
+    {
+      "english": "Can you give me something for cough?",
+      "japanese": "咳に効く薬はありますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685122"
+    },
+    {
+      "english": "I’m out of my regular medicine.",
+      "japanese": "いつもの薬が切れました。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685124"
+    },
+    {
+      "english": "How many times a day should I take?",
+      "japanese": "1日に何回飲みますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685126"
+    },
+    {
+      "english": "Should I take it after meals?",
+      "japanese": "食後に飲んだ方がいいですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685129"
+    },
+    {
+      "english": "What side effects should I watch for?",
+      "japanese": "副作用は何に注意すればいいですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685144"
+    },
+    {
+      "english": "Can I drink alcohol while taking it?",
+      "japanese": "飲酒しても大丈夫ですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685147"
+    },
+    {
+      "english": "Do I need to finish all the pills?",
+      "japanese": "薬は最後まで飲んだ方がいいですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685149"
+    },
+    {
+      "english": "My symptoms improved, but still tired.",
+      "japanese": "よくなったけど、まだだるいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685151"
+    },
+    {
+      "english": "Is it okay to stop if I feel better?",
+      "japanese": "気分がよければ中止していいですか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685153"
+    },
+    {
+      "english": "I might be allergic, I’m not sure.",
+      "japanese": "アレルギーかも、よく分かりません。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685155"
+    },
+    {
+      "english": "Should I come back if it worsens?",
+      "japanese": "悪化したら、また来ますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685158"
+    },
+    {
+      "english": "I have a prescription, please check it.",
+      "japanese": "処方箋があります、確認してください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685160"
+    },
+    {
+      "english": "Can you write the dosage clearly?",
+      "japanese": "飲む量をはっきり書いてください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685162"
+    },
+    {
+      "english": "Ow, it hurts when I move.",
+      "japanese": "動かすと痛いです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685164"
+    },
+    {
+      "english": "Is there a cheaper alternative, too?",
+      "japanese": "他に安い選択肢はありますか。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685167"
+    },
+    {
+      "english": "Excuse me, I have a quick question.",
+      "japanese": "すみません、ちょっと質問があります。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685169"
+    },
+    {
+      "english": "What should I tell the receptionist first?",
+      "japanese": "受付では、最初に何を言えばいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685171"
+    },
+    {
+      "english": "Could you recommend a general checkup?",
+      "japanese": "一般的な健診をおすすめできますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685173"
+    },
+    {
+      "english": "Is this available without a prescription?",
+      "japanese": "これは処方箋なしで買えますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685174"
+    },
+    {
+      "english": "Do I need an appointment, or walk-in?",
+      "japanese": "予約が必要ですか？それとも当日ですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685176"
+    },
+    {
+      "english": "Which department should I go to?",
+      "japanese": "どの診療科に行けばいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685178"
+    },
+    {
+      "english": "Can I ask the doctor for advice?",
+      "japanese": "先生に相談してもいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685180"
+    },
+    {
+      "english": "What’s the best time to take this?",
+      "japanese": "これは一番いつ飲むのがいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685182"
+    },
+    {
+      "english": "Should I bring my past records too?",
+      "japanese": "今までの資料も持って行った方がいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685183"
+    },
+    {
+      "english": "How do I measure the dosage correctly?",
+      "japanese": "薬の量は、どうやって測ればいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685185"
+    },
+    {
+      "english": "Is it okay to take this with water?",
+      "japanese": "水で飲んで大丈夫ですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685186"
+    },
+    {
+      "english": "Can I take it together with vitamins?",
+      "japanese": "ビタミンと一緒に飲んでもいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685188"
+    },
+    {
+      "english": "What should I avoid while using it?",
+      "japanese": "使っている間、何を避ければいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685191"
+    },
+    {
+      "english": "If it doesn’t work, what then?",
+      "japanese": "効かない場合、次はどうしますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685193"
+    },
+    {
+      "english": "Is there a gentler option for me?",
+      "japanese": "もう少し優しい薬はありますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685195"
+    },
+    {
+      "english": "Can you explain the label in simple words?",
+      "japanese": "ラベルの意味を、簡単に教えてください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685196"
+    },
+    {
+      "english": "Do I need to refrigerate this?",
+      "japanese": "これは冷蔵が必要ですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685198"
+    },
+    {
+      "english": "Is this medicine strong or mild?",
+      "japanese": "この薬は強めですか、軽めですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685199"
+    },
+    {
+      "english": "Can I switch to a different brand?",
+      "japanese": "別のメーカーに替えてもいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685201"
+    },
+    {
+      "english": "What number should I call if I’m unsure?",
+      "japanese": "迷ったとき、何番に連絡すればいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685203"
+    },
+    {
+      "english": "Do I have to pay first, or after?",
+      "japanese": "お会計は先ですか？それとも後ですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685205"
+    },
+    {
+      "english": "Are there cheaper generics you suggest?",
+      "japanese": "ジェネリックで、安いものはありますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685207"
+    },
+    {
+      "english": "How soon should I feel a difference?",
+      "japanese": "どれくらいで変化を感じますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685208"
+    },
+    {
+      "english": "Is this okay for children, too?",
+      "japanese": "これは子どもにも使って大丈夫ですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685210"
+    },
+    {
+      "english": "I’m pregnant, can I still take it?",
+      "japanese": "妊娠中なんですが、これは飲めますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685212"
+    },
+    {
+      "english": "I’m breastfeeding, is it safe for me?",
+      "japanese": "授乳中ですが、これで大丈夫ですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685214"
+    },
+    {
+      "english": "What if I miss a dose?",
+      "japanese": "飲み忘れたら、どうすればいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685215"
+    },
+    {
+      "english": "Should I stop if I feel sleepy?",
+      "japanese": "眠くなったら、やめた方がいいですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685218"
+    },
+    {
+      "english": "Do I need a follow-up visit?",
+      "japanese": "再診は必要ですか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685220"
+    },
+    {
+      "english": "Thanks, I’ll follow your instructions.",
+      "japanese": "ありがとうございます、指示どおりにします。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685222"
+    },
+    {
+      "english": "Breathe, it’ll be okay, one step now.",
+      "japanese": "深呼吸してね, 大丈夫, 今は一歩だけ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685224"
+    },
+    {
+      "english": "Think positive, your body is working.",
+      "japanese": "前向きに考えて, 体はちゃんと働いてる。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685226"
+    },
+    {
+      "english": "Don’t panic, symptoms can change day by day.",
+      "japanese": "慌てないで, 症状は毎日変わることがあるよ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685228"
+    },
+    {
+      "english": "Small changes count, that’s the win.",
+      "japanese": "小さな変化でも十分, それが勝ちだよ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685230"
+    },
+    {
+      "english": "Keep a steady routine, don’t rush doses.",
+      "japanese": "決まったリズムを守って, 飲むのを急がないで。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685232"
+    },
+    {
+      "english": "You’re not alone, ask anytime, seriously.",
+      "japanese": "一人じゃないよ, いつでも聞いてね, ほんとに。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685234"
+    },
+    {
+      "english": "It’s okay to ask twice, no shame.",
+      "japanese": "もう一回聞いてもいいよ, 恥じゃない。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685237"
+    },
+    {
+      "english": "Today’s focus, take care of yourself, first.",
+      "japanese": "今日の目標はね, まず自分を大事にすること。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685239"
+    },
+    {
+      "english": "Don’t give up, even progress can be slow.",
+      "japanese": "あきらめないで, 進歩はゆっくりでもいい。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685241"
+    },
+    {
+      "english": "Make it easy, set a reminder, today.",
+      "japanese": "簡単にして, リマインダーを今日から設定しよう。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685243"
+    },
+    {
+      "english": "You can handle this, one dose at a time.",
+      "japanese": "大丈夫, 一回ずつでいけるよ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685245"
+    },
+    {
+      "english": "If you’re unsure, check again, calmly.",
+      "japanese": "迷ったらもう一度確認して, 落ち着いてね。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685247"
+    },
+    {
+      "english": "Good job, you remembered the timing.",
+      "japanese": "よくできた, タイミング覚えてたね。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685249"
+    },
+    {
+      "english": "Stay consistent, that’s how recovery starts.",
+      "japanese": "続けるのが大事, 回復の始まりだよ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685253"
+    },
+    {
+      "english": "No stress, ask the pharmacist, they know.",
+      "japanese": "心配しないで, 薬剤師に聞いて, ちゃんとわかる。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685255"
+    },
+    {
+      "english": "Keep hydrated, it helps your comfort.",
+      "japanese": "水分をしっかり, 体が楽になりやすいよ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685256"
+    },
+    {
+      "english": "You’re doing the right thing, seriously.",
+      "japanese": "それは正しいことだよ, ちゃんと。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685258"
+    },
+    {
+      "english": "Trust your plan, follow the schedule.",
+      "japanese": "計画を信じて, スケジュール通りにね。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685260"
+    },
+    {
+      "english": "Small effort, big results, keep it up.",
+      "japanese": "小さな努力で大きく変わるよ, 続けて。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685262"
+    },
+    {
+      "english": "Don’t blame yourself, healing takes time.",
+      "japanese": "自分を責めないで, 治るまで時間がかかる。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685264"
+    },
+    {
+      "english": "Be patient, your progress is real.",
+      "japanese": "待ってて, あなたの進歩は本物だよ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685266"
+    },
+    {
+      "english": "Ask clearly, short questions are fine.",
+      "japanese": "はっきり聞いてね, 短い質問で大丈夫。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685268"
+    },
+    {
+      "english": "You’re learning fast, keep practicing this.",
+      "japanese": "覚えるの早いね, そのまま練習して。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685270"
+    },
+    {
+      "english": "Today’s win, take care of your health.",
+      "japanese": "今日の勝ち, 健康を守ること。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685273"
+    },
+    {
+      "english": "It’s normal to feel nervous, you got this.",
+      "japanese": "緊張するのは普通だよ, 大丈夫。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685275"
+    },
+    {
+      "english": "Keep your notes, it makes visits easier.",
+      "japanese": "メモを残しておくと, 診察が楽になるよ。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685277"
+    },
+    {
+      "english": "Positive mindset, your body responds better.",
+      "japanese": "前向きな気持ちがあると, 体も反応しやすい。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685279"
+    },
+    {
+      "english": "Celebrate small steps, that’s how you improve.",
+      "japanese": "小さな一歩を喜んで, それで良くなる。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685281"
+    },
+    {
+      "english": "I’m nervous, but I’ll be honest, too.",
+      "japanese": "不安だけど、正直に言いますね。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685283"
+    },
+    {
+      "english": "I feel tired, so please slow down.",
+      "japanese": "疲れてるので、少しゆっくりにしてほしいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685285"
+    },
+    {
+      "english": "This feels heavy, I need reassurance.",
+      "japanese": "気持ちが重いので、安心したいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685286"
+    },
+    {
+      "english": "I’m trying to stay calm, but it’s hard.",
+      "japanese": "落ち着こうとしてるけど、難しいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685290"
+    },
+    {
+      "english": "I noticed changes, so I’m worried.",
+      "japanese": "変化に気づいたので、不安です。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685292"
+    },
+    {
+      "english": "I don’t want to ignore small symptoms.",
+      "japanese": "小さな症状も、見逃したくないです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685294"
+    },
+    {
+      "english": "Please tell me what to watch for.",
+      "japanese": "何を見ればいいか、教えてください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685295"
+    },
+    {
+      "english": "I’m concerned, so I’ll ask questions.",
+      "japanese": "心配なので、質問します。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685297"
+    },
+    {
+      "english": "I’m learning, so take your time explaining.",
+      "japanese": "勉強中なので、ゆっくり説明してください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685299"
+    },
+    {
+      "english": "I feel unsure, but I’m trying my best.",
+      "japanese": "不安だけど、できる限り頑張ってます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685301"
+    },
+    {
+      "english": "I’m reflecting on my habits, honestly.",
+      "japanese": "正直に、自分の習慣を振り返ってます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685303"
+    },
+    {
+      "english": "I want to be patient, even if it’s slow.",
+      "japanese": "ゆっくりでも、我慢して待ちたいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685305"
+    },
+    {
+      "english": "I feel stuck, so I need a plan.",
+      "japanese": "行き詰まってるので、手順がほしいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685307"
+    },
+    {
+      "english": "It’s hard, but I’ll keep going, step by step.",
+      "japanese": "大変だけど、ひとつずつ進みます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685309"
+    },
+    {
+      "english": "Please help me notice what works.",
+      "japanese": "何が効いてるか、気づけるようにしてほしいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685311"
+    },
+    {
+      "english": "I’m grateful, but my worries are real.",
+      "japanese": "ありがたいけど、不安は本当です。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685313"
+    },
+    {
+      "english": "I don’t want shortcuts, I want safety.",
+      "japanese": "近道はいらないです、安全が一番です。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685320"
+    },
+    {
+      "english": "I can handle it, but explain gently.",
+      "japanese": "自分でもできるけど、やさしく説明してほしいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685323"
+    },
+    {
+      "english": "Today I’m quiet, but I’m paying attention.",
+      "japanese": "今日は静かだけど、ちゃんと見てます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685325"
+    },
+    {
+      "english": "I feel conflicted, so I need your opinion.",
+      "japanese": "迷ってるので、先生の意見がほしいです。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685327"
+    },
+    {
+      "english": "I’m trying to change, one habit at a time.",
+      "japanese": "変わりたいので、習慣をひとつずつ直します。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685329"
+    },
+    {
+      "english": "Please be honest with me, I can take it.",
+      "japanese": "正直に言ってください、受け止められます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685332"
+    },
+    {
+      "english": "I’m tired of guessing, so guide me.",
+      "japanese": "当てずっぽうは嫌なので、導いてください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685333"
+    },
+    {
+      "english": "I’ll write things down, because I forget.",
+      "japanese": "忘れちゃうので、メモします。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685336"
+    },
+    {
+      "english": "I feel better for asking, honestly.",
+      "japanese": "聞いてよかったって、正直思ってます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685337"
+    },
+    {
+      "english": "I’m scared, but I’ll face it.",
+      "japanese": "怖いけど、向き合います。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685340"
+    },
+    {
+      "english": "I want clarity, so say it plainly, please.",
+      "japanese": "はっきり知りたいので、わかりやすく言ってください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685341"
+    },
+    {
+      "english": "I’m listening, even if I don’t fully get it.",
+      "japanese": "分からないところもあるけど、聞いてます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685344"
+    },
+    {
+      "english": "I’ll trust you, and I’ll stay patient.",
+      "japanese": "あなたを信じて、気長に待ちます。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685346"
+    },
+    {
+      "english": "Before the visit, write your symptoms down.",
+      "japanese": "受診前に症状をメモしておいてください。",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685347"
+    },
+    {
+      "english": "What time can I take this medicine?",
+      "japanese": "この薬、何時に飲めますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685349"
+    },
+    {
+      "english": "Is it okay with my usual drinks?",
+      "japanese": "いつもの飲み物と一緒でも大丈夫？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685350"
+    },
+    {
+      "english": "Please explain side effects in simple words.",
+      "japanese": "副作用をわかりやすく説明してくれますか？",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-10T08:02:06.685352"
     }
   ],
-  "last_updated": "2026-11-09T07:42:05.391581"
+  "last_updated": "2026-11-10T08:02:06.685354"
 }
