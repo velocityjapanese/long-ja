@@ -23309,7 +23309,727 @@
       "japanese": "副作用をわかりやすく説明してくれますか？",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-10T08:02:06.685352"
+    },
+    {
+      "english": "Okay, take your time, I’m here.",
+      "japanese": "いいよ、ゆっくりで大丈夫、私いるよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492292"
+    },
+    {
+      "english": "No worries, wait a sec, please.",
+      "japanese": "大丈夫だよ、ちょっと待ってね。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492309"
+    },
+    {
+      "english": "Let’s pause, then try again.",
+      "japanese": "いったん休んで、またやろう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492312"
+    },
+    {
+      "english": "Stay cool, it’ll work out.",
+      "japanese": "落ち着いて、うまくいくよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492314"
+    },
+    {
+      "english": "Hang in there, one step now.",
+      "japanese": "もう少し、まず一歩いこう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492315"
+    },
+    {
+      "english": "It’s fine, we can deal later.",
+      "japanese": "大丈夫、後でなんとかしよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492317"
+    },
+    {
+      "english": "Wait, let me think for a moment.",
+      "japanese": "待って、ちょっと考えさせて。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492319"
+    },
+    {
+      "english": "Just breathe, keep your rhythm.",
+      "japanese": "深呼吸して、リズムを崩さないで。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492324"
+    },
+    {
+      "english": "We’re not late, it’s okay.",
+      "japanese": "まだ間に合うよ、大丈夫。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492327"
+    },
+    {
+      "english": "Take it easy, don’t overthink.",
+      "japanese": "落ち着いて、考えすぎないで。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492329"
+    },
+    {
+      "english": "All right, calm down, listen first.",
+      "japanese": "よし、落ち着いて、まず聞いて。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492331"
+    },
+    {
+      "english": "Hold on, I’ll check right now.",
+      "japanese": "待って、今確認するね。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492333"
+    },
+    {
+      "english": "Good news, just wait and see.",
+      "japanese": "いい感じ、ちょっと様子見よう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492338"
+    },
+    {
+      "english": "No rush, let’s do it properly.",
+      "japanese": "焦らないで、ちゃんとやろう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492340"
+    },
+    {
+      "english": "If it’s hard, slow your pace.",
+      "japanese": "大変なら、ペース落として。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492342"
+    },
+    {
+      "english": "I get it, but keep going.",
+      "japanese": "わかるよ、でも進もう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492344"
+    },
+    {
+      "english": "Give it a minute, we’re close.",
+      "japanese": "あと一分、もうすぐだよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492345"
+    },
+    {
+      "english": "Thanks, waiting calmly helps a lot.",
+      "japanese": "ありがとう、待つのって大事だよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492347"
+    },
+    {
+      "english": "It’s okay, this is part of it.",
+      "japanese": "大丈夫、これは途中だよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492349"
+    },
+    {
+      "english": "Okay, pause here, regroup.",
+      "japanese": "ここで一回止めて、立て直そう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492350"
+    },
+    {
+      "english": "Let it simmer, then decide later.",
+      "japanese": "もう少し温めて、あとで決めよう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492352"
+    },
+    {
+      "english": "We’ll get there, don’t panic.",
+      "japanese": "大丈夫、焦らなくていいよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492353"
+    },
+    {
+      "english": "Take your time, I’ll wait quietly.",
+      "japanese": "ゆっくりでいいよ、静かに待ってる。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492355"
+    },
+    {
+      "english": "Just keep it steady, no drama.",
+      "japanese": "淡々といこう、余計なことなしで。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492357"
+    },
+    {
+      "english": "Wait—there’s a better timing.",
+      "japanese": "待って、タイミングあるよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492358"
+    },
+    {
+      "english": "Stay patient, even small progress counts.",
+      "japanese": "我慢して、ちょっとでも進めばOK。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492360"
+    },
+    {
+      "english": "Okay, breathe, then ask calmly.",
+      "japanese": "落ち着いて、深呼吸してから聞いて。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492361"
+    },
+    {
+      "english": "Don’t snap back, give it time.",
+      "japanese": "言い返さないで、時間置こう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492363"
+    },
+    {
+      "english": "We’ll follow up, you can relax.",
+      "japanese": "あとで連絡するよ、ゆっくりして。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492365"
+    },
+    {
+      "english": "All right, trust the process, please.",
+      "japanese": "大丈夫、流れを信じてね。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492367"
+    },
+    {
+      "english": "Can you tell me what’s next, please?",
+      "japanese": "次は何をすればいいですか、お願いします。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492369"
+    },
+    {
+      "english": "May I ask for a slower explanation?",
+      "japanese": "もう少しゆっくり説明してもらえますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492371"
+    },
+    {
+      "english": "Is there a better way to wait?",
+      "japanese": "待つなら、もっと良いやり方ありますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492372"
+    },
+    {
+      "english": "Should I start small, or go now?",
+      "japanese": "小さく始めるべきですか、それとも今ですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492374"
+    },
+    {
+      "english": "What do you recommend in my case?",
+      "japanese": "私の場合、どうしますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492376"
+    },
+    {
+      "english": "How do I stay calm during delays?",
+      "japanese": "遅れるとき、どうやって落ち着きますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492377"
+    },
+    {
+      "english": "Can we check the schedule again?",
+      "japanese": "予定をもう一度確認してもいいですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492379"
+    },
+    {
+      "english": "What’s the safest next step here?",
+      "japanese": "ここでの次の一番安全な手は何ですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492381"
+    },
+    {
+      "english": "Would you mind giving me a hint?",
+      "japanese": "ヒントを少しもらえますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492383"
+    },
+    {
+      "english": "When will you know the final answer?",
+      "japanese": "最終結果はいつ分かりますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492385"
+    },
+    {
+      "english": "Can you advise me, step by step?",
+      "japanese": "順番に教えてもらえますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492386"
+    },
+    {
+      "english": "Should I pause, then continue?",
+      "japanese": "いったん止めてから続けますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492391"
+    },
+    {
+      "english": "What usually helps when plans slip?",
+      "japanese": "予定がずれたとき、何が一番効きますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492392"
+    },
+    {
+      "english": "Can we keep it simple for now?",
+      "japanese": "今はシンプルに進めてもいいですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492393"
+    },
+    {
+      "english": "How can I avoid rushing later?",
+      "japanese": "あとで慌てないために、どうすればいいですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492395"
+    },
+    {
+      "english": "Do you want me to wait or move?",
+      "japanese": "待つか、進めるか、どちらがいいですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492396"
+    },
+    {
+      "english": "What’s the best timing for this?",
+      "japanese": "これ、いちばん良いタイミングはいつですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492398"
+    },
+    {
+      "english": "If I’m stuck, who should I ask?",
+      "japanese": "困ったら、誰に聞けばいいですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492399"
+    },
+    {
+      "english": "Could you tell me the reason, please?",
+      "japanese": "理由を教えてもらえますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492401"
+    },
+    {
+      "english": "Do you prefer updates every hour?",
+      "japanese": "1時間ごとに進捗を知らせますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492404"
+    },
+    {
+      "english": "How do you handle waiting patiently?",
+      "japanese": "待つ間、どうやって我慢しますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492406"
+    },
+    {
+      "english": "Can we set a clear goal for today?",
+      "japanese": "今日のゴールをはっきり決めますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492407"
+    },
+    {
+      "english": "What’s your plan if it takes longer?",
+      "japanese": "もっと時間がかかる場合、どうしますか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492409"
+    },
+    {
+      "english": "Can you confirm, then I’ll proceed?",
+      "japanese": "確認してから進めてもいいですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492411"
+    },
+    {
+      "english": "Is it better to ask questions first?",
+      "japanese": "先に質問したほうがいいですか。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492412"
+    },
+    {
+      "english": "Thanks, I’ll wait calmly, got it.",
+      "japanese": "ありがとうございます、落ち着いて待ちます。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492414"
+    },
+    {
+      "english": "Keep going, you’re learning with each try",
+      "japanese": "続けて, それだけで学びが増える",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492416"
+    },
+    {
+      "english": "Slow is fine, steady beats fast",
+      "japanese": "ゆっくりでいい, 積み重ねが勝つ",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492418"
+    },
+    {
+      "english": "Your effort counts, even if it’s quiet",
+      "japanese": "努力はちゃんと残る, 静かでもね",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492420"
+    },
+    {
+      "english": "Breathe in, let the moment pass",
+      "japanese": "深呼吸して, 今をやり過ごそう",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492421"
+    },
+    {
+      "english": "Trust yourself, timing will align",
+      "japanese": "自分を信じて, タイミングが合うよ",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492423"
+    },
+    {
+      "english": "Small steps now, big change later",
+      "japanese": "今は小さく, そのうち大きくなる",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492424"
+    },
+    {
+      "english": "You don’t need instant results",
+      "japanese": "すぐ結果が出なくて大丈夫",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492426"
+    },
+    {
+      "english": "Calm mind, better choices come",
+      "japanese": "落ち着いた心, いい判断が来る",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492428"
+    },
+    {
+      "english": "Stay open, answers show up gradually",
+      "japanese": "心を開いて, 答えは少しずつ来る",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492429"
+    },
+    {
+      "english": "Even delays teach you something",
+      "japanese": "遅れも学びになるんだ",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492431"
+    },
+    {
+      "english": "Keep your pace, don’t rush today",
+      "japanese": "ペースを守って, 今日を急がない",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492433"
+    },
+    {
+      "english": "Good things take time, remember that",
+      "japanese": "いいことは時間が必要, それ覚えて",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492434"
+    },
+    {
+      "english": "You’re doing fine, just keep waiting",
+      "japanese": "大丈夫, そのまま待てばいい",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492436"
+    },
+    {
+      "english": "Don’t fight the process, ride it",
+      "japanese": "流れに逆らわないで, 乗っていこう",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492438"
+    },
+    {
+      "english": "Be patient, then act when ready",
+      "japanese": "我慢して, 準備できたら動く",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492441"
+    },
+    {
+      "english": "Your patience makes things work out",
+      "japanese": "我慢が, ちゃんと道を開く",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492442"
+    },
+    {
+      "english": "It’s normal, you’re not behind",
+      "japanese": "普通のこと, あなたは遅れてない",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492445"
+    },
+    {
+      "english": "Tell yourself, this is practice",
+      "japanese": "自分に言って, これは練習だよ",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492446"
+    },
+    {
+      "english": "Give it focus, not frustration",
+      "japanese": "イライラじゃなくて, 集中しよう",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492449"
+    },
+    {
+      "english": "When doubt hits, return to calm",
+      "japanese": "不安が来たら, 落ち着きに戻る",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492451"
+    },
+    {
+      "english": "Celebrate progress, even tiny wins matter",
+      "japanese": "進んだところを喜んで, 小さな勝ちも大事",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492452"
+    },
+    {
+      "english": "Hold steady, your turn is coming",
+      "japanese": "そのまま踏ん張って, 順番が来る",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492454"
+    },
+    {
+      "english": "Patience now, freedom later",
+      "japanese": "今は忍耐, 後で楽になる",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492455"
+    },
+    {
+      "english": "Keep kindness with yourself, always",
+      "japanese": "自分にやさしくして, ずっとね",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492457"
+    },
+    {
+      "english": "Ask, learn, and wait with purpose",
+      "japanese": "聞いて, 学んで, 意味を持って待とう",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492458"
+    },
+    {
+      "english": "You can handle the waiting, trust me",
+      "japanese": "待つのもできるよ, 信じて",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492460"
+    },
+    {
+      "english": "Let your goals guide you, not time",
+      "japanese": "時間じゃなくて, 目標で動こう",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492461"
+    },
+    {
+      "english": "Stay positive, even small steps count",
+      "japanese": "前向きに, 小さくても積み上がる",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492462"
+    },
+    {
+      "english": "You’re stronger than this delay",
+      "japanese": "この遅れなんかに負けない",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492464"
+    },
+    {
+      "english": "I’ll wait, but I’ll still stay alert, too.",
+      "japanese": "待つけど、気は抜かないよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492466"
+    },
+    {
+      "english": "My feelings are real, I just slow down.",
+      "japanese": "気持ちは本物、でもペースは落とす。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492468"
+    },
+    {
+      "english": "I can be honest, I’m anxious right now.",
+      "japanese": "正直に言うね、今ちょっと不安。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492469"
+    },
+    {
+      "english": "I’ll breathe, then think, not react.",
+      "japanese": "深呼吸して、考えてから返す。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492471"
+    },
+    {
+      "english": "I’m learning to pause before I speak.",
+      "japanese": "話す前に一拍置く練習中。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492473"
+    },
+    {
+      "english": "Let it take time, I’ll watch for signs.",
+      "japanese": "時間をかけて、合図を見ていく。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492475"
+    },
+    {
+      "english": "Even silence can be progress, slowly.",
+      "japanese": "静けさだって、少しずつ進歩になる。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492476"
+    },
+    {
+      "english": "I want results, but I won’t rush my heart.",
+      "japanese": "結果は欲しいけど、焦らない。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492478"
+    },
+    {
+      "english": "I’ll keep my tone calm, no matter what.",
+      "japanese": "何があっても、口調は落ち着かせる。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492480"
+    },
+    {
+      "english": "When I’m unsure, I choose patience anyway.",
+      "japanese": "迷ったら、やっぱり待つ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492482"
+    },
+    {
+      "english": "I’ll trust the process, and my effort too.",
+      "japanese": "プロセスも、努力も信じる。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492483"
+    },
+    {
+      "english": "I can feel stuck, and still move forward.",
+      "japanese": "動けない気がしても、前へ進む。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492485"
+    },
+    {
+      "english": "I’ll stay kind to myself, even today.",
+      "japanese": "今日も、自分に優しくする。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492487"
+    },
+    {
+      "english": "I’m not behind, I’m building patience.",
+      "japanese": "遅れてないよ、忍耐を育ててる。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492489"
+    },
+    {
+      "english": "I’ll wait, because clarity needs time.",
+      "japanese": "答えが出るまで、待つよ。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492491"
+    },
+    {
+      "english": "I’ll ask for help, but I’ll wait my turn.",
+      "japanese": "助けは頼む、でも順番は守る。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492492"
+    },
+    {
+      "english": "My mind is noisy, so I slow it down.",
+      "japanese": "頭がうるさいから、ゆっくりにする。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492494"
+    },
+    {
+      "english": "I’ll handle this step by step, honestly.",
+      "japanese": "正直に、ひとつずつ進める。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492497"
+    },
+    {
+      "english": "I keep going, even when progress is hidden.",
+      "japanese": "進みが見えなくても、続ける。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492499"
+    },
+    {
+      "english": "I’m learning that waiting can be empowering.",
+      "japanese": "待つことが力になるって分かってきた。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492501"
+    },
+    {
+      "english": "I’ll be patient, but I’ll set boundaries too.",
+      "japanese": "待つよ、でも無理はしない。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492504"
+    },
+    {
+      "english": "I don’t need perfect timing, just steady.",
+      "japanese": "完璧じゃなくていい、安定が大事。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492506"
+    },
+    {
+      "english": "I’m allowed to feel, then choose calm.",
+      "japanese": "感じてもいい、そのあと落ち着く。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492521"
+    },
+    {
+      "english": "I’ll keep watching, not spiraling in my head.",
+      "japanese": "頭で暴れないで、ちゃんと見守る。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492524"
+    },
+    {
+      "english": "I’ll let today be a calm practice day.",
+      "japanese": "今日は静かな練習日にする。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492527"
+    },
+    {
+      "english": "I respect the pace, even if it’s slow.",
+      "japanese": "遅くても、そのペースを尊重する。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492529"
+    },
+    {
+      "english": "I’ll remember, I’m building trust with time.",
+      "japanese": "時間で信頼を積み上げてる。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492531"
+    },
+    {
+      "english": "If I’m stressed, I’ll choose small steps.",
+      "japanese": "焦ったら、できる小さいことをする。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492533"
+    },
+    {
+      "english": "I’ll stay present, so impatience can’t win.",
+      "japanese": "今にいるよ、焦りに負けない。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492534"
+    },
+    {
+      "english": "My heart needs patience, not pressure, right now.",
+      "japanese": "今の心は、プレッシャーじゃなく忍耐。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492536"
+    },
+    {
+      "english": "Breathe first, then ask, not argue.",
+      "japanese": "まず息を吸って、それから聞いて、言い合わない。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492538"
+    },
+    {
+      "english": "If it’s slow, double-check the steps.",
+      "japanese": "遅いときは、手順をもう一度確認して。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492540"
+    },
+    {
+      "english": "Take your time, you’re learning the rhythm.",
+      "japanese": "ゆっくりでいいよ、リズムを覚えてる最中。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492542"
+    },
+    {
+      "english": "Don’t force it, let it unfold naturally.",
+      "japanese": "無理に進めないで、自然に任せよう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492544"
+    },
+    {
+      "english": "Waiting is okay, but set a next check.",
+      "japanese": "待っても大丈夫、次の確認は決めよう。",
+      "category": "Patience",
+      "generated_at": "2026-11-11T07:31:39.492545"
     }
   ],
-  "last_updated": "2026-11-10T08:02:06.685354"
+  "last_updated": "2026-11-11T07:31:39.492547"
 }
