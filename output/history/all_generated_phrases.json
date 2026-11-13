@@ -24029,7 +24029,399 @@
       "japanese": "待っても大丈夫、次の確認は決めよう。",
       "category": "Patience",
       "generated_at": "2026-11-11T07:31:39.492545"
+    },
+    {
+      "english": "That sounds sketchy, honestly.",
+      "japanese": "それ、なんか怪しいよね。",
+      "transliteration": "sore, nanka atatashii yo ne",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I’m totally broke right now.",
+      "japanese": "今マジで金ないんだよね。",
+      "transliteration": "ima MAJI de kane nai n da yo ne",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "No way, you’re kidding.",
+      "japanese": "え、まじで？それないでしょ。",
+      "transliteration": "e, MAJI de? sore nai desho",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Hang on, let me check.",
+      "japanese": "ちょ、ちょっと待って、確認するわ。",
+      "transliteration": "cho, CHOTTO matte, kakunin suru wa",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I’m running late, sorry.",
+      "japanese": "遅れそう、ごめんね。",
+      "transliteration": "okuresou, gomen ne",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Let’s bounce, I’m done here.",
+      "japanese": "もういいわ、そろそろ帰ろう。",
+      "transliteration": "mou ii wa, sorosoro kaerou",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "That’s a wild story.",
+      "japanese": "それ、めっちゃ事件じゃん。",
+      "transliteration": "sore, meccha jiken jan",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Want to grab ramen tonight?",
+      "japanese": "今夜、ラーメン食べに行かない？",
+      "transliteration": "KON'YA, RAAMEN TABE NI IKANAI?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I’m nervous, but I’m excited.",
+      "japanese": "緊張してるけど、すごく楽しみ。",
+      "transliteration": "KINCHŌ SHITERU KEDO, SUGOKU TANOSHIMI.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Can I hold your hand?",
+      "japanese": "手、つないでいい？",
+      "transliteration": "TE, TSUNAI DE II?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "That was the best date ever.",
+      "japanese": "今日のデート、最高だったね。",
+      "transliteration": "KYŌ NO DEETO, SAIKŌ DATTA NE.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "No pressure, just be yourself.",
+      "japanese": "気にしないで、いつものままでいてね。",
+      "transliteration": "KI NI SHINAI DE, ITSUMO NO MAMA DE ITE NE.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I love your laugh, honestly.",
+      "japanese": "マジで、あなたの笑い声が好き。",
+      "transliteration": "MAJI DE, ANATA NO WARAIGOE GA SUKI.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Text me when you get home.",
+      "japanese": "家に着いたら、連絡してね。",
+      "transliteration": "IE NI TSUITARA, RENRAKU SHITE NE.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Excuse me, where is the station?",
+      "japanese": "すみません、駅はどこですか。",
+      "transliteration": "su-mi-MA-sen, eki wa do-ko desu ka",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "How do I get to the park?",
+      "japanese": "公園までどうやって行きますか。",
+      "transliteration": "ko-u-en ma-de do-o ya-tte i-ki-ma-su ka",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Is this the right way to downtown?",
+      "japanese": "ここは繁華街に行く道で合っていますか。",
+      "transliteration": "ko-ko wa han-ka-gai ni i-ku mi-chi de a-tta i-te i-ma-su ka",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Can you point me to a bus stop?",
+      "japanese": "バス停はどこか教えてください。",
+      "transliteration": "ba-su-te-i wa do-ko ka o-shie-te ku-da-sai",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Which street is this, please?",
+      "japanese": "すみません、ここは何通りですか。",
+      "transliteration": "su-mi-MA-sen, ko-ko wa na-n do-o-ri desu ka",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Where can I find a taxi stand?",
+      "japanese": "タクシー乗り場はどこですか。",
+      "transliteration": "ta-ku-shi-i no-ri-ba wa do-ko desu ka",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "How far is it to the museum?",
+      "japanese": "美術館までどれくらいですか。",
+      "transliteration": "bi-jut-su-kan ma-de do-re-ku-ra-i desu ka",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Where is the nearest train station?",
+      "japanese": "いちばん近い駅はどこですか。",
+      "transliteration": "ichiban CHIKAI eki wa doko desu ka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "How long is the ride to Shibuya?",
+      "japanese": "渋谷まで電車でどれくらいかかりますか。",
+      "transliteration": "SHIBUYA made densha de dore kurai kakarimasu ka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Does this bus go to the airport?",
+      "japanese": "このバスは空港に行きますか。",
+      "transliteration": "kono BASU wa KUKŌU ni ikimasu ka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Where do I tap my transit card?",
+      "japanese": "交通系ICカードはどこでタッチしますか。",
+      "transliteration": "kōtsū kei IC kādo wa doko de TATCHI shimasu ka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Is there a direct route?",
+      "japanese": "乗り換えなしで行けますか。",
+      "transliteration": "nori kae nashi de ikemasu ka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Which platform is my train on?",
+      "japanese": "次の電車は何番線ですか。",
+      "transliteration": "tsugi no DEN sha wa nan ban sen desu ka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "What time is the last train?",
+      "japanese": "終電は何時ですか。",
+      "transliteration": "shū den wa nan ji desu ka",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Can I check in early?",
+      "japanese": "早めにチェックインしてもいいですか。",
+      "transliteration": "HAYAME ni CHEKku in shite mo ii desu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Do you have a late checkout?",
+      "japanese": "レイトチェックアウトはできますか。",
+      "transliteration": "REITO chekku auto wa dekimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Where do I park my car?",
+      "japanese": "車はどこに停めればいいですか。",
+      "transliteration": "Kuruma wa doko ni tomereba ii desu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I need a quiet room, please.",
+      "japanese": "静かな部屋にできますか。",
+      "transliteration": "SHIZUKA na heya ni dekimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Is breakfast included in the price?",
+      "japanese": "朝食は料金に含まれていますか。",
+      "transliteration": "ChōSHOKU wa RYŌkin ni fukuma rete imasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "What time does breakfast start?",
+      "japanese": "朝食は何時からですか。",
+      "transliteration": "ChōSHOKU wa NANJI kara desu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Can I get an extra key?",
+      "japanese": "鍵をもう一つもらえますか。",
+      "transliteration": "KAGI o mō hitotsu moraemasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Choose strength in small moments",
+      "japanese": "小さな瞬間で強さを選ぶよ。",
+      "transliteration": "chiis a na shunkan de TSUYOSA o erabu yo.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I can handle this, one breath",
+      "japanese": "大丈夫、ひと息でいける。",
+      "transliteration": "daijoubu, hitoiki de ikERU.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Say no, protect your energy",
+      "japanese": "断って、自分のエネルギーを守る。",
+      "transliteration": "kOTTE, jibun no ENERUGII o mamoru.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "My body knows, I keep moving",
+      "japanese": "体が分かってる、だから動き続ける。",
+      "transliteration": "karada ga wa kat teru, dakara ugki tsuzukERU.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Slow down, then hit again",
+      "japanese": "いったん落ち着いて、また強くやる。",
+      "transliteration": "ittan ochitsuite, mata tsuYOKU yaru.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Boundaries make you stronger",
+      "japanese": "境界線を引くほど強くなる。",
+      "transliteration": "kyoukai sen o hiku hodo tsuYOUku naru.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Ask for help, strong inside",
+      "japanese": "助けてって言えるのも強さだよ。",
+      "transliteration": "tasukete tte ieru no mo TSUyo sa da yo.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I feel safe with you",
+      "japanese": "あなたといると、安心するよ",
+      "transliteration": "Anata to iru to, anshin suru yo",
+      "category": "Love",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Let me spoil you today",
+      "japanese": "今日は、甘やかさせて",
+      "transliteration": "Kyou wa, ama yakasasete",
+      "category": "Love",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I love your honest heart",
+      "japanese": "あなたのまっすぐな心が好き",
+      "transliteration": "Anata no massugu na kokoro ga suki",
+      "category": "Love",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Thank you for choosing me",
+      "japanese": "選んでくれて、ありがとう",
+      "transliteration": "Erande kurete, arigatou",
+      "category": "Love",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Your laugh keeps me going",
+      "japanese": "あなたの笑い声が、私を支える",
+      "transliteration": "Anata no waraigoe ga, watashi o sasaeru",
+      "category": "Love",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Even in silence, I’m yours",
+      "japanese": "言葉がなくても、あなたのものだよ",
+      "transliteration": "Kotoba ga nakutemo, anata no mono da yo",
+      "category": "Love",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "I want your comfort tonight",
+      "japanese": "今夜は、あなたのそばでほっとしたい",
+      "transliteration": "Konya wa, anata no soba de hotto shitai",
+      "category": "Love",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Breathe, reset, keep going.",
+      "japanese": "深呼吸して、リセットして、進もう。",
+      "transliteration": "SHIN KOKYUUSHI TE, riySETTO SHITE, susUMŌ.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Switch modes, not your dream.",
+      "japanese": "気持ちを切り替えても、夢は変えない。",
+      "transliteration": "KIMOCHI WO KIRIKAETE MO, yUME WA KAENAI.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Sit up, soften your shoulders.",
+      "japanese": "姿勢を正して、肩の力を抜いて。",
+      "transliteration": "SHISEI WO TADA SHITE, kata no CHIKARA WO nUITE.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Hold steady, even in chaos.",
+      "japanese": "混乱しても、落ち着いて歩こう。",
+      "transliteration": "KONRAN SHITE MO, ochiTSUITE ARUKŌ.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Pause before you answer, please.",
+      "japanese": "返事をする前に、一呼吸おいてね。",
+      "transliteration": "HENJI WO SURU MAE ni, HI TO KO KYUU oite ne.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Balance screen time with fresh air.",
+      "japanese": "画面ばかり見ないで、外の空気も吸おう。",
+      "transliteration": "GAMEN BAKARI MI NAIDE, soto no KUKI MO SUŌ.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T18:41:42.403562"
+    },
+    {
+      "english": "Eat slowly, taste the moment.",
+      "japanese": "ゆっくり食べて、その味わいを楽しもう。",
+      "transliteration": "YUKKURI TABETE, sono aJIwai o TANOSHI MŌ.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T18:41:42.403562"
     }
   ],
-  "last_updated": "2026-11-11T07:31:39.492547"
+  "last_updated": "2026-11-12T18:41:42.403562"
 }
