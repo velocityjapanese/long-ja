@@ -24813,7 +24813,399 @@
       "transliteration": "kon'ya wa SAMii",
       "category": "Feelings & Emotions",
       "generated_at": "2026-11-13T18:18:25.022350"
+    },
+    {
+      "english": "I’m totally on board with that.",
+      "japanese": "それ、すごく賛成です。",
+      "transliteration": "SORE, SU-GO-KU SAN-SEI DESU.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Yeah, I agree with you.",
+      "japanese": "うん、あなたに賛成だよ。",
+      "transliteration": "UN, ANATA NI SAN-SEI DA YO.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "That sounds fair to me.",
+      "japanese": "それは私には公平に思える。",
+      "transliteration": "SO-RE WA WA-TASHI NI WA KOU-HEI NI OMO-E-RU.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I’m with you, completely.",
+      "japanese": "私はあなたと同じ気持ちです。",
+      "transliteration": "WA-TA-SHI WA ANATA TO ONA-JI KI-MO-CHI DESU.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Let’s do it, agreed?",
+      "japanese": "それで行きましょう、いいですか。",
+      "transliteration": "SO-RE DE I-KI-MA-SHO, II DESU KA.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I think that’s the right move.",
+      "japanese": "それはいい判断だと思う。",
+      "transliteration": "SO-RE WA II HAN-DAN DA TO OMO-U.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Exactly, that’s my opinion.",
+      "japanese": "まさにその通りです。",
+      "transliteration": "MA-SA-NI SO-NO TO-O-RI DESU.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "That warm yes feels amazing.",
+      "japanese": "その温かい同意が、なんとも嬉しい。",
+      "transliteration": "Sono atatakai dōi ga, nandomo ureshii.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Your call instantly brightens my day.",
+      "japanese": "あなたの電話で、すぐに一日が明るくなる。",
+      "transliteration": "Anata no denwa de, sugu ni ichinichi ga akaruku naru.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I nailed it, and I feel free.",
+      "japanese": "できたって実感が、すごく自由な気持ちになる。",
+      "transliteration": "Dekit Tatte jikkan ga, sugoku jiyū na kimochi ni naru.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "A kind stranger held the door.",
+      "japanese": "親切な知らない人が、ドアを開けてくれた。",
+      "transliteration": "Shinsetsu na shiranai hito ga, doa o akete kureta.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "My playlist hits just the right spot.",
+      "japanese": "プレイリストが、ちょうどいいところに刺さる。",
+      "transliteration": "Pureirisuto ga, chōdo ī tokoro ni sasaru.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Cooking smells, finally, like home.",
+      "japanese": "台所のにおいが、やっと家みたいになる。",
+      "transliteration": "Daidokoro no nioi ga, yatto ie mitai ni naru.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I laughed so hard I wheezed.",
+      "japanese": "お腹がよじれるほど、思わず笑ってしまった。",
+      "transliteration": "Onaka ga yojireru hodo, omowazu waratte shimatta.",
+      "category": "Joy",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I’m heading to the meeting now.",
+      "japanese": "これから会議に向かいます。",
+      "transliteration": "KO-RE-ka-ra kaI-gi ni mu-ka-i-ma-su.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Can you resend that file, please?",
+      "japanese": "そのファイル、もう一度送ってもらえますか。",
+      "transliteration": "SO-no FA-a-i-ru, mo-u i-chi-do o-ku-tte mo-ra-e-ma-su ka.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I need five minutes before I start.",
+      "japanese": "始める前に、5分だけください。",
+      "transliteration": "HA-je-me-ru ma-e ni, go-fun da-ke ku-da-sa-i.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Let’s grab coffee after work.",
+      "japanese": "仕事のあとでコーヒーにしましょう。",
+      "transliteration": "SHI-go-to no a-to de KO-o-hi-i ni shi-ma-sho-u.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Please mute your microphone now.",
+      "japanese": "今、マイクをミュートしてください。",
+      "transliteration": "I-ma, MA-i-ku o myu-u-to shi-te ku-da-sa-i.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I’m stuck, can you help me?",
+      "japanese": "詰まってるので、手伝ってくれますか。",
+      "transliteration": "TSu-ma-tte ru no de, te tsu-da-tte ku-re-ma-su ka.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "The printer is out of paper.",
+      "japanese": "プリンターが用紙切れです。",
+      "transliteration": "pu-RIN-ta-a ga YO-u-shi ki-re de-su.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I need a gym day pass today.",
+      "japanese": "今日、ジムの体験チケットをください。",
+      "transliteration": "kyou, JIMU no taiken chiketto o kudasai.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Where can I rent tennis shoes?",
+      "japanese": "テニスシューズはどこで借りられますか。",
+      "transliteration": "tenisu syuuzu wa doko de kariremasu ka.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Can you teach me proper form?",
+      "japanese": "フォームの正しいやり方を教えてください。",
+      "transliteration": "foomu no tadashii yarikata o oshiete kudasai.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I’m starting a 10k training plan.",
+      "japanese": "10キロのトレーニングを始めます。",
+      "transliteration": "juukiro no tOReningu o hajimemasu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "After work, I just do yoga.",
+      "japanese": "仕事のあと、ゆっくりヨガをします。",
+      "transliteration": "shigoto no ato, yukkuri yOga o shimasu.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "My knees get sore, any tips?",
+      "japanese": "膝が痛くなるんだけど、何か工夫できる。",
+      "transliteration": "hiza ga itakunaru n da kedo, nanika kufuu dekiru.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Let’s warm up for ten minutes.",
+      "japanese": "まずは10分ウォームアップしよう。",
+      "transliteration": "mazu wa juu-bun uoomu appu shiyou.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "One coffee, please, to go.",
+      "japanese": "コーヒーを1つ、テイクアウトでお願いします。",
+      "transliteration": "KO-hii o HITOTSU, TEI-ku-au-to de onegaishimasu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Can I get a hot latte?",
+      "japanese": "ホットのラテをお願いできますか。",
+      "transliteration": "HOTTO no RA-te o onegaishimasu ka.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Do you have soy milk?",
+      "japanese": "豆乳はありますか。",
+      "transliteration": "TOU-nyuu wa arimasu ka.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "What pastries are fresh today?",
+      "japanese": "今日いちばん新しいパンは何ですか。",
+      "transliteration": "KYOU ichi-ban atarashii PAN wa nan desu ka.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I’ll take the croissant, please.",
+      "japanese": "クロワッサンをください。",
+      "transliteration": "KURO-wa-SSAN o kudasai.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Is the sourdough really tangy?",
+      "japanese": "サワードウは酸っぱいですか。",
+      "transliteration": "SA-wa-a-do-u wa suppai desu ka.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Can I sit here for a while?",
+      "japanese": "しばらく店内で座ってもいいですか。",
+      "transliteration": "SHI-ba-ra-ku ten-nai de suwatte mo ii desu ka.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Level up, one habit at a time.",
+      "japanese": "習慣を一つずつレベルアップしていこう。",
+      "transliteration": "しゅうかん オ ひとつずつ レベルアップ していこう。",
+      "category": "Growth",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Today, I learned something hard.",
+      "japanese": "きょうは、むずかしいことを学べた。",
+      "transliteration": "きょうは、ムズかしいことを まなべた。",
+      "category": "Growth",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Let feedback sharpen your next try.",
+      "japanese": "フィードバックで次の挑戦を研ぎ澄まそう。",
+      "transliteration": "フィードバックで つぎの ちょうせん オ とぎすまそう。",
+      "category": "Growth",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I grow by doing the boring part.",
+      "japanese": "つまらない作業こそ、成長につながる。",
+      "transliteration": "つまらない さぎょうこそ、せいちょうに つながる。",
+      "category": "Growth",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Keep a journal, watch progress unfold.",
+      "japanese": "日記をつけて、成長を目で見よう。",
+      "transliteration": "にっき オ つけて、せいちょう オ めで みよう。",
+      "category": "Growth",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Small wins count, even when no one sees.",
+      "japanese": "誰も見てなくても、ちいさな勝利は積み上がる。",
+      "transliteration": "だれも みてなくても、ちいさな しょうりは ツみあがる。",
+      "category": "Growth",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Mistakes become fuel for my focus.",
+      "japanese": "失敗は、集中の燃料になる。",
+      "transliteration": "しっぱいは、しゅうちゅうの ねんりょうに なる。",
+      "category": "Growth",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Pause, feel your shoulders lighten",
+      "japanese": "いま一度止まって、肩の力をほどく",
+      "transliteration": "ima ichido tomatte, kata no chikara o hodoku",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Notice your jaw, unclench gently",
+      "japanese": "あごの力を抜いて、やさしくゆるめて",
+      "transliteration": "ago no chikara o nuki te, yasashiku yurumete",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Let your attention land softly",
+      "japanese": "意識をふわっと着地させる",
+      "transliteration": "ishiki o fuwa tto chakuchi saseru",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Feel the air at your nose",
+      "japanese": "鼻先の空気を感じてみて",
+      "transliteration": "hana saki no kuuki o kanji te mite",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Relax your belly, breathe low",
+      "japanese": "お腹をゆるめて、低めに呼吸する",
+      "transliteration": "onaka o yurume te, hikime ni kokyuu suru",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Count three slow sounds, then smile",
+      "japanese": "ゆっくり三回、音を数えてから微笑む",
+      "transliteration": "yukkuri san kai, oto o kazoete kara hohoemu",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Soften your gaze, not your mind",
+      "japanese": "視線だけやわらげて、心はまっすぐ",
+      "transliteration": "shisen dake yawara kete, kokoro wa massugu",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I need an ambulance, now please.",
+      "japanese": "救急車を呼んでください、すぐお願いします。",
+      "transliteration": "Kyūkyūsha o yonde kudasai, SUGU onegaishimasu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Call 119 for me, please.",
+      "japanese": "119番に電話してもらえますか。",
+      "transliteration": "119-ban ni denwa shite moraemasu ka.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I can’t breathe, please help.",
+      "japanese": "息ができません、助けてください。",
+      "transliteration": "Iki ga dekimasen, tasukete kudasai.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "Chest pain, it feels severe.",
+      "japanese": "胸が痛いです、すごく苦しいです。",
+      "transliteration": "Mune ga itai desu, sugoku kurushii desu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I might be having a stroke.",
+      "japanese": "脳卒中かもしれないです。",
+      "transliteration": "Nōsotsuchū ka mo shire nai desu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "My arm suddenly feels weak.",
+      "japanese": "腕が急に弱くなりました。",
+      "transliteration": "Ude ga kyū ni yowaku narimashita.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "My face is drooping, help.",
+      "japanese": "顔が片側にゆがんでいます、助けてください。",
+      "transliteration": "Kao ga katagawa ni yugande imasu, tasukete kudasai.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T16:49:55.049435"
     }
   ],
-  "last_updated": "2026-11-13T18:18:25.022350"
+  "last_updated": "2026-11-14T16:49:55.049435"
 }
