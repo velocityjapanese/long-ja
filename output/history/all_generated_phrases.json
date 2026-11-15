@@ -25205,7 +25205,399 @@
       "transliteration": "Kao ga katagawa ni yugande imasu, tasukete kudasai.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-14T16:49:55.049435"
+    },
+    {
+      "english": "I can handle this moment.",
+      "japanese": "この瞬間、私は大丈夫だよ。",
+      "transliteration": "KONO SHUNKAN, watashi wa daijōbu da yo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "My pace is my power.",
+      "japanese": "自分のペースでいいんだ。",
+      "transliteration": "JIBUN no PĒSU de ii n da.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I’ll speak up, no apology.",
+      "japanese": "遠慮せずに言うよ。",
+      "transliteration": "ENRYO sezu ni iu yo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I trust what I know.",
+      "japanese": "私の分かってることを信じてる。",
+      "transliteration": "WATASHI no wakatteru koto o SHINJITE ru.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "One yes at a time.",
+      "japanese": "うんを一つずつ増やしていく。",
+      "transliteration": "UN o HITOTSU zu tsu fuzaShite iku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I’m allowed to take space.",
+      "japanese": "居てもいいって思えるよ。",
+      "transliteration": "IMOTE ii tte omoeru yo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Today, I act before fear.",
+      "japanese": "怖くても、まず動く。",
+      "transliteration": "KOWAKUTE mo, mazu ugoku.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Where is baggage claim, please?",
+      "japanese": "手荷物受取所はどこですか、すみません。",
+      "transliteration": "Te nimotsu ukezisho wa doko desu ka, sumimasen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "My flight was delayed again.",
+      "japanese": "またフライトが遅れました。",
+      "transliteration": "Mata furaito ga okuremashita.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I need to exchange some yen.",
+      "japanese": "両替所で少しお金を替えたいです。",
+      "transliteration": "Ryōgai jo de sukoshi okane o kae tai desu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Which gate is for domestic flights?",
+      "japanese": "国内線のゲートはどれですか。",
+      "transliteration": "Kokunaisen no gēto wa dore desu ka.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Is there a luggage cart nearby?",
+      "japanese": "近くにキャリーカートはありますか。",
+      "transliteration": "Chikaku ni kyari kāto wa arimasu ka.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I think I missed my connection.",
+      "japanese": "乗り継ぎに間に合わなかった気がします。",
+      "transliteration": "Nori tsugi ni mani awanakatta ki ga shimasu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Can you help me find my terminal?",
+      "japanese": "ターミナルの場所が分からないので、教えてください。",
+      "transliteration": "Tāminaru no basho ga wakaranai node, oshiete kudasai.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I want to forgive you, too.",
+      "japanese": "あなたも許したい気持ちです。",
+      "transliteration": "Anata mo yurushitai kimochi desu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Let’s not bring it up again.",
+      "japanese": "もうその話は蒸し返さないでいよう。",
+      "transliteration": "Mou sono hanashi wa mushikaesanai de iyou.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I’ll put it behind me.",
+      "japanese": "もう過去にして前へ進みます。",
+      "transliteration": "Mou kako ni shite mae e susumimasu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I hear you, and I forgive.",
+      "japanese": "あなたの気持ちを受け止めて、許します。",
+      "transliteration": "Anata no kimochi wo uketomete, yurushimasu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Thank you for letting it go.",
+      "japanese": "許してくれてありがとう。",
+      "transliteration": "Yurushite kurete arigatou.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I’m choosing peace, not blame.",
+      "japanese": "責めるより、平和を選びます。",
+      "transliteration": "Semeru yori, heiwa wo erabimasu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Please, forgive me for real.",
+      "japanese": "本気で許してほしいです。",
+      "transliteration": "Honki de yurushite hoshii desu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Hope says, keep going.",
+      "japanese": "希望があるから、進みつづけるよ。",
+      "transliteration": "kibou ga aru kara, susumi tsudzukeru yo.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I can hope and act.",
+      "japanese": "希望を持って、動くことにする。",
+      "transliteration": "kibou o motte, ugoku koto ni suru.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Still, I trust tomorrow.",
+      "japanese": "それでも、明日を信じてる。",
+      "transliteration": "soredemo, ashita o shinji teru.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Let’s write a brighter plan.",
+      "japanese": "明るい計画を、一緒に描こう。",
+      "transliteration": "akarui keikaku o, issho ni egakou.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "My hopes are small, real.",
+      "japanese": "私の希望は、小さくて本物だよ。",
+      "transliteration": "watashi no kibou wa, chiisakute honmono da yo.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I hope, even if it’s hard.",
+      "japanese": "つらくても、希望は手放さない。",
+      "transliteration": "tsurakute mo, kibou wa tebanasanai.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Let’s hold hope, not stress.",
+      "japanese": "不安はほどいて、希望を抱こう。",
+      "transliteration": "fuan wa hodoite, kibou o dako u.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I love losing track of time.",
+      "japanese": "時間を忘れるのが、すごく好きです。",
+      "transliteration": "Jikan o wasureru no ga, sugo ku suki desu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I recharge by making things.",
+      "japanese": "作ることで、ちゃんと元気が戻ります。",
+      "transliteration": "Tsukuru koto de, chanto genki ga modorimasu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Weekend hikes keep me motivated.",
+      "japanese": "週末のハイキングが、いつも背中を押してくれます。",
+      "transliteration": "Shuumatsu no haikingu ga, itsumo senaka o oshite kuremasu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I look forward to painting sessions.",
+      "japanese": "絵を描く時間が、毎回楽しみです。",
+      "transliteration": "E o kaku jikan ga, maikai tanoshimi desu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Reading at night feels comforting.",
+      "japanese": "夜に読むの、すごく落ち着きます。",
+      "transliteration": "Yoru ni yomu no, sugoku ochitsukimasu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "My gym routine clears my head.",
+      "japanese": "ジムのルーティンで、頭の中がスッとします。",
+      "transliteration": "Jimu no ruutii n de, atama no naka ga sutto shimasu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Cooking is my favorite stress relief.",
+      "japanese": "料理は、いちばんのストレス解消です。",
+      "transliteration": "Ryouri wa, ichiban no sutoresu kaishou desu.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I choose courage over comfort.",
+      "japanese": "わたしは、安心より勇気を選ぶ。",
+      "transliteration": "watashi wa, ANSHIN yori YUKI o erabu.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I write goals, then take action.",
+      "japanese": "目標を書いて、すぐ行動する。",
+      "transliteration": "MOKUHYO o kaite, SUGU KODOOSuru.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Today, I do the next right thing.",
+      "japanese": "今日は、次に正しいことをやる。",
+      "transliteration": "KYO wa, TSUGI ni tadashii koto o yaru.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "My habits can change, starting now.",
+      "japanese": "習慣は変えられる、今から。",
+      "transliteration": "SHUUKAN wa kaerareru, IMA kara.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I ask myself, what do I need?",
+      "japanese": "わたしは、何が必要？って聞いてみる。",
+      "transliteration": "watashi wa, nani ga hitsuyou? tte KIITE miru.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I turn stress into focused effort.",
+      "japanese": "ストレスを集中した努力に変える。",
+      "transliteration": "SUTORE-SU o SHUUCHUU shita doryoku ni kaeru.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I speak up kindly, but clearly.",
+      "japanese": "やさしく、でもはっきり伝える。",
+      "transliteration": "yasashiku, demo HAKKIRI tsutaeru.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I keep showing up, anyway.",
+      "japanese": "それでも、私は出ていき続けます。",
+      "transliteration": "SOR EDEMO, WATASHI wa DETE IKI TSUZUKEMASU.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Even small effort counts today.",
+      "japanese": "小さな一歩でも、今日は意味がある。",
+      "transliteration": "CHIISANA IPPO demo, KYOU wa IMI ga ARU.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I can handle one more day.",
+      "japanese": "あと一日だけなら、私は耐えられる。",
+      "transliteration": "ATO ICHINICHI dake nara, WATASHI wa TAERARERU.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I don’t quit when it hurts.",
+      "japanese": "痛くても、やめない。",
+      "transliteration": "ITAKUTE mo, YAMENAI.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Breathe, then try again.",
+      "japanese": "息をして、それからまたやってみよう。",
+      "transliteration": "IKI o shite, SOREKARA mata YATTE MIYOU.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I’ll do it badly at first.",
+      "japanese": "最初は下手でも、やる。",
+      "transliteration": "SAISHO wa HETA demo, YARU.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I stay steady during setbacks.",
+      "japanese": "失敗しても、気持ちを揺らさない。",
+      "transliteration": "SHIPPai shite mo, KIMOCHI o YURASANAI.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Cheers, let’s celebrate tonight!",
+      "japanese": "乾杯、今夜お祝いしよう！",
+      "transliteration": "KANpai, KOnya oiwai shiyou!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "You made my day, seriously.",
+      "japanese": "本当にあなたのおかげで幸せよ。",
+      "transliteration": "Hontou ni anata no okage de SHIAWASE yo.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Thanks for showing up, everyone!",
+      "japanese": "みんな来てくれてありがとう。",
+      "transliteration": "MINna kite kurete ARIGatou.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Let me handle the photos.",
+      "japanese": "写真は私が撮るね。",
+      "transliteration": "SHashin wa watashi ga toru ne.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "This toast means everything to me.",
+      "japanese": "この乾杯、私にとって特別なんだ。",
+      "transliteration": "Kono kanpai, watashi ni totte TOKUBETSU nanda.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "I can’t stop smiling right now.",
+      "japanese": "今ずっと笑っちゃう。",
+      "transliteration": "Ima zutto waracchau.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T17:32:32.839353"
+    },
+    {
+      "english": "Happy birthday, you’re aging well!",
+      "japanese": "お誕生日おめでとう、ますます素敵だね。",
+      "transliteration": "Otanjoubi omedetou, MASumasu suteki da ne.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-15T17:32:32.839353"
     }
   ],
-  "last_updated": "2026-11-14T16:49:55.049435"
+  "last_updated": "2026-11-15T17:32:32.839353"
 }
