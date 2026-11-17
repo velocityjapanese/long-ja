@@ -25989,7 +25989,399 @@
       "transliteration": "Chikai no kotoba o kami ni kaite, saigo ni MOYASU.",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-16T20:47:00.562392"
+    },
+    {
+      "english": "Celebrate small wins, then move",
+      "japanese": "小さな勝ちを祝って、次へ進もう。",
+      "transliteration": "ChiISa na KATchi o IWATte, Tsugi e susumou.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Take action now, not later",
+      "japanese": "今動けば、成功は近づく。",
+      "transliteration": "Ima UGokeba, SUKko wa chikazuku.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Turn feedback into better steps",
+      "japanese": "もらったフィードバックを次の一手にする。",
+      "transliteration": "Mora tt a fiido BAKku o Tsugi no HITe ni suru.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Set one clear goal today",
+      "japanese": "今日は、ひとつ明確な目標を決めよう。",
+      "transliteration": "Kyou wa, HITOtsu meikaku na MOKyou o kimerou.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Consistency beats bursts of effort",
+      "japanese": "やる気よりも、毎日の積み重ねが勝つ。",
+      "transliteration": "Yaruki yori mo, mainichi no TSUMI ka s ane ga katsu.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Choose progress over perfect",
+      "japanese": "完璧より前進、そこに成功がある。",
+      "transliteration": "KANpeki yori zenSHIN, soko ni SEIkou ga aru.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Use deadlines to spark focus",
+      "japanese": "締め切りがあると、集中しやすい。",
+      "transliteration": "ShimeKIRI ga aru to, shuUCHUU shi ya su ii.",
+      "category": "Success",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’m here, even when it’s awkward.",
+      "japanese": "気まずくても、私はここにいるよ。",
+      "transliteration": "KIMAZUKUTE mo, watashi wa KOKO ni iru yo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Tell me what you need right now.",
+      "japanese": "今、何が必要か教えて。",
+      "transliteration": "IMA, nani ga hitsuyou ka oshiete.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "No fixing, just company.",
+      "japanese": "直さなくていいよ、ただ一緒にいるだけ。",
+      "transliteration": "NAOSANA KUTE ii yo, tada issho ni iru dake.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I remember the real you.",
+      "japanese": "本当の君を、私は覚えてる。",
+      "transliteration": "HONTOU no KIMI o, watashi wa oboeteru.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’ll celebrate your wins out loud.",
+      "japanese": "あなたの勝ちを、ちゃんと一緒に喜ぶよ。",
+      "transliteration": "ANATA no kachi o, chanto issho ni yorokobu yo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Let’s take a walk and reset.",
+      "japanese": "散歩しよ、気分を入れ替えよう。",
+      "transliteration": "SANPO shiyo, kibun o irekawo shiyou.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "If you want, I’ll stay on call.",
+      "japanese": "必要なら、待ち受けるよ。",
+      "transliteration": "HITSUYOU nara, machiukeru yo.",
+      "category": "Friendship",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I want to avoid overdraft fees.",
+      "japanese": "オーバードラフト手数料は避けたい。",
+      "transliteration": "ooba-dorafuto tesuu-ryou wa sai-tai shi-tai.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Can I set up automatic savings?",
+      "japanese": "自動で貯金を始められますか。",
+      "transliteration": "jido de chokin wo hajime-rare masu ka.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I double-check my account before paying.",
+      "japanese": "支払い前に口座をもう一度確認する。",
+      "transliteration": "shiharai mae ni kouza wo mou ichido kakunin suru.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I keep my cards locked when not using.",
+      "japanese": "使わない間はカードをロックしてる。",
+      "transliteration": "tsuka-nai aida wa kaado wo rokkushiteru.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I ask the bank about transfer limits.",
+      "japanese": "振込の上限を銀行に聞いた。",
+      "transliteration": "furikomi no jyougen wo ginkou ni kiita.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "This fee seems high, is it right?",
+      "japanese": "この手数料、高くないですか。",
+      "transliteration": "kono tesuu-ryou, takaku nai desu ka.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I save receipts to track every charge.",
+      "japanese": "明細を確認するためレシートも残す。",
+      "transliteration": "meisai wo kakunin suru tame reshiito mo nokosu.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Hi, I’m glad we could meet.",
+      "japanese": "こんにちは、会えてうれしいです。",
+      "transliteration": "KONNICHIWA, AETE URESHII DESU.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Thanks for making time today.",
+      "japanese": "今日、時間を作ってくれてありがとうございます。",
+      "transliteration": "KYOU, JIKAN O TSUKUTTE KURETE ARIGATOU GOZAIMASU.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Nice to meet you, I’m so relieved.",
+      "japanese": "はじめまして、ほっとしています。",
+      "transliteration": "HAJIMEMASHITE, HOTTO SHITE IMASU.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "May I shake hands with you?",
+      "japanese": "握手してもいいですか。",
+      "transliteration": "AKUSHU TE SHITE MO II DESU KA.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’m a bit shy, please be kind.",
+      "japanese": "少し緊張してますので、やさしくしてください。",
+      "transliteration": "SUKOSHI KINCHOU SHITEMASU NODE, YASASHIKU SHITE KUDASAI.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "What’s your name? I want to learn it.",
+      "japanese": "お名前を教えてください。覚えたいです。",
+      "transliteration": "ONAMAe O OSHIE TE KUDASAI. OBOETAi DESU.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’m looking forward to getting to know you.",
+      "japanese": "これから、もっと仲良くなりたいです。",
+      "transliteration": "KOREKARA, MOTTOMO NAKAYOKU NARITAI DESU.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I want to speak clearly, not fast.",
+      "japanese": "速くじゃなくて、はっきり話したい。",
+      "transliteration": "HAyaku janakute, HAKKIRI hanashitai.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "My purpose is to connect today.",
+      "japanese": "今日の目的は、つながること。",
+      "transliteration": "Kyou no mokuteki wa, TSUNAGARU koto.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’m here to understand, not win.",
+      "japanese": "勝ちたいんじゃなくて、理解したい。",
+      "transliteration": "Kachitai n janakute, RIKAI shitai.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I choose actions that match my values.",
+      "japanese": "自分の価値観に合う行動を選ぶ。",
+      "transliteration": "Jibun no KACHIKAN ni au KODO o erabu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’ll ask one good question, then listen.",
+      "japanese": "いい質問をひとつしてから、ちゃんと聞く。",
+      "transliteration": "Ii shitsumon o hitotsu shite kara, chanto kiku.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "My aim is honest effort in public.",
+      "japanese": "人前では、誠実に努力するのが目標。",
+      "transliteration": "Hitomae de wa, SEIJITSU ni doryoku suru no ga mokuhyou.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’m aiming for calm, steady choices.",
+      "japanese": "落ち着いた、ぶれない選択をする。",
+      "transliteration": "Ochitsuita, BURE nai sentaku o suru.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Start messy, edit later, breathe.",
+      "japanese": "まずはぐちゃぐちゃで始めて、あとで直すよ。",
+      "transliteration": "MAZU wa GUCHAGUCHA de HAJIMETE, ATO de NAOSU yo.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I steal ideas, then make them mine.",
+      "japanese": "アイデアを拝借して、私のものにする。",
+      "transliteration": "AIDEA wo HAIJAKU shite, watashi no mono ni suru.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Try one tiny twist on your plan.",
+      "japanese": "計画に小さなひねりを一つ入れてみよう。",
+      "transliteration": "KEIKAKU ni CHIISANA HINEri wo HITOTSU irete miyou.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Today, I brainstorm with no pressure.",
+      "japanese": "今日はプレッシャーなしで発想する。",
+      "transliteration": "KYO wa PURESSHAa nashi de HASSOU suru.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Switch mediums, and new ideas appear.",
+      "japanese": "表現の手段を変えると、新しいアイデアが出てくる。",
+      "transliteration": "HYOGEN no SHUDAN wo KAERU to, ATARASHII AIDEA ga DETEKURU.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Ask why, then ask it again.",
+      "japanese": "なぜを聞いて、またなぜを聞くんだ。",
+      "transliteration": "NAZE wo KIITE, mata NAZE wo KIKUN da.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I treat failures like useful feedback.",
+      "japanese": "失敗は役に立つフィードバックだと思う。",
+      "transliteration": "SHIPPai wa YAKU ni tatsu FIIDO BAKKU da to omou.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Thanks for your effort, really.",
+      "japanese": "がんばってくれてありがとう、本当に。",
+      "transliteration": "Ganbatte kurete arigatou, hontou ni.",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I understand, no need to explain.",
+      "japanese": "わかるよ、説明しなくていいよ。",
+      "transliteration": "Wakaru yo, setsumei shinaku te ii yo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Want help, or should I wait?",
+      "japanese": "手伝おうか、それとも待ってほしい？",
+      "transliteration": "Tetsudou o ka, soretomo matte hoshii?",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "You can take a break anytime.",
+      "japanese": "いつでも休んでいいよ。",
+      "transliteration": "Itsu demo yasundete ii yo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’ll speak softly, just for you.",
+      "japanese": "あなたのために、やさしく話すね。",
+      "transliteration": "Anata no tame ni, yasashiku hanasu ne.",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "That sounds heavy, I’m here.",
+      "japanese": "それ、けっこう大変そうだね、そばにいるよ。",
+      "transliteration": "Sore, kekkou taihensk sou da ne, soba ni iru yo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Let me carry that for a moment.",
+      "japanese": "ちょっと持っていくよ。",
+      "transliteration": "Chotto motte iku yo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I appreciate your steady support",
+      "japanese": "いつも変わらず支えてくれて、ありがとう",
+      "transliteration": "Itsumo kawarazu sasaete kurete, arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Your advice landed right on time",
+      "japanese": "そのアドバイス、まさにタイミングが良かった。ありがとう",
+      "transliteration": "Sono adobaisu, masani taimingu ga yokatta, arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Thank you for keeping it simple",
+      "japanese": "むずかしい話じゃなくて、分かりやすく教えてくれてありがとう",
+      "transliteration": "Muzukashii hanashi janakute, wakariyasuku oshiete kurete arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Thanks for your patience with me",
+      "japanese": "待ってくれてありがとう、焦らなくて済んだ",
+      "transliteration": "Mattekurete arigatou, aseranakute sunda",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "I’m grateful for the fresh start",
+      "japanese": "新しい始まりをくれて、ありがとう",
+      "transliteration": "Atarashii hajimari wo kurete, arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Thank you for believing I could",
+      "japanese": "私ならできるって信じてくれてありがとう",
+      "transliteration": "Watashi nara dekiru tte shinjite kurete arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Your message eased my worries",
+      "japanese": "あなたのメッセージで安心できました。ありがとう",
+      "transliteration": "Anata no messeeji de anshin dekimashta, arigatou",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T19:31:18.710819"
     }
   ],
-  "last_updated": "2026-11-16T20:47:00.562392"
+  "last_updated": "2026-11-17T19:31:18.710819"
 }
