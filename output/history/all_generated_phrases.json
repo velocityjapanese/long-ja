@@ -26381,7 +26381,399 @@
       "transliteration": "Anata no messeeji de anshin dekimashta, arigatou",
       "category": "Gratitude",
       "generated_at": "2026-11-17T19:31:18.710819"
+    },
+    {
+      "english": "Thank you for seeing me today.",
+      "japanese": "本日は診てくださってありがとうございます。",
+      "transliteration": "Hontō wa mite kudasatte arigatō gozaimasu.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I need a refill for this.",
+      "japanese": "これの処方箋を再発行できますか。",
+      "transliteration": "Kore no shohōsen o saihakkō dekimasu ka.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "What is it for exactly?",
+      "japanese": "これは何のための薬ですか。",
+      "transliteration": "Kore wa nan no tame no kusuri desu ka.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Should I take it with food?",
+      "japanese": "食事のあとで飲むのがいいですか。",
+      "transliteration": "Shokuji no ato de nomu no ga ii desu ka.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Can I switch to a cheaper one?",
+      "japanese": "同じ成分で、もう少し安いものはありますか。",
+      "transliteration": "Onaji seibun de, mō sukoshi yasui mono wa arimasu ka.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "How many days should I take it?",
+      "japanese": "何日くらい飲めばいいですか。",
+      "transliteration": "Nan nichi kurai nomereba ii desu ka.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Do I need blood tests too?",
+      "japanese": "血液検査も必要ですか。",
+      "transliteration": "Ketsueki kensa mo hitsuyō desu ka.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I can wait without shrinking.",
+      "japanese": "縮こまらず、待てるよ。",
+      "transliteration": "SHUKU KOMAZU, MATERU yo.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Slow is still progress.",
+      "japanese": "ゆっくりでも進んでる。",
+      "transliteration": "YUKKURI demo S U N D E RU.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I’ll hold my pace, not panic.",
+      "japanese": "焦らず、ペースを守る。",
+      "transliteration": "ASE RAZU, PEESU o MAMORU.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Give it time, I’m learning.",
+      "japanese": "時間をくれる、練習中。",
+      "transliteration": "JIKAN o KURE RU, RENSHUU CHUU.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I’ll respond later, calmly.",
+      "japanese": "落ち着いてから返事する。",
+      "transliteration": "OCHITSUITE kara HENJI suru.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Let my effort keep going quietly.",
+      "japanese": "努力は静かに続ければいい。",
+      "transliteration": "DORYOKU wa SHIZUKA ni TSUZUKE reba ii.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Not today, not yet, keep trying.",
+      "japanese": "今日はまだ、でも続ける。",
+      "transliteration": "KYOU wa MADA, demo TSUZUKERU.",
+      "category": "Patience",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Where is the nearest convenience store?",
+      "japanese": "いちばん近いコンビニはどこですか？",
+      "transliteration": "ICHIBAN CHIKAI KONBINI wa doko desu ka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "How do I get to the river walk?",
+      "japanese": "川沿いの遊歩道へはどう行きますか？",
+      "transliteration": "KAWAZOEI no YUUBODO e wa dou ikimasu ka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Is there a pharmacy around here?",
+      "japanese": "このへんに薬局はありますか？",
+      "transliteration": "KONO HEN ni YAKKYOKU wa arimasu ka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Can you tell me this street name?",
+      "japanese": "この通りの名前を教えてください。",
+      "transliteration": "KONO TOORI no namae o oshiete kudasai.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Which way is the main entrance?",
+      "japanese": "正面の入口はどっちですか？",
+      "transliteration": "SHOMEN no IRIGUCHI wa docchi desu ka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I’m looking for a post office.",
+      "japanese": "郵便局を探していますが、どこですか？",
+      "transliteration": "YUUBINKYOKU o sagashite imasu ga, doko desu ka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "How long does it take on foot?",
+      "japanese": "歩いてどのくらいかかりますか？",
+      "transliteration": "ARUITE dono kurai kakarimasu ka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Do you have non-smoking rooms?",
+      "japanese": "禁煙の部屋はありますか。",
+      "transliteration": "KINEN no heya wa arimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Is there Wi-Fi in my room?",
+      "japanese": "部屋でWi-Fiは使えますか。",
+      "transliteration": "HEYA de WAi FA-i wa tsukaemasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "What time is check-in?",
+      "japanese": "チェックインは何時からですか。",
+      "transliteration": "CHEKKU in wa nanji kara desu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I arrive after midnight, ok?",
+      "japanese": "深夜に到着しますが、大丈夫ですか。",
+      "transliteration": "SHIN'YA ni toutaku shimasu ga, daijoubu desu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "japanese": "ここでクレジットカードは使えますか。",
+      "transliteration": "KOKO de KUREJITTO KAado wa tsukaemasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Do you have an elevator?",
+      "japanese": "エレベーターはありますか。",
+      "transliteration": "EREBEEtaa wa arimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Is there a luggage storage room?",
+      "japanese": "荷物は預けられますか。",
+      "transliteration": "NIMOTSU wa azukerarerimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I want your good morning, always.",
+      "japanese": "毎朝のあなたの笑顔が、私の元気です。",
+      "transliteration": "MAIASA no anata no EGao ga, watashi no GENKI desu.",
+      "category": "Love",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I choose kindness with you, always.",
+      "japanese": "あなたといると、優しさを選べる気がします。",
+      "transliteration": "anata to iru to, YASASHISA o ERAberu ki ga shimasu.",
+      "category": "Love",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Your love feels like home to me.",
+      "japanese": "あなたの愛は、私にとって家みたいです。",
+      "transliteration": "anata no AI wa, watashi ni totte ie mitai desu.",
+      "category": "Love",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Let’s build our life, quietly.",
+      "japanese": "派手じゃなくても、二人の毎日を作っていこう。",
+      "transliteration": "HADE shiku nakute mo, FUTARI no MAInichi o tsukutte ikou.",
+      "category": "Love",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I want to hear you, truly.",
+      "japanese": "あなたの話、ちゃんと聞かせて。大事にするから。",
+      "transliteration": "anata no hanashi, chanto kikasete. TAIsu ni suru kara.",
+      "category": "Love",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "When you smile, my worries fade.",
+      "japanese": "あなたの笑顔で、心のモヤモヤが消えるんです。",
+      "transliteration": "anata no Egao de, kokoro no MOYA MOYA ga kieru n desu.",
+      "category": "Love",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I’m proud to love you.",
+      "japanese": "あなたを愛せる自分が、誇らしいです。",
+      "transliteration": "anata o AIseru JIBUN ga, hokorashii desu.",
+      "category": "Love",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Want to go for dessert?",
+      "japanese": "デザート、食べに行かない？",
+      "transliteration": "dezaaTO, tabe ni IKAnai?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Let’s meet at the station.",
+      "japanese": "駅で待ち合わせしよ。",
+      "transliteration": "eki de machiawase shiyo",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I had so much fun with you.",
+      "japanese": "あなたといると本当に楽しいよ。",
+      "transliteration": "anata to iru to hontoo ni TANoshii yo",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Your smile made my day.",
+      "japanese": "その笑顔で一日救われた。",
+      "transliteration": "sono egao de ichinichi SUKUWAREta",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Can we take it slow?",
+      "japanese": "急がなくてもいいよ、ゆっくりで。",
+      "transliteration": "isoganakute mo ii yo, YUKKURI de",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "You look amazing tonight, wow.",
+      "japanese": "今夜、すごく素敵に見える。",
+      "transliteration": "kon'ya, sugo ku suteki ni mieru",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "I’m free after seven.",
+      "japanese": "7時以降なら空いてるよ。",
+      "transliteration": "shichi ji iko u nar a aite ru yo",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Turn off alerts, feel calm",
+      "japanese": "通知を切って、落ち着こう。",
+      "transliteration": "tsuuchi o kitte, Ochi tsukou.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Balance carbs with protein",
+      "japanese": "炭水化物はたんぱく質とバランス。",
+      "transliteration": "tanshuikabutsu wa tanpakushitsu to BARANSU.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Switch tasks, keep momentum",
+      "japanese": "タスクを切り替えて、勢いを保つ。",
+      "transliteration": "tasuku o kirikaete, ikioi o tamotsu.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Drink water between coffee sips",
+      "japanese": "コーヒーを飲む合間に水もね。",
+      "transliteration": "koohii o nomu aimani mizu mo ne.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Let your eyes rest every hour",
+      "japanese": "一時間ごとに目を休めて。",
+      "transliteration": "ichijikan goto ni me o yasumete.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Move your body, then sit",
+      "japanese": "体を動かしてから、ゆっくり座ろう。",
+      "transliteration": "karada o ugokashite kara, yukkuri suwarou.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Keep your voice soft but clear",
+      "japanese": "声はやわらかく、でもはっきりと。",
+      "transliteration": "koe wa yawarakaku, demo hakkiri to.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Say it, and mean it",
+      "japanese": "言葉にして、ちゃんと信じる。",
+      "transliteration": "kotoba ni shite, CHAN to SHINJIRU.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Take a pause, then decide",
+      "japanese": "いったん止まって、すぐに決める。",
+      "transliteration": "ITTAN TOMATTE, SUGU ni KIMERU.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Protect your time like gold",
+      "japanese": "時間を、宝物みたいに守る。",
+      "transliteration": "JIKAN o, TAKARAMONO mitai ni MAMORU.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Walk away without looking back",
+      "japanese": "振り返らずに、きっぱり離れる。",
+      "transliteration": "FURI KAERAZU ni, KIPPARI HANARERU.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Do the hard thing today",
+      "japanese": "今日、むずかしいことをやる。",
+      "transliteration": "KYO, MUZUKASHII koto o YARU.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Keep your promise to you",
+      "japanese": "自分との約束は、守り抜く。",
+      "transliteration": "JIBUN to no YAKUSOKU wa, MAMORI NUKU.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Even when tired, choose growth",
+      "japanese": "疲れても、成長を選ぶ。",
+      "transliteration": "TSUKARETE mo, SEICHO o ERABU.",
+      "category": "Strength",
+      "generated_at": "2026-11-18T19:13:45.251199"
     }
   ],
-  "last_updated": "2026-11-17T19:31:18.710819"
+  "last_updated": "2026-11-18T19:13:45.251199"
 }
