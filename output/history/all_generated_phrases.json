@@ -26773,7 +26773,399 @@
       "transliteration": "TSUKARETE mo, SEICHO o ERABU.",
       "category": "Strength",
       "generated_at": "2026-11-18T19:13:45.251199"
+    },
+    {
+      "english": "Can I pay on the bus?",
+      "japanese": "バスは現金で払えますか？",
+      "transliteration": "BASU wa KENGEN de HARa remasuka?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Does this subway accept Suica?",
+      "japanese": "この地下鉄はSuicaで乗れますか？",
+      "transliteration": "KONO chikatetsu wa SUICA de NOReremasu ka?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Where is the ticket machine?",
+      "japanese": "切符の券売機はどこですか？",
+      "transliteration": "KIPPU no KENBAIKI wa DOKO desu ka?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "How do I transfer to another line?",
+      "japanese": "別の路線に乗り換えるにはどうしますか？",
+      "transliteration": "BETSU no ROSEN ni NORikaeru ni wa dou shimasu ka?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Which direction is downtown?",
+      "japanese": "繁華街へはどっちの電車ですか？",
+      "transliteration": "HANKAGAIGAI e wa docchi no DENSE desu ka?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Is it crowded right now?",
+      "japanese": "今、この車両は混んでいますか？",
+      "transliteration": "IMA, KONO sharyou wa KONde imasu ka?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Do I need a seat reservation?",
+      "japanese": "特急は座席予約が必要ですか？",
+      "transliteration": "TOKKYU wa ZASEKI yoyaku ga hitsuyou desu ka?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "That s so random, dude",
+      "japanese": "それめっちゃランダムだね、まじで",
+      "transliteration": "sore meccha RANDAMU da ne, MAJI de",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I m down, let s do it",
+      "japanese": "やるやる、いこうよ",
+      "transliteration": "yaru yaru, IKOU yo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Sounds good to me",
+      "japanese": "それいいね、任せて",
+      "transliteration": "sore ii ne, MAKASEte",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Hold up, wait a sec",
+      "japanese": "ちょっと待って、今それ言う？",
+      "transliteration": "chotto MATTE, ima sore iu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I m good, I ll pass",
+      "japanese": "いや結構、今回はいいや",
+      "transliteration": "iya kekkou, KONKAI wa ii ya",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Don t mess with me",
+      "japanese": "からかわないでよ、マジで",
+      "transliteration": "karakawanai de yo, MAJI de",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "You re kidding, right?",
+      "japanese": "冗談でしょ、絶対",
+      "transliteration": "joudan desho, ZETTAI",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I feel nervous before the meeting.",
+      "japanese": "会議の前で、ドキドキしてる。",
+      "transliteration": "kaigi no mae de, DOKIDOKI shiteru",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "That song makes me want to cry.",
+      "japanese": "その曲を聴くと、涙が出そう。",
+      "transliteration": "sono kyoku o kiku to, namida ga deso u",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I’m actually feeling calm now.",
+      "japanese": "いまは、気持ちが落ち着いてる。",
+      "transliteration": "ima wa, kimochi ga ochitsuiteru",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I feel embarrassed about what I said.",
+      "japanese": "さっきのこと、恥ずかしくてたまらない。",
+      "transliteration": "sakki no koto, hazukashikute tamaranai",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I’m disappointed by the late change.",
+      "japanese": "急な変更に、がっかりした。",
+      "transliteration": "kyu u na henkō ni, GAKKARI shita",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I feel hopeful for tomorrow.",
+      "japanese": "明日のことを考えると、希望がある。",
+      "transliteration": "ashita no koto o kangaeru to, kibō ga aru",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I’m overwhelmed by all these tasks.",
+      "japanese": "やることが多すぎて、気が重い。",
+      "transliteration": "yaru koto ga oosugite, ki ga omoi",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Is it windy out right now?",
+      "japanese": "今、風は強いですか。",
+      "transliteration": "I MA, KAZE wa TSUYOI desu ka.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Clouds are piling up, huh?",
+      "japanese": "雲がモクモクしてきましたね。",
+      "transliteration": "KUMO ga MOKU MOKU shi te kIMashita ne.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "How about the humidity today?",
+      "japanese": "今日は湿度、どれくらいですか。",
+      "transliteration": "KYOU wa SHITSUDO, dore kurai desu ka.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I should bring an umbrella.",
+      "japanese": "折りたたみ傘、持っていこうかな。",
+      "transliteration": "ORI tatami gawa, MOTTED I kou ka na.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "The forecast says sunny later.",
+      "japanese": "天気予報だと、あとで晴れみたい。",
+      "transliteration": "TENKI yohou da to, ATO de hare mitai.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Did the morning fog clear up?",
+      "japanese": "朝の霧、晴れました？",
+      "transliteration": "ASA no KIRI, HARe mashita?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "It feels like spring today.",
+      "japanese": "今日は春みたいな感じがするね。",
+      "transliteration": "KYOU wa HAru mitai na KANJI ga suru ne.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I practice gratitude, even briefly.",
+      "japanese": "短くても感謝を練習する。",
+      "transliteration": "mijikakute mo kansha o renshuu suru.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I speak to myself with respect.",
+      "japanese": "自分に敬意をもって話す。",
+      "transliteration": "jibun ni keii o motte hanasu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Today, I choose what nourishes me.",
+      "japanese": "きょうは私を元気にするものを選ぶ。",
+      "transliteration": "kyou wa watashi o genki ni suru mono o erabu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I set one boundary, kindly.",
+      "japanese": "やさしく一つ境界線を引く。",
+      "transliteration": "yasashiku hitotsu kyoukaisen o hiku.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I turn mistakes into useful data.",
+      "japanese": "失敗を役に立つデータに変える。",
+      "transliteration": "shippai o yaku ni tatsu deeta ni kaeru.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I ask for help, no shame.",
+      "japanese": "恥ずかしがらずに助けを求める。",
+      "transliteration": "hazukashigarazu ni tasuke o motomeru.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "I move my body, slowly at first.",
+      "japanese": "体を動かす、まずはゆっくり。",
+      "transliteration": "karada o ugokasu, mazu wa yukkuri.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Where can I find the price tag?",
+      "japanese": "値札はどこにありますか。",
+      "transliteration": "NE-han wa do-ko ni a-ri-ma-su ka.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Is this the standard price?",
+      "japanese": "これは通常の値段ですか。",
+      "transliteration": "KO-re wa TSU-JO-u no NE-dan de-su ka.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Do prices change by size?",
+      "japanese": "サイズで値段が変わりますか。",
+      "transliteration": "SA-i-zu de NE-dan ga KA-wa-ri-ma-su ka.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Do you accept Apple Pay?",
+      "japanese": "iPhoneでApple Payは使えますか。",
+      "transliteration": "i-Phone de AP-pu-le PA-i wa tsu-ka-e-ma-su ka.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Is there a cheaper brand?",
+      "japanese": "別の安いブランドはありますか。",
+      "transliteration": "BETSU no YA-sui BURAN-do wa a-ri-ma-su ka.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "How much is one unit?",
+      "japanese": "1個いくらですか。",
+      "transliteration": "I- ko i-ku-ra de-su ka.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Can I compare different sizes?",
+      "japanese": "サイズ違いを比べてもいいですか。",
+      "transliteration": "SA-i-zu chi-ga-i o KU-ra-be-te mo ii de-su ka.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Breathe, and soften your gaze",
+      "japanese": "息をして、視線をやわらげて",
+      "transliteration": "iki o shite, shisen o yawaragete",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Let your jaw unclench, now",
+      "japanese": "今、あごの力を抜いて",
+      "transliteration": "ima, ago no chikara o nuite",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Name the feeling, then loosen it",
+      "japanese": "気持ちに名前をつけて、ゆるめよう",
+      "transliteration": "kimochi ni namae o tsukete, yurumeyou",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Choose one small thing, do it",
+      "japanese": "小さな一つに決めて、やってみよう",
+      "transliteration": "chisana hitotsu ni kimete, yatte miyou",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Turn toward warmth inside your chest",
+      "japanese": "胸の中のあたたかさに向かってみる",
+      "transliteration": "mune no naka no atatakasа ni mukatte miru",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Slow down at every doorway",
+      "japanese": "出入口では、ひと呼吸ゆっくり",
+      "transliteration": "deguchi iru ba de wa, hito kokyuu yukkuri",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Give yourself permission to rest",
+      "japanese": "休んでいいって、自分に許してあげよう",
+      "transliteration": "yasundete ii tte, jibun ni yurushite agayou",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Call that scary email, you can.",
+      "japanese": "こわいメール、今送ろう。",
+      "transliteration": "KOWAI ME- RU, IMA SOUROU.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Say yes to yourself, softly.",
+      "japanese": "自分に、そっとはいと言う。",
+      "transliteration": "JIBUN NI, SOTTO HAI TO IU.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "You can pause, then try again.",
+      "japanese": "一回止まっても、またやってみよう。",
+      "transliteration": "IKKAI TOMATTE MO, MATA YATTE MI YOU.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Let the tremble teach you.",
+      "japanese": "震えは、あなたの合図だ。",
+      "transliteration": "FURUE WA, ANATA NO AI SHI DA.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Ask the question, even unsure.",
+      "japanese": "わからなくても、質問していい。",
+      "transliteration": "WAKARANAKU TE MO, SHITSUMON SHITE II.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Walk toward help, not around it.",
+      "japanese": "助けの方へ、歩いていこう。",
+      "transliteration": "TASUKE NO KATA E, ARUI TE IKOU.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T19:16:35.747203"
+    },
+    {
+      "english": "Protect your peace, set boundaries.",
+      "japanese": "心の平和を守って、線を引こう。",
+      "transliteration": "KOKORO NO HEI WA O MAMOTTE, SEN O HI KOU.",
+      "category": "Courage",
+      "generated_at": "2026-11-19T19:16:35.747203"
     }
   ],
-  "last_updated": "2026-11-18T19:13:45.251199"
+  "last_updated": "2026-11-19T19:16:35.747203"
 }

@@ -323,7 +323,39 @@
     {
       "category": "Strength",
       "date": "2026-11-18"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-19"
     }
   ],
-  "last_updated": "2026-11-18T19:13:45.269114"
+  "last_updated": "2026-11-19T19:16:35.769433"
 }
