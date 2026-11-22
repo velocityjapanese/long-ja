@@ -27949,7 +27949,399 @@
       "transliteration": "Keeki, watashi no bun wa nokoshite kureta?",
       "category": "Celebrations & Parties",
       "generated_at": "2026-11-21T17:52:05.723424"
+    },
+    {
+      "english": "I can face today, one step",
+      "japanese": "今日をひとつずつ受け止められる",
+      "transliteration": "KYOu wo HItotsu zutsu Uketomerareru",
+      "category": "Perseverance",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Tough moments won’t last forever",
+      "japanese": "つらい時間は、いつか終わる",
+      "transliteration": "TSUrai JIKAN wa, Itsuka owaru",
+      "category": "Perseverance",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I keep going, even slowly",
+      "japanese": "ゆっくりでも、前に進む",
+      "transliteration": "Yukkuri demo, MAe ni susumu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I’m building stamina, not speed",
+      "japanese": "スピードじゃなくて、体力を育ててる",
+      "transliteration": "SUPiido ja naku te, TAI RYOKU wo SODATERu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Stick with it, even messy",
+      "japanese": "ぐちゃぐちゃでも続けていい",
+      "transliteration": "Guchagucha demo TSUZUKETE ii",
+      "category": "Perseverance",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "When I slip, I reset gently",
+      "japanese": "失敗しても、やさしく立て直す",
+      "transliteration": "SHIPPai shite mo, YASASHIKU tate naosu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I can wait without losing hope",
+      "japanese": "待つことができる、希望も手放さない",
+      "transliteration": "Matsu koto ga dekiru, Kibou mo tebanasanai",
+      "category": "Perseverance",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I unwind by playing music",
+      "japanese": "音楽を聴いて、気持ちをほどくよ",
+      "transliteration": "Ongaku o kiite, KIMOCHI o hodoku yo",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Drawing helps me calm down",
+      "japanese": "絵を描くと、落ち着くんだ",
+      "transliteration": "E o kaku to, OCHITSUKUN da",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I love browsing used bookstores",
+      "japanese": "古本屋さんをぶらぶらするのが好き",
+      "transliteration": "Furubon-ya-san o burabura suru no ga suki",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "My free time is for gardening",
+      "japanese": "自由時間は、ガーデニングに使うよ",
+      "transliteration": "Jiyuu jikan wa, GA- DENINGU ni tsukau yo",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Tea breaks turn into tiny rituals",
+      "japanese": "お茶の時間が、小さな儀式みたいになる",
+      "transliteration": "O-cha no jikan ga, CHIISANA GISHIKI mitai ni naru",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I write to clear my head",
+      "japanese": "頭をすっきりさせたくて、日記を書く",
+      "transliteration": "Atama o SUKKIRI sasetakute, Nikki o kaku",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Sundays are for slow cooking",
+      "japanese": "日曜は、ゆっくり料理する時間",
+      "transliteration": "Nichiyou wa, YUKKURI ryouri suru jikan",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Can I switch to rice instead?",
+      "japanese": "ご飯に変更できますか。",
+      "transliteration": "GOHAN ni HENKO desu ka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Is this dish served hot?",
+      "japanese": "これは温かい状態で出ますか。",
+      "transliteration": "KORE wa Atatakai joutai de demasu ka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I have a soy allergy, please.",
+      "japanese": "しょうゆアレルギーです。",
+      "transliteration": "SHOUYU ARERUGII desu.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Could I get it less salty?",
+      "japanese": "味を薄めにできますか。",
+      "transliteration": "AJI o USUKU ni dekimasu ka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "What comes with the main course?",
+      "japanese": "メインのセット内容は何ですか。",
+      "transliteration": "MEIN no SETTO naiyou wa nan desu ka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Can we order one thing at a time?",
+      "japanese": "一品ずつ注文してもいいですか。",
+      "transliteration": "IPPIN ZUTSU chuumon shite mo ii desu ka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Do you offer takeout here?",
+      "japanese": "テイクアウトできますか。",
+      "transliteration": "TEIKU AUT O dekimasu ka.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Who’s on kitchen duty tonight?",
+      "japanese": "今夜、台所は誰が当番ですか。",
+      "transliteration": "IYABAN, daidokoro wa dare ga TOUBAN desu ka.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Let’s put photos on the shelf.",
+      "japanese": "写真、棚に飾ろうよ。",
+      "transliteration": "SHASHIN, tana ni KAZARou yo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I’ll fold laundry while you rest.",
+      "japanese": "あなたが休んでる間に洗濯物たたむね。",
+      "transliteration": "ANATA ga YASUMTERu AIDA ni SENTAKUMONO tatamu ne.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "We do a quick family check-in.",
+      "japanese": "家族で、短く近況を確認しよう。",
+      "transliteration": "KAZOKU de, Mijikaku KINJOU o kakunin shiyou.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I’m buying groceries for the week.",
+      "japanese": "今週分の買い物、私がやるね。",
+      "transliteration": "KONSHUU bun no KAIMONO, watashi ga yaru ne.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Can we talk after dinner today?",
+      "japanese": "今日の夕飯のあと、話してもいい？",
+      "transliteration": "KYOU no YUuhan no ATO, hanashite mo ii?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "This hallway smells like fresh soap.",
+      "japanese": "この廊下、いい匂いがする。",
+      "transliteration": "KONO ROUKA, ii NIOI ga suru.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Check facts before you react",
+      "japanese": "反応する前に、事実を確かめてみて。",
+      "transliteration": "Han nō suru mae ni, JIJITSU o tashikamet e mite.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Ask, then listen for the real answer",
+      "japanese": "質問して、ほんとうの答えを聞いてみよう。",
+      "transliteration": "Shitsumon shite, HONtō no kotae o kiite miyō.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Choose actions you can repeat daily",
+      "japanese": "毎日続けられる行動を選ぼう。",
+      "transliteration": "Mainichi tsuzukeru kōdō o erabō.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Small habits beat heroic motivation",
+      "japanese": "気合いより、小さな習慣が強いよ。",
+      "transliteration": "Kiai yori, chiisana shūkan ga tsuyoi yo.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "You don’t need permission to grow",
+      "japanese": "成長するのに、許可なんていらない。",
+      "transliteration": "Seichō suru no ni, kyoka nante iranai.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Be kind, even when you disagree",
+      "japanese": "意見が合わなくても、やさしくいよう。",
+      "transliteration": "Ik en ga awa nakutemo, yasashiku i yō.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Turn problems into questions you can answer",
+      "japanese": "問題を答えられる問いに変えていこう。",
+      "transliteration": "Monda i o kota ereru toi ni kaete ik u yō.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Collect one idea, then act today",
+      "japanese": "ひらめいたら一つメモして、今日動く。",
+      "transliteration": "Hirameitara hitotsu memo shite, KYO UGU.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Let curiosity open the next door",
+      "japanese": "好奇心に任せて、次の扉を開こう。",
+      "transliteration": "KYO U sHIN ni makasete, tsugi no tobira o hirakou.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Change your scene, change your mind",
+      "japanese": "場所を変えると、アイデアも動き出す。",
+      "transliteration": "Basho o kaeru to, AIDEA mo ugokidassu.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Make art from your everyday mess",
+      "japanese": "ぐちゃぐちゃでも、それが素材になる。",
+      "transliteration": "Guchagucha demo, sore ga sozai ni naru.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Ask for feedback, not permission",
+      "japanese": "許可じゃなくて、フィードバックをもらおう。",
+      "transliteration": "Kyoka janakute, FIIDOBAKKU o moraou.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "When stuck, switch senses for a minute",
+      "japanese": "行き詰まったら、一分だけ感覚を変えてみる。",
+      "transliteration": "Yuki shimattara, Ippun dake KANKAKU o kaete miru.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Borrow inspiration from strangers' stories",
+      "japanese": "知らない人の話から、ひらめきを借りる。",
+      "transliteration": "Shiranai hito no hanashi kara, hirameki o kariru.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Tiny steps still move me forward",
+      "japanese": "ちいさな一歩でも、ちゃんと前に進む",
+      "transliteration": "chiisana ippo demo, chanto mae ni susumu",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I can do it, even slowly",
+      "japanese": "ゆっくりでも、できるって自分に言う",
+      "transliteration": "yukkuri demo, dekiru tte jibun ni iu",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Today, I choose effort over excuses",
+      "japanese": "きょうは言い訳より努力を選ぶ",
+      "transliteration": "kyou wa iiwake yori doryoku o erabu",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Your support makes me try again",
+      "japanese": "あなたの応援があって、また頑張れる",
+      "transliteration": "anata no ouen ga atte, mata ganbareru",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "I’m building confidence with practice",
+      "japanese": "練習で自信を積み上げてる",
+      "transliteration": "renshuu de jishin o tsumekaseru",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "When I slip, I restart kindly",
+      "japanese": "失敗しても、やさしくやり直せばいい",
+      "transliteration": "shippai shitemo, yasashiku yari naoseba ii",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "One more session, then celebrate",
+      "japanese": "もう一回だけやって、終わったら自分をほめる",
+      "transliteration": "mou ikkai dake yatte, owattara jibun o homeru",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Wake up, open curtains, morning light",
+      "japanese": "目を覚まして、カーテンを開けて、朝の光を入れる",
+      "transliteration": "Me o samashite, kaaten o akete, asa no hikari o ireru",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Coffee in hand, plan my day",
+      "japanese": "コーヒーを片手に、今日の段取りを決める",
+      "transliteration": "Koohii o katate ni, kyou no danadori o kimeru",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Quick shower, feel fully awake",
+      "japanese": "さっとシャワー、すっかり目が覚める",
+      "transliteration": "Sasshu to shawa, sukkari me ga sameru",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Pack a snack, no last-minute stress",
+      "japanese": "おやつを入れておこう、ギリギリを減らす",
+      "transliteration": "Oyatsu o irete okou, giri giri o herasu",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "On the train, breathe and reset",
+      "japanese": "電車の中で深呼吸して、気持ちを整える",
+      "transliteration": "Densha no naka de shinkokyuu shite, kimochi o totonoeru",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "Arrive early, sip water, smile",
+      "japanese": "早めに着いて、水を飲んで、にこっとする",
+      "transliteration": "Hayame ni tsuite, mizu o nonde, niko tto suru",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T18:10:39.330568"
+    },
+    {
+      "english": "First email, then I start working",
+      "japanese": "最初のメールを見てから、仕事に入る",
+      "transliteration": "Saisho no meeru o mite kara, shigoto ni hairu",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-22T18:10:39.330568"
     }
   ],
-  "last_updated": "2026-11-21T17:52:05.723424"
+  "last_updated": "2026-11-22T18:10:39.330568"
 }
