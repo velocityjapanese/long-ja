@@ -28733,7 +28733,399 @@
       "transliteration": "Meisai sho wa doko de daunrōdo dekimasu ka.",
       "category": "Banking & Money",
       "generated_at": "2026-11-23T22:51:15.288172"
+    },
+    {
+      "english": "I mix old ideas with new twists.",
+      "japanese": "古いアイデアに新しいひねりを足す。",
+      "transliteration": "FURui AIDEA ni ATARASHII HINEri o TASU.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I try a bold color today.",
+      "japanese": "今日は思い切って大胆な色にする。",
+      "transliteration": "KYOU wa OMOIKITTE DAITAN na IRO ni suru.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I start with one simple experiment.",
+      "japanese": "まずは小さな実験を一つやる。",
+      "transliteration": "MAZU wa CHIISana JIKKEN o HITOTSU yaru.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Curiosity beats perfection, every time.",
+      "japanese": "好奇心が完璧さに勝つ。",
+      "transliteration": "KOUKISHIN ga KANPEKI sa ni KATSU.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I borrow a vibe, not a copy.",
+      "japanese": "雰囲気は借りるけど、丸ごと真似はしない。",
+      "transliteration": "FUNIKI wa KARIRU kedo, MARUGOTO MANE wa shinai.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I let randomness do a little work.",
+      "japanese": "偶然に少しだけ任せてみる。",
+      "transliteration": "GUUZEN ni SUKOSHI dake MAKASEte miru.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I ask what if, then act fast.",
+      "japanese": "もしもを考えて、すぐに動く。",
+      "transliteration": "MOSHI mo o KANgaete, SUGU ni UGOKU.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Hi, it’s great to meet you.",
+      "japanese": "こんにちは、お会いできてうれしいです。",
+      "transliteration": "KONnichi wa, o-aide kite ureshii desu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Thank you for coming today.",
+      "japanese": "本日はお越しいただきありがとうございます。",
+      "transliteration": "HONjitsu wa o-koshi itadaki arigatou gozaimasu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "How do you prefer to greet?",
+      "japanese": "ご挨拶は、どんなふうがよいですか。",
+      "transliteration": "Goaisatsu wa, DONna fuu ga yoi desu ka.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I’m happy we’re talking, at last.",
+      "japanese": "やっとお話しできてうれしいです。",
+      "transliteration": "YATto ohanashi dekite ureshii desu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Excuse me, are you free for a chat?",
+      "japanese": "すみません、少しお時間ありますか。",
+      "transliteration": "SUMIMASEN, sukoshi o-jikan arimasu ka.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Welcome! I’m glad you made it.",
+      "japanese": "いらっしゃい、来てくれてよかったです。",
+      "transliteration": "IRASSHAI, kite kurete yokatta desu.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Please feel at ease with me.",
+      "japanese": "どうぞ気楽にしてください。",
+      "transliteration": "DOUzo kiraku ni shite kudasai.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I need help managing my meds",
+      "japanese": "薬の管理を一緒に考えてください",
+      "transliteration": "KUSURI no KANRI o issho ni kangaete kudasai",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Can you check for interactions?",
+      "japanese": "薬の飲み合わせを確認してもらえますか",
+      "transliteration": "KUSURI no NOMIAWASE o kakunin shite moraemasu ka",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "How soon will this start working?",
+      "japanese": "これは、どのくらいで効きますか",
+      "transliteration": "KORE wa, dono kurai de KIKIMASU ka",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "What should I do if I miss a dose?",
+      "japanese": "飲み忘れたときはどうすればいいですか",
+      "transliteration": "NOMI WASUREta toki wa dou sureba ii desu ka",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Is this safe with my allergies?",
+      "japanese": "私のアレルギーでも大丈夫ですか",
+      "transliteration": "Watashi no ARERUGII demo daijoubu desu ka",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Can the pharmacist explain in plain terms?",
+      "japanese": "薬剤師さんに、わかりやすく説明してもらえますか",
+      "transliteration": "YAKUZAISHI san ni, wakariyasuku setsumei shite moraemasu ka",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Do I need a prescription for that?",
+      "japanese": "それは処方箋が必要ですか",
+      "transliteration": "SORE wa shohousen ga hitsuyou desu ka",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I want to love you gently",
+      "japanese": "やさしくあなたを愛したいです",
+      "transliteration": "yaSAShiku anata o AIsHITai desu",
+      "category": "Love",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I’m yours, even when life is messy",
+      "japanese": "人生がごちゃごちゃでも、私はあなたのもの",
+      "transliteration": "jinsei ga gocha gocha demo, watashi wa anata no mono",
+      "category": "Love",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Your presence calms my thoughts",
+      "japanese": "あなたがいるだけで心が落ち着く",
+      "transliteration": "anata ga iru dake de kokoro ga ochi tsuku",
+      "category": "Love",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Let me be your safe place",
+      "japanese": "あなたの安心の場所になりたい",
+      "transliteration": "anata no ANSHIN no basho ni nari tai",
+      "category": "Love",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I’ll choose you in the hard days",
+      "japanese": "つらい日も、あなたを選びます",
+      "transliteration": "tsurai hi mo, anata o erabimasu",
+      "category": "Love",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I love how you listen to me",
+      "japanese": "あなたが私の話をちゃんと聞いてくれるのが好き",
+      "transliteration": "anata ga watashi no hanashi o chanto kiite kureru no ga suki",
+      "category": "Love",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Come closer, I miss you",
+      "japanese": "もっと近くに来て、会いたい",
+      "transliteration": "motto chikaku ni kite, ai tai",
+      "category": "Love",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I wait, then act with care",
+      "japanese": "待ってから、慎重に動く。",
+      "transliteration": "mattE kara, shinchoO ni ugOku.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "My pace is allowed to be slow",
+      "japanese": "私のペースは、ゆっくりでもいい。",
+      "transliteration": "watashi no pE-su wa, yukkuri demo ii.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I can pause without quitting",
+      "japanese": "止まっても、やめない。",
+      "transliteration": "tomatte mo, yamenai.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I breathe, and my answers come",
+      "japanese": "深呼吸してから、答えが出る。",
+      "transliteration": "shinkokyuu shite kara, kotae ga deru.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "No rushing, I choose steady effort",
+      "japanese": "急がずに、コツコツやる。",
+      "transliteration": "isogazu ni, kotsukotsu yaru.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I keep working while it settles",
+      "japanese": "落ち着くまで、作業は続ける。",
+      "transliteration": "ochi tsuku made, sagyoo wa tsuzukeru.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I let it grow at its speed",
+      "japanese": "そのままの速さで、育てる。",
+      "transliteration": "sono mama no hayasa de, sodateru.",
+      "category": "Patience",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Balance meals, not just calories.",
+      "japanese": "カロリーだけじゃなく、食事のバランスを。",
+      "transliteration": "KARORI DAKE JANAKU, SHOKUJI NO BARANSU WO.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Slow down, then move with ease.",
+      "japanese": "ゆっくり、でもスッと動く。",
+      "transliteration": "YUKKURI, DE MO SUTTO UGOKU.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Balance screens with real conversations.",
+      "japanese": "画面だけじゃなく、会話の時間もバランスよく。",
+      "transliteration": "GAMEN DAKEDJANAKU, KAIWA NO JIKAN MO BARANSU YOKU.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Stand up, stretch, reset your balance.",
+      "japanese": "立って伸びをして、バランスをリセット。",
+      "transliteration": "TATTE NOBI WO SHITE, BARANSU WO RISETTO.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Let your jaw relax, breathe out.",
+      "japanese": "あごの力を抜いて、息をふっと吐く。",
+      "transliteration": "AGO NO CHIKARA WO NUKU TE, IKI WO FUTTO HA KU.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Keep both feet grounded today.",
+      "japanese": "今日も両足をしっかり地につけて。",
+      "transliteration": "KYOU MO RYOU ASHI WO SHIKKARI JI NI TSUKETE.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Balance giving and asking for help.",
+      "japanese": "助けるだけでなく、助けを頼むのもバランス。",
+      "transliteration": "TASUKERU DAKENAKU, TASUKE WO TANOMU NO MO BARANSU.",
+      "category": "Balance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "How about a late night walk?",
+      "japanese": "今夜、遅めの散歩しない？",
+      "transliteration": "Kon'ya, OSOME no SANPO shinai?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Tell me your love story.",
+      "japanese": "あなたの恋の話を聞かせて。",
+      "transliteration": "Anata no KOI no HANASHI o KIKASETE.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I’m feeling shy, but close.",
+      "japanese": "恥ずかしいけど、あなたに近づきたい。",
+      "transliteration": "HAZUKASHII kedo, ANATA ni CHIKADUKITAI.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Can we kiss after dinner?",
+      "japanese": "夕飯のあと、キスしてもいい？",
+      "transliteration": "YUHAN no ato, KISU shite mo ii?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Your perfume smells so good.",
+      "japanese": "その香水、すごくいい匂い。",
+      "transliteration": "Sono KOSUI, sugo ku ii NIOI.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Let’s pick a cozy spot together.",
+      "japanese": "一緒に、落ち着ける場所を選ぼう。",
+      "transliteration": "Issho ni, OCHITSUKERU basho o Erabou.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "I’ll save you a seat.",
+      "japanese": "席、空けて待ってるね。",
+      "transliteration": "SEKI, A KETE MATTERU ne.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Do you have an airport shuttle?",
+      "japanese": "空港まで送迎はありますか。",
+      "transliteration": "Kuukou made sōgei wa arimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "What time is breakfast on weekends?",
+      "japanese": "週末の朝食は何時からですか。",
+      "transliteration": "Shūmatsu no chōshoku wa nanji kara desu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Is there a coin laundry?",
+      "japanese": "コインランドリーはありますか。",
+      "transliteration": "Koin randorī wa arimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Can I get a late meal option?",
+      "japanese": "遅い時間の食事はできますか。",
+      "transliteration": "Osii jikan no shokuji wa dekimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Do you offer vegan breakfast?",
+      "japanese": "ベジタリアンの朝食はありますか。",
+      "transliteration": "Bejitarian no chōshoku wa arimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Is there a minibar in the room?",
+      "japanese": "部屋にミニバーはありますか。",
+      "transliteration": "Heya ni minibā wa arimasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:57:52.843987"
+    },
+    {
+      "english": "Can I store my bike here?",
+      "japanese": "自転車は預かってもらえますか。",
+      "transliteration": "Jitensha wa azukatte moraemasu ka.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-24T20:57:52.843987"
     }
   ],
-  "last_updated": "2026-11-23T22:51:15.288172"
+  "last_updated": "2026-11-24T20:57:52.843987"
 }
