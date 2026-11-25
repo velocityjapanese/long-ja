@@ -515,7 +515,39 @@
     {
       "category": "Hotel & Accommodation",
       "date": "2026-11-24"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-25"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-25"
     }
   ],
-  "last_updated": "2026-11-24T20:57:52.868468"
+  "last_updated": "2026-11-25T20:24:04.544810"
 }
