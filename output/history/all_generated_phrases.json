@@ -29517,7 +29517,399 @@
       "transliteration": "Kou iu tenki no toki, KAFUN hidoi desu ka.",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-25T20:24:04.522761"
+    },
+    {
+      "english": "Make room for a quiet breath",
+      "japanese": "静かな呼吸のために、場所をあけよう。",
+      "transliteration": "shizukana kokyuu no tame ni, basho o akeyou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Let today be enough, right now",
+      "japanese": "今日はこれで十分だよ。",
+      "transliteration": "kyo wa kore de juubun dayo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Unclench your hands, feel safe",
+      "japanese": "手の力を抜いて、安全を感じよう。",
+      "transliteration": "te no chikara o nukuite, anzen o kanjiyou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Smile softly, and calm follows",
+      "japanese": "ほほえみは小さく、心が落ち着く。",
+      "transliteration": "hohoemi wa chiisaku, kokoro ga ochitsuku.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "When stuck, switch to kindness",
+      "japanese": "行き詰まったら、優しさに切り替えて。",
+      "transliteration": "ikitsumattara, yasashisa ni kirikaete.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Hold one steady thought, gently",
+      "japanese": "ひとつの確かな考えを、やさしく抱こう。",
+      "transliteration": "hitotsu no tashika na kangae o, yasashiku dakayou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Choose calm, even if imperfect",
+      "japanese": "不完全でも、落ち着きを選ぼう。",
+      "transliteration": "fukanzen demo, ochi wo erabou.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I m starving, let s eat",
+      "japanese": "腹ペコだよ、なんか食べよ",
+      "transliteration": "HARA PEKO da yo, NANKA TABE yo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "That s hilarious, stop it",
+      "japanese": "それマジウケる、やめてよ",
+      "transliteration": "SORE MAJI U Keru, YAMETE yo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "You got this, no stress",
+      "japanese": "いけるよ、気楽にいこう",
+      "transliteration": "IKERU yo, KIRAKU ni I kou",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I m wiped out, goodnight",
+      "japanese": "もう限界、今日はやめとくわ",
+      "transliteration": "MOU GENKAI, KYŌ wa YAME TOKU wa",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Wait, what do you mean?",
+      "japanese": "ちょっと待って、それどういうこと？",
+      "transliteration": "CHŌTTO MATTE, SORE DOO iu koto?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I ll text you in a bit",
+      "japanese": "あとでLINEするね",
+      "transliteration": "ATO de RAIN suru ne",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "No worries, I got it",
+      "japanese": "大丈夫、私がやるよ",
+      "transliteration": "DAIJŌBU, WATASHI ga yaru yo",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I feel very dizzy, help me",
+      "japanese": "めまいがひどいです、助けてください",
+      "transliteration": "meMAI ga HIdoi desu, tasukete KUDASAI",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "My throat is closing, now",
+      "japanese": "のどが閉まってきました、今すぐ",
+      "transliteration": "nodo ga shimatte KIMASHITA, ima SUGU",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I burned my hand badly",
+      "japanese": "手をひどくやけどしました",
+      "transliteration": "te o HIDoku YAkedo shimashita",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Stop the bleeding, please",
+      "japanese": "出血が止まりません、止めてください",
+      "transliteration": "shuketsu ga tomeMASEN, tOmete KUDASAI",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "My wound is getting infected",
+      "japanese": "傷が悪化してきて、膿んでます",
+      "transliteration": "kizu ga akKa shite k i te, uman-demASU",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I have sudden severe stomach pain",
+      "japanese": "急にお腹がすごく痛いです",
+      "transliteration": "kyuu ni oNaka ga SUgo ku itai desu",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I’m vomiting blood, call now",
+      "japanese": "血を吐いてます、今すぐ電話して",
+      "transliteration": "chi o HAI-temas, ima SUGU denwa shite",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "What are our must-do items?",
+      "japanese": "やることの優先順位、何が最優先ですか？",
+      "transliteration": "yaru koto no yuusen jun i, nani ga sai yuu-sen desu ka?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Let’s lock the deadline today.",
+      "japanese": "締め切りは今日決めましょう。",
+      "transliteration": "shim ekiri wa kyou kimemashou.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "How will we divide the tasks?",
+      "japanese": "役割分担、どうしましょうか。",
+      "transliteration": "yakuwaribun tan, dou shimashou ka.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I’ll draft a checklist for us.",
+      "japanese": "チェックリストを私が作りますね。",
+      "transliteration": "chekku risuto o watashi ga tsukurimasu ne.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Do we need a backup plan?",
+      "japanese": "万が一のときの代案も考えますか？",
+      "transliteration": "mang i i no toki no dai an mo kangaemasu ka?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "What’s the first thing tomorrow?",
+      "japanese": "明日一番最初に何から始めますか？",
+      "transliteration": "ashita ich i ban saisho ni nani kara hajime mashika?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Let’s plan around your schedule.",
+      "japanese": "あなたの予定に合わせて組みます。",
+      "transliteration": "anata no yotei ni awasete kumimasu.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I agree, and let s move fast.",
+      "japanese": "賛成だよ、早く進めよう。",
+      "transliteration": "san-sei da yo, HAYAKU SU-sumeyo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "That s a solid point, I think.",
+      "japanese": "それは筋がいいと思う。",
+      "transliteration": "SO-re wa su-ji ga ii to OMO-u.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I m with you on this one.",
+      "japanese": "今回のことなら、私はあなたに賛成だよ。",
+      "transliteration": "kon-kai no koto na-ra, WATASHI wa an-a-ta ni san-sei da yo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "You convinced me. I agree.",
+      "japanese": "言われて納得したよ、賛成。",
+      "transliteration": "i-wa-re-te NAT-TOKU shi-ta yo, san-sei.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I see it your way, totally.",
+      "japanese": "あなたの考え方でいいと思うよ。",
+      "transliteration": "an-a-ta no KAN-gae-kata de ii to OMO-u yo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Let s go with that plan.",
+      "japanese": "その案でいこう。",
+      "transliteration": "so no AN de i-ko-u.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I agree, and it feels practical.",
+      "japanese": "賛成だよ、現実的だしね。",
+      "transliteration": "san-sei da yo, GEN-JITSU-TEKI da shi ne.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Speak slower, breathe, then continue",
+      "japanese": "ゆっくり話して、息をしてから続けよう。",
+      "transliteration": "YUKKURI HANASHITE, IK I WO SHITEKARA TSUZUK E YOU.",
+      "category": "Growth",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Turn mistakes into quick experiments",
+      "japanese": "ミスを、すぐ試す材料にしよう。",
+      "transliteration": "M ISU WO, SUGU TAMESU ZAI RYOU NI SHI YOU.",
+      "category": "Growth",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Ask for a slower repeat",
+      "japanese": "もう一回、ゆっくり言ってくれますか。",
+      "transliteration": "MOU I KAI, YUKKURI ITTE KUREMASUKA.",
+      "category": "Growth",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Notice one pattern, then use it",
+      "japanese": "一つの形に気づいて、そのまま使ってみよう。",
+      "transliteration": "HITTSU NO KATACHI NI KIDZUITE, SONOMAMA TSUKATTE MI YOU.",
+      "category": "Growth",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Let your tone match your meaning",
+      "japanese": "言いたいことに合う声の調子にしよう。",
+      "transliteration": "II TA I KOTO NI AU KOE NO CHOU SHI NI SHI YOU.",
+      "category": "Growth",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Practice small talk, get warmed up",
+      "japanese": "雑談を少しやって、会話に慣れよう。",
+      "transliteration": "ZA DAN WO SUKOSHI YATTE, KAI WA NI NARE YOU.",
+      "category": "Growth",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Write it once, say it aloud",
+      "japanese": "一回書いて、それから声に出してみて。",
+      "transliteration": "IKKAI KAITE, SOREKARA KOE NI DASHITE MITE.",
+      "category": "Growth",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Send a kind message, right now",
+      "japanese": "いま、やさしいメッセージを送ってみる",
+      "transliteration": "ima, yasashii MESSE-ji o okutte miru",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Keep your promises, feel lighter",
+      "japanese": "約束を守ると心が軽くなる",
+      "transliteration": "yakusoku o mamoru to kokoro ga KARUKU naru",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Take the long way, notice life",
+      "japanese": "遠回りして、景色をちゃんと見る",
+      "transliteration": "tO-mawari shite, keshiki o chanto miru",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Make tea, let it warm you",
+      "japanese": "お茶を入れて、体を温める",
+      "transliteration": "ocha o irete, karada o atatameru",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Compliment someone, then breathe",
+      "japanese": "ひとこと褒めてから、深呼吸する",
+      "transliteration": "hito koto HOMETE kara, SHINKOKYU suru",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Put your phone down, just for ten",
+      "japanese": "スマホを置いて、まずは十分だけ",
+      "transliteration": "sumaho o oite, mazu wa juppun dake",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Wash your face, start fresh",
+      "japanese": "顔を洗って、またやり直せる",
+      "transliteration": "kao o aratte, mata yari naoseru",
+      "category": "Happiness",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "What time do you close today?",
+      "japanese": "今日は何時まで開いていますか。",
+      "transliteration": "kyou wa nan-ji made aite imasu ka",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Could I get a pastry box?",
+      "japanese": "焼き菓子を箱に入れてもらえますか。",
+      "transliteration": "yaki-gashi o hako ni irete moraemasu ka",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Is the cinnamon roll really fresh?",
+      "japanese": "シナモンロール、今焼きたてですか。",
+      "transliteration": "shinamon-ROORU ima yaki-tate desu ka",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Do you have butter for it?",
+      "japanese": "それにバターは付けられますか。",
+      "transliteration": "sore ni BA-taa wa tsukerarremasu ka",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Can I try a small sample?",
+      "japanese": "少しだけ試食できますか。",
+      "transliteration": "sukoshi dake shishoku dekimasu ka",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "I want a sandwich on rye.",
+      "japanese": "ライ麦のサンドイッチをください。",
+      "transliteration": "RAI-mugi no sandoicchi o kudasai",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T19:57:01.527464"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "japanese": "ベジタリアン向けはありますか。",
+      "transliteration": "beji-ta-ri-an muki wa arimasu ka",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T19:57:01.527464"
     }
   ],
-  "last_updated": "2026-11-25T20:24:04.522761"
+  "last_updated": "2026-11-26T19:57:01.527464"
 }
